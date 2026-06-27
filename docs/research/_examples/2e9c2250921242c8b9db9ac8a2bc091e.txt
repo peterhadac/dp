@@ -1,0 +1,3787 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+36779
+
+Informovanosť žien v starostlivosti o novorodenca
+Diplomová práca
+
+Trnava, 2025
+Bc. Elmira Kataleva
+
+TRNAVSKÁ UNIVERZITA V TRNAVE FAKULTA
+ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+Informovanosť žien v starostlivosti o novorodenca
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva
+
+Študijný odbor:
+
+7.4.1 Ošetrovateľstvo
+
+Vedúci práce / školiteľ:
+
+PhDr. Andrea Vajdová, PhD.
+
+Trnava, 2025
+Bc. Elmira Kataleva
+2
+
+TRNAVSKÁ UNIVERZITA V TRNAVE FAKULTA
+ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+ZADANIE DIPLOMOVEJ PRÁCE
+Meno, priezvisko, titul študenta :
+
+Bc. Elmira Kataleva
+
+Kód študenta :
+
+S1320062296
+
+Študijný program :
+
+7.4.1 Ošetrovateľstvo
+
+Typ záverečnej práce :
+
+Diplomová práca
+
+Názov práce :
+Meno, priezvisko a titul školiteľa:
+
+Informovanosť žien v starostlivosti o novorodenca.
+PhDr. Andrea Lajdová, PhD.
+
+Meno, priezvisko a titul vedúceho
+
+Doc., PhDr. Andrea Botíková, PhD., MPH
+
+pracoviska:
+Školiace pracovisko :
+
+Katedra ošetrovateľstva, FZaSP v TT
+
+Anotácia práce :
+
+Cieľom
+
+diplomovej
+
+bolo
+
+zistiť
+
+úroveň
+
+informovanosti žien v starostlivosti o novorodenca.
+Úroveň informovanosti žien je ovplyvnená rôznymi
+faktormi,
+
+ako
+
+sú
+
+vzdelanie,
+
+predchádzajúce
+
+skúsenosti, dostupnosť zdravotníckych služieb či
+kvalita predpôrodnej prípravy. Mnohé matky sa
+spoliehajú na vlastnú intuíciu alebo neformálne
+zdroje informácií, čo môže byť užitočné, no nie vždy
+dostatočné. Preto je nevyhnutné, aby zdravotnícki
+pracovníci aktívne prispievali k poskytovaniu
+overených informácií a pomáhali matkám v
+získavaní praktických zručností.
+Jazyk v ktorom sa práca vypracuje :
+
+Slovenský jazyk
+
+Dátum schválenia zadania :
+
+27.10.2023
+
+Podpis vedúcej práce
+
+3
+
+ČESTNÉ VYHLÁSENIE
+
+Čestne vyhlasujem, že som diplomovú prácu s názvom „Informovanosť žien
+v starostlivosti o novorodenca“ vypracovala samostatne pod odborným vedením
+školiteľky PhDr. Andrey Lajdovej, PhD. a použila som iba zdroje uvedené v
+zozname použitej literatúry.
+
+Bc. Elmira Kataleva
+
+4
+
+POĎAKOVANIE
+
+Rada by som vyjadrila úprimnú vďaku svojej školiteľke PhDr. Andrei Lajdovej,
+PhD. za jej odborné vedenie, cenné rady a konštruktívne pripomienky, ktoré mi poskytla pri
+spracovaní diplomovej práce. Zároveň ďakujem svojej rodine za neustálu podporu a
+povzbudenie počas celého procesu jej písania.
+
+5
+
+ABSTRAKT
+
+KATALEVA, Elmira: Informovanosť žien v starostlivosti o novorodenca. [Diplomová
+práca]/Kataleva Elmira – Trnavská univerzita v Trnave, Fakulta zdravotníctva a sociálnej
+práce : Katedra ošetrovateľstva – Školiteľ diplomovej práce : PhDr. Andrea Lajdová, PhD.
+2025, 91 s.
+Diplomová práca sa zaoberá úrovňou informovanosti žien v starostlivosti o
+novorodenca, pričom sa sústreďuje na faktory, ktoré ovplyvňujú ich vedomosti a prístup k
+odborným informáciám. Starostlivosť o novorodenca zahŕňa široké spektrum činností
+vrátane hygieny, výživy, manipulácie s dieťaťom a prevencie rôznych zdravotných
+komplikácií. Nedostatočné vedomosti v tejto oblasti môžu viesť k nesprávnym
+rozhodnutiam a negatívne ovplyvniť zdravie novorodenca. Sledovanie tejto úrovni
+informovanosti žien je dôležité pre sestru, ktorá takto získa spätnú väzbu o správnosti
+informácií a ich zdrojov. Cieľom práce bolo analyzovať, aké zdroje informácií ženy
+najčastejšie využívajú, aké vedomostí žien v hygienickej starostlivosti a dojčení
+novorodenca, aké faktory vplývajú na ženy v starostlivosti o novorodenca.
+Práca je založená na kvantitatívnom výskume realizovanom formou dotazníka
+vlastnej konštrukcie, ktorý bol distribuovaný medzi matky detí do piatich rokov cez sociálne
+siete (Príloha číslo 1 Dotazník) v období od 1.9.24 do 15.1.25. Do nášho výskumu sa zapojilo
+171 respondentiek. Vyplnený dotazník bol následne spracovaný pomocou štatistického
+softvéru SPSS Statistics 2. Na zistenie normality rozloženia dát sme použili Shapiro-Wilkov
+test normality. Na zistenie vzťahov sme použili Spearmanov korelačný koeficient a
+Kendallovo tau β. Štatistickou významnosťou boli hodnotené získané výsledky výskumu z
+hľadiska pravdepodobnosti, s akou by sa mohol skúmaný jav vyskytnúť náhodne. Bola
+použitá hladinu významnosti 5 % (α=0,05). Získané údaje boli spracované v percentách
+a absolútnych číslach. Na lepšiu prehľadnosť výsledkov boli použité tabuľky a grafy.
+Výsledky ukázali, že hoci väčšina matiek považuje starostlivosť o novorodenca za
+prirodzenú súčasť materstva, ich vedomosti sú často neúplné alebo ovplyvnené neoverenými
+zdrojmi informácií, ako sú sociálne siete a internetové diskusie. Zdravotnícki pracovníci sú
+vnímaní ako dôležitý zdroj informácií, no zároveň mnoho respondentiek uviedlo, že v
+nemocniciach nedostali dostatočnú podporu a edukáciu.
+Jedným z hlavných zistení práce je, že systematická edukácia matiek má zásadný
+význam pre kvalitu starostlivosti o novorodenca. Kľúčovými oblasťami, kde sú najväčšie
+medzery vo vedomostiach matiek, sú dojčenie, hygiena a manipulácia s novorodencom.
+
+6
+
+Dojčenie, napriek tomu, že je považované za najlepší spôsob výživy novorodenca, často
+naráža na problémy súvisiace s nesprávnou technikou, bolesťou pri dojčení či nízkou
+podporou zo strany zdravotníkov. Hygienická starostlivosť zahŕňajúca prebaľovanie,
+kúpanie a starostlivosť o pupočník je ďalšou oblasťou, kde mnohé matky čelia neistote a
+potrebujú podrobnejšie inštrukcie.
+Výsledky práce zdôrazňujú dôležitosť dostupnosti odborných informácií a zvýšenia
+podpory matiek zo strany zdravotníckeho personálu. Zavedenie komplexnejších programov
+predpôrodnej edukácie, širšia dostupnosť laktačných poradkýň a intenzívnejšie zapojenie
+zdravotníkov do poskytovania praktických rád a ukážok starostlivosti môžu významne
+prispieť k zlepšeniu situácie. Zdravotnícke inštitúcie by mali klásť väčší dôraz na
+interaktívne formy vzdelávania a poskytnutie dostatočných materiálov, ktoré pomôžu
+matkám zvládnuť starostlivosť o novorodenca s väčšou istotou. Celkovo práca poukazuje na
+to, že hoci majú matky prístup k rôznym zdrojom informácií, ich kvalita a spoľahlivosť sa
+líšia. Odborná podpora a vzdelávanie by mali byť prioritou v oblasti neonatologickej
+starostlivosti, pretože lepšia informovanosť matiek priamo súvisí so zdravím novorodencov
+a ich bezpečnosťou.
+
+Kľúčové slova:
+Starostlivosť o novorodenca, informovanosť matiek, dojčenie, hygiena, predpôrodná
+edukácia
+7
+
+ABSTRAKT
+
+KATALEVA, Elmira: Awareness of women in the care of a newborn [Diploma Thesis] /
+Kataleva Elmira – Trnava University in Trnava, Faculty of Health and Social Work:
+Department of Nursing - Bachelor Thesis Supervisor: PhDr. Andrea Lajdová, PhD. 2023, 91
+p.
+The thesis deals with the level of awareness of women in newborn care, focusing on
+factors that influence their knowledge and access to professional information. Newborn care
+includes a wide range of activities, including hygiene, nutrition, handling the baby and
+prevention of various health complications. Insufficient knowledge in this area can lead to
+incorrect decisions and negatively affect the health of the newborn. Monitoring this level of
+awareness of women is important for the nurse, who thus receives feedback on the accuracy
+of the information and its sources. The aim of the thesis was to analyze what sources of
+information women most often use, what knowledge women have in hygienic care and
+breastfeeding of the newborn, what factors influence women in newborn care.
+The work is based on quantitative research conducted in the form of a selfconstructed questionnaire, which was distributed among mothers of children under five years
+of age via social networks (Appendix No. 1 Questionnaire) in the period from 1.9.24 to
+15.1.25. 171 respondents participated in our research. The completed questionnaire was
+subsequently processed using the statistical software SPSS Statistics 2. To determine the
+normality of the data distribution, we used the Shapiro-Wilk normality test. To determine
+the relationships, we used Spearman's correlation coefficient and Kendall's tau β. The
+statistical significance of the obtained research results was assessed in terms of the
+probability with which the studied phenomenon could occur by chance. A significance level
+of 5% (α=0.05) was used. The obtained data were processed in percentages and absolute
+numbers. Tables and graphs were used to make the results clearer.
+The results showed that although most mothers consider newborn care to be a natural
+part of motherhood, their knowledge is often incomplete or influenced by unverified sources
+of information, such as social networks and online discussions. Health workers are perceived
+as an important source of information, but at the same time, many respondents reported that
+they did not receive sufficient support and education in hospitals.
+One of the main findings of the work is that systematic education of mothers is of
+fundamental importance for the quality of newborn care. The key areas where there are the
+largest gaps in mothers' knowledge are breastfeeding, hygiene and handling of the newborn.
+
+8
+
+Breastfeeding, despite being considered the best way to feed a newborn, often encounters
+problems related to incorrect technique, pain during breastfeeding or low support from health
+workers. Hygiene care, including diapering, bathing, and cord care, is another area where
+many mothers face uncertainty and need more detailed instructions.
+The results of the study highlight the importance of access to professional
+information and increased support for mothers from health care professionals. The
+introduction of more comprehensive antenatal education programs, wider availability of
+lactation consultants, and greater involvement of health professionals in providing practical
+advice and demonstrations of care can significantly contribute to improving the situation.
+Health institutions should place greater emphasis on interactive forms of education and the
+provision of sufficient materials to help mothers manage newborn care with greater
+confidence. Overall, the study shows that although mothers have access to various sources
+of information, their quality and reliability vary. Professional support and education should
+be a priority in the area of neonatal care, as better information for mothers is directly related
+to the health and safety of newborns.
+
+Key words:
+Newborncare, maternal awareness, reastfeeding, hygiene, prenatal education
+9
+
+OBSAH
+ZOZNAM GRAFOV ..................................................................................................... 11
+ZOZNAM TABULIEK ................................................................................................. 13
+UVOD............................................................................................................................. 14
+1 CHARAKTERISTIKA NOVORODENECKÉHO OBDOBIA .............................. 16
+1.1 Klasifikácia novorodencov ................................................................................... 17
+2 OŠETROVATEĽSKÁ STAROSTLIVOSŤ O NOVORODENCA ......................... 18
+2.1 Prvé ošetrenie novorodenca po pôrode. ............................................................... 19
+2.1.1 Fyzikálne a skríningové vyšetrenia novorodenca ........................................... 20
+2.2 Hygienická starostlivosť o novorodenca ............................................................. 22
+2.2.1 Prebaľovanie novorodenca .............................................................................. 22
+2.2.2 Kúpeľ novorodenca ......................................................................................... 23
+2.2.3 Starostlivosť o pupočný pahýľ ........................................................................ 24
+2.3 Starostlivosť o výživu ........................................................................................... 25
+2.3.1 Dojčenie ............................................................................................................ 26
+2.3.2 Kŕmenie umelým mliekom .............................................................................. 28
+3 BONDING A SYSTÉM ROOMING-IN, AKO PODPORA VZŤAHU „MATKA A
+DIEŤA“ .......................................................................................................................... 29
+3.1 Bonding................................................................................................................. 29
+3.2 Rooming-in ........................................................................................................... 30
+4 VÝSKUM ÚROVNE INFORMOVANOSTI ŽIEN V STAROSTLIVOSTI
+O NOVORODENECA .................................................................................................. 31
+4.1 Metodika a postup výskumu ................................................................................ 32
+4.2 Realizácia výskumu a výskumná vzorka ............................................................. 33
+4.3 Interpretácia a analýza výsledkov ....................................................................... 33
+5 VYHODNOTENIE VÝSLEDKOV VÝSKUMU A DISKUSIA .............................. 66
+ODPORUČANIA PRE PRAX ...................................................................................... 79
+ZÁVER .......................................................................................................................... 80
+ZOZNAM PRÍLOH....................................................................................................... 81
+ZOZNAM POUŽITEJ LITERATÚRY ........................................................................ 87
+
+10
+
+ZOZNAM GRAFOV
+Graf 1 Vek
+Graf 2 Počet detí respondentiek
+Graf 3 Vzdelanie respondentiek
+Graf 4 Absolvovanie predpôrodného kurzu
+Graf 5 Príčiny, prečo respondentky neabsolvovali predpôrodný kurz
+Graf 6 Kúpanie novorodenca
+Graf 7 Zistenie ideálnej teploty vody bez teplomeru
+Graf 8 Ideálna teplota v izbe počas kúpania
+Graf 9 Kúpanie novorodenca
+Graf 10 Technika kúpania novorodenca
+Graf 11 Prebaľovanie novorodenca
+Graf 12 Technika prebaľovania novorodenca
+Graf 13 Starostlivosť o zadok novorodenca pri zapareninách
+Graf 14 Vedomosti starostlivosti o zadok novorodenca pri zapareninách
+Graf 15 Starostlivosť o pupočný pahýľ
+Graf 16 Vedomosti starostlivosti o pupočný pahýľ
+Graf 17 Tvorba materského mlieka
+Graf 18 Kŕmenie novorodenca
+Graf 19 Zloženie materského mlieka
+Graf 20 Význam dojčenia pre novorodenca
+Graf 21 Zásady správnej polohy pri dojčení
+Graf 22 Prejavy nedostatku výživy u dieťa
+Graf 23 Subjektívny pocit nedostatku mlieka
+Graf 24 Zdroje, odkiaľ respondetky dostavajú informácie o hygienickej
+starostlivosti
+Graf 25 Zdroje, odkiaľ ženy dostavajú informácie o dojčení a výžive novorodenca
+Graf 26 Sebahodnotenie informovanosti respondentiek po odchode z pôrodnice
+Graf 27 Očakávania žien ohľadom zdrojov informácii o starostlivosti a výžive
+novorodenca
+Graf 28 Sebahodnotenie vedomosti respondentiek v starostlivosti o novorodenca
+Graf 29 Hodnotenie komunikácie zdravotníckeho personálu
+Graf 30 Hodnotenie úrovne podpory od zdravotníckeho personálu
+11
+
+Graf 31 Hodnotenie odbornosti zdravotníckeho personálu
+Graf 32 Celkový dojem respondentiek zo starostlivosti o novorodenca počas
+pobytu v nemocnici
+Graf 33 Úroveň vedomostí žien v hygienickej starostlivosti o novorodenca
+Graf 34 Úroveň vedomostí žien o dojčení
+Graf 35 Priemerná miera využívania zdrojov informácií o hygienickej starostlivosti
+o novorodenca podľa vzdelania žien
+Graf 36 Priemerná miera využívania zdrojov informácií o dojčení výžive
+novorodenca, podľa vzdelania žien
+Graf 37 Úroveň komunikácie zdravotníckeho personálu počas starostlivosti
+
+12
+
+ZOZNAM TABULIEK
+Tabuľka 1 Apgar skóre
+Tabuľka 2 Test normality dát pomocou Shapiro-Wilkovho testu
+Tabuľka 3 Spearmanova korelácia medzi počtom detí a úrovňou vedomostí žien
+v hygienickej starostlivosti o novorodenca
+Tabuľka 4 Test normality veku a úrovne vedomostí žien o dojčení (ShapiroWilkov test)
+Tabuľka 5 Spearmanova korelácia medzi vekom a úrovňou vedomostí žien o
+dojčení
+Tabuľka 6 Vzťah medzi vzdelaním a zdrojmi informácií o hygienickej
+starostlivosti novorodenca
+Tabuľka 7 Vzťah medzi vzdelaním a zdrojmi informácií o dojčení a výžive novorodenca
+Tabuľka 8 Vzťah medzi vedomosťami v starostlivosti o novorodenca
+
+13
+
+UVOD
+Starostlivosť o novorodenca patrí medzi najdôležitejšie obdobia v živote matky aj
+dieťaťa. Správna starostlivosť v prvých týždňoch života dieťaťa má zásadný vplyv na jeho
+zdravie, vývoj a celkovú kvalitu života. Matky sú často vystavené množstvu informácií z
+rôznych zdrojov, no nie všetky sú overené a správne. Preto je dôležité zamerať sa na úroveň
+informovanosti žien v tejto oblasti a identifikovať faktory, ktoré ovplyvňujú ich znalosti a
+prístup k spoľahlivým informáciám.
+Novorodenecké obdobie je veľmi špecifické, pretože sa v ňom odohrávajú zásadné
+fyziologické zmeny, ktoré sú nevyhnutné pre adaptáciu dieťaťa na život mimo maternice.
+Počas tohto obdobia dochádza k postupnému dozrievaniu orgánových systémov a k
+formovaniu imunitnej odpovede organizmu. Správna starostlivosť o novorodenca zahŕňa
+nielen hygienu a výživu, ale aj podporu emocionálneho vývoja, bonding medzi matkou a
+dieťaťom, a prevenciu rôznych zdravotných komplikácií. Nedostatočné znalosti v tejto
+oblasti môžu viesť k nesprávnym praktikám, ktoré môžu mať negatívny vplyv na zdravie
+novorodenca.
+Tému "Informovanosť žien v starostlivosti o novorodenca" sme si vybrali z dôvodu
+jej významu pre zdravie a pohodu novorodencov, ako aj pre podporu istoty a sebadôvery
+matiek v období po pôrode. Starostlivosť o novorodenca predstavuje komplexnú oblasť,
+ktorá si vyžaduje dostatočné vedomosti. Nedostatočná informovanosť môže viesť k
+nesprávnym rozhodnutiam, ktoré môžu mať negatívny vplyv na zdravie dieťaťa.
+Pri spracovaní diplomovej práce sme vychádzali z odbornej literatúry, vedeckých
+štúdií a internetových zdrojov, ktoré poskytli teoretický základ a podporili výskumnú časť
+práce. Základné poznatky o starostlivosti o novorodenca sme čerpali z relevantných
+publikácií v oblasti neonatológie, ošetrovateľstva a pediatrie. Pre analýzu aktuálneho stavu
+poznania sme využili aj najnovšie články dostupné v elektronických databázach a odborných
+časopisoch.
+Výber literatúry bol zameraný na overené a relevantné zdroje, ktoré reflektujú
+súčasné trendy v starostlivosti o novorodencov a podporujú význam správnej informovanosti
+matiek v tomto období.
+Motiváciou k spracovaniu tejto témy bola potreba analyzovať, ako sú ženy
+pripravené na túto dôležitú životnú úlohu, z akých zdrojov najčastejšie čerpajú informácie a
+akú úlohu v ich vzdelávaní zohrávajú zdravotnícki pracovníci. V súčasnosti majú matky
+prístup k rôznym informačným kanálom, ako sú internet, sociálne siete či neformálne
+14
+
+diskusie, čo však môže viesť k šíreniu neoverených a nespoľahlivých informácií.
+Hlavným cieľom tejto práce je analyzovať úroveň informovanosti žien v
+starostlivosti o novorodenca a identifikovať faktory, ktoré ju ovplyvňujú. Osobitná
+pozornosť sa venuje zdrojom, z ktorých ženy získavajú informácie, a ich dôveryhodnosti.
+Ciele diplomovej práce:
+1. Zistiť vedomosti žien v hygienickej starostlivosti o novorodenca.
+2. Zistiť vedomosti žien o dojčení.
+3. Zistiť najčastejší zdroj, odkiaľ ženy zisťujú informáciu v starostlivosti o novorodenca
+4. Zistiť, aké faktory vplývajú na ženy v starostlivosti o novorodenca
+
+15
+
+1
+
+CHARAKTERISTIKA NOVORODENECKÉHO OBDOBIA
+
+„Deti sú neskutočne dôležité. Oni sú budúcnosťou sveta“
+Elton John.
+Narodením dieťaťa sa začína obdobie, v ktorom sa jeho organizmus adaptuje na nové
+prostredie a musia začať fungovať dôležité životné funkcie. Toto obdobie sa nazýva
+novorodenecké a trvá prvých 28 dní života. Je charakterizované významnými zmenami
+spôsobenými osamostatnením organizmu a spoluprácou životných systémov, ako sú
+obehová a dýchacia sústava, ako aj regulačnou činnosťou nervového systému. Dieťa sa musí
+prispôsobiť podmienkam mimo maternice, začať samostatne dýchať a dochádza aj k
+zmenám v krvnom obehu ( Maťašová K., 2020).
+Fyziologický novorodenec je dieťa, ktoré sa narodí zdravé a zrelé, ktoré sa narodilo
+v termíne medzi 38. a 42. gestačným týždňom, s priemernou hmotnosťou 3200 g až 3300 g
+(v rozmedzí 2500 g až 4500 g) a dĺžkou 48 až 55 cm. Má plne funkčné orgány a je schopné
+samostatného života mimo maternice. Telesná teplota v podpazuší by mala byť medzi 36,4
+°C a 36,8 °C, v konečníku medzi 36,5 °C a 37,5 °C. Novorodenec dýcha frekvenciou
+približne 40 dychov za minútu, jeho srdcová frekvencia je pravidelná a dosahuje okolo
+130/min, pričom krvný tlak sa pohybuje v rozmedzí 50 a 75 mmHg. Tráviaci systém funguje
+správne a dieťa má základné reflexy potrebné na prežitie - najmä sací, prehĺtací a hľadací
+reflex ( Košťalová L., a kol., 2005).
+Novorodenec, ktorý sa narodí pred 38. týždňom, sa označuje ako predčasne
+narodený. Jeho koža je červená a priesvitná, s minimálnym množstvom podkožného tuku.
+Nechty nedosahujú konce prstov, ušnice sú mäkké a netvarované. Pahýľ je umiestnený
+bližšie k symfýze. Prsné bradavky sú malé, len bodky bez vyvinutej areoly. Nedostatok
+surfaktantu spôsobuje nezrelosť pľúc, čo vedie k poruche výmeny plynov a neschopnosti
+novorodenca samostatne dýchať. Po každom výdychu sa alveoly zhrubnú, a preto
+novorodenec musí pri každom nadýchnutí vynaložiť rovnaké úsilie ako pri prvom
+nadýchnutí po narodení ( Košťalová L., a kol., 2005).
+Novorodenec narodený po termíne, čo znamená po 42. týždni, má bledú, suchú,
+jemnú a nepružnú pokožku, ktorá môže byť miestami popraskaná. Na tele má len malé
+množstvo mazu. Nechty presahujú končeky prstov a pupočník má žltý odtieň. Motorická
+aktivita je výrazne zvýšená ( Košťalová L., a kol., 2005).
+
+16
+
+1.1 Klasifikácia novorodencov
+Podľa Dorta, 2013 môžeme klasifikovať novorodencov takto:
+a) Podľa gestačného veku:
+
+
+Nedonosený - novorodenec, ktorý má gestačný vek do 36 týždňa + 6 dní,
+
+
+
+Donosený - novorodenec, ktorý má gestačný vek od 37 týždňa do 41 týždňa,
+
+
+
+Prenášaný - novorodenec, ktorý má gestačný vek od 42 týždňa a viac.
+
+b) Podľa pôrodnej hmotnosti:
+
+
+Novorodenec makrozómny – má hmotnosť 4500g a viac,
+
+
+
+Novorodenec s normálnou pôrodnou hmotnosťou – 2500g až 4449g,
+
+
+
+Novorodenec s nízkou pôrodnou hmotnosťou – menej ako 2500g,
+
+
+
+Novorodenec s veľmi nízkou pôrodnou hmotnosťou – menej ako 1500g,
+
+
+
+Novorodenec s extrémne nízkou pôrodnej hmotnosťou – menej ako 1000g.
+
+c) Podľa vzťahu pôrodnej hmotnosti a gestačného veku:
+
+
+Eutrofický – hmotnosť primeraná gestačnému veku,
+
+
+
+Hypertrofický – novorodenec má vyššiu pôrodnú hmotnosť, než zodpovednú
+jehogestačnému veku,
+
+
+
+Hypotonický
+
+-
+
+novorodenec
+
+má
+
+zodpovednú jeho gestačnému veku.
+
+17
+
+nižšiu
+
+pôrodnú
+
+hmotnosť,
+
+než
+
+2
+
+OŠETROVATEĽSKÁ STAROSTLIVOSŤ O NOVORODENCA
+Manažment ošetrovateľskej starostlivosti o novorodenca je komplexný a zahŕňa
+
+množstvo aspektov nevyhnutných na zabezpečenie jeho zdravia a pohody v jeho prvých
+dňoch života. Ošetrovateľská starostlivosť sa zameriava na prevenciu, diagnostiku a liečbu
+zdravotných problémov, ako aj na podporu správneho vývoja dieťaťa v tomto kritickom
+období (Berman, Snyder, Frandsen, 2016).
+Prvým a najdôležitejším krokom v manažmente ošetrovateľskej starostlivosti o
+novorodenca je zabezpečenie základných životných funkcií. To zahŕňa monitorovanie
+dýchania, srdcovej frekvencie, telesnej teploty a saturácie kyslíka. Bezprostredne po pôrode
+sa u novorodeneca vykonávajú testy na posúdenie jeho vitálnych funkcií, ako je Apgar skóre,
+ktoré hodnotí celkový stav novorodenca v prvých minútach života (Mrosková, Schlosserová,
+2016, Silvestri, 2019).
+Druhou z kľúčových úloh ošetrovateľskej starostlivosti je podpora správnej
+termoregulácie novorodenca. Preto je dôležité udržiavať optimálnu telesnú teplotu, čo môže
+zahŕňať použitie prikrývok, vyhrievacích podložiek alebo iných metód pomáhajúcich
+novorodencovi udržať si stabilnú teplotu. Ošetrovateľský personál zároveň zabezpečuje
+dostatočný príjem kyslíka, najmä u predčasné narodených alebo chorých novorodencov,
+ktorí môžu potrebovať podporu dýchania (Mrosková, Schlosserová, 2016; Silvestri, 2019).
+Tretím dôležitým bodom je výživa novorodenca. Kŕmenie predstavuje jeden z
+najdôležitejších aspektov ošetrovateľskej starostlivosti. Sestry zabezpečujú, aby bol
+novorodenec pravidelne kŕmený, či už materským mliekom, alebo dojčenskou výživou,
+v súlade s jeho individuálnymi potrebami. V prípade, že matka nemôže dojčiť, sú
+nevyhnutné odborné poradenstvo a podpora pri používaní dojčenskej výživy. Dojčenie je
+prednostné kvôli výživovým hodnotám materského mlieka a jeho imunologickým prínosom
+pre novorodenca.
+Súčasťou manažmentu ošetrovateľskej starostlivosti je pravidelné monitorovanie a
+hodnotenie vývoja novorodenca. Sestry musia sledovať priberanie na váhe, rast, a správanie
+dieťaťa. Dôležité je aj sledovanie prítomnosti reflexov, ako sú sací a uchopenia, ktoré sú
+indikátormi neurologického zdravia novorodenca (Mrosková, Schlosserová, 2016; Silvestri,
+2019).
+Novorodenci sú náchylnejší na infekcie, a preto je prevencia infekcií v
+ošetrovateľskej starostlivosti veľmi dôležitá, pričom sestry zabezpečujú správnu hygienu,
+sterilizáciu pomôcok, pravidelnú dezinfekciu rúk a kontrolu stavu pupočníka, aby sa
+18
+
+predišlo infekciám. Rovnako dôležité je sledovať stav pokožky dieťaťa, aby sa zabránilo
+vzniku kožných infekcií alebo vyrážok.
+Významným aspektom ošetrovateľskej starostlivosti je aj podpora vytvárania väzby
+matka – dieťa. Sestry podporujú matky v starostlivosti o dieťa, čo zahŕňa kontakt pokožky
+na pokožku (bonding), podporu dojčenia a poskytovanie emocionálnej podpory matkám.
+Tieto činnosti sú nevyhnutné na vytváranie silného citového puta medzi matkou a dieťaťom,
+čo má pozitívny vplyv na vývoj dieťaťa.
+Neoddeliteľnou zložkou manažmentu ošetrovateľskej starostlivosti je aj edukácia
+rodičov. Sestry poskytujú informácie o správnej starostlivosti o novorodenca, vrátane
+kŕmenia, hygieny, spánkových návykov, očkovania a bezpečnosti dieťaťa, čím rodičom
+pomáhajú nadobudnúť istotu pri starostlivosti o dieťa (Mrosková, Schlosserová, 2016;
+Silvestri, 2019).
+Riadenie ošetrovateľskej starostlivosti o novorodenca predstavuje zložitý proces
+vyžadujúci odborné znalosti a dôkladnú pozornosť. Kvalitné a efektívne poskytovanie
+podpory zdraviu novorodenca vytvára pevný základ pre jeho budúci rast a rozvoj (Berman,
+Snyder, Frandsen, 2016).
+
+2.1 Prvé ošetrenie novorodenca po pôrode.
+Keď sa dieťa narodí, pupočná šnúra sa upne a prestrihne v blízkosti pupka, približne
+2 cm od neho, čím sa ukončí závislosť dieťaťa od materskej placenty, ktorá mu dovtedy
+zabezpečovala kyslík a výživu. Fyziologicky zdraví novorodenci narodení vaginálnym
+pôrodom sú zvyčajne schopní zostať s matkou na dvojhodinový bonding, čo znamená
+kontakt koža na kožu, tzv. skin-to-skin. Prvé hodiny po pôrode sú kľúčové pre začatie
+dojčenia. Prikladanie novorodenca na prsník hneď po narodení stimuluje tvorbu materského
+mlieka a zároveň vyvoláva kontrakcie maternice, ktoré môžu zabrániť krvácaniu matky.
+Bezprostredne po pôrode lekár posudzuje tzv. Apgar skóre: dýchanie, srdcovú
+frekvenciu, farbu kože, reflexy a svalový tonus novorodenca. Toto skóre sa prideľuje v 1.,
+5. a 10. minúte po narodení, kde každé kritérium sa hodnotí 0-2 bodmi (Simon, Hashmi,
+Bragg, 2024).
+
+19
+
+Tabuľka 1 Apgar skóre
+2 body
+
+1 bod
+
+0 bodov
+
+Akcia srdca
+
+Viac ako 100/min
+
+Menej ako 100/min
+
+Neprítomná
+
+Dýchanie
+
+Kričí
+
+Slabé, nepravidelné
+
+Neprítomné
+
+Svalový tonus
+
+Aktívny
+
+Slabé
+
+Ochabnutosť
+
+Reflexy
+
+Pohyby, krik
+
+Znížené
+
+Nereaguje
+
+Farba kože
+
+Ružová
+
+Mierná cyanóza
+
+Cyanóza
+
+Zdroj: Simon, Hashmi, Bragg (2024).
+Apgar skóre sa hodnotí nasledovne: skóre 7 až 10 sa považuje za normálne. Skóre 4
+až 6 môže znamenať, že dieťa potrebuje podporné dýchacie opatrenia (napr. kyslík)
+a monitorovanie, čo môže ukazovať na ľahkú popôrodnú asfyxiu. Skóre 3 alebo menej
+znamená, že dieťa vyžaduje umelú pľúcnu ventiláciu a resuscitáciu, čo ukazuje na ťažkú
+popôrodnú asfyxiu (Simon, Hashmi, Bragg, 2024).
+Po skončení bondingu je sestra povinná urobiť prvé popôrodné ošetrenie
+novorodenca na novorodeneckom boxe. Procedúra ošetrenia zahŕňa: meranie teploty a
+frekvencie dýchania, meranie hmotnosti, dĺžky a obvodu hlavy, hrudníka, starostlivosť
+o pupočný pahýľ, podávanie antibakteriálnych kvapiek na prevenciu gonokokovej infekcie,
+napríklad roztok povidón-jodidu 2,5 %, podanie vitamínu K intramuskulárne alebo per os
+(na žiadosť matky) počas prvých 6 hodín po pôrode. Okrem toho sestra musí označiť
+novorodenca a jeho matku špeciálnym identifikačným náramkom, ktorý obsahuje:
+priezvisko, meno novorodenca a jeho matky, dátum a číslo pôrodu (Deborah, Consolini,
+2023).
+
+2.1.1 Fyzikálne a skríningové vyšetrenia novorodenca
+Počas pobytu na novorodeneckom oddelení musí každý novorodenec absolvovať
+fyzikálne a skríningové vyšetrenia, ktoré majú dôležitý význam. Cieľom týchto základných
+vyšetrení je umožniť lekárom a sestrám včas identifikovať vrodené vývojové chyby, s
+ktorými sa dieťa mohlo narodiť, a tým zabezpečiť najlepšiu dostupnú starostlivosť (Gutman,
+Sangare, 2009).
+Fyzikálne vyšetrenie novorodenca vždy vykonáva pediater alebo neonatológ. Lekár
+začína vyšetrenie vizuálnym hodnotením, ktorého cieľom je posúdiť celkový stav
+20
+
+novorodenca, najmä jeho úroveň aktivity a bdelosti. Ak nie sú zaznamenané žiadne
+významné abnormality, možno prejsť k ďalším častiam fyzikálneho vyšetrenia. Pred jeho
+začiatkom musí byť dieťa pokojné. V tomto prípade je najlepšie vykonať najskôr
+auskultačné vyšetrenie a minimalizovať akúkoľvek manipuláciu, aby sa predišlo
+podráždeniu novorodenca. Po dokončení auskultácie môže lekár začať vyšetrenie tela
+novorodenca, ktoré zahŕňa:
+1. Koža: U novorodencov sa môžu vyskytovať rôzne kožné nálezy, ktoré sú zvyčajne
+benígne. Je nevyhnutné vyšetriť celý povrch tela.
+2. Hlava: Vyšetrenie hlavy sa začína vizuálnym posúdením tváre novorodenca na
+prítomnosť dysmorfických znakov, ktoré môžu naznačovať patológiu. Veľkosť,
+tvar, symetria a poloha uší sú dôležité diagnostické faktory, pretože môžu
+poukazovať na genetickú poruchu.
+3. Oči: Nasleduje dôkladné očné vyšetrenie novorodenca na kongenitálnu kataraktu
+očí.
+4. Uši: Vyhodnotenie priechodnosti zvukovodov a vizualizácia bubienkových
+membrán sa môže vykonať otoskopom alebo audiometrom.
+5. Nos: Pri vyšetrení hlavy, lekár musí posúdiť priechodnosť nosových priechodov.
+6. Ústa: Mali by byť vyšetrené na „novorodenecké zuby“ a prítomnosť rázštepov pery
+alebo podnebia.
+7. Krk: Posudzuje sa symetria a prítomnosť hmôt alebo opuchov.
+8. Kľúčové kosti: Je potrebné vyšetriť ich na prítomnosť asymetrie, opuchu alebo
+známok popôrodnej traumy.
+9. Hrudník: Dôležitou súčasťou vyšetrenia hrudníka je vyhodnotenie tvaru hrudnej
+steny.
+10. Brucho: Vyšetrenie brucha zahŕňa zisťovanie distenzie a hernií.
+11. Bedrá: Vyšetrenie bedrových kĺbov je nevyhnutné na včasné odhalenie vrodenej
+dysplázie bedrového kĺbu.
+12. Genitálie: Kontrola genitálií je veľmi dôležitá. U dievčat môže dôjsť k
+pseudomenštruácii. U chlapcov je najčastejším vrodeným problémom
+kryptorchizmus (nezostúpenie semenníkov).
+21
+
+(Gantan, Wiedrich, 2023)
+Taktiež do novorodeneckého skríningu patrí aj odber suchej kvapky krvi, ktorého
+cieľom je odhaliť vrodené a dedičné poruchy metabolizmu. Krv na laboratórne skríningové
+vyšetrenie sa odoberá z päty novorodenca a aplikuje sa na špeciálne testačné papieriky, ktoré
+sa následne odosielajú do skríningového laboratória spolu s vyplnenou dokumentáciou.
+Odber sa vykonáva medzi 72. až 96 hodinou života novorodenca. Na Slovensku existuje iba
+jedno laboratórium špecializované na tento typ skríningu – Skríningové centrum
+novorodencov Slovenskej republiky (SCN SR) nachádzajúce sa v Detskej fakultnej
+nemocnici v Banskej Bystrici (Mydlová, 2023).
+Podľa údajov DFNBB od 1. januára 2013 sa tento skríning vykonáva plošne u
+všetkých novorodencov v súlade s metodickým odborným usmernením (vestník MZ SR č.
+39-60/2012). Toto usmernenie určuje povinnosti všetkých zúčastnených strán vrátane
+novorodeneckých oddelení, lekárov prvého kontaktu, skríningového centra a lekárovšpecialistov.
+
+2.2 Hygienická starostlivosť o novorodenca
+Hygienická starostlivosť patrí medzi najdôležitejšie aspekty zdravotnej starostlivosti
+o dieťa. Osvojenie si správnych hygienických návykov v detstve a ich celoživotné
+dodržiavanie je kľúčové pre udržanie dobrého zdravia.
+V prvých hodinách a dňoch po pôrode sú matky mimoriadne vnímavé na rady
+zdravotníkov a veľmi často nemajú dostatok informácií o správnej starostlivosti
+o novorodenca, najmä prvorodičky. Preto je veľmi dôležitá úloha sestry, ktorá musí stále
+edukovať matku. Počas edukácie sestra názorne ukazuje matke, ako správne vykonávať
+celkovú hygienu novorodenca, vrátane kúpania a prebaľovania (Baňasová, Peřinová, 2011).
+
+2.2.1
+
+Prebaľovanie novorodenca
+
+V dnešnej dobe matkami aj zdravotníckym personálom sa uprednostňuje používanie
+jednorazových plienok. Na začiatku sa používali bavlnené látkové plienky. Jednorazové
+plienky, známe ako „pampersky“, sa dostali do Európy v 90. rokoch a začali sa používať
+nielen v domácnostiach, ale aj v nemocniciach. Ich zavedenie uľahčilo prácu matkám aj
+sestrám, ktoré pracujú na detských a novorodeneckých oddeleniach, pretože nebolo potrebné
+ich prať, sušiť ani počítať, a prebaľovanie novorodencov sa tak stalo jednoduchším.
+22
+
+Novorodenci majú veľmi jemnú pokožku, preto je dôležité vymeniť plienku ihneď
+po jej znečistení. Priemerný počet prebalení je približne 7 až 8-krát denne (Fendrychová,
+2015).
+Technika prebaľovania je veľmi jednoduchá. Najskôr je potrebné zdvihnúť nohy
+novorodenca jednou rukou a druhou rukou umiestniť čistú plienku pod jeho zadok. Pri
+výmene plienky musíme očistiť zadok vlhčenými utierkami alebo opláchnuť dieťa pod
+vodou. Veľmi častým problémom sú zapareniny, preto je na konci prebaľovania dôležité ako
+prevenciu používať detské krémy alebo pasty na ochranu pokožky. Pri upevňovaní novej
+plienky je potrebné sa uistiť, že jej predná časť je vycentrovaná medzi nohami a vzadu
+vytiahnutá aspoň na rovnakú úroveň ako vpredu – zvyčajne okolo úrovne pupka.
+Matky aj otcovia musia byť informovaní o správnej technike prebaľovania, aby
+zaistili komfort a zdravie novorodenca v týchto prvých dôležitých dňoch života (Gregora,
+Dokupilová, 2016; Laura A. Jana, Shu, 2021).
+
+2.2.2 Kúpeľ novorodenca
+O správnej technike a postupe kúpeľa by matky mali byť informované už v pôrodnici
+na oddelení šestonedelia. Zdravotnícky personál, najmä novorodenecká sestra, má
+povinnosť edukovať matku o postupe a technike kúpeľa novorodenca. Kúpanie
+novorodencov sa v mnohých nemocniciach praktizuje v deň narodenia, pretože sa
+predpokladá, že odstraňuje znečisťujúce látky z pokožky a zabraňuje infekciám. Existujú
+rôzne spôsoby kúpania novorodencov, ako je kúpanie vo vani, kúpanie v špeciálnom
+kýbliku, kúpanie v zavinovačkách a kúpanie pod tečúcou vodou. Dve bežne používané
+metódy v nemocniciach sú umývanie novorodenca mokrou handričkou alebo ponorenie tela
+do vane. Ukázalo sa, že ponorný kúpeľ znižuje tepelné straty u novorodencov, čím sa znižuje
+predispozícia k hypotermii (Priyadarshi, a kol., 2022).
+Prvý kúpeľ
+Cieľom prvého kúpeľa je odstránenie nežiaducich nečistôt, ako krv, mekónium, a
+ponechanie zvyškov vernixu ( prvý maz novorodenca) nedotknuté. Prvý kúpeľ sa robí
+v nemocniciach na základe bežného pracovného postupu alebo môže sa nerobiť podľa
+žiadosti matky. Vykonáva sa výlučne sestrou z neonatologického oddelenia alebo spolu
+s matkou počas edukácie. Kúpanie v období bezprostredne po pôrode nesie so sebou riziko
+podchladenia, zhoršenia dýchania a zvýšenej spotreby kyslíka, preto by sa prvé kúpanie
+malo vykonať, kým sú vitálne funkcie a teplota novorodenca stabilizované.
+23
+
+Rutinné kúpanie
+Rutinné alebo domáce kúpanie novorodenca by sa malo vykonávať večer
+a maximálne 2-3 krát za týždeň. Hygiena novorodenca je veľmi dôležitá, ale nemala by
+meniť prirodzenú flóru a mikrobiálnu ochranu pokožky. Preto by sa novorodenec nemal
+kúpať častejšie. Každodenné kúpanie môže vysušiť jemnú pokožku dieťaťa.
+Postup pri prvom a rutinnom kúpaní je rovnaký. Pred vyzlečením novorodenca sa
+musíme uistiť v dvoch veciach: 1) všetky pomôcky sa nachádzaj na prebaľovacom pulte a sú
+„po ruke“, 2) máme pripravenú vaničku správne. Do vaničky sa musí napustiť približne 1015 cm vody, aby bolo dieťa ponorené aj s ramienkami. Teplota vody by mala byť 38-40 °C,
+nesmie byť chladnejšia alebo teplejšia, aby nedošlo k poruche termoregulácie. Rovnako je
+dôležité dbať na teplotu v izbe, ktorá musí byť približne 24-28 °C. Počas kúpania je potrebné
+jednu ruku držať pod hlavičkou a ramienkom a druhou rukou uchopiť dieťa za jeho nohu,
+a potom ho v tejto polohe ponoriť do vody. Najjednoduchšie je položiť nedominantnú ruku
+za chrbát a dominantnú ruku použiť na kúpanie. Umývanie novorodenca sa začína od
+hlavičky a tváre a končí genitáliami a zadočkom. Potom sa dieťa otočí a postup sa zopakuje.
+Po umytí sa novorodenec prenesie na pripravený prebaľovací pult, kde sa zabalí do osušky
+a osuší. Pokožka sa nesmie trieť, ale len jemne osúšať prikladaním uteráka na kožu (
+McManus Kuller, 2014; Fendrychová J., 2015).
+
+2.2.3 Starostlivosť o pupočný pahýľ
+Starostlivosť o pupočný pahýľ patrí medzi základné postupy v starostlivosti o
+novorodencov odporúčané Svetovou zdravotníckou organizáciou (WHO) s cieľom zníženia
+novorodeneckej morbidity a úmrtnosti. Starostlivosť o pupočnú šnúru je veľmi dôležitá
+počas postnatálneho obdobia, keďže škodlivé postupy starostlivosti o pupočnú šnúru môžu
+priamo prispieť k infekcii u novorodenca. Prevalencia pupočníkovej infekcie u
+novorodencov sa vo väčšine rozvojových krajín pohybuje od 3 % do 5 %. Nesprávna hygiena
+o pupočnú šnúru sa považuje za hlavný faktor zodpovedný za výskyt pupočníkovej infekcie
+a medzi rizikové faktory patrí nevhodná manipulácia s pupočnou šnúrou.
+Základným princípom starostlivosti o pupočník je udržiavať ho čistý a suchý, pretože
+to poskytuje najrýchlejšie a najbezpečnejšie hojenie pupočnej šnúry (Ayub Kalufya, Ali Seif,
+Masoi, 2022).
+Po pôrode a dotepaní pupočníka, sestra z novorodeneckého oddelenia spolu
+s gynekológom-pôrodníkom musia zasvorkovať a odstrihnúť pupočnú šnúru. Pupočný
+24
+
+pahýľ zaschne pri správnej starostlivosti približne za 10 dní. Celá starostlivosť o suchý pahýľ
+spočíva v dezinfekcii pahýľa a následnom udržiavaní v suchu. V pôrodniciach prikrývajú
+pahýľ čistou gázou a ponechávajú ho mimo plienky, aby sa znížil výskyt infekcií.
+Pred prepustením z pôrodnice musí sestra edukovať matku o správnej starostlivosti
+o pupočný pahýľ, najmä o tom, že:
+1) Pahýľ sa nesmie dezinfikovať prípravkami, ktoré obsahujú alkohol,
+2) Okolie pahýľa sa tiež musí udržiavať v suchosti a čistote,
+3) Na pahýľ sa nesmie dostať moč a stolica,
+4) Pahýľ sa nesmie odstrihovať, musí prirodzene odpadnúť (American Academy of
+Pediatrics, 2022).
+
+2.3 Starostlivosť o výživu
+Správna novorodenecká výživa je základom zdravia dieťaťa od narodenia až po
+dospelosť. Za správnu novorodeneckú výživu sa vždy považuje iba materské mlieko, pretože
+obsahuje všetky zložky potrebné pre dieťa na začiatku života. Okrem poskytovania
+základných živín je materské mlieko zdrojom komenzálnych (črevných) baktérií, ktoré
+zlepšujú zdravie tým, že zabraňujú adhézii patogénov a podporujú trávenie prospešnými
+mikróbmi (Lyons, a kol., 2020).
+Také neobyčajné zdravotné výhody materského mlieka vyplývajú z jeho zloženia.
+Materské mlieko je nielen zdrojom živín, ale predstavuje biologickú tekutinu, ktorá obsahuje
+vyše 300 známych zložiek. Materské mlieko sa skladá z približne 87 % vody, 7 % laktózy
+(cukru), 3,8 % tuku a 1 % bielkovín. Tuk a laktóza spolu poskytujú približne 90 %
+energetického obsahu materského mlieka. V prvých dňoch po pôrode dochádza k zmenám
+v materskom mlieku. Mení sa jeho zloženie, pomer niektorých živín a vzhľad. Prvé mlieko,
+kolostrum, na rozdiel od zrelého mlieka, obsahuje viac bielkovín, vitamínov a solí, ale menej
+tukov a cukrov, a je dokonale prispôsobené potrebám novorodenca. Zrelé mlieko je redšie,
+s vyšším obsahom tukov a cukrov, ale nižším podielom bielkovín. Počas dojčenia sa zloženie
+mlieka môže meniť. Predné mlieko je bohaté na bielkoviny a laktózu, je riedke a slúži ako
+dostatočný zdroj tekutín. Zadné mlieko je zase hlavným zdrojom energie (Martin et al, 2016;
+Boldevičová a kol., 2010).
+Bohužiaľ, existujú aj prípady, keď dojčenie alebo kŕmenie materským mliekom nie
+je možné z rôzných dôvodov, napríklad z nedostatku mlieka. V týchto prípadoch sa na
+novorodeneckom oddelení podáva umelá náhradná výživa. Najlacnejšia a najdostupnejšia
+25
+
+forma dojčenskej výživy na svete je prášková podoba, ktorá sa pred kŕmením jednoducho
+zmieša s vodou. Výrobcovia dojčenskej výživy sa snažia čo najviac napodobniť nutričné
+zloženie materského mlieka. Novorodeneckú výživu vyrábajú na základe kravského alebo
+sójového mlieka. Napriek maximálnemu úsiliu výrobcov umelej výživy sa žiadny z týchto
+prípravkov nikdy nepriblížila k napodobeniu zložitosti materského mlieka (Martin et al,
+2016).
+Novorodenci by mali byť kŕmení alebo dojčení približne 8 až 12 krát denne.
+Priemerný príjem v prvých dňoch môže byť iba 15 až 30 ml. Na začiatku môžu matky skúšať
+dojčiť 10 – 15 minút na každom prsníku a následne upraviť čas podľa potreby. Dojčenie
+a kŕmenie by malo byť na požiadanie, čo je zvyčajne každé 1-3 hodiny. Ako deti rastú, dojčia
+sa viac, ale majú dlhšie úseky medzi kŕmením. Novorodenci by nemali byť dlhšie ako 4-5
+hodín bez kŕmenia (Nemours KidsHealth).
+
+2.3.1 Dojčenie
+Dojčenie je dôležitou súčasťou novorodeneckého a dojčenského obdobia. Dojčenie
+alebo laktácia poskytuje nielen úplnú nutričnú podporu, ale aj podporuje emocionálnu väzbu
+medzi dieťaťom a matkou.
+Produkcia mlieka je regulovaná hypotalamo-hypofyzárnym systémom a súvisiacimi
+hormónmi. Oxytocín a prolaktín sú hlavnými hormónmi pri produkcii mlieka a výslednom
+reflexe. Aby mohlo dôjsť k dojčeniu, musí mliečna žľaza prejsť radom vývojových zmien,
+ktoré začínajú v maternici a pokračujú až do pôrodu. Počas tohto obdobia sa prsná žľaza
+rozvetvuje a predlžuje, čím vytvára plne funkčnú sieť sekrécie mlieka, ktorá sa aktivuje po
+pôrode. Pre naštartovanie laktácie je dôležitý kontakt „koža na kožu“ v prvých dvoch
+hodinách po pôrode, ak bol pôrod nekomplikovaný a zdravotný stav matky a novorodenca
+to umožňuje (Kalarikkal, Pfleghaar, 2023).
+Dojčenie podporuje zdravie nie len novorodenca, ale aj matky:
+Benefity pre zdravie novorodenca.
+Štúdia Brahma P. a Valdésba V. (2017) poukázala na to, že dojčenie je ochranným
+faktorom proti viacerým infekčným, atopickým a kardiovaskulárnym ochoreniam, ako aj pri
+leukémii, nekrotizujúcej enterokolitíde, celiakii a zápalovým ochoreniam čriev. Má tiež
+pozitívny vplyv na neurologický vývoj, znižuje riziko porúch pozornosti a generalizovaných
+porúch vývinu a správania. Laktácia môže znížiť riziko syndrómu náhleho úmrtia dojčiat o
+26
+
+36 % a zabrániť 13 % detskej úmrtnosti na celom svete.
+Benefity pre zdravie matky.
+Štúdia Dinleyici, E.C. (2025), potvrdzuje priaznivé účinky dojčenia, najmä jeho
+dlhodobého pokračovania, na rôzne onkologické ochorenia, ako sú rakovina prsníka,
+endometria, vaječníkov, maternice, ako aj osteoporózu, anémiu, obezitu a ďalšie. Taktiež
+zmenšuje popôrodné straty krvi. Preto je dlhodobé dojčenie prospešné nielen v súčasnosti,
+ale aj pre zdravie matky v budúcnosti.
+Pre mnohé matky (najmä prvorodičky) a ich novorodencov môžu byť prvé pokusy
+o dojčenie neúspešné. Správna poloha je však nevyhnutná na to, aby pomohla
+novorodencovi prisať sa správnym spôsobom, ako aj na prevenciu bolesti bradaviek a iných
+problémov s dojčením. Preto novorodenecká sestra musí pomôcť mamičke nájsť tú správnu
+polohu, pri ktorej dojčenie bude pohodlné pre ňu a jej dieťa. Podľa Americkej akadémii
+pediatrie, 2020, existuje veľa rôzných polôh:
+1. Poloha kolísky.
+Je potrebné umiestniť dieťa tak, aby jeho hlavička bola v ohybe lakťa jednej ruky, na
+ktorej matka bude dojčiť. Druhou, nedominantnou rukou musí matka podopierať dieťa.
+Druhou rukou si podloží prsník tak, že palec umiestni nad bradavku a dvorec na miesto, kde
+sa nos dieťaťa bude dotýkať prsníka. Ukazovák by mal byť na mieste, kde sa brada dieťaťa
+dotýka prsníka. Matka zľahka stláča prsník tak, aby bradavka smerovala mierne k nosu
+a vloží prsník do úst novorodenca. Dieťa sa musí prisať.
+2. Skrížená poloha.
+Matka drží hlavičku dieťaťa rukou oproti prsníku, na ktorej budete dojčiť (t.j. ak dojčí
+z pravého prsníka, drží hlavičku ľavou rukou). Položí zápästie medzi lopatky dieťaťa, palec
+za jedno ucho, ostatné prsty za druhé ucho. Uloží krk dieťaťa, čo umožní jeho prirodzený
+pohyb. Voľnou rukou si matka podloží prsník tak, ako by si ho držala v kolíske.
+3. Futbalová poloha.
+Veľmi užitočná poloha, ak matka mala cisársky rez. Ak chce matka dojčiť dieťa v
+„futbalovej“ polohe, treba postupovať takto: Dieťa si položí na bok, čelom k sebe, s nohami
+pod pažou (ako futbalová lopta) na rovnakej strane ako prsník, z ktorého dojčí. Tou istou
+rukou podoprie hlavičku svojho dieťaťa a druhou rukou si podloží prsník.
+4. Uvoľnená poloha
+Dojčiaca poloha v pokoji môže byť užitočná najmä pre mamičky, ktoré majú menšie
+prsia, pre novorodencov a deti s citlivým bruškom alebo nadmernou plynatosťou. Je
+potrebné sa oprieť chrbtom o posteľ alebo pohovku a položiť bábätko bruškom na brucho
+27
+
+matky s hlavičkou k prsníku. Bábätko sa môže o matku oprieť akýmkoľvek smerom. Dieťa
+sa môže v tejto polohe prirodzene prisať, alebo matka mu môže pomôcť tak, že nasmeruje
+bradavku k ústam.
+5. Poloha v ľahu na boku.
+Táto poloha je dobrou voľbou, keď matka dojčí uprostred noci. Mamička aj bábätko
+by mali ležať na boku, brucho k brušku. Pri použití tejto polohy by okolo dieťaťa nemala
+byť žiadna prebytočná posteľná bielizeň, ktorá by mohla predstavovať nebezpečenstvo.
+
+2.3.2 Kŕmenie umelým mliekom
+Dojčenie a materské mlieko sú pre deti najlepšie, ale bohužiaľ niekedy dojčenie nie
+je možné. Bezpečnou alternatívou je kŕmenie odstriekaným materským mliekom alebo
+dojčenskou výživou z fľaše. Niektoré matky nemôžu dojčiť, alebo sa rozhodnú nedojčiť.
+Dojčenie sa neodporúča ženám užívajúcim lieky, ktoré môžu prejsť do materského mlieka a
+spôsobiť dieťaťu zdravotný problém. Patria sem napríklad cytotoxické lieky, niektoré
+antipsychotiká a imunosupresíva. Taktiež nemôžu dojčiť ženy, ktoré prekonali rakovinu
+prsníka, podstúpili operáciu prsníkov alebo trpia určitými zdravotnými problémami.
+Alternatívou k výhradnému kŕmeniu umelou výživou môže byť kombinované kŕmenie –
+dojčenie doplnené fľašou s odstriekaným mliekom a/alebo umelou výživou na zabezpečenie
+výživových potrieb dieťaťa (Pregnancy, Birth & Baby, 2024).
+Jedným z hlavných rozdielov medzi umelou výživou a materským mliekom je, že
+materské mlieko obsahuje protilátky, ktoré pomáhajú chrániť dieťa pred ochoreniami.
+Imunitný systém novorodenca nie je pri narodení úplne vyvinutý. Obsah materského mlieka
+sa prirodzene prispôsobuje potrebám dieťaťa. Obsah umelej výživy zostáva rovnaký, pričom
+rodičia si môžu zakúpiť rôzne druhy podľa veku dieťaťa. Materské mlieko obsahuje menej
+bielkovín ako umelá výživa (Pregnancy, Birth & Baby, 2024).
+
+28
+
+3 BONDING A SYSTÉM ROOMING-IN, AKO PODPORA VZŤAHU
+„MATKA A DIEŤA“
+V prvých dňoch života novorodenca je tento vzťah najdôležitejší, pretože určuje ich
+vzájomnú väzbu a nakoniec vývoj človeka. Dva hlavné koncepty – bonding a systém
+rooming-in, ktoré hrajú vo vývoji novorodenca významnú úlohu. Navyše, tieto dva prístupy
+podporujú nielen emocionálnu väzbu matky a dieťaťa, ale aj fyzický a psychický rozvoj
+samotného dieťaťa. Spolu tieto prístupy vytvárajú ideálne podmienky pre emocionálny
+rozvoj dieťaťa a formovanie silného puta medzi ním a matkou. Okrem toho znižujú úzkosť
+matky, ktorá má možnosť sledovať potreby svojho dieťaťa a okamžite na ne reagovať (Milad
+Borji, Fatemeh Shahbazi a kol., 2018).
+Bonding a rooming-in predstavujú základné kamene v starostlivosti o novorodenca,
+ktoré sa ukázali ako veľmi efektívne pri podporovaní zdravého vývoja dieťaťa pri
+posilňovaní vzťahov v rodine. Možno povedať, že bonding a systém rooming-in sú viac než
+len fyzické prístupy – sú neoddeliteľnou súčasťou emocionálneho a psychického zdravia
+matky a dieťaťa. Pomáhajú vytvoriť pevné základy pre budúci život dieťaťa, ktoré bude
+schopné sa cítiť bezpečne a milované vo svojej rodine (Jonathan E. Handelzalts a kol., 2021)
+
+3.1 Bonding
+Pôrod je pre ženu jedinečným zážitkom, ktorý prináša veľké emocionálne zmeny.
+Vzťah medzi matkou a novorodencom sa postupne rozvíja prostredníctvom vzájomného
+pripútania, známeho ako bonding. Za obzvlášť citlivé sa považujú prvé minúty po pôrode,
+keď na pôrodnej sále alebo operačnej sále začína kontakt koža na kožu medzi matkou a
+novorodencom. Tento proces uľahčuje nielen lepšiu postnatálnu adaptáciu bábätka, ale má
+významný vplyv aj na jeho ďalší vývoj. Okrem toho urýchľuje nástup laktácie a znižuje
+riziko popôrodnej depresie u matiek. Pochopenie dôležitosti bondingu je kľúčové pre
+vytvorenie prostredia v pôrodniciach, kde sa tento proces stane súčasťou každodennej praxe.
+Postnatálny bonding a komplexná podpora matiek počas dojčenia sú kľúčovými prvkami na
+optimalizáciu starostlivosti o matky a deti v pôrodniciach, ako je uvedené v smerniciach
+FIGO (Medzinárodná federácia gynekológie a pôrodníctva) pre nemocnice priateľské k
+matkám a bábätkám (MBFH). Skvalitnenie starostlivosti v pôrodniciach si okrem
+modernizácie zariadení vyžaduje aj pravidelné školenia zdravotníckych pracovníkov.
+Okamžitý kontakt "koža na kožu" po narodení pomáha novorodencom regulovať telesnú
+teplotu a hladinu cukru v krvi, znižuje stresové hormóny, posilňuje imunitu a pomáha
+29
+
+vytvárať nové nervové spojenia v mozgu dieťaťa. Novorodenci, ktorí majú toto puto, sú
+šťastnejšie, menej plačú, a mamičky sú pokojnejšie, menej vystresované a dlhšie sa dojčia.
+Tento postup sa bežne používa u všetkých zdravých novorodencov, vrátane tých, ktorí sa
+narodili cisárskym rezom, a detí narodených v 35. týždni tehotenstva alebo po ňom. Bonding
+má priaznivý vplyv aj na matku. Kontakt "koža na kožu, tzv. skin-to-skin" medzi matkou a
+dieťaťom po vaginálnom pôrode má analgetický účinok. Matky, ktoré zažili skorý bonding
+so svojím dieťaťom, boli oveľa vnímavejšie k potrebám svojho dieťaťa už vo veku jedného
+roka. Na kvalitu bondingu vplýva aj podpora zo strany otca a širšej rodiny. Ak matka túto
+podporu má, zvyšuje sa jej sebadôvera v rodičovské schopnosti a znižuje sa riziko
+popôrodnej depresie. Táto depresia nielenže oslabuje puto medzi matkou a dieťaťom, ale
+negatívne ovplyvňuje aj emocionálny vývoj dieťaťa (Chovancová D., 2017).
+
+3.2 Rooming-in
+Pôrod a prechod do materstva môžu byť pre ženy transformatívnym a vysoko
+emocionálnym zážitkom, ktorý formuje ich postoje a predstavy o materstve, rodičovstve a
+vzťahu k dieťaťu. Svetová zdravotnícka organizácia (WHO, 1998) definovala rooming-in
+ako nemocničnú prax, pri ktorej matky a zdravé dojčatá zostávajú spolu na tej istej izbe 24
+hodín denne, od príchodu na pôrodnú sálu až do prepustenia. Tento prístup bol odporúčaný
+pre všetky zdravé donosené deti, ktoré dostávajú rutinnú starostlivosť, bez ohľadu na spôsob
+kŕmenia. Pred týmto odporúčaním bolo čiastočné alebo úplné oddelenie novorodencov od
+matiek bežnou praxou. V súčasnosti je rooming-in štandardnou praxou vo väčšine nemocníc
+po celom svete, okrem prípadov, keď matka a/alebo dieťa vyžadujú špeciálnu lekársku
+starostlivosť (napr. v prípade predčasne narodených detí, alebo pridružených komplikácií zo
+strany dieťaťa alebo matky). Pri čiastočnom rooming-in je dieťa väčšinu dňa s matkou a v
+určených časoch, zvyčajne v noci a poobede, je odvezené na novorodenecké oddelenie.
+Nedávne prehľady však ukazujú, že toto oddelenie matky a dieťaťa môže viesť k negatívnym
+následkom, ako sú neurovývojové poruchy. Naopak, úplný rooming-in bol spojený s
+pozitívnymi výsledkami, ako je lepšia väzba medzi matkou a dieťaťom a vyššia miera
+dojčenia, hoci tieto tvrdenia neboli nikdy dostatočne podložené (Handelzalts, A., et al.,
+2021).
+
+30
+
+4 VÝSKUM ÚROVNE INFORMOVANOSTI ŽIEN V
+STAROSTLIVOSTI O NOVORODENECA
+Starostlivosť o novorodenca je kľúčovou súčasťou pôrodnej a popôrodnej
+starostlivosti, ktorá má zásadný vplyv na zdravie a pohodu dieťaťa, ale aj matky. Vzhľadom
+na významný vplyv, ktorý má informovanosť žien na kvalitu starostlivosti o novorodenca,
+je dôležité venovať pozornosť úrovni ich vedomostí a schopnosti reagovať na potreby
+dieťaťa v kritických obdobiach po pôrode. Informovaná matka je lepšie pripravená na výzvy,
+ktoré prichádzajú s prvými dňami života jej dieťaťa, a to nielen v oblasti fyzickej
+starostlivosti, ale aj emocionálneho a psychologického vývoja. Vedomosť o základných
+princípoch starostlivosti o novorodenca môže ovplyvniť úspešnosť dojčenia, vytváranie
+pevnej materskej väzby, prevenciu zdravotných komplikácií a celkový vývoj dieťaťa.
+V našej diplomovej práci sme sa venovali problematike úrovne informovanosti žien
+v oblasti starostlivosti o novorodenca, a preto, hlavný problém nášho výskumu je: Aká je
+úroveň informovanosti žien v starostlivosti o novorodenca?
+Stanovili sme si nasledovné výskumné ciele:
+1. Zistiť vedomosti žien v hygienickej starostlivosti o novorodenca,
+2. Zistiť vedomosti žien o dojčení,
+3. Zistiť
+
+najčastejší
+
+zdroj,
+
+odkiaľ
+
+ženy
+
+zisťujú
+
+informácie
+
+v starostlivosti
+
+o novorodenca,
+4. Zistiť, aké faktory vplývajú na ženy v starostlivosti o novorodenca.
+Ďalej sme si určili výskumné hypotézy:
+H1 Vedomosti žien v hygienickej starostlivosti novorodenca.
+H0
+
+Predpokladáme, že medzi počtom detí a úrovňou informovanosti žien v
+
+hygienickej starostlivosti o novorodenca nie je vzťah.
+HA Predpokladáme, že medzi počtom detí a úrovňou informovanosti žien v hygienickej
+starostlivosti o novorodenca je vzťah.
+H2 Vedomosti žien o dojčení.
+H0 Predpokladáme, že medzi vekom a úrovňou informovanosti žien o dojčení nie je
+vzťah.
+HA Predpokladáme, že medzi vekom a úrovňou informovanosti žien o dojčení nie je vzťah.
+H3 Zdroje, odkiaľ ženy čerpajú informácii.
+31
+
+H0 Predpokladáme, že medzi vzdelaním a zdrojmi, odkiaľ ženy čerpajú informácii,
+nie je vzťah.
+HA Predpokladáme, že medzi vzdelaním a zdrojmi, odkiaľ ženy čerpajú informácii, je
+vzťah.
+H4. Faktory, ktoré vplývajú na ženy v starostlivosti o novorodenca.
+H0 Predpokladáme, že medzi vekom a faktormi, ktoré vplývajú na ženy v
+starostlivosti o novorodenca, nie je vzťah.
+HA Predpokladáme, že medzi vekom a faktormi, ktoré vplývajú na ženy v starostlivosti o
+novorodenca, je vzťah.
+Subhypotézy viažúce sa k H4:
+H4.1
+H0: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a názorom žien na komunikáciu nie je vzťah.
+HA: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a názorom žien na komunikáciu je vzťah.
+H4.2
+H0: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a úrovňou podpory nie je vzťah.
+HA: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a úrovňou podpory je vzťah.
+H4.3
+H0: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a názorom žien na odbornosť zdravotníckeho personálu nie je vzťah.
+HA: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a názorom žien na odbornosť zdravotníckeho personálu je vzťah.
+
+4.1 Metodika a postup výskumu
+Na dosiahnutie výskumných cieľov sme použili kvantitatívny výskumný
+neštandardizovaný dotazník, ktorý obsahoval otázky týkajúce sa rôznych aspektov
+starostlivosti o novorodenca, ako sú: výživa (dojčenie, kŕmenie fľašou), hygiena (kúpanie,
+starostlivosť o pupočnú šnúru), správna manipulácia s novorodencom (držanie a
+polohovanie dieťaťa) a zdroje, odkiaľ čerpajú ženy informácie. Výskum sme realizovali
+s pomocou nástroja „Google Forms“ v rôznych skupinách na sociálnej siete Facebook.
+
+32
+
+Dotazník obsahoval 32 otázok, pričom v niektorých bolo možné zvoliť len jednu odpoveď,
+zatiaľ čo iné umožňovali viacnásobný výber odpovedí. Okrem toho dotazník obsahoval 4
+polootvorené otázky, ktoré umožňovali respondentkám rozšíriť svoje odpovede o dodatočné
+informácie. Taktiež obsahoval 2 otvorené otázky, ktoré sa zameriavali na zistenie veku
+respondentiek a počtu ich detí, a 2 maticové otázky pomocou Likérovej škály a 5 položiek
+predstavovalo samotnú Likertovú škálu.
+Dotazník bol navrhnutý tak, aby bol zrozumiteľný a jednoduchý na vyplnenie.
+Respondentky boli požiadané, aby odpovedali na položky na základe svojich súkromných
+skúseností a vedomostí, ktorí nadobudli počas tehotenstva a po pôrode. Účastníčky výskumu
+boli na začiatku informované pri vyplňovaní dotazníka.
+Vyplnený dotazník následne bol spracovaný pomocou štatistického softvéru SPSS
+Statistics 2. Na zistenie normality rozloženia dát sme použili Shapiro-Wilkov test normality.
+Na zistenie vzťahov sme použili Spearmanov korelačný koeficient a Kendallovo tau β.
+Štatistickou
+
+významnosťou
+
+hodnotíme
+
+získané
+
+výsledky
+
+výskumu
+
+z
+
+hľadiska
+
+pravdepodobnosti, s akou by sa mohol skúmaný jav vyskytnúť náhodou. V našom výskume
+budeme používať hladinu významnosti 5 % (α=0,05). Získané údaje sme spracovali
+v percentách a absolútnych číslach. Na lepšiu prehľadnosť výsledkov sme použili tabuľky
+a grafy.
+
+4.2 Realizácia výskumu a výskumná vzorka
+Výskum sme realizovali v období od 1.9.24 do 15.1.25. Na výskume sa zúčastnilo
+170 respondentiek vo veku od 19 do 50 rokov.
+Našu výskumnú vzorku tvorili iba ženy, ktoré majú dieťa alebo detí nie staršie ako 5
+rokov, čo bola jediná podmienka účasti na výskume.
+
+4.3 Interpretácia a analýza výsledkov
+V tejto podkapitole predstavujeme výsledky výskumu získané analýzou
+zozbieraných dát. Pri spracovaní údajov sme využili kvantitatívne metódy štatistického
+vyhodnocovania, ktoré umožnili objektívne posúdiť úroveň informovanosti žien v
+starostlivosti o novorodenca.
+Pri výbere respondentiek sme použili zámerný výber, pričom sme sa zamerali na
+ženy, ktoré majú dieťa mladšie ako päť rokov. Celkovo sa do výskumu zapojilo N = 171
+respondentiek (100 %). Výsledky jednotlivých položiek sú vyhodnotené nasledovne, pričom
+33
+
+sme sa sústredili na kľúčové aspekty starostlivosti o novorodenca, ako sú hygienická
+starostlivosť, dojčenie, výživa, manipulácia s dieťaťom a zdroje informácií, z ktorých ženy
+čerpajú poznatky.
+Graf 1 Vek
+
+Napíšte koľko rokov máte?
+
+44%
+
+19-30
+
+31-50
+
+56%
+
+Prvá položka v dotazníku bola zameraná na určenie veku našich respondentiek, čo
+nám poskytlo prehľad o ich vekovom rozložení. Väčšia skupina žien bola vo veku od 19 do
+30 rokov, čo predstavuje 56,4% (n = 98 ), menšia skupina vo veku od 31 rokov do 50 rokov
+tvorila 43,6 % (n = 76 ).
+
+34
+
+Graf 2 Počet detí respondentiek
+
+1. Napíšte koľké dieťa máte?
+2%
+
+1%
+
+6%
+
+1
+2
+
+24%
+
+3
+
+4
+6
+
+67%
+
+Ďalšia položka bola formulovaná s cieľom získať informácie o počte detí
+respondentiek. Zistili sme, že 67 % (n = 116) má len 1 dieťa, 24 % (n = 42) má 2 detí, 6 %
+(n = 11) žien má 3 detí, 2 % (n = 3) má 4 detí a 1 % (n = 1) má 6 detí.
+
+35
+
+Graf 3 Vzdelanie respondentiek
+
+2. Uved´te vaše najvyššie dosiahnuté
+vzdelanie
+0.60%
+
+3%
+
+Základné
+34%
+
+Stredné bez maturity
+Stredné s maturitou
+
+62.10%
+
+Vysokoškolské
+
+V tejto položke sa zisťovalo vzdelanie respondentiek. Najväčšiu skupinu
+predstavovali ženy s vysokoškolským vzdelaním, čo zodpovedalo 62,1 % (n = 108). Ženy
+so stredným vzdelaním s maturitou tvorili 34 % (n = 59) a bez maturity 3,4 % (n = 6).
+
+36
+
+Graf 4 Absolvovanie predpôrodného kurzu
+
+3. Absolvovali ste predpôrodný kurz,
+ktorý zahŕňal tému starostlivosti o
+novorodenca a dojčenie?
+
+35.60%
+Áno
+Nie
+
+64.40%
+
+V danej položke číslo 3 sme zisťovali, či ženy absolvovali predpôrodný kurz, ktorý
+zahŕňal tému starostlivosti o novorodenca a dojčenie. Veľmi nás mrzelo, že 64,4 % (n = 112)
+žien sa takého kurzu nezúčastnilo. Predpôrodný kurz absolvovalo len 35,6 % (n = 62).
+
+37
+
+Graf 5 Príčiny, prečo respondentky neabsolvovali predpôrodný kurz
+
+4. Ak ste takýto kurz neabsolvovali, bolo to z dôvodu (1
+najvýstižnejšia odpoveď)
+26.40%
+
+20.70%
+
+13.80%
+10.90%
+9.20%
+4.60%
+
+5.70%
+1.76%
+0.60%0.60%
+0.60%0.60%0.60%0.60%0.60%0.60%0.60%0.60%0.60%0.60%
+
+1.10%
+
+V tejto položke sme sa zamerali na dôvody, prečo respondentky neabsolvovali
+predpôrodný kurz. Najviac žien uviedlo ako dôvod tvrdenie: „Nemala som potrebu takýto
+kurz absolvovať “, čo predstavovalo 20,7 % (n = 36). Nasledovala odpoveď: „Mám
+predchádzajúcu skúsenosť so starostlivosťou o novorodenca “, ktorú označilo 13,8 % (n =
+24). Možnosti „Spoľahnutie sa na pomoc zdravotníckeho personálu v starostlivosti o
+novorodenca “a „Myslím si, že starostlivosť o novorodenca zvládnem aj bez kurzu “vybralo
+10,9 % (n = 19) a 9,2 % (n = 16).
+Najmenšie zastúpenie mali odpovede:
+„Spoľahnutie sa na pomoc rodiny a najbližších v starostlivosti o novorodenca “– 5,7 %,
+„Nevedela som, že taký kurz existuje “– 4,6 %,
+„Spolieham sa na dulu alebo laktačnú poradkyňu v starostlivosti o novorodenca “– 1,1 %,
+„Pôrodila som predčasne a kurz som nestihla “– 1,76 %.
+Zároveň sme respondentkám umožnili vyjadriť vlastné dôvody, prečo sa nezúčastnili
+predpôrodného kurzu. Medzi uvedenými dôvodmi sa najčastejšie spomínali financie,
+pandemická situácia COVID-19, nedostatok času a to, že téma starostlivosti o novorodenca
+a dojčenia nebola súčasťou kurzu.
+
+38
+
+Graf 6 Kúpanie novorodenca
+
+5. Aká je ideálna teplota vody na
+kúpanie novorodenca?
+2%
+9%
+
+36-37
+25-30
+40-45
+
+89%
+
+Z grafu číslo 6 vyplýva, že položka 5 bola zameraná na overenie vedomostí
+respondentiek o správnej teplote vody na kúpanie novorodenca. Väčšina žien, konkrétne 89
+% (n = 155) odpovedala na túto položku správne, že teplota vody má byť v rozmedzí 3637°C. Žiaľ ostatné ženy označili nesprávne možnosti, čo predstavuje 11% (n = 19).
+
+39
+
+Graf 7 Zistenie ideálnej teploty vody bez teplomeru
+
+6. Keby ste nemali teplomer, ako by
+ste zistili ideálnu teplotu vody?
+
+6%
+
+S pomocou dlane
+
+S pomocou predlaktia
+
+94%
+
+Položkou 6 sme chceli zistiť, ako sú ženy informované o určení ideálnej teploty vody
+bez použitia teplomera. Veľmi nás potešilo, že až 94 % (n = 164) žien odpovedali na otázku
+správne a označili možnosť „ S pomocou predlaktia“, 6 % (n = 10) respondentiek vybrali si
+možnosť „ S pomocou dlane“.
+
+40
+
+Graf 8 Ideálna teplota v izbe počas kúpania
+
+7. Aká je ideálna teplota v izbe počas
+kúpania novorodenca?
+
+21%
+
+24-25°C
+
+1%
+
+15-20°C
+30-35°C
+
+78%
+
+Položkou 7 sme sa zamerali na zistenie, ako sú ženy informované o ideálnej teploty
+v izbe počas kúpania novorodenca. Väčšina respondentiek, až 78 % (n = 135), správne
+uviedla, že ideálna teplota je 24-25°C. Ďalších 21 % (n = 37) odpovedalo, že teplota v izbe
+by mala byť 30-35°C, čo je nesprávne. Len 1 % (n = 2) označilo teplotu 15-20°C, ktorá
+taktiež nie je vhodná. Graf poukazuje na pomerne dobré vedomosti respondentiek o teplote
+v izbe počas kúpeľa novorodenca, pričom väčšina z nich uviedla správnu odpoveď.
+
+41
+
+Graf 9 Kúpanie novorodenca
+
+8. Ako často treba kúpať
+novorodenca?
+
+18%
+
+Každý deň
+
+33%
+Každý druhý deň
+
+49%
+
+Nemusí sa kúpať
+vôbec, stačí umyť
+zadoček pod vodou
+
+Položkou 8 sme chceli zistiť, či vedia ženy o tom, aká má byť frekvencia kúpeľa
+novorodenca. Najväčšia skupina respondentiek, 49 % (n = 85) uviedla, že novorodenca treba
+kúpať každý druhý deň. Ďalších 33% (n = 57) respondentiek si zvolilo odpoveď, že
+novorodenca netreba kúpať vôbec, stačí umývať zadoček pod vodou. Iba 18 % (n = 32)
+respondentiek si myslí, že novorodenca je potrebné kúpať každý deň. Tieto výsledky
+poukazujú na rôzne názory matiek na starostlivosť o hygiene novorodenca, pričom väčšina
+z nich uviedla správnu odpoveď.
+
+42
+
+Graf 10 Technika kúpania novorodenca
+
+9. Aká technika kúpania je správna?
+79.90%
+
+7.50%
+3.40%0.66%0.66%0.66%0.66%0.66%0.66%0.66%0.66%0.66%0.66%0.66%0.66%0.66%0.66%0.66%
+
+Položka 9 bola zameraná na zistenie správnej techniky kúpania novorodenca podľa
+názoru respondentiek. Výsledky ukázali, že najväčšia časť žien preferuje kúpanie vo vaničke
+ako najvhodnejší spôsob, pričom túto možnosť označilo až 79,9 % (n = 139) respondentiek.
+Druhou najčastejšou odpoveďou bola možnosť „Otrieť dieťa mokrou žinkou a vzápätí osušiť
+plienkou“, ktorú zvolilo 7,5 % (n = 13) žien, a tretie miesto obsadila možnosť „Kúpať dieťa
+v kúpacom vedierku“, ktorú vybralo 3,4 % (n = 6).
+V tejto otázke respondentky mali taktiež možnosť doplniť svoj vlastný pohľad na
+správnu techniku kúpania. Túto možnosť využilo 15 respondentiek, ktoré uviedli rôzne
+názory. Najčastejšie postoje zahŕňali vyjadrenia, že všetky uvedené možnosti sú správne
+alebo že je potrebné zvoliť spôsob, ktorý najviac vyhovuje matke a/alebo dieťaťu.
+
+43
+
+Graf 11 Prebaľovanie novorodenca
+
+10. Ako často treba prebaľovať
+novorodenca?
+
+24%
+40.20%
+
+4-6 krát za deň
+Každé 3 hodiny
+Len vtedy, ked´plienka
+je špinavá
+
+36%
+
+Položkou 10 sme chceli zistiť , aké sú vedomostí respondentiek o prebaľovaní
+novorodenca. Výsledky ukázali, že najväčšia časť respondentiek preferuje prebaľovať
+novorodenca len vtedy, keď je plienka špinavá, pričom túto možnosť označilo až 40,2 % ( n
+= 70) žien. Druhou najčastejšou odpoveďou bola možnosť „ prebaľovať každé 3 hodiny“,
+ktorú zvolilo 36 % ( n = 62). Poslednú možnosť prebaľovať 4-6 krát za deň, pre ktorú sa
+rozhodlo 24 % ( n = 70) respondentiek. Výsledky nám ukazujú, že respondentky majú rôzne
+predstavy o tom, ako často by sa mal novorodenec prebaľovať.
+
+44
+
+Graf 12 Technika prebaľovania novorodenca
+
+11. Akú techniku prebaľovania
+novorodenca poznáte?
+
+22%
+
+78%
+
+Uchopiť dieťa za
+nožičky a nadvihnúť
+tak, aby bolo možné
+pod zadoček zasunúť
+plienku a dať krém na
+zadoček
+Pretočiť dieťa na bok,
+zasunúť plienku pod
+zadoček a pretočiť
+dieťa na plienku
+
+Položkou 11 sme zisťovali, akú techniku prebaľovania novorodenca poznajú
+respondentky. Predstavili sme na výber 2 možnosti prebaľovania novorodenca. Prvá:
+uchopiť dieťa za nožičky a nadvihnúť tak, aby bolo možné pod zadoček zasunúť plienku a
+dať krém na zadoček, druhá: Pretočiť dieťa na bok, zasunúť plienku pod zadoček a pretočiť
+dieťa na plienku. Výsledky ukázali, že väčšina respondentiek preferuje prvú techniku
+prebaľovania, čo bolo 78 % ( n = 135). Druhá technika bola menej populárna a zvolilo ju 22
+% ( n = 39). Vysoká preferencia prvej techniky môže naznačovať, že je viac intuitívna alebo
+lepšie zaužívaná v praxi.
+
+45
+
+Graf 13 Starostlivosť o zadoček novorodenca pri zapareninách
+
+12. Viete, ako sa starať o zadoček
+novorodenca pri zapareninách?
+0.60% 0%
+
+24%
+
+Áno
+Skôr áno
+Skôr nie
+Nie
+
+75%
+
+Položkou 12 sme chceli zistiť sebahodnotenie žien, či vedia, ako sa starať o zadoček
+novorodenca pri zapareninách. Dominantnú väčšinu tvorilo 75 % (n = 131) respondentiek,
+ktoré uviedli odpoveď „Áno“. Ďalších 24 % (n = 42) zvolilo „Skôr áno“, čo naznačuje určitú
+mieru istoty, hoci nie úplnú. Len 0,6 % (n = 1) označilo „Skôr nie“, čo poukazuje na
+minimálny počet žien s nejasnými vedomosťami. Možnosť „Nie“ nezvolila žiadna
+respondentka.
+
+46
+
+Graf 14 Vedomosti starostlivosti o zadoček novorodenca pri zapareninách
+
+13. Pokiaľ áno, ako by ste sa starali o
+zadoček v prípade zaparenín?
+2%
+5%
+Používala by som
+špeciálne masti na
+zapareniny
+Stačí používať
+protialergické a
+voľnejšie plienky
+Išla by som k lekárovi
+93%
+
+Položkou 13 sme chceli zistiť, aký postup by respondentky zvolili pri starostlivosti
+o zadoček novorodenca v prípade zaparenín. Používanie špeciálnych mastí na zapareniny
+by preferovalo 93 % ( n = 159) respondentiek. Možnosť využívať protialergické a voľnejšie
+plienky označilo 5 % ( n = 8) respondentiek, a len 2 % ( n = 4) by sa rozhodli ísť k lekárovi.
+Ďalšie 3 účastníčky nechali túto položku nezodpovedanú.
+
+47
+
+Graf 15 Starostlivosť o pupočný pahýľ
+
+14. Viete ako treba sa starať o
+pupočný pahýľ?
+2%
+
+1%
+
+13.80%
+Áno
+Skôr áno
+Skôr nie
+Nie
+
+83%
+
+V položke 14 sme sa pýtali respondentiek, či vedia, ako sa starať o pupočníkový
+pahýľ novorodenca. Z celkového počtu respondentov 83 % (n = 145) uviedlo, že vie, ako sa
+o pupočníkový pahýľ správne starať. Odpoveď „Skôr áno“ označilo 13,8 % (n= 24)
+respondentiek, zatiaľ čo odpoveď „ Skôr nie“ uviedli 2 % ( n = 4) a iba 1 % ( n = 1)
+odpovedalo „ Nie“.
+
+48
+
+Graf 16 Vedomosti starostlivosti o pupočný pahýľ
+
+15. Pokiaľ áno, aká technika
+starostlivosti o pupočný pahýľ Vám
+bola demonštrovaná?
+Umyť vodou,
+vydezinfikovať a nechať
+voľný bez krytia
+23%
+35%
+
+Neumývať vodou,
+vydezinfikovať a nechať
+voľný bez krytia
+Vydezinfikovať a zabaliť
+do mulového štvorca
+
+7%
+
+35%
+
+Vydezinfikovať a nechať
+zaschnúť bez krytia
+
+V položke 15 sme sa chceli dozvedieť, či ženy vedia, ako sa starať o pučníkový pahýľ
+novorodenca, a zároveň sme sa ich pýtali, akú techniku im ukázali. 35 % (n = 60) uviedlo
+postup „Vydezinfikovať a zabaliť do mulového štvorca“. Rovnakých 35 % (n = 60) označilo
+techniku „ Neumývať vodou, vydezinfikovať a nechať voľný bez krytia“. Ďalej 23 % (n =
+39) respondentiek zvolilo možnosť „ Umyť vodou vydezinfikovať a nechať voľný bez
+krytia“. Najmenej, 7 % (n = 12) odpovedalo „ Vydezinfikovať a nechať zaschnúť bez
+krytia“. Tieto výsledky poukazujú na rôznorodosť demonštrovaných postupov starostlivosti
+o pupočníkový pahýľ.
+
+49
+
+Graf 17 Tvorba materského mlieka
+
+16. Kedy sa začína tvoriť materské
+mlieko?
+81.60%
+
+.
+
+17.80%
+
+17.20%
+
+Hned´po pôrode
+17.80%
+
+Do týždňa po pôrode
+17.20%
+
+Počas tehotenstva
+81.60%
+
+V položke 16 sme sa respondentiek pýtali na ich vedomosti o tvorbe materského
+mlieka. Z odpovedí vyplýva, že 81,6 % ( n = 142) uviedlo, že materské mlieko sa začína
+tvoriť už počas tehotenstva. Ďalších 17,8 % ( n = 31) respondentiek si vybrali možnosť, že
+produkcia mlieka sa začína hneď po pôrode, a 17,20 % ( n = 30) si myslia, že tvorba mlieka
+sa začína do týždňa po pôrode. Tieto výsledky naznačuj, že väčšina žien má správne
+informácie, keďže materské mlieko, konkrétne kolostrum, sa začína tvoriť už počas
+tehotenstva.
+
+50
+
+Graf 18 Kŕmenie novorodenca
+
+17. Ako často treba dojčiť alebo
+kŕmiť novorodenca?
+
+Každé 2-3 hodiny
+
+Každé 4-5 hodiny
+
+46%
+54%
+
+Len vtedy, keď si
+novorodenec
+vypýta
+0%
+
+V položke 17 sme chceli zistiť, či vedia ženy, ako často treba dojčiť alebo kŕmiť
+novorodenca. Výsledky ukazujú, že 54 % (n = 94) matiek dojčí alebo kŕmi novorodenca
+každé 2 až 3 hodiny a 46 % ( n = 80) matiek uvádzajú, že svoje dieťa kŕmia na požiadanie,
+teda vždy, keď dieťa prejaví známky hladu. Žiadna matka neuviedla možnosť kŕmenia
+každých 4-5 hodín.
+Graf 19 Zloženie materského mlieka
+
+18. Aké zloženie má materské mlieko?
+78.70%
+
+47.10%
+
+.
+
+Kolostrum,
+prechodné
+mlieko, zrelé
+mlieko
+47.10%
+
+Bielkoviny,
+aminokyseliny,
+tuky, cukry,
+vitamíny
+78.70%
+
+1.10%
+
+0%
+
+Len vitamíny
+
+Len zrelé
+mlieko
+
+1.10%
+
+0%
+
+V otázke 18 sme sa pýtali respondentiek, aké zloženie má materské mlieko. Z grafu
+51
+
+vyplýva, že najväčší podiel odpovedí - 78,7 % (n= 137) uvádza, že materské mlieko obsahuje
+bielkoviny, aminokyseliny, tuky, cukry a vitamíny. Druhá najčastejšia odpoveď, ktorú
+označilo 47,1 % (n = 82) respondentiek, bola, že materské mlieko zahŕňa kolostrum,
+prechodné mlieko a zrelé mlieko. Iba 1,1 % ( n = 2) respondentiek sa domnieva, že materské
+mlieko obsahuje len vitamíny, a nikto neodpovedal, že obsahuje len zrelé mlieko. Môžeme
+konštatovať, že väčšina respondentiek má správne informácie o zložení materského mlieka.
+Graf 20 Význam dojčenia pre novorodenca
+
+19. Aký má dojčenie význam pre
+bábätko?
+83.30%
+
+92%
+
+90.20%
+61.50%
+
+.
+
+Vytvára citovú
+Chráni pred Pôsobí na vývin Zabraňuje proti väzbu medzi
+infekciami
+novorodenca vzniku alergie
+matkou a
+dieťaťom
+83.30%
+90.20%
+61.50%
+92%
+
+V otázke 19 sme zisťovali vedomosti respondentiek o význame dojčenia pre
+novorodenca. Výsledky ukazujú, že 90,2 % ( n = 157) respondentiek uviedlo, že dojčenie
+pôsobí na vývin novorodenca. Približné rovnaký podiel respondentiek 92 % ( n = 160)
+zdôraznil, že dojčenie vytvára citovú väzbu medzi matkou a dieťaťom. Menší podiel, 83,3
+% ( n = 145) považuje dojčenie za dôležite, pretože chráni pred infekciami, a 61,5 % ( n =
+107) uviedlo, že zabraňuje vzniku alergií. Z odpovedí respondentiek môžeme konštatovať,
+že najviac matiek vníma hlavnú úlohu dojčenia v jeho vplyve na vývin novorodenca
+a vytváranie citovej väzby medzi matkou a dieťaťom.
+
+52
+
+Graf 21 Zásady správnej polohy pri dojčení
+
+20. Viete, aké sú zásady správnej
+polohy pri dojčení?
+75%
+
+69.50%
+
+25%
+7.50%
+Nesmie byť
+Pred dojčením
+Vždy
+žiadna
+dieťa musí byť
+Dieťa počas
+prikladame
+prekažka počas
+spokojné,
+dojčenia musí
+dieťa k prsníku,
+dojčenia medzi
+nemôže plakať
+ležať na boku
+nie opačne
+mamou a
+alebo kričať
+novorodencom
+.
+25%
+75%
+7.50%
+69.50%
+
+V otázke 20 sme zisťovali vedomosti žien o správnej polohe pri dojčení. Výsledky
+ukazujú nasledovné rozdelenie: 1. 75 % ( n = 129) respondentiek uviedlo, že pri dojčení je
+dôležité, aby vždy prikladali dieťa k prsníku, nie opačne, 2. 69,5 % ( n = 130) opýtaných
+považuje za dôležité, že počas dojčenia nesmie byť medzi matkou a dieťaťom žiadna
+prekážka, 3. 25 % ( n = 43) respondentiek považuje za pravdepodobné, že dieťa musí byť
+pred dojčením spokojné a nesmie plakať ani kričať, 4. Iba 7,5 % ( n = 20) uviedlo, že dieťa
+počas dojčenia musí ležať na boku.
+
+53
+
+Graf 22 Prejavy nedostatku výživy u dieťa
+
+21. Ako sa prejavuje nedostatok výživy u
+dieťaťa?
+96%
+
+63.20%
+
+31.60%
+
+24.70%
+5.20%
+
+0.60%
+
+1.20%
+
+Zmenou Zmenou
+Malo
+sfarbenia sfarbenia Nadmerno Nedostatoč
+precikanýc
+Nadmerný stolice z
+stolice z
+u
+ným
+Nekľudom h plienok m plačom jantárovo jantárovo spavosťou priberaní
+dehydratac
+žltej na
+žltej na
+dieťaťa, m na váhe
+ia
+zelenú
+hnedú
+. 63.20%
+24.70%
+5.20%
+31.60%
+96%
+0.60%
+1.20%
+
+V otázke 21 sme sa pýtali našich respondentiek, ako si všímajú prejavy nedostatočnej
+výživy u dieťaťa. Najvýraznejším signálom, ktorý zaznamenalo až 96 % (n = 167)
+opýtaných, je nedostatočný prírastok na váhe. Veľká časť matiek, čo predstavuje 63,2 % (n
+= 110) si všimla aj nadmerný plač, čo naznačuje, že hlad a nepohodlie sú jednými z prvých
+varovných signálov.
+Niektoré ženy identifikovali aj zmeny vo farbe stolice – najmä prechod zo žltej na
+zelenú (24,7 %; n = 43,7) či na hnedú (5,2 %; n = 9). Nadmerná spavosť (31,6 %; n = 55)
+bola ďalším z prejavov, ktoré môžu signalizovať, že novorodenec neprijíma dostatok živín.
+Menej často sa vyskytli prípady zníženej frekvencie močenia a dehydratácie (1,2 %; n = 5)
+či celkového nepokoja (0,6 %; n = 1).
+
+54
+
+Graf 23 Subjektívny pocit nedostatku mlieka
+
+22. Viete čo treba spraviť ak budete
+subjektívne pociťovať, že máte málo
+mlieka?
+Vyhľadám alebo zavolám
+laktačnej poradkyne a
+poradím sa s ňou
+
+17%
+38%
+
+40%
+
+5%
+
+Pôjdem k detskej lekárke,
+nech skontroluje dostatok
+výživy pre dieťa
+Pár dní počkám, kým sa
+stav množstva mlieka
+upraví, lebo viem, že táto
+situácia môže nastať
+Dokŕmim dieťa umelou
+výživou (umelým mliekom)
+
+V položke 22 sme skúmali, ako matky vnímajú subjektívny pocit nedostatku mlieka.
+Najčastejšou odpoveďou - 40 % (n = 69) bolo, že počkajú pár dní, kým sa tvorba mlieka
+prirodzene upraví, pretože vedia, že takáto situácia môže byť dočasná. Ďalších 38 % (n =
+66) by vyhľadalo laktačnú poradkyňu, aby získali odborné rady. Približne 17 % (n = 29)
+matiek by situáciu riešilo dokrmovaním umelou výživou a 5 % (n = 9) by sa obrátilo na
+detského lekára, aby skontroloval dostatok výživy u dieťaťa. Z výsledkov vyplýva, že
+väčšina matiek verí v prirodzenú reguláciu laktácie alebo sa spolieha na odborné rady.
+
+55
+
+Graf 24 Zdroje, odkiaľ respondentky dostavajú informácie o hygienickej starostlivosti
+
+Od sestry z Od pediatra z
+Na
+novorodeneck novorodeneck
+predpôrodno Z internetu
+ého oddelenia ého oddelenia
+m kurze
+v pôrodnici v pôrodnici
+
+40.80%
+18.39%
+17.82%
+10.34%
+10.34%
+
+21.84%
+13.79%
+17.82%
+18.39%
+24.71%
+
+34.48%
+10.34%
+20.11%
+16.67%
+18.39%
+
+18.39%
+11.49%
+25.29%
+22.99%
+18.97%
+
+4.60%
+5.75%
+12.64%
+15.52%
+
+60.92%
+
+29.89%
+18.97%
+23.56%
+10.34%
+15.52%
+
+8.62%
+11.49%
+24.71%
+19.54%
+32.76%
+
+23. ODKIAĽ STE DOSTALI
+INFORMÁCIE O HYGIENICKEJ
+STAROSTLIVOSTI NOVORODENCA
+(NAPR., KÚPEĽ, PREBAĽOVANIE)
+
+Od rodiny
+Z odborných
+(mama, stará Od kamarátky
+článkov
+mama, sestra)
+
+1
+
+8.62%
+
+29.89%
+
+60.92%
+
+18.39%
+
+34.48%
+
+21.84%
+
+40.80%
+
+2
+
+11.49%
+
+18.97%
+
+4.60%
+
+11.49%
+
+10.34%
+
+13.79%
+
+18.39%
+
+3
+
+24.71%
+
+23.56%
+
+5.75%
+
+25.29%
+
+20.11%
+
+17.82%
+
+17.82%
+
+4
+
+19.54%
+
+10.34%
+
+12.64%
+
+22.99%
+
+16.67%
+
+18.39%
+
+10.34%
+
+5
+
+32.76%
+
+15.52%
+
+15.52%
+
+18.97%
+
+18.39%
+
+24.71%
+
+10.34%
+
+V položke 23 sme sa zamerali na zdroje, z ktorých ženy získavajú informácie
+o hygienickej starostlivosti o novorodenca. Respondentky hodnotili každý zdroj na škále od
+1 do 5, kde 5 znamenalo najväčšiu mieru užitočnosti a 1 najmenej prínosný zdroj. Výsledky
+ukazujú, že ženy sa spoliehajú na kombináciu osobných skúseností, odborných rád a
+dostupných informačných zdrojov.
+Kamarátky boli jedným z najmenej významných zdrojov informácií, pričom až 40,80
+% respondentiek im priradilo najnižšie hodnotenie 1. Predpôrodné kurzy boli vnímané ako
+mimoriadne neprínosné, keďže 60,92 % žien ich ohodnotilo známkou 1, čo naznačuje, že
+väčšina účastníčok z nich získala málo informácií.
+Internet a odborné články boli hodnotené rôzne. Približne 18,39 % a 34,48 %
+respondentiek označilo tieto zdroje najmenším hodnotením 1, čo naznačuje, že pre časť žien
+neboli veľmi užitočné. Však až 18,97 % a 18,39 % žien uviedlo, že z internetu a odborných
+článkov získali najviac informácií (hodnotenie 5). Tento rozpor naznačuje, že dostupnosť a
+kvalita informácií na internete je vnímaná individuálne a závisí od konkrétnych zdrojov,
+ktoré ženy využívali.
+Pediatri a sestry z novorodeneckého oddelenia v pôrodnici boli hodnotení rôzne,
+pričom sestry získali o polovicu vyššie známky. Až 32,76 % respondentiek uviedlo, že sestry
+im poskytli najviac informácií (hodnotenie 5), zatiaľ čo pediatri boli hodnotení prevažne
+56
+
+strednými známkami. To naznačuje, že nie všetky ženy vnímali zdravotnícky personál ako
+hlavný zdroj informácií o starostlivosti o novorodenca.
+Rodina, teda matky, staré mamy či sestry, neboli pre niektoré respondentky
+dôležitým zdrojom, avšak hodnotenia sa líšili. Kým 24,71 % žien uviedlo, že od rodiny
+získali najviac informácií (hodnotenie 5), zároveň 21,84 % respondentiek označilo, že od
+rodiny dostali najmenej informácií (hodnotenie 1). Tento kontrast ukazuje, že nie každá žena
+mala možnosť čerpať informácie od svojich blízkych.
+Celkovo sa ako najmenej spoľahlivejšie zdroje informácií o hygienickej starostlivosti
+ukázali predpôrodné kurzy, internet, odborné články a kamarátky. Naopak, rady od
+zdravotníckeho personálu, od rodiny a z internetu, boli hodnotené rôzne – niektoré ženy ich
+považovali za veľmi prínosné, zatiaľ čo iné z nich získali len minimálne poznatky.
+Graf 25 Zdroje, odkiaľ ženy dostavajú informácie o dojčení a výžive novorodenca
+
+50%
+12.64%
+16.90%
+10.92%
+10.34%
+
+33.91%
+19.54%
+20.11%
+9.77%
+16.67%
+
+31.03%
+8.62%
+25.86%
+18.97%
+15.52%
+
+22.41%
+7.47%
+25.29%
+23.56%
+21.26%
+
+37.36%
+6.32%
+13.79%
+11.49%
+31.03%
+
+58.05%
+
+2.30%
+13.22%
+9.20%
+17.24%
+
+37.93%
+17.24%
+18.97%
+10.34%
+15.52%
+
+20.11%
+17.82%
+22.99%
+14.37%
+24.71%
+
+24. ODKIAĽ STE DOSTALI
+INFORMÁCIE O DOJČENÍ A VÝŽIVE
+NOVORODENCA?
+
+Od pediatra
+Od sestry z
+z
+Od rodiny
+novorodene
+Na
+novorodene
+Od laktačnej
+Z odborných (mama,
+Od
+ckého
+predpôrodn
+Z internetu
+ckého
+poradkyne
+článkov stará mama, kamarátky
+oddelenia v
+om kurze
+oddelenia v
+sestra)
+pôrodnici
+pôrodnici
+1
+
+20.11%
+
+37.93%
+
+58.05%
+
+37.36%
+
+22.41%
+
+31.03%
+
+33.91%
+
+50%
+
+2
+
+17.82%
+
+17.24%
+
+2.30%
+
+6.32%
+
+7.47%
+
+8.62%
+
+19.54%
+
+12.64%
+
+3
+
+22.99%
+
+18.97%
+
+13.22%
+
+13.79%
+
+25.29%
+
+25.86%
+
+20.11%
+
+16.90%
+
+4
+
+14.37%
+
+10.34%
+
+9.20%
+
+11.49%
+
+23.56%
+
+18.97%
+
+9.77%
+
+10.92%
+
+5
+
+24.71%
+
+15.52%
+
+17.24%
+
+31.03%
+
+21.26%
+
+15.52%
+
+16.67%
+
+10.34%
+
+V položke 24 sme zisťovali, z akých zdrojov respondentky čerpali informácie o
+dojčení a výžive novorodenca a do akej miery im jednotlivé zdroje pomohli. Rovnako ako
+pri predchádzajúcej otázke, každé zdrojové médium bolo hodnotené na Likertovej škále od
+1 do 5, pričom 1 predstavovalo najmenej získaných informácií a 5 najviac.
+Najviac informácii matky získavali od laktačnej poradkyne, novorodeneckej sestry,
+internetu a od rodiny. Od sestier z novorodeneckého oddelenia v pôrodnici uviedlo až 24,71
+57
+
+% respondentiek hodnotenie 5, čo naznačuje, že boli pre mnohé matky významným zdrojom
+informácii. Naopak, 20,11 % označilo tento zdroj známkou 1, čo ukazuje, že nie všetky mali
+rovnakú skúsenosť s úrovňou poskytovaných informácií. Pediatri z novorodeneckého
+oddelenia získali vyšší podiel hodnotenia 1 (37,93 %), pričom len 15, 52 % respondentov
+ich označilo známkou 5, čo naznačuje, že ich prínos v porovnaní so sestrami bol menší.
+Predpôrodné kurzy boli najčastejšie hodnotené známkou 1 (58,05 %), čo ukazuje, že
+väčšina matiek na nich nezískala dostatočné informácie o dojčení a výžive. Len 17,24 %
+respondentov dalo hodnotenie 5, čo naznačuje, že predpôrodné kurzy neboli pre väčšinu
+matiek hlavným zdrojom informácií. Naopak, laktačné poradkyne boli hodnotené
+pozitívnejšie – 31,93 % respondentov im udelilo známku 5, čo naznačuje, že pre tých, ktorí
+ich služby využili, boli informácie hodnotné. Napriek tomu až 37,36 % respondentov dalo
+hodnotenie 1, čo môže znamenať, že veľká časť matiek nemala prístup k laktačnej poradkyni
+alebo ich služby nevyužila.
+Internet bol významným zdrojom poznatkov, pričom 31,09 % respondentov označilo
+tento zdroj známkou 5, zatiaľ čo len 7,47 % uviedlo hodnotenie 1. Odborné články boli
+hodnotené relatívne rovnomerne – 31,03 % respondentov označilo tento zdroj známkou 5,
+čo naznačuje, že pre mnohé matky boli dôležitým zdrojom informácií, hoci 8,62 % ich
+vnímalo ako málo prínosné. Rodina (mama, stará mama, sestra) bola taktiež významným
+zdrojom informácií, pričom 33,91 % respondentov dalo tomuto zdroju hodnotenie 5.
+Naopak, 10,54 % matiek dalo hodnotenie 1, čo znamená, že nie všetky ženy získali
+dostatočné informácie od svojich blízkych.
+Najmenej relevantným zdrojom informácií boli kamarátky. Až 50 % respondentov
+im priradilo hodnotenie 1, čo znamená, že polovica matiek ich nepovažovala za významný
+zdroj informácií. Zvyšné hodnotenia boli rozdelené pomerne rovnomerne, pričom žiadna
+skupina výrazne neprevážila. Výsledky ukazujú, že pre väčšinu matiek neboli kamarátky
+hlavným zdrojom poznatkov o dojčení.
+Celkové výsledky naznačujú, že najviac informácií o dojčení a výžive novorodenca
+poskytli novorodenecké sestry, internet, odborné články a rodina. Naopak, najmenej
+prínosné boli predpôrodné kurzy a informácie od pediatra v pôrodnici.
+
+58
+
+Graf 26 Sebahodnotenie informovanosti respondentiek po odchode z pôrodnice
+
+25. Môžete povedať, že ste boli po
+odchode z pôrodnice dostatočne
+informovaná o starostlivosti
+novorodenca a dojčení, výžive
+novorodenca?
+10%
+
+24%
+Áno
+Skôr áno
+
+27%
+
+Skôr nie
+Nie
+39%
+
+V položke 25 sme sa pýtali respondentiek, či boli po odchode z pôrodnice dostatočne
+informované o starostlivosti novorodenca, dojčení a výžive novorodenca. Z grafu vyplýva,
+že plne informovaných bolo 24 % (n = 41) respondentiek, zatiaľ čo 39 % (n = 67) uviedlo,
+že skôr áno. Naopak, 27 % (n = 47) matiek sa cítilo skôr nedostatočne informovaných a 10
+% (n = 19) vyjadrilo úplnú nespokojnosť s poskytnutými informáciami. Výsledky
+naznačujú, že hoci väčšina matiek získala aspoň základné informácie, takmer tretina z nich
+pociťovala určitý deficit v edukácii.
+
+59
+
+Graf 27 Očakávania žien ohľadom zdrojov informácii o starostlivosti a výžive
+novorodenca
+
+26. Napíšte od koho by ste najviac očakávali informácie
+o starostlivosti novorodenca a dojčení, výžive
+novorodenca?
+94.30%
+
+53.40%
+
+59.20%
+37.40%
+24.10%
+9.80%
+
+13.20%
+
+10.90%
+
+5.20%
+
+Od
+Od sestry z
+Od rodiny
+pediatra z
+novoroden
+Od
+Na
+Z
+(mama,
+novoroden
+Od
+eckého
+laktačnej predpôrod Z internetu odborných
+stará
+eckého
+kamarátky
+oddelenia
+poradkyne nom kurze
+článkov
+mama,
+oddelenia
+v pôrodnici
+sestra)
+v pôrodnici
+.
+
+94.30%
+
+53.40%
+
+59.20%
+
+37.40%
+
+9.80%
+
+10.90%
+
+24.10%
+
+5.20%
+
+Od duly
+
+13.20%
+
+V položke 26 sme zisťovali, od koho by respondentky najviac očakávali informácie
+o starostlivosti o novorodenca, dojčení a výžive. Najčastejšie uvádzaným zdrojom boli sestry
+z novorodeneckého oddelenia v pôrodnici, ktoré preferovalo až 94,3 % (n = 164) opýtaných.
+Nasledovali pediatri z novorodeneckého oddelenia (53,4 %; n = 93) a laktačné poradkyne
+(59,2 %; n = 103), čo poukazuje na vysokú dôveru v zdravotníckych odborníkov.
+Predpôrodné kurzy ako zdroj informácií očakávalo 37,4 % ( n = 65) respondentiek, zatiaľ čo
+internet (9,8 %; n = 17) a odborné články (10,9 %; n = 19) boli menej preferované. Rodinu,
+najmä matky a staré mamy, by ako dôležitý zdroj informácií vnímalo 24,1 % respondentiek.
+Nižšiu dôveru získali kamarátky (5,2 %; n = 9) a duly (13,2 %; n = 23). Výsledky naznačujú,
+že ženy preferujú získavanie informácií najmä od odborníkov a priamo v zdravotníckych
+zariadeniach.
+
+60
+
+Graf 28 Sebahodnotenie vedomosti respondentiek v starostlivosti o novorodenca
+
+27. Ako by ste zhodnotili vaše vedomosti v starostlivosti
+o novorodenca?
+56.30%
+
+22.40%
+
+18.40%
+
+0.60%
+.
+
+2.30%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+0.60%
+
+2.30%
+
+22.40%
+
+56.30%
+
+18.40%
+
+V položke 27 sme sa pýtali respondentiek na subjektívne hodnotenie úrovne
+vedomostí respondentov v oblasti starostlivosti o novorodenca. Päťstupňová škála poskytuje
+prehľad o ich sebadôvere a znalostiach v tejto dôležitej oblasti.
+Najmenší podiel respondentov (0,6 %; n = 1) sa hodnotil najnižšou známkou (1), čo
+naznačuje takmer nulovú istotu v starostlivosti o novorodenca. Mierne vyšší podiel (2,3 %;
+n = 4) označil svoje vedomosti známkou 2, čo stále poukazuje na nízku mieru
+informovanosti. Najvýraznejšie zastúpenie má známka 4, ktorú zvolilo až 56,3 % (n = 98)
+respondentov. To naznačuje, že viac než polovica opýtaných sa cíti v tejto oblasti pomerne
+kompetentná. Druhým najčastejším hodnotením bola známka 3 (22,4 %; n = 39), čo
+signalizuje strednú úroveň znalostí. Najvyššiu známku 5 priradilo svojim vedomostiam 18,4
+% (n = 32) respondentov, čo naznačuje vysokú mieru istoty v starostlivosti o novorodenca.
+Celkové rozloženie odpovedí naznačuje, že väčšina respondentov má aspoň základné až
+pokročilé vedomosti, pričom veľmi nízka úroveň znalostí je zastúpená len minimálne.
+
+61
+
+Graf 29 Hodnotenie komunikácie zdravotníckeho personálu
+
+28. Ako by ste zhodnotili úroveň komunikácie
+zdravotníckeho personálu počas starotlivosti?
+31%
+
+26.40%
+
+19.50%
+
+19%
+
+4%
+
+.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+4%
+
+19%
+
+31%
+
+26.40%
+
+19.50%
+
+V položke 28 sme sa pýtali respondentiek na subjektívne hodnotenie úrovne
+komunikácie zdravotníckeho personálu počas poskytovania starostlivosti. Päťstupňová škála
+odhaľuje rozmanitosť skúseností respondentov, pričom názory sa rozložili pomerne
+vyrovnane.
+Najnižšiu známku (1) udelili len 4 % (n = 7) opýtaných, čo naznačuje, že výrazne
+negatívna skúsenosť s komunikáciou bola skôr ojedinelá. O niečo vyšší podiel (19 %; n =
+33) respondentov označil komunikáciu ako nedostatočnú (2), čo môže naznačovať isté
+rezervy v interakcii zo strany zdravotníckeho personálu. Najviac odpovedí sa sústredilo na
+stred hodnotiacej škály – známku 3 zvolilo až 31 % (n = 54) účastníkov výskumu. To
+naznačuje, že tretina respondentov považuje úroveň komunikácie za priemernú, bez
+výrazných pozitívnych či negatívnych skúseností. Hodnotenie 4, vyjadrujúce spokojnosť, si
+zvolilo 26,4 % (n = 46) opýtaných, pričom najvyššiu známku 5 udelilo 19,5 % (n = 34)
+respondentov. Tieto výsledky poukazujú na to, že viac ako 45 % účastníkov vnímalo
+komunikáciu personálu ako dobrú až vynikajúcu. Celkovo výsledky naznačujú, že zatiaľ čo
+väčšina respondentov hodnotí komunikáciu zdravotníckeho personálu pozitívne alebo
+neutrálne, stále existuje priestor na zlepšenie v oblasti jasnejšej, empatickejšej či
+efektívnejšej interakcie s pacientmi.
+
+62
+
+Graf 30 Hodnotenie úrovne podpory od zdravotníckeho personálu
+
+29. Ako by ste zhodnotili úroveň podpory
+zdravotníckeho personálu, ktorú ste dostali počas
+starostlivosti?
+28.20%
+24.10%
+20.70%
+
+20.70%
+
+6.30%
+
+.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6.30%
+
+20.70%
+
+28.20%
+
+20.70%
+
+24.10%
+
+V položke 29 sme zisťovali subjektívne hodnotenie úrovne podpory poskytovanej
+zdravotníckym personálom počas starostlivosti. Výsledky odrážajú široké spektrum
+skúseností respondentov, pričom hodnotenia sú rozdelené pomerne rovnomerne, no s
+miernym dôrazom na stredné až vyššie známky.
+Najnižšie hodnotenie (1) udelilo 6,3 % (n = 11) opýtaných, čo signalizuje menšiu, no
+nie zanedbateľnú skupinu respondentov, ktorí vnímali podporu ako nedostatočnú. Druhá
+známka (2) sa objavila v odpovediach u 20,7 % (n = 36) účastníkov, čo naznačuje, že takmer
+štvrtina ľudí nebola spokojná s mierou poskytnutej pomoci. Najvyšší podiel odpovedí (28,2
+%; n = 49) patrí strednému hodnoteniu (3), čo môže naznačovať, že podpora bola vnímaná
+ako priemerná – ani výrazne pozitívna, ani vyslovene negatívna. Naopak, vyššie známky (4
+a 5) spolu tvoria 44,8 % odpovedí, pričom hodnotenie 4 získalo 20,7 % (n = 36) a najvyššia
+známka 5 až 24,1 % (n = 42). To poukazuje na skutočnosť, že významná časť respondentov
+bola so starostlivosťou spokojná a zdravotnícky personál vnímajú ako dostatočne
+podporujúci. Celkovo možno povedať, že napriek rozmanitosti skúseností prevláda mierna
+spokojnosť.
+
+63
+
+Graf 31 Hodnotenie odbornosti zdravotníckeho personálu
+
+30. Ako by ste zhodnotili odbornosť zdravotníckeho
+personálu, ktorý sa staral o vaše dieťa?
+38.50%
+
+27.60%
+21.80%
+
+9.80%
+2.30%
+
+.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+2.30%
+
+9.80%
+
+21.80%
+
+27.60%
+
+38.50%
+
+V položke 30 sme zisťovali hodnotenie odbornosti zdravotníckeho personálu, ktorý
+sa staral o deti pacientov. Výsledky ukazujú, že väčšina rodičov bola s odbornou
+starostlivosťou spokojná. Najviac respondentiek (38,5 %; n = 67) udelilo najvyššie
+hodnotenie „5“, čo naznačuje vysokú dôveru v odborné schopnosti personálu. Druhá
+najpočetnejšia skupina (27,6 %; n = 48) hodnotila zdravotníkov známkou „4“, čo stále
+signalizuje veľmi pozitívny dojem. Na strednej úrovni hodnotenia („3“) sa nachádza 21,8 %
+(n = 38) respondentov, čo môže naznačovať určitú mieru rezervovanosti alebo zmiešané
+skúsenosti. Menej priaznivé hodnotenia „2“ a „1“ udelilo 9,8 % ( n = 17), respektíve 2,3 %
+(n = 4) opýtaných, čo naznačuje, že existuje malá, ale relevantná skupina rodičov, ktorí
+neboli s odbornosťou personálu úplne spokojní. Celkovo graf odráža prevažne pozitívne
+hodnotenie zdravotníckeho personálu, pričom prevažujú vyššie známky. To svedčí o
+kvalitnej a odbornej starostlivosti poskytovanej novorodencom v zdravotníckom zariadení.
+
+64
+
+Graf 32 Celkový dojem respondentiek zo starostlivosti o novorodenca počas pobytu
+v nemocnici
+
+31. Ako by ste zhodnotili celkový dojem starostlivosti o
+novorodenca počas pobytu v nemocnici?
+34.50%
+
+25.30%
+
+27%
+
+9.80%
+3.40%
+
+.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+3.40%
+
+9.80%
+
+25.30%
+
+27%
+
+34.50%
+
+V poslednej položke dotazníkovej sme zisťovali hodnotenie celkového dojmu
+starostlivosti o novorodenca počas jeho pobytu v nemocnici. Respondenti odpovedali na
+päťstupňovej škále, kde „1“ znamená veľmi zlú skúsenosť a „5“ vynikajúcu starostlivosť.
+Najviac rodičov (34,5 %; n = 60) udelilo najvyššie hodnotenie „5“, čo naznačuje, že
+nemocničná starostlivosť bola vo veľkej miere vnímaná ako výborná. Ďalších 27 % (n = 47)
+hodnotilo úroveň starostlivosti známkou „4“, čo potvrdzuje prevažne pozitívny dojem.
+Stredné hodnotenie „3“ zvolilo 25,3 % (n = 44) respondentov, čo môže naznačovať
+priemernú spokojnosť alebo kombináciu dobrých aj menej priaznivých skúseností. Menej
+uspokojivé hodnotenia „2“ a „1“ udelilo 9,8 % (n = 17) a 3,4 % (n = 6) rodičov, čo
+signalizuje, že menšia časť opýtaných nebola úplne spokojná so starostlivosťou o svoje
+dieťa. Celkovo graf odráža prevažne pozitívne vnímanie nemocničnej starostlivosti o
+novorodencov, pričom väčšina rodičov hodnotí poskytnutú starostlivosť ako dobrú až
+výbornú.
+
+65
+
+5 VYHODNOTENIE VÝSLEDKOV VÝSKUMU A DISKUSIA
+Hlavným cieľom výskumu bolo preskúmať a vyhodnotiť stanovené výskumné ciele,
+ktoré vychádzali z definovaného výskumného problému a formulovaných hypotéz. Zamerali
+sme sa na úroveň vedomostí matiek v oblasti starostlivosti o novorodenca a dojčenia, ako aj
+na identifikáciu faktorov, ktoré ovplyvňujú ženy pri starostlivosti o dieťa, a zdrojov, z
+ktorých získavajú informácie o starostlivosti o novorodenca. Súčasne budú výsledky
+komparované s existujúcimi odbornými štúdiami, čo umožní komplexnejšie zhodnotenie
+problematiky.
+Hypotéza číslo 1 Vedomosti žien v hygienickej starostlivosti novorodenca.
+H0 Predpokladáme, že medzi počtom detí a úrovňou vedomostí žien v hygienickej
+starostlivosti o novorodenca nie je vzťah.
+HA Predpokladáme, že medzi počtom detí a úrovňou vedomostí žien v hygienickej
+starostlivosti o novorodenca je vzťah.
+Prvá hypotéza sa zameriava na analýzu vzťahu medzi počtom detí a úrovňou znalostí
+matiek v oblasti hygienickej starostlivosti o novorodenca. Vzhľadom na povahu skúmaného
+vzťahu bude na jeho overenie použitá korelačná analýza, ktorá umožní kvantifikovať mieru
+asociácie medzi týmito premennými.
+V našom prípade máme teda dve premenné:
+1. Počet detí – ide o spojitú premennú, keďže ženy mali uviesť presný počet deti,
+ktoré majú
+2. Úroveň vedomostí žien v hygienickej starostlivosti o novorodenca – túto úroveň
+vedomostí sme zisťovali zo 7 otázok dotazníka (5, 6, 7, 8, 10, 12, 14), pričom sme
+odpovediam na tieto otázky priradili rôzny počet bodov, v závislosti na tom, koľko
+správnych odpovedí tam bolo (min 0 bodov, max 1 bod za otázku). Táto úroveň
+vedomostí sa teda môže pohybovať na škále od 0 do 7 a ide teda o spojitú
+premennú. Vyradili sme otázky 9, 11, 13 a 15, pretože buď nejde o vedomostnú
+otázku, alebo boli všetky odpovede správne a respondenti mali na výber len jednu
+možnosť a teda každý by získal rovnaký počet bodov, čo nie je pre túto analýzu
+podstatné.
+Z uvedených testov má Shapiro-Wilkov test vo väčšine situácií zo všetkých testov
+normality najväčšiu silu.
+
+66
+
+Tabuľka 2 Test normality dát pomocou Shapiro-Wilkovho testu
+Test normality dát
+W
+df
+p
+Počet detí
+0,614
+171
+<0,001
+Úroveň vedomostí žien v hygienickej
+0,947
+171
+<0,001
+starostlivosti o novorodenca
+Vysvetlivky: W – Shapiro-Wilkov test normality, df – počet stupňov voľnosti, p – p-hodnota.
+Z Tabuľky 2 vidíme, že p-hodnota pri Shapiro-Wilkovom teste vyšla nižšia ako 0,05 a teda
+dáta nie sú normálne rozložené.
+Tabuľka 3 Spearmanova korelácia medzi počtom detí a úrovňou vedomostí žien
+v hygienickej starostlivosti o novorodenca
+Meranie závislosti
+N
+rs
+P
+Počet detí a úroveň vedomostí žien v hygienickej
+171
+-0,005
+0,946
+starostlivosti o novorodenca
+Vysvetlivky: N – počet respondentov, rs – Spearmanov korelačný koeficient, p – p-hodnota.
+Na základe údajov uvedených v Tabuľke 3 vyplýva, že výsledná p-hodnota presahuje
+hranicu 0,05, čo znamená, že nemôžeme konštatovať štatisticky významný vzťah medzi
+počtom detí a úrovňou vedomostí v oblasti hygienickej starostlivosti o novorodenca. Z tohto
+dôvodu nie je potrebné ďalej analyzovať hodnotu Spearmanovho korelačného koeficientu,
+keďže medzi týmito premennými neexistuje štatisticky významná súvislosť.
+Na posúdenie vzťahu medzi počtom detí a úrovňou vedomostí v hygienickej
+starostlivosti o novorodenca sme u 171 respondentiek aplikovali Spearmanov korelačný
+koeficient. Výsledky analýzy nepotvrdili štatisticky významnú koreláciu medzi týmito
+premennými (rs = -0,005, p = 0,946). Nezamietame nulovú hypotézu a teda medzi počtom
+detí a úrovňou vedomostí žien v hygienickej starostlivosti o novorodenca neexistuje
+štatisticky významný vzťah.
+Môžeme analyzovať graf číslo 33 zobrazujúci úroveň vedomostí žien v oblasti
+hygienickej starostlivosti o novorodenca v závislosti od počtu ich detí. Z výsledkov
+nevyplývajú výrazné rozdiely medzi ženami, ktoré majú jedno, dve alebo tri deti. Mierne
+vyššia úroveň vedomostí sa prejavuje až pri ženách so štyrmi alebo šiestimi deťmi, avšak
+bez zreteľného trendu naznačujúceho existenciu korelácie medzi počtom detí a úrovňou
+vedomostí.
+
+67
+
+Graf 33 Úroveň vedomostí žien v hygienickej starostlivosti o novorodenca
+
+Naše výsledky sú v súlade s niektorými
+
+štúdiami, ktoré taktiež nenaznačili
+
+jednoznačný vplyv skúseností na úroveň vedomostí v oblasti hygieny novorodenca. Napriek
+tomu by bolo vhodné, aby budúce výskumy skúmali aj ďalšie faktory, ako sú kvalita
+informácií dostupných matkám, ich vzdelanie alebo vplyv sociálnej podpory.
+Porovnanie nášho výskumu s výsledkami štúdie "Maternal knowledge of essential
+newborn care in rural Zambia" od Busera a kol. (2021) odhaľuje zaujímavé podobnosti aj
+rozdiely v oblasti vedomostí matiek o starostlivosti o novorodencov.
+Štúdia z roku 2021 (Buser a kol.) skúmala vedomosti matiek v oblastiach Zambie a
+zistili, že celkovo matky preukázali vedomosti v súlade s odporúčaniami Svetovej
+zdravotníckej organizácie (WHO) pre starostlivosť o novorodencov. Napriek tomu
+identifikovali, že mladšie matky častejšie nepoznali správne postupy v oblasti starostlivosti
+o pupočník, starostlivosti o pokožku novorodenca a neboli si vedomé varovných príznakov
+u novorodencov. Taktiež zistili, že matky, ktoré absolvovali viac prenatálnych návštev, mali
+lepšie vedomosti o starostlivosti o novorodenca.
+Naše zistenia, že počet detí nemá štatisticky významný vplyv na úroveň vedomostí
+matiek v oblasti hygienickej starostlivosti o novorodenca, sú v súlade s výsledkami Busera
+a kol., ktorí taktiež nepreukázali významné rozdiely v úrovni vedomostí medzi rôznymi
+skupinami matiek.
+Na záver možno konštatovať, že počet detí sám o sebe nemusí byť určujúcim
+68
+
+faktorom pre úroveň vedomostí žien v oblasti hygienickej starostlivosti o novorodenca.
+Dôležité je preto zamerať sa na efektívne vzdelávacie stratégie a zabezpečenie kvalitných
+informačných zdrojov pre všetky matky bez ohľadu na ich predchádzajúce skúsenosti.
+Hypotéza číslo 2 Vedomosti žien o dojčení.
+H0 Predpokladáme, že medzi vekom a úrovňou vedomostí žien o dojčení nie je vzťah.
+HA Predpokladáme, že medzi vekom a úrovňou vedomostí žien o dojčení nie je vzťah.
+V rámci druhej hypotézy analyzujeme vzťah medzi vekom a úrovňou vedomostí žien
+o dojčení. Vek predstavuje spojitú premennú, rovnako ako úroveň vedomostí o dojčení, ktorá
+bola stanovená na základe odpovedí na otázky 16 až 21. Hodnota tejto premennej sa
+pohybuje v intervale od 0 do 6. Analytický postup je totožný s postupom aplikovaným pri
+overovaní predchádzajúcej hypotézy.
+Tabuľka 4 Test normality veku a úrovne vedomostí žien o dojčení (Shapiro-Wilkov
+test)
+Test normality dát
+W
+df
+P
+Vek
+0,965
+171
+<0,001
+Úroveň vedomostí žien o dojčení
+0,979
+171
+0,010
+Vysvetlivky: W – Shapiro-Wilkov test normality, df – počet stupňov voľnosti, p – phodnota.
+Z Tabuľky 4 vidíme, že údaje nevykazujú normálne rozloženie, na analýzu vzťahu
+opäť použijeme Spearmanov korelačný koeficient.
+Tabuľka 5 Spearmanova korelácia medzi vekom a úrovňou vedomostí žien o
+dojčení
+Meranie závislosti
+N
+rs
+p
+171
+-0,020
+Vek a úroveň vedomostí žien o dojčení
+0,799
+Vysvetlivky: N – počet respondentov, rs – Spearmanov korelačný koeficient, p – phodnota.
+Aj v tomto prípade dosiahla p-hodnota vysokú úroveň, čo neumožňuje zamietnutie
+nulovej hypotézy. Tento výsledok naznačuje absenciu štatisticky významnej asociácie
+medzi vekom a úrovňou vedomostí žien o dojčení. Pre lepšiu interpretáciu vzťahu medzi
+týmito premennými je vhodné analyzovať rozptylový diagram (scatter plot).
+
+69
+
+Graf 34 Úroveň vedomostí žien o dojčení
+
+Na základe Grafu 34 môžeme konštatovať, že vek matky nie je určujúcim faktorom
+jej vedomostí o dojčení. To môže byť spôsobené tým, že vedomosti o dojčení získavajú ženy
+bez ohľadu na svoj vek, prostredníctvom zdravotníckych odborníkov, kurzov prípravy na
+pôrod alebo osobného záujmu o túto tému. Podobne ako v prípade hygienickej starostlivosti
+o novorodenca, aj v tejto oblasti môžu hrať významnú úlohu faktory ako vzdelanie,
+dostupnosť informácií a individuálna motivácia.
+Výsledky našej štúdie sú v súlade so závermi Wena a kol. (2012), ktorí skúmali
+informovanosť matiek o odporúčaniach týkajúcich sa dojčenia a jeho trvania. Ich výskum
+potvrdil, že znalosť odporúčaní o výlučnom dojčení počas prvých šiestich mesiacov života
+dieťaťa predstavuje nezávislý pozitívny prediktor iniciácie a dĺžky dojčenia. Tieto zistenia
+naznačujú, že zvyšovanie povedomia matiek o správnych postupoch dojčenia môže
+významne prispieť k vyššej miere jeho realizácie a dlhšiemu trvaniu.
+Podobné výsledky prezentovali aj Jiang a kol. (2012), ktorí sa vo svojej štúdii
+zamerali na informovanosť prvorodičiek v Šanghaji o dojčení. Zistili, že hoci väčšina matiek
+mala v úmysle dojčiť, ich povedomie o odporúčaniach Svetovej zdravotníckej organizácie
+bolo obmedzené. Tento nedostatok znalostí poukazuje na potrebu cielenej edukácie matiek
+bez ohľadu na ich vek.
+Ďalšia štúdia, realizovaná Pandeyom a kol. (2015), analyzovala rozdiely v úrovni
+povedomia a postojov k dojčeniu medzi dvoma generáciami indických žien. Hoci celková
+70
+
+informovanosť o výhodách materského mlieka bola vysoká v oboch skúmaných skupinách,
+znalosti týkajúce sa správnej techniky dojčenia a jeho frekvencie boli nedostatočné bez
+ohľadu na vek respondentiek. Tieto zistenia podporujú výsledky nášho výskumu, ktorý
+nepotvrdil štatisticky významnú asociáciu medzi vekom matky a úrovňou jej vedomostí o
+dojčení.
+Na základe uvedených zistení možno konštatovať, že vek matky nepredstavuje
+určujúci faktor ovplyvňujúci úroveň jej vedomostí o dojčení.
+Hypotéza číslo 3 Zdroje, odkiaľ ženy čerpajú informácii.
+H0 Predpokladáme, že medzi vzdelaním a zdrojmi, odkiaľ ženy čerpajú informácii a
+nadobúdajú vedomosti, nie je vzťah.
+HA Predpokladáme, že medzi vzdelaním a zdrojmi, odkiaľ ženy čerpajú informácii
+nadobúdajú vedomosti, je vzťah
+V rámci tretej hypotézy analyzujeme zdroje, z ktorých ženy získavajú informácie a
+nadobúdajú vedomosti, pričom skúmame ich vzťah k dosiahnutému vzdelaniu. Dotazník
+obsahoval viacero možností informačných zdrojov, pričom respondenti hodnotili každú z
+nich na päťstupňovej škále, čo predstavuje ordinálnu premennú. Keďže aj vzdelanie je
+ordinálna premenná, na posúdenie vzťahu medzi týmito premennými použijeme Kendalov
+koeficient tau-β.
+Tabuľka 6 Vzťah medzi vzdelaním a zdrojmi informácií o hygienickej starostlivosti
+novorodenca
+Vzťah medzi vzdelaním a zdrojmi
+Vzdelanie
+informácií o hygienickej starostlivosti
+τβ
+novorodenca
+Od sestry z novorodeneckého oddelenia
+0,017
+v pôrodnici
+Od pediatra z novorodeneckého oddelenia
+-0,019
+v pôrodnici
+Na predpôrodnom kurze
+0,076
+Z internetu
+-0,089
+Z odborných článkov
+-0,059
+Od rodiny (mama, stará mama, sestra)
+-0,090
+Od kamarátky
+-0,005
+Vysvetlivky: τβ – Kendallovo tau β, p – p-hodnota
+
+p
+0,802
+0,774
+0,282
+0,185
+0,382
+0,181
+0,938
+
+Výsledky analýzy prezentované v Tabuľky 6 ukazujú, že ani jedna z korelácií
+nedosiahla štatistickú významnosť, keďže všetky p-hodnoty presahujú hranicu 0,05. Pre
+lepšiu vizualizáciu je možné analyzovať graf 35, ktorý znázorňuje frekvenciu využívania
+jednotlivých zdrojov informácií ženami v závislosti od ich dosiahnutého vzdelania.
+71
+
+Graf 35 Priemerná miera využívania zdrojov informácií o hygienickej starostlivosti
+o novorodenca podľa vzdelania žien
+
+Je potrebné zdôrazniť, že v súbore respondentiek sa nachádzala iba jedna žena so
+základným vzdelaním, a preto je potrebné interpretovať výsledky grafu s náležitou
+opatrnosťou. Na základe údajov z Grafu 35 je najvýraznejší trend pozorovateľný pri
+informačnom zdroji „internet“, kde sa ukazuje, že s rastúcou úrovňou vzdelania ženy čerpajú
+informácie z internetu menej často. Tento vzťah však nebol štatisticky významný.
+Tabuľka 7 Vzťah medzi vzdelaním a zdrojmi informácií o dojčení a výžive
+novorodenca
+Vzťah medzi vzdelaním a zdrojmi
+Vzdelanie
+informácií o dojčení a výžive
+τβ
+novorodenca
+Od sestry z novorodeneckého oddelenia
+-0,052
+v pôrodnici
+Od pediatra z novorodeneckého oddelenia
+0,035
+v pôrodnici
+Na predpôrodnom kurze
+0,070
+Od laktačnej poradkyne
+0,033
+Z internetu
+-0,009
+Z odborných článkov
+0,038
+Od rodiny (mama, stará mama, sestra)
+-0,072
+Od kamarátky
+-0,074
+Vysvetlivky: τβ – Kendallovo tau β, p – p-hodnota
+72
+
+p
+0,442
+0,610
+0,322
+0,632
+0,891
+0,574
+0,287
+0,281
+
+Analýza nepreukázala štatisticky významné vzťahy medzi úrovňou vzdelania a
+zdrojmi informácií o dojčení a výžive. Na základe výsledkov preto nezamietame nulovú
+hypotézu, čo naznačuje absenciu štatisticky významnej súvislosti medzi týmito
+premennými.
+Graf 36 Priemerná miera využívania zdrojov informácií o dojčení výžive novorodenca,
+podľa vzdelania žien
+
+Z údajov Grafu 36 vyplýva, že ženy naprieč rôznymi úrovňami vzdelania využívajú
+informačné zdroje relatívne rovnomerne. To naznačuje, že faktory ako osobné preferencie,
+dostupnosť zdravotníckych služieb alebo individuálna motivácia môžu mať väčší vplyv na
+výber informačných zdrojov než samotné vzdelanie.
+Najvýraznejší trend bol pozorovaný pri informačnom zdroji „internet“, kde sa
+ukázalo, že ženy s vyšším vzdelaním ho využívajú menej často. Tento vzťah však nebol
+štatisticky významný, a preto ho nemožno považovať za jednoznačný ukazovateľ
+vzdelanostnej úrovne pri vyhľadávaní informácií.
+Získané údaje poukazujú na dôležitosť zabezpečenia kvalitných a dostupných
+informačných zdrojov pre všetky ženy bez ohľadu na ich vzdelanie. Zdravotnícki pracovníci
+by mali byť kľúčovými sprostredkovateľmi spoľahlivých informácií, čím by sa predišlo
+šíreniu nepresných alebo neodborných odporúčaní. Efektívne edukačné programy a
+dostupnosť odborných informácií v rôznych formách môžu prispieť k lepšiemu
+informovaniu matiek a pozitívne ovplyvniť ich rozhodovanie v oblasti starostlivosti o
+novorodenca.
+73
+
+Výsledky našej štúdie sú v súlade so zisteniami Sink (2009), ktorá analyzovala zdroje
+informácií, z ktorých matky čerpajú poznatky o starostlivosti o novorodenca. Štúdia Seeking
+Newborn Information as a Resource for Maternal Support sa zameriavala na identifikáciu
+tém a informačných zdrojov, ktoré ženy vyhľadávajú po pôrode. Do tejto longitudinálnej
+deskriptívnej štúdie bolo zahrnutých 89 matiek, ktoré boli rekrutované z prenatálnych
+kurzov v dvoch zdravotníckych zariadeniach v stredozápadnej časti USA. Údaje boli
+získavané prostredníctvom telefonických rozhovorov v období medzi 2. a 3. týždňom po
+pôrode, pričom matky vypĺňali dotazníky hodnotiace ich vnímané podporné systémy.
+Výsledky výskumu zdôrazňujú význam kontinuálnej podpory a dostupnosti
+informácií pre nové matky, čo môže pozitívne ovplyvniť ich sebadôveru a rodičovskú
+kompetenciu. Štúdia potvrdila, že matky získavajú informácie z viacerých zdrojov, pričom
+významnú úlohu zohrávajú zdravotnícki pracovníci, rodina a internet. Tieto zistenia
+naznačujú, že dostupnosť a rôznorodosť informačných zdrojov môžu prispievať k lepšej
+pripravenosti matiek na starostlivosť o novorodenca, avšak nepotvrdzujú štatisticky
+významnú súvislosť medzi úrovňou vzdelania matiek a využívanými zdrojmi informácií.
+Hypotéza číslo 4 Faktory, ktoré vplývajú na ženy v starostlivosti o novorodenca.
+H0 Predpokladáme, že medzi vekom a faktormi, ktoré vplývajú na ženy v starostlivosti o
+novorodenca, nie je vzťah.
+HA Predpokladáme, že medzi vekom a faktormi, ktoré vplývajú na ženy v starostlivosti o
+novorodenca, je vzťah.
+H4.1
+H0: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a názorom žien na komunikáciu nie je vzťah.
+HA: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a názorom žien na komunikáciu je vzťah.
+H4.2
+H0: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a úrovňou podpory nie je vzťah.
+HA: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a úrovňou podpory je vzťah.
+H4.3
+H0: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a názorom žien na odbornosť zdravotníckeho personálu nie je vzťah.
+74
+
+HA: Predpokladáme, že medzi úrovňou informovanosti žien v starostlivosti o novorodenca
+a názorom žien na odbornosť zdravotníckeho personálu je vzťah.
+V rámci tejto hypotézy, ktorá je rozdelená na subhypotézy, analyzujeme vzťah medzi
+úrovňou vedomostí o starostlivosti o novorodenca (otázka 27) a premennými
+reprezentovanými otázkami 28, 29 a 30. Keďže všetky tieto premenné majú ordinálny
+charakter, na ich vzájomnú súvislosť aplikujeme, rovnako ako v predchádzajúcej hypotéze,
+vhodné štatistické metódy pre ordinálne dáta.
+Tabuľka 8 Vzťah medzi vedomosťami v starostlivosti o novorodenca:
+Vedomosti v starostlivosti o
+novorodenca
+τβ
+p
+
+Vzťah medzi vedomosťami
+v starostlivosti o novorodenca:
+
+Úroveň komunikácie zdravotníckeho
+0,219
+personálu počas starostlivosti
+Úroveň podpory zdravotníckeho personálu,
+0,213
+počas starostlivosti
+Odbornosť zdravotníckeho personálu, počas
+0,219
+starostlivosti o dieťa
+Vysvetlivky: τβ – Kendallovo tau β, p – p-hodnota
+
+0,001
+0,001
+0,001
+
+Z Tabuľky 8 vidíme, že v tomto prípade všetky tri p-hodnoty dosiahli hodnotu
+menšiu ako 0,05, čo nám umožňuje zamietnuť nulovú hypotézu a potvrdiť alternatívnu
+hypotézu. Výsledky naznačujú, že existuje štatisticky významný vzťah medzi úrovňou
+informovanosti žien o starostlivosti o novorodenca a ich názorom na kvalitu komunikácie.
+Rovnako sa potvrdila štatisticky významná súvislosť medzi úrovňou informovanosti a
+vnímanou úrovňou podpory. Okrem toho sa preukázal aj štatisticky významný vzťah medzi
+informovanosťou žien a ich názorom na odbornosť zdravotníckeho personálu. Na analýzu
+týchto vzťahov bol použitý Kendallov koeficient tau.
+
+75
+
+Graf 37 Úroveň komunikácie zdravotníckeho personálu počas starostlivosti
+
+Graf 38 Úroveň podpory zdravotníckeho personálu, počas starostlivosti
+
+76
+
+Graf 39 Odbornosť zdravotníckeho personálu, počas starostlivosti o dieťa
+
+Výsledky našej štúdie sú v súlade so zisteniami Miles et al. (2007), ktorí analyzovali
+dôveru matiek v starostlivosť o novorodenca na neonatálnej jednotke intenzívnej
+starostlivosti. Štúdia Maternal Confidence in the Neonatal Intensive Care Unit sa
+zameriavala na vzťah medzi dôverou matiek a ich interakciami so zdravotníckym
+personálom. Do tejto štúdie boli zahrnuté matky hospitalizovaných novorodencov, pričom
+údaje boli získavané pomocou dotazníkov hodnotiacich ich dôveru, podporu a komunikáciu
+so zdravotníckym personálom.
+Výsledky výskumu zdôrazňujú význam informovanosti matiek v procese
+starostlivosti o novorodenca. Štúdia potvrdila, že matky s vyššou úrovňou dôvery v
+starostlivosť o svoje dieťa vykazovali lepšiu komunikáciu so zdravotníckym personálom,
+vnímali vyššiu úroveň podpory a lepšie hodnotili odbornú úroveň poskytovanej
+starostlivosti. Tieto zistenia naznačujú, že informované matky sa cítia istejšie a vnímajú
+interakcie so zdravotníkmi pozitívnejšie, čo môže prispieť k lepšiemu zvládaniu
+starostlivosti o novorodenca.
+Výsledky testovania subhypotézy H4.1 ukázali, že existuje štatisticky významný
+vzťah medzi úrovňou informovanosti žien a ich názorom na komunikáciu zo strany
+zdravotníckeho personálu (τβ = 0,219, p = 0,001). Tieto výsledky korešpondujú s výskumom
+Miles et al. (2007), ktorý tiež identifikoval pozitívny vzťah medzi dôverou matiek a ich
+vnímaním komunikácie v prostredí nemocničnej starostlivosti. Naše zistenia naznačujú, že
+77
+
+lepšie informované ženy majú väčšiu schopnosť porozumieť poskytovaným informáciám a
+efektívnejšie komunikovať so zdravotníckym personálom.
+Podobne, výsledky subhypotézy H4.2 potvrdili štatisticky významný vzťah medzi
+úrovňou informovanosti žien a ich vnímaním podpory zdravotníckeho personálu (τβ = 0,213,
+p = 0,001). Tento výsledok je v súlade so zisteniami Miles et al. (2007), ktorí preukázali, že
+matky s vyššou úrovňou dôvery v starostlivosť o dieťa vnímali vyššiu mieru podpory zo
+strany zdravotníckeho personálu. Naše zistenia zdôrazňujú potrebu cielenej edukácie pre
+matky, aby sa zvýšila ich sebadôvera a pozitívne vnímanie poskytovanej podpory.
+V prípade subhypotézy H4.3 bol taktiež preukázaný štatisticky významný vzťah
+medzi úrovňou informovanosti žien a ich názorom na odbornosť zdravotníckeho personálu
+(τβ = 0,219, p = 0,001). Hoci Miles et al. (2007) priamo neskúmali vnímanie odbornosti
+zdravotníckeho personálu, ich zistenia naznačujú, že matky s vyššou úrovňou dôvery a
+sebadôvery v starostlivosť o novorodenca hodnotili interakcie so zdravotníckym personálom
+pozitívnejšie. Naše výsledky naznačujú, že informované ženy môžu lepšie posúdiť odbornú
+úroveň personálu a sú schopné realisticky hodnotiť kvalitu poskytovanej starostlivosti.
+
+78
+
+ODPORUČANIA PRE PRAX
+Na základe zistení z výskumu je možné formulovať nasledovné odporúčania do
+praxe, ktoré môžu prispieť k zlepšeniu informovanosti a prístupu ku kvalifikovaným
+informáciám:
+1.
+
+Zdravotnícke
+
+zariadenia
+
+by
+
+mali
+
+zlepšiť
+
+predpôrodnú
+
+edukáciu
+
+organizovaním pravidelných kurzov počas tehotenstva, najmä v druhom a treťom trimestri,
+ktoré by zahŕňali praktické ukážky kúpania, prebaľovania a manipulácie s novorodencom.
+
+2.
+
+Kurzy by mali byť dostupné aj online a propagované cez webové stránky,
+
+sociálne siete a letáky v ambulanciách.
+
+3.
+
+Bezprostredne po pôrode, v prvých 24 hodinách, by pôrodné asistentky a
+
+sestry mali poskytovať individuálnu podporu pri dojčení, vysvetliť správne techniky a
+využívať koncept bonding a rooming-in.
+
+4.
+
+Počas pobytu v nemocnici a pri prvých návštevách pediatra by mali sestry a
+
+pôrodné asistentky poskytovať jasné inštrukcie o starostlivosti o pupočný pahýľ, kúpaní a
+prebaľovaní, demonštrovať správne postupy a rozdať informačné materiály.
+
+5.
+
+Zdravotnícky personál by mal odporúčať overené zdroje informácií, ako sú
+
+oficiálne webové stránky, mobilné aplikácie a odborné publikácie, a poskytovať aktuálne
+informačné materiály pri ambulantných návštevách.
+
+6.
+
+Vedúca sestra a vedúca pôrodná asistentka by mali pravidelne školiť personál
+
+v efektívnej komunikácii a edukácii rodičov, aktualizovať vzdelávacie programy podľa
+najnovších odporúčaní a realizovať pravidelné hodnotenia spokojnosti rodičov, aby sa
+zabezpečila kvalitná starostlivosť o matku a dieťa.
+
+79
+
+ZÁVER
+Správna informovanosť matiek zohráva kľúčovú úlohu pri zabezpečení optimálnej
+starostlivosti o novorodenca. Táto práca analyzovala faktory, ktoré ovplyvňujú úroveň
+vedomostí žien, a zdôraznila význam vzdelávania v tejto oblasti. Výsledky ukázali, že aj keď
+ženy majú prístup k širokému spektru informácií, tieto informácie nie sú vždy správne alebo
+odborné. Tento stav môže viesť k nesprávnym rozhodnutiam pri starostlivosti o dieťa, čo
+podčiarkuje potrebu efektívnejšieho šírenia overených informácií.
+Výsledky tejto práce zdôrazňujú potrebu systematickej edukácie žien už počas
+tehotenstva prostredníctvom predpôrodných kurzov, ako aj po pôrode v rámci
+zdravotníckych zariadení. Rovnako dôležité je posilnenie podpory zo strany zdravotníckeho
+personálu, ktorý zohráva kľúčovú úlohu pri odovzdávaní správnych informácií a praktických
+zručností matkám.
+Úroveň informovanosti žien môže byť ovplyvnená rôznymi faktormi, ako sú
+vzdelanie, predchádzajúce skúsenosti, dostupnosť zdravotníckych služieb či kvalita
+predpôrodnej prípravy. Mnohé matky sa spoliehajú na vlastnú intuíciu alebo neformálne
+zdroje informácií, čo môže byť užitočné, no nie vždy dostatočné. Preto je nevyhnutné, aby
+zdravotnícki pracovníci aktívne prispievali k poskytovaniu overených informácií a pomáhali
+matkám v získavaní praktických zručností.
+Záverom možno konštatovať, že informovanosť žien o starostlivosti o novorodenca
+je základom pre zdravý vývin dieťaťa a dôležitým predpokladom pre sebavedomie a istotu
+matiek. Zlepšenie edukácie v tejto oblasti môže výrazne prispieť k prevencii zdravotných
+komplikácií, podpore dojčenia a celkovému zlepšeniu kvality života rodín. Veríme, že
+poznatky uvedené v tejto práci budú podnetom pre ďalší rozvoj vzdelávacích programov a
+podporia úsilie o vytváranie prostredia, v ktorom sa každá matka bude cítiť informovaná,
+pripravená a sebavedomá vo svojej úlohe.
+
+80
+
+ZOZNAM PRÍLOH
+Príloha 1 Dotazník
+
+Vážená pani,
+Dovoľujem si Vás požiadať o vyplnenie dotazníka, ktorý robím za účelom mojej
+diplomovej práce v odbore ošetrovateľstvo na Fakulte Zdravotníctva a Sociálnej práce,
+Trnavskej univerzity v Trnave. Táto práca má prispieť k získaniu vedomostí žien v oblasti
+starostlivosti o novorodenca.
+Mojim cieľom je, aby som preskúmala, aké vedomosti majú matky v starostlivosti o
+novorodenca, aké informácie dostávajú od zdravotníckeho personálu a aké problémy riešia
+v starostlivosti o novorodenca. Získanými výsledkami by som chcela prispieť k zlepšeniu
+informovanosti zdravotníckeho personálu o problémoch matiek v starostlivosti o
+novorodenca a tak zlepšiť kvalitu poskytovanej zdravotnej starostlivosti. Pri vypĺňaní
+dotazníka sa prosím riaďte pokynmi pri jednotlivých otázkach. Prosím vás o odpovedanie
+na všetky uvedené otázky. Vopred Vám ďakujem za Váš čas a spoluprácu.
+Bc. Elmira Kataleva
+1. Napíšte koľko rokov máte?
+
+_____________
+
+2. Napíšte koľké dieťa máte? _____________
+3. Uveďte Vaše najvyššie dosiahnuté vzdelanie:
+
+
+Základné
+
+
+
+Stredné bez maturity
+
+
+
+Stredné s maturitou
+
+
+
+Vysokoškolské
+
+4. Absolvovali ste predpôrodný kurz, ktorý zahŕňal tému starostlivosti o novorodenca
+a dojčenia?
+
+
+Áno
+
+
+
+Nie
+
+5. Ak ste takýto kurz neabsolvovali, bolo to z dôvodu (1 najvýstižnejšia odpoveď):
+
+
+Nevedela som, že taký kurz existuje
+
+
+
+Nemala som potrebu takýto kurz absolvovať,
+
+
+
+Myslím si, že starostlivosť o novorodenca zvládnem aj bez kurzu
+
+
+
+Spoľahnutia sa na pomoc zdravotníckeho personálu v starostlivosti
+o novorodenca
+81
+
+
+
+Spoľahnutia sa na pomoc rodiny a najbližších v starostlivosti o novorodenca
+
+
+
+Mám predchádzajúcu skúsenosť so starostlivosťou o novorodenca
+
+
+
+Spolieham
+
+sa
+
+na
+
+dulu
+
+alebo
+
+laktačnú
+
+poradkyňu
+
+v starostlivosti
+
+o novorodenca
+
+
+Iné (doplňte)
+
+6. Viete, aká je ideálna teplota vody na kúpanie novorodenca?
+
+
+36-37°C
+
+
+
+25-30°C
+
+
+
+40-45°C
+
+7. Keby ste nemali teplomer, ako by ste zistili ideálnu teplotu vody?
+
+
+S pomocou dlane
+
+
+
+S pomocou predlaktia
+
+8. Aká je ideálna teplota v izbe počas kúpania novorodenca?
+
+
+24-25°C
+
+
+
+15-20°C
+
+
+
+30-35°C
+
+9. Ako často treba kúpať novorodenca?
+
+
+Každý deň.
+
+
+
+Každý druhý deň.
+
+
+
+Nemusí sa kúpať vôbec, stačí umyť zadoček pod vodou.
+
+10. Aká technika kúpania je správna?
+
+
+Kúpanie vo vaničke
+
+
+
+Otrieť dieťa mokrou žinkou a vzápätí osušiť plienkou
+
+
+
+Kúpať dieťa v kúpacom vedierku
+
+
+
+Iné (doplňte) ...............................
+
+11. Ako často treba prebaľovať novorodenca?
+
+
+4-6 krát za deň
+
+
+
+Každé 3 hodiny
+
+
+
+Len vtedy, keď plienka je špinavá
+
+12. Akú techniku prebaľovania novorodenca poznáte?
+
+
+Uchopiť dieťa za nožičky a nadvihnúť tak, aby bolo možné pod zadoček
+zasunúť plienku a dať krém na zadoček.
+
+
+
+Pretočiť dieťa na bok, zasunúť plienku pod zadoček a pretočiť dieťa na
+82
+
+plienku.
+13. Viete, ako sa starať o zadoček novorodenca pri zapareninách?
+
+
+Áno
+
+
+
+Nie
+
+
+
+Skôr áno
+
+
+
+Skôr nie
+
+14. Pokiaľ áno, ako by ste sa starali o zadoček v prípade zaparenín?
+
+
+Používala by som špeciálne masti na zapareniny.
+
+
+
+Stačí používať protialergické a voľnejšie plienky.
+
+
+
+Išla by som k lekárovi.
+
+15. Viete ako treba sa starať o pupočný pahýľ?
+
+
+Áno
+
+
+
+Nie
+
+
+
+Skôr áno
+
+
+
+Skôr nie
+
+16. Pokiaľ áno, aká technika starostlivosti o pupočný pahýľ Vám bola demonštrovaná?
+
+
+Umyť vodou, vydezinfikovať a nechať voľný bez krytia
+
+
+
+Neumývať vodou, vydezinfikovať a nechať voľný bez krytia
+
+
+
+Vydezinfikovať a zabaliť do mulového štvorca
+
+
+
+Vydezinfikovať a nechať zaschnúť bez krytia
+
+17. Kedy sa začína tvoriť materské mlieko?
+
+
+Hneď po pôrode
+
+
+
+Do týždňa po pôrode
+
+
+
+Počas tehotenstva
+
+18. Ako často treba dojčiť alebo kŕmiť novorodenca?
+
+
+Každé 2-3 hodiny
+
+
+
+Každé 4-5 hodín
+
+
+
+Len vtedy, keď si novorodenec vypýta
+
+19. Aké zloženie má materské mlieko? (Viac možností odpovedí)
+
+
+Kolostrum, prechodné mlieko, zrelé mlieko
+
+
+
+Bielkoviny, aminokyseliny, tuky, cukry, vitamíny
+
+
+
+Len vitamíny
+
+
+
+Len zrelé mlieko
+83
+
+20. Aký má dojčenie význam pre bábätko? (Viac možností odpovedí)
+
+
+Chráni pred infekciami
+
+
+
+Pôsobí na vývin novorodenca
+
+
+
+Zabraňuje proti vzniku alergie
+
+
+
+Vytvára citovú väzbu medzi matkou a dieťaťom
+
+21. Viete, aké sú zásady správnej polohy pri dojčení? (Viac možností odpovedí)
+
+
+Pred dojčením dieťa musí byť spokojné, nemôže plakať alebo kričať
+
+
+
+Vždy prikladáme dieťa k prsníku, nie opačne
+
+
+
+Dieťa počas dojčenia musí ležať na boku
+
+
+
+Nesmie byť žiadna prekážka počas dojčenia medzi mamou a novorodencom
+
+22. Ako sa prejavuje nedostatok výživy u dieťaťa? (Viac možností odpovedí)
+
+
+Nadmerným plačom
+
+
+
+Zmenou sfarbenia stolice z jantárovo žltej na zelenú
+
+
+
+Zmenou sfarbenia stolice z jantárovo žltej na hnedú
+
+
+
+Nadmernou spavosťou dieťaťa,
+
+
+
+Nedostatočným priberaním na váhe
+
+
+
+Iné (doplňte): _____________________
+
+23. Viete čo treba spraviť ak budete subjektívne pociťovať, že máte málo mlieka?
+
+
+Vyhľadám alebo zavolám laktačnej poradkyne a poradím sa s ňou
+
+
+
+Pôjdem k detskej lekárke, nech skontroluje dostatok výživy pre dieťa
+
+
+
+Pár dní počkám, kým sa stav množstva mlieka upraví, lebo viem, že táto
+situácia môže nastať
+
+
+
+Dokŕmim dieťa umelou výživou (umelým mliekom)
+
+24. Odkiaľ ste dostali informácie o hygienickej starostlivosti novorodenca (napríklad,
+kúpeľ, prebaľovanie)? Označte odpoveď na škále od 1 – 5, kde 1 znamená najmenej
+informácií, 5 znamená najviac informácií
+
+
+Od sestry z novorodeneckého oddelenia v pôrodnici
+
+1 - 2 - 3 - 4 -
+
+5
+
+
+Od pediatra z novorodeneckého oddelenia v pôrodnici
+5
+
+
+
+Na predpôrodnom kurze
+
+
+
+Z internetu
+
+
+
+Z odborných článkov 1 - 2 - 3 - 4 - 5
+
+1 - 2 - 3 - 4 - 5
+
+1 - 2 - 3 - 4 - 5
+
+84
+
+1 - 2 - 3 - 4 -
+
+
+
+Od rodiny (mama, stará mama, sestra) 1 - 2 - 3 - 4 - 5
+
+
+
+Od kamarátky 1 - 2 - 3 - 4 - 5
+
+
+
+Odkiaľ ste dostali informácie o dojčení a výžive novorodenca?
+
+
+
+Od sestry z novorodeneckého oddelenia v pôrodnici
+
+1 - 2 - 3 - 4 -
+
+5
+
+
+Od pediatra z novorodeneckého oddelenia v pôrodnici
+
+1 - 2 - 3 - 4 -
+
+5
+
+
+Na predpôrodnom kurze
+
+
+
+Od laktačnej poradkyne 1 - 2 - 3 - 4 - 5
+
+
+
+Z internetu
+
+
+
+Z odborných článkov 1 - 2 - 3 - 4 - 5
+
+
+
+Od rodiny (mama, stará mama, sestra) 1 - 2 - 3 - 4 - 5
+
+
+
+Od kamarátky 1 - 2 - 3 - 4 - 5
+
+1 - 2 - 3 - 4 - 5
+
+1 - 2 - 3 - 4 - 5
+
+25. Môžete povedať, že ste boli po odchode z pôrodnice dostatočne informovaná
+o starostlivosti novorodenca a dojčení, výžive novorodenca?
+
+
+Áno
+
+
+
+Skôr áno
+
+
+
+Skôr nie
+
+
+
+Nie
+
+26. Napíšte od koho by ste najviac očakávali informácie o starostlivosti novorodenca a
+dojčení, výžive novorodenca?
+1. Od sestry z novorodeneckého oddelenia v pôrodnici
+2. Od pediatra z novorodeneckého oddelenia v pôrodnici
+3. Od laktačnej poradkyne
+4. Na predpôrodnom kurze
+5. Z internetu
+6. Z odborných článkov
+7. Od rodiny (mama, stará mama, sestra)
+8. Od kamarátky
+9. Od duly
+10. Od nikoho, spolieham sa iba na seba, zvládli iné matky, zvládnem aj ja
+Iné (doplňte) .....................................
+
+85
+
+Oznámkujte ďalšie otázky na škále od 1 (veľmi zlá) do 5 (vynikajúca).
+1. Ako by ste zhodnotili vaše vedomosti v starostlivosti o novorodenca?
+1
+
+-
+
+2
+
+-
+
+3
+
+-
+
+4
+
+-
+
+5
+
+2. Ako by ste zhodnotili úroveň komunikácie zdravotníckeho personálu počas
+starostlivosti?
+1
+
+-
+
+2
+
+-
+
+3
+
+-
+
+4
+
+-
+
+5
+
+3. Ako by ste zhodnotili úroveň podpory zdravotníckeho personálu, ktorú ste dostali
+počas starostlivosti?
+1
+
+-
+
+2
+
+-
+
+3
+
+-
+
+4
+
+-
+
+5
+
+4. Ako by ste zhodnotili odbornosť zdravotníckeho personálu, ktoré sa starali o vaše
+dieťa?
+1
+
+-
+
+2
+
+-
+
+3
+
+-
+
+4
+
+-
+
+5
+
+5. Ako by ste zhodnotili celkový dojem starostlivosti o novorodenca počas pobytu v
+nemocnice?
+1
+
+-
+
+2
+
+-
+
+3
+
+-
+
+4
+
+86
+
+-
+
+5
+
+ZOZNAM POUŽITEJ LITERATÚRY
+AMERICAN ACADEMY OF PEDIATRICS. 2020. Positioning Your Baby For
+Breastfeeding. [online]. HealthyChildren.org. [cit. 2024.12.05]. Dostupné na:
+https://www.healthychildren.org/English/ages stages/baby/breastfeeding/Pages/Positioning
+-Your-Baby-For-Breastfeeding.aspx
+AMERICAN ACADEMY OF PEDIATRICS. 2020. Umbilical Cord Care.
+HealthyChildren.org [online]. [cit. 2024.08.28]. Dostupné na: https://www.healthychildren
+.org/English/ages-stages/baby/bathing-skin-care/Pages/Umbilical-Cord-Care.aspx.
+AMERICAN ACADEMY OF PEDIATRICS. 2021. Changing Diapers [online]. [s.l.]:
+HealthyChildren.org, 2021 [cit. 2024-0711]. Dostupné na: https://www.healthchildren.org/English/ages-stages/baby/diapersclothing/Pages/Changing-Diapers.aspx.https://www.healthychildren.org/English/agesstages/baby/diapers-clothing/Pages/Changing-Diapers.aspx.
+BAŇASOVÁ,V.; PEŘINOVÁ, N. 2011. Starostlivosť o genitálie v novorodeneckom veku
+a prevencia infekcií [online]. [s.l.]: [s.n.], 2011[cit. 2024-11-22]. Dostupné na:
+https://www.neonatologickasestra.sk/docs/za2011/P03.pdf
+BERMAN, A.; SNYDER, S.; FRANDSEN, G. 2016. Promoting Health from Conception
+Through Adolescence. In Kozier and Erb’s fundamentals of nursing: Concepts, practice,
+and process. 10. vyd. Prentice Hall, 2016. s. 330-335.
+BOLDEVIČOVÁ, M. a kol. 2010. Pediatrické ošetrovateľstvo. 3.vyd. Martin : Osveta,
+2010. 420 s. ISBN 978-80-8063-331-8.
+BORJI, M.; SHAHBAZI, F.; NARIMAN, S.; OTAGHI, M.; SAFARI, S. 2018.
+Investigating the Relationship Between Mother-Child Bonding and Maternal Mental
+Health. In Journal of Comprehensive Pediatrics [online]. 2018, vol. 9, no. 1, e14014 [cit.
+2024.09.14]. Dostupné na: https://brieflands.com/articles/jcp-14014
+BUSER, J. M.; MOYER, C. A.; BOYD, C. J.; ZULU, D. a kol. 2021. Maternal knowledge
+
+87
+
+of essential newborn care in rural Zambia. In Health Care for Women International,
+[online]. 2021, vol. 42, no. 4-6, s. 778-793 [cit. 2025.02.19]. Dostupné na:
+https://doi.org/10.1080/07399332.2020.1781125
+DAVIS, J. R.; BROWN, T. K. et al. The role of prenatal care in early childhood
+development. Journal of Pediatric Health Care [online]. 2014, vol. 28, no. 6 [cit. 2024-0804]. Dostupné na: https://www.sciencedirect.com/science/article/abs/pii/S15273369140009
+20
+DETSKÁ FAKULTNÁ NEMOCNICA S POLIKLINIKOU BANSKÁ BYSTRICA. 2015.
+Novorodenecký skríning [online]. [s.l.]: Detská nemocnica, 2015. Vytvorené 9. apríla 2015.
+Aktualizované: 25. januára 2024 [cit. 2024-22-11]. Dostupné na:
+https://www.detskanemocnica.sk/novorodenecky-skrining.
+
+DINLIYECI, E.C. 2025. Breastfeeding and Health Benefits for the Mother-Infant Dyad: A
+Perspective on Human Milk Microbiota. In Annals of Nutrition and Metabolism
+[online]. 2025, s 1- 13 [cit. 2025.02.19]. Dostupné na: https://karger.com/anm/article/doi/1
+0.1159/000541711/920381/Breastfeeding-and-Health-Benefits-for-the-Mother
+DORT, J.; DORTOVÁ, E.; JEHLIČKA, P. 2014. Neonatologie. 2. vyd. Praha: Karolinum,
+2014. 118 s. ISBN 978-80-246-2253-8.
+GANTAN, E.F.; WIEDRICH, L. Neonatal Evaluation. In StatPearls [online]. Treasure
+Island (FL): StatPearls Publishing, 2024 [cit. 2024-08-14]. Aktualizované: 14. augusta
+2023. Dostupné na: https://www.ncbi.nlm.nih.gov/books/NBK558943/
+GAVIN, Mary L., MD. 2021. Feeding Your Newborn. [online] KidsHealth, Nemours
+Foundation, 2021. [cit. 2024.07.14]. Dostupné na: https://kidshealth.org/en/parents/feedne
+wborn.prten.html.
+GREGORA, Martin; DOKOUPILOVÁ, Milena. 2016. Péče o novorozence a kojence.
+Praha: GRADA Publishing, 2016. 192 s. ISBN 978-80-247-5719-3
+HANDELZALTS, A., et al. 2021. Associations of rooming-in with maternal postpartum
+88
+
+bonding: the impact of mothers' pre-delivery intentions. In Journal of Clinical Psychology
+[online]. 2021, vol. 77, no. 4, s. 789-797 [cit. 2024.01.19]. Dostupné na:
+https://doi.org/10.1016/j.jpsychores.2021.03.014. ISSN 0022-39999
+HANDELZALTS, J. E.; LEVY, S.; MOLMEN LICHTER, M. a kol. 2021. Associations of
+rooming-in with maternal postpartum bonding: the impact of mothers' pre-delivery
+intentions. In Midwifery [online]. 2021, vol. 97, 102942 [cit. 2024.09.14]. Dostupné na:
+https://doi.org/10.1016/j.midw.2021.102942. ISSN 0266-6138
+CHOVANCOVÁ, D. 2017. Bonding a jeho význam v starostlivosti o matku a dieťa. In
+Gynekologická prax [online]. 2017, roč. 15, č. 1, s. 56-60 [cit. 2024.01.19]. Dostupné na:
+https://sgps.home.sk/wp-content/uploads/2022/12/2017-bonding-GPP-2017-1.pdf
+JIANG, H.; LI, M.; YANG, D., WEN, L.M., a kol. 2012. Awareness, Intention, and Needs
+Regarding Breastfeeding: Findings from First-Time Mothers in Shanghai, China.
+Breastfeedig Medicine, 2012. [online], vol. 7, no. 6, s. 333-338 [cit. 2025.02.19]. Dostupné
+na: https://www.liebertpub.com/doi/10.1089/bfm.2011.0124
+KOŠŤALOVÁ, Ľ., KOVÁCS L., TENCZEROVÁ A. a kol. Úvod do pediatrie: Skriptá
+pre nelekárske smery. 1. vyd. Bratislava: Lekárska fakulta Univerzity Komenského v
+Bratislave, 2005. 144 s.
+LYONS, Katríona E.; RYAN, C. Anthony; DEMPSEY, Eugene M.; ROSS, R. Paul;
+STANTON, Catherine. 2020. Breast Milk, a Source of Beneficial Microbes and Associated
+Benefits for Infant Health [online]. [s.l.]: National Library of Medicine, 2020
+[cit. 2024- 07- 11]. Dostupné na: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7231147
+/.
+MAŤAŠOVÁ, Katarína. 2020. Neonatológia nielen pre medikov. 1. vyd. Martin: Tlačiareň
+P+M, 2020. 254 s. ISBN 978-80-972973-8-4.
+MROSKOVÁ, S.; SCHLOSSEROVÁ, A. 2016. Základy starostlivosti o novorodenca:
+fyziologický novorodenec. Prešov: Vydavateľstvo Prešovskej univerzity, 2016. ISBN 97880-555-1646-2.
+89
+
+MSD Manuals. 2024. Physical Examination of the Newborn. [online]. [s.l.]: MSD
+Manuals, 2024 [cit. 2024-06-05]. Dostupné na:
+https://www.msdmanuals.com/professional/pediatrics/care-of-newborns-andinfants/physical-examination-of-the-newborn#Neurologic-System_v84055642.
+
+PANDEY, D.; SARDANA, P.; SAXENA, A.; DOGRA, L.; COONDOO, A.; KAMATH,
+A. 2015. Awareness and Attitude towards Breastfeeding among Two Generations of Indian
+Women: A Comparative Study. In PLOS ONE [online]. 2015. vol. 10, no. 5 [cit.
+2025.02.19]. Dostupné na:
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126575. ISSN 19326203
+PAULINA, B., VALDÉS, V. 2017. The benefits of breastfeeding and associated risks of
+replacement with baby formulas. [online]. Rev Chil Pediatr, 2017 [cit. 2024.06.10.].
+Dostupné na:
+https://cybermedlife.eu/attachments/article/5212/The%20benefits%20of%20breastfeeding
+%20and%20associated%20risks%20of%20replacement%20with%20baby%20formulas.pd
+f.
+PETRIE, K.; SMITH, J. et al. The impact of early intervention on neonatal outcomes. In
+PubMed [online]. 2022 [cit. 2024-07-15]. Dostupné na:
+https://pubmed.ncbi.nlm.nih.gov/35972992
+PREGNANCY, BIRTH & BABY. 2023. Kŕmenie vášho dieťaťa umelou výživou [online].
+In Pregnancy Birth & Baby, 2023 [cit. 2024.09.14]. Dostupné na:
+https://www.pregnancybirthbaby.org.au/feeding-your-baby-with-formula
+SANKAR, M. J., CHOUDHURY, S., et al. 2017. Neonatal Sepsis: Diagnosis and
+Management. [online]. Bethesda: National Center for Biotechnology Information, 2017.
+[сit. 2024.09.23]. Dostupné na: https://www.ncbi.nlm.nih.gov/books/NBK534767/
+SIDDIQI, A.; ZAINAB, A. et al. 2022. Neonatal sepsis: Pathogenesis, diagnosis, and
+management. Journal of Neonatal Medicine [online]. 2022, vol. 35, no. 9 [cit. 2024-0805]. Dostupné na: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9750512/
+90
+
+SILVESTRI, L. A., & CNE, A. E. 2019. Care of the Newborn. In: SILVESTRI, L. A.
+Saunders comprehensive review for the NCLEX-RN examination. 8. vyd. St. Louis:
+Saunders, 2019. s. 810-826. ISBN 978-0-323-61679-4.
+SIMON, L.V.; SHAH, M.; BRAGG, B. N. APGAR Score. In StatPearls [online]. Treasure
+Island (FL): StatPearls Publishing; 2024 [cit. 2024-06-08]. Aktualizované: 19. marca 2024.
+Dostupné na: https://www.ncbi.nlm.nih.gov/books/NBK470569/
+SINK, K.K. 2010. Seeking Newborn Information as a Resource for Maternal Support.
+Journal of Obstetric, Gynecologic & Neonatal Nursing [online]. 2010. vol. 39, no. 5, s.
+510 517 [cit. 2025.02.19]. Dostupné na: https://pmc.ncbi.nlm.nih.gov/articles/PMC273090
+0/. ISSN 0029-7844
+Unilabs Slovakia. 2024. Novorodenecký skríning na Slovensku [online]. [s.l.]: Unilabs
+Slovakia, 2024 [cit. 2024-06-05]. Dostupné na: https://www.unilabs.sk/clankyinvitro/novorodenecky-skrining-na-slovensku.
+WEN, L.M; SIMPSON, J.M; RISSEL, C.; BAUR, L.A. 2012. Awareness of Breastfeeding
+Recommendations and Duration of Breastfeeding: Findings from the Healthy Beginnings
+Trial. In Breastfeeding Medicine [online]. 2012, vol. 7, no. 4, s. 223-229 [cit. 2025.02.19].
+Dostupné na: https://www.liebertpub.com/doi/abs/10.1089/bfm.2011.0052
+ZDRAVOTEKA. Dojčenie: Ako správne dojčiť. [online]. Zdravoteka.sk [cit. 2024.08.15].
+Dostupné na: https://zdravoteka.sk/magazin/dojcenie-kojenie-ako-spravne-dojcit/
+
+91
+
+

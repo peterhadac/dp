@@ -1,0 +1,4992 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+Fakulta zdravotníctva a sociálnej práce
+
+36711
+
+VPLYV MOTIVAČNÝCH FAKTOROV ŠTUDENTOV
+ODBORU OŠETROVATEĽSTVA NA VÝKON
+ZDRAVOTNÍCKEHO POVOLANIA
+Diplomová práca
+
+Bc. Leona Bariaková
+2025
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+Fakulta zdravotníctva a sociálnej práce
+
+VPLYV MOTIVAČNÝCH FAKTOROV ŠTUDENTOV
+ODBORU OŠETROVATEĽSTVA NA VÝKON
+ZDRAVOTNÍCKEHO POVOLANIA
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Študijný odbor:
+
+7.4.1 Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva
+
+Vedúci práce/školiteľ:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava 2025
+Bc. Leona Bariaková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+ZADANIE ZÁVEREČNEJ DIPLOMOVEJ PRÁCE
+
+Meno, priezvisko a tituly študenta: Bc. Leona Bariaková
+Kód študenta: S1316053178
+Študijný program: 7.4.1 Ošetrovateľstvo
+Typ záverečnej práce: diplomová
+Názov záverečnej práce: Vplyv motivačných faktorov študentov odboru ošetrovateľstva
+na výkon zdravotníckeho povolania
+Meno, priezvisko a tituly vedúceho práce: doc. PhDr. Jana Martinková, PhD., MPH
+Školiace pracovisko: Katedra ošetrovateľstva Fakulty zdravotníctva a sociálnej práce
+Trnavskej univerzity v Trnave
+Meno, Priezvisko a tituly vedúceho pracoviska: doc. PhDr. Andrea Botíková, PhD.
+Anotácia záverečnej práce: Diplomová práca približuje problematiku vplyvu motivačných
+faktorov študentov odboru ošetrovateľstva na výkon zdravotníckeho povolania. Cieľom
+diplomovej práce je identifikovať motivačné faktory, ktoré ovplyvnili študentov odboru
+ošetrovateľstva pre výber zdravotníckeho povolania.
+Jazyk, v ktorom sa práca vypracuje: slovenský
+Dátum schválenia zadania: 26. 10. 2023
+
+Trnava, 2025
+
+.....................................
+podpis vedúceho práce
+
+Poďakovanie
+Moje úprimné poďakovanie patrí mojej školiteľke doc. PhDr. Jane Martinkovej, PhD., MPH,
+za jej profesionálne vedenie a cenné rady počas písania diplomovej práce, ako aj empatický
+prístup počas celého štúdia. Veľké ďakujem patrí aj Mgr. Anne Melichovej, ktorá svojou
+odbornosťou prispela k spracovaniu štatistického spracovania diplomovej práce.
+
+ABSTRAKT
+Bariaková Leona. Vplyv motivačných faktorov študentov odboru ošetrovateľstva na výkon
+zdravotníckeho povolania [Diplomová práca]. Trnavská univerzita v Trnave. Fakulta
+zdravotníctva a sociálnej práce, Katedra ošetrovateľstva Školiteľ: doc. PhDr. Jana
+Martinková, PhD., MPH. Stupeň odbornej kvalifikácie: magister. Trnava. FZaSP TU, 2025.
+74 s.
+Úvod: Ošetrovateľstvo, ako profesia, nesie so sebou špecifické nároky a výzvy a pacienti,
+ktorým je poskytovaná ošetrovateľská starostlivosť, vyžadujú vysokú mieru empatie a
+odbornosti. Preto je motivácia študentov k práci v zdravotníctve témou, ktorá si zaslúži
+osobitnú pozornosť.
+Cieľ: Cieľom diplomovej práce je identifikovať motivačné faktory, ktoré ovplyvnili
+študentov odboru ošetrovateľstva pre výber zdravotníckeho povolania, ako aj zistiť ich
+závislosť od veku, pohlavia a ukončeného stredoškolského vzdelania respondenta.
+Metodika: Pre potreby vypracovania výskumnej časti diplomovej práce sme získali
+potrebné informácie zamerané na nami riešenú problematiku prostredníctvom dotazníka
+vlastnej konštrukcie. Dotazník bol anonymný a distribuovaný online formou v časovom
+horizonte od marca 2024 do novembra 2024 a bol výhradne určený pre študentov vysokých
+škôl v odbore ošetrovateľstva (zámerný výber). Bol anonymný a obsahoval 3 demografické
+položky a 24 položiek zameraných na skúmanú problematiku. Výskumu sa zúčastnilo 239
+respondentov.
+Výsledky: Preukázali sme, že vplyv vnútorných faktorov na výber zdravotníckeho
+povolania bol v prípade respondentov nášho výberového súboru štatisticky významne väčší
+ako vplyv vonkajších faktorov. Bolo preukázané, že vplyv vnútorných faktorov pri výbere
+povolania respondentmi bol u respondentov oboch pohlaví štatisticky významne väčší ako
+vplyv vonkajších faktorov, ale ani v jednej z kategórií faktorov nebol v závislosti
+od pohlavia respondentov významne odlišný.
+Záver: Motivačné faktory zohrávajú významnú úlohu v procese rozhodovania výberu
+povolania. Ošetrovateľstvo patrí medzi odbory, ktoré si vyžadujú počas štúdia plné
+nasadenie, nielen v získavaní teoretických vedomostí a praktických zručností, ale najmä
+v ich plynulom prepojení. Ak však študent získa vzťah k ošetrovateľstvu, pochopí, že práca
+sestry je nenahraditeľná a môže v nej osobnostne rásť.
+Kľúčové slová: Motivačné faktory, motivácia, ošetrovateľstvo, sestra, výskum.
+
+ABSTRACT
+
+Bariaková Leona. The influence of motivational factors of nursing students on the
+performance of the health profession [Diploma thesis]. University of Trnava. Faculty of
+Health and Social Work. Supervisor: doc. PhDr. Jana Martinková, PhD., MPH. Degree of
+professional qualification: master. Trnava. FZaSP TU, 2025. 74 p.
+Introduction: Nursing, as a profession, carries with it specific demands and challenges, and
+patients who are provided with nursing care require a high level of empathy and expertise.
+Therefore, the motivation of students to work in the healthcare sector is a topic that deserves
+special attention.
+Objective: The aim of the thesis is to identify the motivational factors that influenced
+nursing students to choose a healthcare profession, as well as to determine their dependence
+on the age, gender and completed secondary education of the respondent.
+Methodology: For the purposes of developing the practical part of the thesis, we obtained
+the necessary information focused on the issue we were solving through a questionnaire of
+our own design. The questionnaire was anonymous and distributed online in the time frame
+from March 2024 to November 2024 and was exclusively intended for university students
+in the field of nursing (purposive sampling). It was anonymous and contained 3 demographic
+items and 24 items focused on the issue under study. 239 respondents participated in the
+research.
+Results: We demonstrated that the influence of internal factors on the choice of a healthcare
+profession was statistically significantly greater than the influence of external factors in the
+case of respondents in our sample. It was demonstrated that the influence of internal factors
+on the choice of a profession by respondents was statistically significantly greater than the
+influence of external factors in respondents of both sexes, but in neither of the categories of
+factors was it significantly different depending on the gender of the respondents.
+Conclusion: Motivational factors play a significant role in the decision-making process of
+choosing a profession. Nursing is one of the fields that requires full commitment during
+studies, not only in acquiring theoretical knowledge and practical skills, but especially in
+their smooth connection. However, if a student gains a relationship with nursing, he will
+understand that the work of a nurse is irreplaceable and can grow personally in it.
+Keywords: Motivational factors, motivation, nursing, nurse, research.
+
+OBSAH
+
+ABSTRAKT .......................................................................................................................... 5
+ABSTRACT........................................................................................................................... 6
+OBSAH .................................................................................................................................. 7
+ZOZNAM SKRATIEK.......................................................................................................... 9
+ZOZNAM TABULIEK A GRAFOV .................................................................................. 10
+ÚVOD .................................................................................................................................. 11
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY ......................................................... 13
+1.1
+
+Motivácia ................................................................................................................. 14
+
+1.1.1 Motivácia v zdravotníctve .......................................................................................... 15
+1.1.2 Motívy......................................................................................................................... 16
+1.1.3 Proces motivácie ......................................................................................................... 17
+1.1.4 Faktory motivácie ....................................................................................................... 18
+1.1.5 Motivácia k vzdelávaniu ............................................................................................. 19
+1.1.6 Bariéry motivácie ........................................................................................................ 22
+1.2 Profesia sestry ................................................................................................................ 22
+1.2.1 Koncepcia vzdelávania v odbore ošetrovateľstvo na Slovensku ................................ 23
+1.2.2 Kompetencie sestry ..................................................................................................... 24
+1.2.3 Povolanie sestry .......................................................................................................... 25
+1.2.4 Profesionálna rola sestry ............................................................................................. 26
+1.2.5 Imidž a atraktivita povolania sestry ............................................................................ 27
+1.3 Motivačné faktory pre vykonávanie povolania sestry ................................................... 28
+2 VÝSKUM ......................................................................................................................... 33
+2.1 Výskumný problém........................................................................................................ 33
+2.2 Ciele výskumu ............................................................................................................... 33
+2.3 Výskumné hypotézy ...................................................................................................... 34
+2.4 Organizácia a metodika výskumu .................................................................................. 34
+2.5 Charakteristika výskumného súboru .............................................................................. 35
+3 ANALÝZA VÝSLEDKOV VÝSKUMU ........................................................................ 36
+3.1 Štatistické vyhodnotenie výskumu a testovanie hypotéz ............................................... 50
+4 DISKUSIA ........................................................................................................................ 63
+
+4.1 Odporúčania pre prax..................................................................................................... 66
+ZÁVER ................................................................................................................................ 68
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV ............................................................... 69
+PRÍLOHY ............................................................................................................................ 75
+
+ZOZNAM SKRATIEK
+COVID
+
+coronavirus disease
+
+CVTI
+
+Centrum vedecko-technických informácií
+
+EKG
+
+elektrokardiogram
+
+MZ SR
+
+Ministerstvo zdravotníctva Slovenskej republiky
+
+PoCT
+
+Point of Care Testing
+
+WHO
+
+World Health Organization
+
+ZOZNAM TABULIEK A GRAFOV
+
+Tabuľka 1 Deskripcia údajov veku respondentov ............................................................... 36
+Tabuľka 2 Ukončená stredná škola ...................................................................................... 36
+Tabuľka 3 Otázka 1 ............................................................................................................. 37
+Tabuľka 4 Otázka 2 ............................................................................................................. 37
+Tabuľka 5 Otázka 3 ............................................................................................................. 37
+Tabuľka 6 Otázka 4 ............................................................................................................. 38
+Tabuľka 7 Otázka 5 ............................................................................................................. 38
+Tabuľka 8 Otázka 6 ............................................................................................................. 38
+Tabuľka 9 Otázka 7 ............................................................................................................. 39
+Tabuľka 10 Otázka 8 ........................................................................................................... 39
+Tabuľka 11 Otázka 9 ........................................................................................................... 40
+Tabuľka 12 Otázka 10 ......................................................................................................... 40
+Tabuľka 13 Otázka 11 ......................................................................................................... 40
+Tabuľka 14 Otázka 12 ......................................................................................................... 41
+Tabuľka 15 Otázka 13 ......................................................................................................... 41
+Tabuľka 16 Otázka 14 ......................................................................................................... 42
+Tabuľka 17 Otázka 15 ......................................................................................................... 42
+Tabuľka 18 Otázka 16 ......................................................................................................... 43
+Tabuľka 19 Otázka 17 ......................................................................................................... 43
+Tabuľka 20 Otázka 18 ......................................................................................................... 43
+Tabuľka 21 Otázka 19 ......................................................................................................... 44
+Tabuľka 22 Otázka 20 ......................................................................................................... 44
+Tabuľka 23 Otázka 21 ......................................................................................................... 45
+Tabuľka 24 Otázka 22 ......................................................................................................... 45
+Tabuľka 25 Otázka 23 ......................................................................................................... 46
+Tabuľka 26 Otázka 24 ......................................................................................................... 46
+Tabuľka 27 Deskripcia celkového skóre vonkajšieho faktora ............................................. 48
+Tabuľka 28 Deskripcia celkového skóre vnútorného faktora .............................................. 50
+Tabuľka 29 Normalita údajov skóre faktorov v H1............................................................. 52
+Tabuľka 30 Jednovýberový t – test v H1 ............................................................................. 52
+Tabuľka 31 Párový t – test v H1 .......................................................................................... 52
+
+Tabuľka 32 Test zhody dvoch proporcií v H1 ..................................................................... 53
+Tabuľka 33 Deskripcia skóre faktorov, pohlavie ................................................................ 53
+Tabuľka 34 Normalita údajov skóre mužov ........................................................................ 54
+Tabuľka 35 Normalita údajov skóre žien ............................................................................ 54
+Tabuľka 36 Párové t – testy v H2, pohlavie ........................................................................ 54
+Tabuľka 37 Dvojvýberové t – testy v H2, pohlavie............................................................. 55
+Tabuľka 38 Chí – kvadrát test v H2, pohlavie ..................................................................... 55
+Tabuľka 39 Deskripcia skóre faktorov, vek ........................................................................ 56
+Tabuľka 40 Normalita údajov v H3, vek ............................................................................. 57
+Tabuľka 41 Párové t – testy v H3, vek ................................................................................ 57
+Tabuľka 42 Dvojvýberové t – testy v H3, vek..................................................................... 58
+Tabuľka 43 Chí – kvadrát test v H3, vek ............................................................................. 58
+Tabuľka 44 Chí kvadrát test v H4, vnútorné faktory ........................................................... 60
+Tabuľka 45 Marascuilo procedúra v H4, vnútorné faktory ................................................. 60
+Tabuľka 46 Chí kvadrát test v H4, vonkajšie faktory .......................................................... 61
+Tabuľka 47 Marascuilo procedúra v H4, vonkajšie faktory ................................................ 62
+
+Graf 1 Priemerné skóre respondentov v otázkach vonkajšieho faktora............................... 48
+Graf 2 Priemerné skóre respondentov v otázkach vnútorného faktora ................................ 50
+
+ÚVOD
+Motivácia je jedným z najdôležitejších faktorov, ktoré ovplyvňujú rozhodovanie
+jednotlivcov o svojich profesijných dráhach a následných zamestnaniach. Obzvlášť v oblasti
+zdravotnej starostlivosti, kde sú emocionálne a psychologické aspekty práce mimoriadne
+významné, je pochopenie motivačných faktorov študentov ošetrovateľstva rozhodujúce
+pre efektívne plánovanie ich vzdelávacích a osobných dráh. Ošetrovateľstvo, ako profesia,
+nesie so sebou špecifické nároky a výzvy, pričom klienti, ktorým sú poskytované služby,
+často vyžadujú vysokú mieru empatie a odbornosti. Preto je motivácia študentov k práci
+v zdravotnej starostlivosti témou, ktorá si zaslúži osobitnú pozornosť.
+V posledných rokoch sa zdravotnícky sektor stretáva s mnohými výzvami, ktoré si vyžadujú
+kvalifikovaných a motivovaných profesionálov. Zvyšujúci sa dopyt po starostlivosti
+v súvislosti so starnutím populácie, rozvojom chronických ochorení a inovatívnych
+liečebných postupov, ako aj nároky na kvalitu a bezpečnosť služieb, kladú na sestry vysoké
+očakávania. V kontexte týchto meniacich sa podmienok sa stáva dôležité nielen motivovať
+budúcich zdravotníckych pracovníkov, ale aj pochopiť, čo konkrétne ich prinúti k voľbe
+kariéry v ošetrovateľstve.
+Cieľom tejto diplomovej práce je identifikovať a analyzovať kľúčové motivačné faktory,
+ktoré ovplyvňujú študentov ošetrovateľstva v ich rozhodnutí pracovať v oblasti
+zdravotníctva. Zvažovať budeme nielen interné faktory, ako sú osobné presvedčenia,
+hodnoty a ambície študentov, ale aj externé faktory, medzi ktoré patrí sociálne prostredie,
+ekonomické podmienky a podpora zo strany rodiny či inštitúcií. Skrze komplexnú analýzu
+týchto aspektov sa snažíme získať hlbší pohľad na to, čo motivuje študentov v ich
+profesijných voľbách.
+V teoretických východiskách práce sa zameriame na rôzne teórie motivácie a ich aplikáciu
+na oblasť zdravotnej starostlivosti, pričom sa pokúsime prepojiť literárne zdroje a empirické
+zistenia, ktoré nám poskytnú cenné informácie o motivácii študentov ošetrovateľstva.
+Výskumné otázky budú zohľadňovať, akú úlohu zohráva osobná hodnotová orientácia,
+ašpirácia na profesijný rast a zmenu vo vyžadovaných zručnostiach v rámci dynamicky sa
+vyvíjajúceho zdravotníckeho sektora.
+Výskumná časť sa zameriava na zber dát prostredníctvom kvantitatívneho prieskumu, aby
+sme získali konkrétne názory, pocity a postoje študentov vo vzťahu k ich motivovaniu
+k práci v zdravotníctve. Zohľadníme aj faktory, ktoré môžu predstavovať prekážky v ich
+11
+
+rozhodovaní, ako sú stres, vyhorenie alebo nedostatočné financovanie vzdelávacích
+programov.
+Celkovo naša diplomová práca prispieva k lepšiemu pochopeniu motivačných faktorov,
+ktoré ovplyvňujú študentov ošetrovateľstva, a tým aj k efektívnejšiemu navrhovaniu
+programov, ktoré im poskytnú potrebné podmienky a nástroje na rozvoj ich kariéry.
+Vzhľadom na to, že motivácia študentov je kľúčovým faktorom pre kvalitu zdravotnej
+starostlivosti a stabilitu zdravotníckeho systému, táto téma naberá na aktuálnosti a
+dôležitosti, čo motivuje k hlbšiemu skúmaniu a analýze.
+
+12
+
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY
+Nedostatok ošetrovateľského personálu je medzinárodne alarmujúcim problémom a očakáva
+sa, že sa kríza v nasledujúcich rokoch ešte zhorší (Drennan – Ross, 2019). Dopyt po sestrách
+globálne rastie. Do roku 2030 môže byť potrebných 9 miliónov nových sestier a 40 miliónov
+nových sociálnych a zdravotníckych pracovníkov (WHO, 2022). Na zabezpečenie
+udržateľných zdravotných systémov je potrebné efektívne plánovanie pracovnej sily
+(Drennan - Ross, 2019). Nábor a udržanie sestier na zabezpečenie bezpečnej a kvalitnej
+starostlivosti sú preto hlavným záujmom nemocníc a iných organizácií poskytujúcich
+zdravotnú starostlivosť (WHO, 2020). Potreba zvýšiť atraktivitu ošetrovateľskej profesie
+bola uznaná na národnej i medzinárodnej úrovni. Imidž profesie si vyžaduje posilnenie.
+Viacero prieskumov odhalilo zníženú spokojnosť v práci, čo súvisí s faktormi ako
+nevyvážená rovnováha medzi prácou a osobným životom, významným ovplyvňujúcim
+faktorom bol aj COVID-19 (Buchan – Catton, 2023).
+Identifikácia motivačných faktorov pre vykonávanie ošetrovateľskej profesie je kľúčová
+pre plánovanie náborových stratégií. Motivácia je jedným z hlavných konceptov
+vzdelávania. Je to psychologická konštrukcia v procese učenia a má významný vzťah
+k vzdelávacím výsledkom a pokračovaniu štúdia. Niektorí autori poukazujú na významný
+vzťah medzi akademickou motiváciou a niektorými vzdelávacími výsledkami, ako sú
+známky študentov, aktívna a pravidelná účasť a spokojnosť so vzdelávacími aktivitami.
+Akademická motivácia je spojená s akademickým úsilím, hĺbkou spracovania informácií a
+používaním samo-regulovaných kognitívnych a metakognitívnych stratégií. Súvisí
+s vnímaním sebaefektivity a schopnosťou stanoviť si ciele (Salminen-Tuomaala, 2024).
+Rovnako ako v každej oblasti vzdelávania, motivácia je kritickým faktorom
+v ošetrovateľskom vzdelávaní. Je dôležitá pre študentov ošetrovateľstva, ktorí čelia rôznym
+požiadavkám od svojich pacientov. Aby mohli pomáhať iným počas svojich profesionálnych
+životov, potrebujú študenti ošetrovateľstva dlhodobú motiváciu. Poskytovanie kvalitných
+ošetrovateľských služieb si vyžaduje motivovaných študentov, ktorí sa musia naučiť veľa
+informácií a zručností a neustále sa vzdelávať počas svojich profesionálnych životov.
+S rastúcim počtom starších občanov sa zvýšil dopyt po profesionálnych sestrách, a preto
+musia ošetrovateľské vzdelávacie inštitúcie zlepšiť akademickú motiváciu a úspechy
+študentov ošetrovateľstva, aby zvýšili počet profesionálnych sestier (Rafii et al., 2019).
+
+13
+
+1.1 Motivácia
+Je považovaná za kľúčový faktor úspechu. Vnímanie motivácie spočíva vo vnútornej
+energii, ktorá poháňa jednotlivca a zahŕňa jeho priania, snahu a túžby. Je to duševný stav,
+ktorý podnecuje akcie človeka (Vévoda a kol., 2013). Motivácia je motorom našich činností
+a rozhodnutí. Schopnosť a sila prekonať prekážky sú esenciálne pre splnenie našich túžob.
+Človek dokáže dosiahnuť svoje ciele úmerne k intenzite svojej motivácie. Je to
+psychologický proces, ktorý predstavuje vôľu niečoho dosiahnuť a je to smer a cieľ, ktorý
+aktivuje naše konanie a uspokojuje naše potreby, ako aj osobné a organizačné ambície
+(Urban, 2017).
+Motivácia patrí k zásadným faktorom, ktoré ovplyvňujú úspešnosť v dosahovaní pracovných
+a osobných cieľov, a to nielen zo strany zamestnancov, ale aj vedúcich pracovníkov,
+od ktorých sa predpokladá, že sa budú sami motivovať, aby mohli motivovať svojich
+podriadených. V oblasti pracovnej motivácie existuje vzájomná súvislosť medzi hodnotením
+pracovného výkonu a motiváciou jednotlivca. Motivovanie nemá len pasívny rozmer, zahŕňa
+aj aktívne dávanie, čím sa poskytuje uspokojenie vlastných záujmov. Motivácia je vnútorný
+proces, ktorý sa prejavuje správaním smerujúcim k dosiahnutiu cieľa (Zítková a kol., 2015).
+Celkovo motivácia predstavuje vnútorný psychologický proces, ktorý vychádza z určitej
+potreby a vedie k želanému vnútornému stavu alebo procesu, pričom môže byť podmienená
+vnútornými alebo vonkajšími podnetmi. Je to dynamický proces, ktorý ovplyvňujú rôzne
+sily vedúce k pohybu jedinca. Motivácia vzniká z interakcie medzi vnútornými pohnútkami
+a vonkajšími podnetmi, ktoré formujú konečnú vnútornú determinantu vplyvov
+na správanie. Pojem motivácie nemá úplne konštantný význam, čo platí pre väčšinu
+psychologických konceptov. Motiváciu nikto fyzicky nevidel, ale predstavuje priestor,
+v ktorom správanie smeruje k dosiahnutiu určitých cieľov, prebieha s určitým úsilím a trvá,
+pričom jedinec prežíva túžby a predsavzatia. Psychologické faktory správania sú popísané a
+objasnené pojmom motivácia, ktorý sa zameriava na subjektívny význam a variabilitu
+správania, vrátane dôvodov, prečo sa rôzni ľudia orientujú na rôzne ciele. Niektoré
+charakteristiky správania nie je možné spoľahlivo oddeliť od účinkov učenia, keďže
+motivované správanie je riadené aj kognitívnymi faktormi. Rôzni jedinci dosahujú rovnaké
+ciele rôznym správaním v rôznych situáciách, pričom odlišné reakcie v podobnej situácii
+dokresľuje individuálna skúsenosť. Príkladom toho je rôznorodosť prístupov, ktorými
+jednotlivci uspokojujú rovnaké potreby - ľudia dosahujú podobné ciele v odlišných
+situáciách rôznymi spôsobmi. Motivácia zabezpečuje efektívne fungovanie učenia a pamäti,
+
+14
+
+aktivuje kognitívne a motorické mechanizmy, aby vytvárala efektívne vzorce správania
+zamerané na dosahovanie konkrétnych cieľov (Nakonečný, 2014).
+
+1.1.1 Motivácia v zdravotníctve
+Otázka motivácie v oblasti zdravotnej starostlivosti sa skúma už od 30. rokov 20. storočia.
+Prieskum z roku 1940, ktorý patrí medzi prvé v tejto oblasti ukázal, že faktory ako dĺžka
+pracovného času, postoj k výkonu práce, rovnováha medzi osobným a pracovným životom,
+mzda a vzťah k vedeniu, odlišujú spokojné sestry od nespokojných. Súčasným cieľom je
+vytvoriť prostredie, ktoré by znížilo fluktuáciu zdravotníckych pracovníkov, predišlo
+problémom vyplývajúcim z ich nedostatku a šetrilo nemocniciam náklady spojené
+s náborom nových pracovníkov, pričom zároveň zlepšovalo kvalitu poskytovanej
+zdravotnej starostlivosti. V mnohých prieskumoch spokojnosti sa ako kľúčový faktor
+objavuje mzda, avšak jej výška nie je významne spojená s pracovnou spokojnosťou. Pocit
+istoty zamestnania patrí medzi základné potreby sestier, pričom zvýšenie stability
+zamestnania môže slúžiť ako preventívne opatrenie proti fluktuácii, najmä medzi staršími
+zamestnancami. Hlavným aspektom pri motivácii zdravotníkov je starostlivosť o pacientov,
+čo je hnacím motívom samotnej práce. Najvyššou prioritou pre sestry je plnenie
+profesionálnych úloh. Aby mohli efektívne vykonávať svoje povinnosti, potrebujú
+zabezpečiť rovnováhu medzi dostatočným počtom zamestnancov na oddelení, potrebnými
+zručnosťami, organizáciou starostlivosti a primeranou pracovnou záťažou. Preto aj
+v súčasnosti ostáva tradičný obsah práce a príťažlivosť profesie pre sestry dostatočne
+motivujúca. Novým trendom sú rastúce požiadavky na nezávislosť, čo poskytuje zvýšený
+záujem o samostatné a zodpovedné riešenie otázok v rámci profesie. S rastom týchto
+požiadaviek súvisí aj zlepšovanie prestíže povolania sestry, ako na pohľade spoločnosti, tak
+aj v osobnom vnímaní dôležitosti tejto profesie (Vévoda a kol., 2013).
+Pracovná motivácia odráža postoj jednotlivca k práci a jeho ochotu pracovať, pričom
+vychádza z vnútorných podnetov (Zítková a kol., 2015).
+Zoznam takmer identických položiek ukazuje, čo motivuje ľudí v pracovnom prostredí.
+Tieto faktory môžeme označiť ako rôzne motivátory. Osobné poradie týchto motivátorov
+však jednotlivcov rozlišuje. Pre niekoho môže byť hlavným motivátorom finančná odmena,
+zatiaľ čo pre iných môže mať táto odmenu nižšiu prioritu. Medzi nefinančné motivácie patrí
+aj sociálne ocenenie, ako je pochvala, ktorá pôsobí ako významný motivačný nástroj a spätná
+väzba na pracovný výkon, ďalej uznanie, či ocenenie, čo je považované za vyššie
+15
+
+ohodnotenie ako pochvala a dávanie najavo svojim podriadeným, že sú dôležitými oporami
+v tíme (Hekelová, 2012).
+
+1.1.2 Motívy
+Motívy vznikajú z motivácie. Tieto motívy sú pohnútky, ktoré sú osobnými dôvodmi
+pre konkrétne správanie. Uspokojovanie rôznych potrieb je výsledkom psychologických
+reakcií, činov a aktivít jednotlivca (Urban, 2017). Osobné potreby jednotlivca, ktoré
+spúšťajú celý motivačný cyklus, sú jedným z najľahšie pochopiteľných motivátorov. Ak sa
+objaví pocit nedostatku, znamená to potrebu. Motív je pohnútka, ktorá povzbudzuje
+jednotlivca k činnosti alebo ho inšpiruje; medzi základné motívy patrí potreba, záujmy a
+hodnoty (Zítková a kol., 2015).
+Ak interpretujeme motív ako psychologický základ správania, môžeme hovoriť
+o rozmanitosti motívov, keďže existuje mnoho psychologických dôvodov, ktoré ovplyvňujú
+správanie. Motív chápeme ako vnútorné psychické faktory, ktoré usmerňujú správanie osoby
+k dosiahnutiu určitých uspokojení, pričom dosahujú spojenie medzi potrebou a hodnotou
+odosielaného podnetu. Motív môžeme považovať za vnútorný faktor, ktorý inšpiruje,
+orientuje a zosúlaďuje správanie jednotlivca. Tento faktor nie je priamo pozorovateľný, jeho
+existenciu môžeme usudzovať na základe správania alebo ho môžeme akceptovať ako fakt
+na objasnenie, prečo sa niekto snaží niečo dosiahnuť. Zvyčajne pozostáva z dvoch zložiek;
+prvá sa označuje ako podnet a vzťahuje sa na vnútorné procesy, ktoré mobilizujú jedinca
+k akcii. Môže byť ovplyvnený vonkajšími faktormi, avšak vždy ide o vnútorný jav. Druhá
+zložka motívu spočíva v dosiahnutí cieľa alebo odmeny, čím sa znižuje vnútorný dráždivý
+podnet a poskytuje uspokojenie. V dôsledku toho motív po určitý čas prestáva ovplyvňovať
+správanie jedinca. Cieľ alebo odmena môžu byť vonkajší podnet, avšak proces, ktorý vedie
+k utlmeniu podnetu, je vnútorný (Nakonečný, 2014).
+Motív predstavuje vnútornú pohnútku, ktorá spôsobuje zmenu správania jednotlivca a
+smeruje k uspokojeniu jeho potrieb. Stimulácia je proces, ktorý vyvoláva motiváciu
+prostredníctvom vonkajších podnetov. Ak má motivácia fungovať, musí existovať zhoda
+medzi postojom subjektu a objektom motivácie. Medzi základné motívy pre riadenie
+podnikov a investície do vzdelávania zamestnancov patrí vedomie, že vzdelávanie
+pracovníkov je nevyhnutným predpokladom na zvyšovanie výkonnosti jednotlivcov, tímov
+a celej organizácie. Taktiež vzdelávanie predstavuje dôležitý aspekt pre zvyšovanie
+konkurencieschopnosti podniku a zabezpečuje potrebné vedomosti a zručnosti pracovníkov
+16
+
+pre realizáciu budúcich rozvojových programov a stratégií. Podporuje samostatnosť a
+zodpovednosť zamestnancov na nižších úrovniach riadenia, zvyšuje motiváciu pracovníkov
+a pomáha efektívnejšie reagovať na dynamické zmeny v trhu a podnikateľskom prostredí
+(Pisoňová, 2021).
+
+1.1.3 Proces motivácie
+Proces motivácie vystihuje aspekty interakcie medzi osobou a prostredím; motivácia
+pripravuje činnosti a je možné ju chápať ako proces smerujúci k vlastnej redukcii, čím
+vyjadruje svoj význam. Východiskom motivácie je stav vnútorného napätia, pri ktorom je
+cieľom dosiahnuť akúsi naplňujúcu reakciu. Funkcia motivácie spočíva v nepretržitom
+regulovaní a aktívnom usmerňovaní správania voči cieľovým objektom a cieľovým
+objektom sa stáva to, čo slúži ako prostriedok na dosiahnutie požadovaného uspokojenia.
+V procese učenia sa vytvára jednota medzi motiváciou a popisovaným správaním, pričom
+v rámci motivácie je zahrnutý aj vzorec predchádzajúcich spôsobov dosahovania
+uspokojenia (Nakonečný, 2014).
+Vnútorná dominanta motivačného procesu predstavuje potrebu, ktorá sa prežíva ako
+konkrétna pohnútka. Na druhej strane vonkajšia dominanta súvisí s vonkajšími podnetmi a
+hodnotami, ktoré sú spojené s cieľovým objektom. Tieto podnety vyvolávajú reakciu, ktorá
+napĺňa potrebu a pomáha dosiahnuť daný cieľ, čím sa vytvárajú predpoklady pre správanie.
+Vnútorné predispozície a neskôr nadobudnuté skúsenosti, ako aj naučené extrapolácie
+daných tendencií alebo potrieb, programujú správanie jednotlivca na udržanie daného
+systému biologických a sociálnych hodnôt. Nedostatky v tomto hodnotovom systéme vedú
+k vzniku základného motivačného napätia, označovaného ako potreba.
+Počas procesu inštrumentálneho podmieňovania sa formujú určité vzorce správania.
+Objavuje sa preferovanie potrieb, čo naznačuje ich zapojenie do komplexných štruktúr, ktoré
+fungujú na základe intrapsychických, behaviorálnych a biologických alebo sociálnych
+potrieb. Tým sa vytvára stav motivácie s implementovanými vzorcami správania, ktoré
+zahŕňajú aj vzorce dosahovania uspokojenia. V tomto zmysle potreba vyjadruje absenciu
+určitej biologickej alebo sociálnej hodnoty a počas procesu jej objektivizovania predpokladá
+aj jej predmet a spôsob uspokojenia (Hajerová, Műllerová a kol., 2024).
+Motivácia tak odráža napätia medzi tým, čo daný subjekt prežíva, a tým, akú potrebu má
+niečo zažiť. Bežná sociálna potreba osoby predstavuje potrebu istoty, ktorá sa objavuje
+v situáciách, keď je vystavená existenčným alebo iným neistotám. Týmto sa vytvára rozpor
+17
+
+medzi tým, či má alebo nemá mať pocit istoty, čo predstavuje motivujúci faktor v danej
+situácii. Môžeme konštatovať, že motivácia je proces, ktorý určuje smer, trvanie a intenzitu
+správania (Nakonečný, 2014).
+
+1.1.4 Faktory motivácie
+Uspokojenie potrieb je rezultátom motivácie, ktorá „posúva ľudí vpred“. Motivácia musí
+byť efektívna, a preto je dôležité rozumieť dôvodom, prečo ľudia konajú, aby mohli naplniť
+svoje potreby. Faktory motivácie pomáhajú udržiavať motiváciu konzistentnú. Forsyth
+rozdelil faktory, ktoré ovplyvňujú motiváciu do dvoch skupín: hygienické faktory a
+motivačné faktory. Hygienické faktory slúžia na kontrolu nepriaznivých situácií. Medzi
+hygienické faktory Forsyth zaradil napríklad:
+
+
+stratégie firmy a administratívy,
+
+
+
+pozitívny dopad týchto stratégií,
+
+
+
+úroveň dohľadu,
+
+
+
+medziľudské vzťahy,
+
+
+
+pozitívne aspekty medziľudských vzťahov,
+
+
+
+pracovné podmienky,
+
+
+
+osobný život,
+
+
+
+pracovná spoľahlivosť,
+
+
+
+postavenie jednotlivca,
+
+
+
+finančné ohodnotenie.
+
+Faktory sú zoradené podľa ich významnosti. S každým hygienickým faktorom je potrebné
+zachádzať veľmi citlivo, aby sme vždy dospeli k pozitívnemu prístupu, čo vedie
+ku kvalitnému motivovaniu. Motivačné faktory podľa Forsytha zahŕňajú súbor pozitívnych
+komponentov, ako sú:
+
+
+úspech,
+
+
+
+obdiv,
+
+
+
+ocenenie a vyjadrenie vďaky,
+
+
+
+obsah práce,
+
+
+
+zodpovednosť,
+
+
+
+možnosti pracovného rastu,
+
+
+
+príležitosti na osobný rozvoj.
+
+18
+
+Forsyth podčiarkuje význam a vzájomnú prepojenosť týchto dvoch typov faktorov, ako aj
+potrebu ich rovnováhy (Forsyth, 2009). Hekelová rozdeľuje faktory na finančné a
+nefinančné motivátory. Finančné faktory sú jasne definované, zatiaľ čo nefinančné
+motivátory by mali využívať všetci manažéri.
+Podľa Hekelovej sú nefinančné faktory pracovnej motivácie:
+
+
+pochvala,
+
+
+
+obdiv a ocenenie od kolegov,
+
+
+
+pocit spoločnej podpory tímom,
+
+
+
+subjektívny vzor manažéra,
+
+
+
+dodržiavanie záväzkov,
+
+
+
+atmosféra na pracovisku,
+
+
+
+vzdelávacie príležitosti,
+
+
+
+atraktívnosť činnosti,
+
+
+
+pozitívne výsledky práce a osobný rozvoj,
+
+
+
+možnosti sebarealizácie,
+
+
+
+pracovné podmienky a prostredie (Hekelová, 2012).
+
+Pre vedúceho tímu je zásadné vedieť, aké motivačné faktory uplatniť, aby svoj tím
+dostatočne motivoval. Nakonečný uvádza motivačné faktory, ktoré sú pomenované ako
+komponenty motivácie a označil ich gréckymi písmenami. „Alfa faktor“ reprezentuje
+„naivné prianie ja“, čo znamená túžbu veriť tomu, čo súvisí s osobným želaním. „Beta
+faktor“ sa prejavuje zrelšími a realistickými záujmami. „Gama komponent“ sa vzťahuje
+na fyziologické zmeny a biologicky determinované tendencie. „Epsilon komponent“ patrí
+pod neúmyselnú motiváciu, ktorá súvisí s raným detským uvedomením si rozporuplných
+zážitkov. Rozlišuje integrované a neintegrované zložky motivácie. Medzi integrované
+zložky patrí „beta“ a „gama“, zatiaľ čo neintegrované zložky tvoria „alfa“ a „delta“.
+Z praktického hľadiska to znamená, že ak sú správni ľudia na správnom mieste, motivačné
+faktory ich tam pomôžu udržať (Nakonečný, 2014).
+
+1.1.5 Motivácia k vzdelávaniu
+Motivácia zamestnancov na učenie a zvyšovanie ich potenciálu je kľúčovým aspektom
+vzdelávacieho procesu a celoživotného vzdelávania. Úroveň motivácie jednotlivcov sa mení
+v závislosti od fázy, v ktorej sa nachádzajú v rámci svojho vzdelávacieho cyklu. V každej
+skupine sa nájde viacero ľudí, ktorí sú v rôznych štádiách motivácie a majú rôzne požiadavky
+19
+
+na vzdelávanie. Osoby, ktoré nie sú dostatočne motivované k učeniu, potrebujú zvážiť
+spôsoby, ako sa posunúť v tomto procese. Efektivitu vzdelávania ovplyvňuje množstvo
+faktorov, vrátane schopností, zručností a ochoty zlepšovať sa, čo všetko prispieva
+k motivácii. Vysoká úroveň motivácie k vzdelávaniu a osobnému rozvoju výrazne zvyšuje
+kvalitu a množstvo pracovného výkonu zamestnancov. Tieto faktory sa odrážajú
+v pozitívnom postoji zamestnancov k vzdelávaniu a ich ochote učiť sa a rozvíjať. Ďalej sa
+prejavujú v schopnosti zamestnancov organizovať a aplikovať získané vedomosti a zručnosti
+v praxi, ako aj v ich flexibilite a schopnosti reagovať na zmeny v pracovných podmienkach
+(Murphy, 2020). V súčasnej globalizovanej a dynamickej dobe je vzdelávanie považované
+za rozhodujúci faktor pre úspech podnikov. Preto je dôležité udržiavať vedomosti a zručnosti
+zamestnancov na požadovanej úrovni. Na to, aby bola motivácia zamestnancov
+k vzdelávaniu efektívna, je potrebné vhodne zvoliť stimulujúce faktory, pričom by sa malo
+zohľadniť aj osobné prispôsobenie. Každého zamestnanca motivuje iný faktor v rôznej
+miere, a preto je osobný prístup k motivácii vo vzdelávaní veľmi dôležitý. Motivácie
+vzdelávania môžu zahŕňať zlepšenie postavenia v tíme, zabezpečenie pracovného miesta,
+kariérny postup, sebarealizáciu, získanie kvalifikácie alebo titulu, zlepšenie kvality práce,
+zvýšenie flexibility, lepšie finančné ohodnotenie a ďalšie sociálne výhody (Zsigmond,
+2019). Pri zostavovaní programu motivácie pre vzdelávanie je možné využiť univerzálne
+zásady, ako je osobný príklad manažéra a presvedčenie o zmysle vykonávanej práce.
+Zamestnanec by mal byť presvedčený, že nepracuje len pre podnik, ale že je jeho súčasťou.
+Dôvera manažéra podporuje iniciatívu zamestnancov a motivácia ich zapojenie
+do rozhodovania. Neustále hľadanie individualizovaných motivácií pre zamestnancov a
+oceňovanie ich malých úspechov, spolu s poskytovaním pozitívnej spätnej väzby namiesto
+kritiky, sú kľúčové. Dôležitou schopnosťou manažérov je umenie motivovať svojich
+podriadených. Na zvýšenie motivácie účastníkov v oblasti vzdelávania sa odporúča
+postupovať podľa pravidiel, ako je zapojenie ich do riadenia vzdelávacích činností a
+zabezpečenie možností pre rozmanité témy vzdelávacích akcií a spoluprácu s ostatnými
+zamestnancami. Je dôležité včas informovať účastníkov o cieľoch a zámeroch vzdelávacích
+aktivít, zvýšiť povedomie o prospešnosti vzdelávacieho programu a zaručiť, že vzdelávanie
+je v súlade s už získanými poznatkami. Používanie metód, ktoré posilňujú kompetencie a
+podporujú aktivitu a záujem, ako aj vytváranie príjemnej atmosféry, sú dôležité. Motivácia
+účastníkov na aktívnu spoluprácu taktiež závisí od schopnosti lektorov prejaviť úctu
+k osobnosti študenta, zabezpečiť mu pozitívnu spätnú väzbu na jeho činnosť a pomáhať
+rozvíjať jeho silné stránky, pričom sa vyhýbať konfrontáciám a negatívnym hodnoteniam.
+20
+
+Lektor by mal disponovať nadhľadom, taktom a primeranou úrovňou emocionálnej
+inteligencie, ktorá je spätá s jeho skúsenosťami. Takýto prístup k vzdelávaniu podporuje
+lepšie učenie sa, zvyšuje angažovanosť zamestnancov a napomáha vytváraniu pozitívnej
+vzdelávacej atmosféry, ktorá motivuje účastníkov k aktívnemu zapájaniu sa do procesu
+učenia (Murphy, 2020).
+Úspešný proces vzdelávania si tiež vyžaduje otvorenú komunikáciu medzi zamestnancami
+a lektormi, aby účastníci mali možnosť predložiť svoje názory, otázky a návrhy. Takto sa
+vytvára prostredie, kde sa zamestnanci cítia komfortne a sú ochotní zdieľať svoje myšlienky
+a obavy (Machová – Esseová, 2020).
+Motivácia zamestnancov k vzdelávaniu nie je len o dosiahnutí ich výkonu; je to investícia
+do budúcnosti organizácie. V súčasnom dynamickom svete, kde sú neustále potrebné
+inovácie a adaptácie, je strategické podporovať rozvoj zamestnancov. Od zamestnávateľov
+sa očakáva, že rozpoznajú a investujú do osobného a profesionálneho rastu svojich
+zamestnancov, aby zabezpečili nielen ich spokojnosť, ale aj úspech celej organizácie.
+Proces integrácie do pracovného prostredia vytvára prvý dojem o organizácii pre nových
+zamestnancov. Z uvedeného dôvodu sa vynára dôležitosť úlohy manažmentu ľudských
+zdrojov, ktorý reguluje prekážky brániace plynulosti tohto procesu a podporuje zapojenie
+nových zamestnancov do vnútropodnikových činností. Strategické plánovanie a koordinácia
+pracovných síl pomáha práci manažmentu ľudských zdrojov priraďovať kandidátov
+s adekvátnymi zručnosťami k obsadzovaným pozíciám. Vďaka realizácii uvedeného, sa
+zvyšuje možnosť efektívneho obsadenia pozície zamestnancom, ktorý dlhodobo bude
+prispievať k zveľaďovaniu firmy (Murphy, 2020).
+Faktory pôsobiace motivačne v rámci rozhodovania o ďalšom vzdelávaní predovšetkým
+na vysokých školách, ktoré prispievajú k rozvoju ľudských zdrojov majú pôvod nielen
+v internom, ale aj v externom prostredí jedinca. Spolu so všetkými týmito faktormi je
+v dnešnom svete nevyhnutné, aby sa zamestnanci a organizácie neustále prispôsobovali,
+učili a rástli. Vytvorením správnych podmienok a motiváciou zamestnancov k štúdiu a
+osobnému rozvoju, môžu podniky zabezpečiť, že ich pracovníci budú schopní čeliť budúcim
+výzvam a súčasne prispievať k celkovému prosperovaniu organizácie (Machová – Esseová,
+2020).
+
+21
+
+1.1.6 Bariéry motivácie
+Motivované správanie jednotlivca smeruje k určitému cieľu, no cesta k jeho dosiahnutiu
+nebýva vždy priamočiara. Na tejto ceste sa často objavujú prekážky, ktoré môžu vyvolať
+frustráciu alebo nedostatok uspokojenia. Frustráciu môžeme chápať buď ako vonkajšie
+okolnosti, ktoré bránia uskutočneniu motivovaného správania, alebo ako vnútorný pocit
+sklamania a zlého prežívania. Zvyčajne sa prejavuje negatívnymi zmenami v psychike a
+správaní jedinca.
+Prekážky môžu mať rôznu povahu – môžu byť vnútorné (napr. osobné limity) alebo
+vonkajšie (napr. ťažkosti v štúdiu). Jedným z častých problémov je neschopnosť čeliť
+prekážkam ako výzvam. Rovnako môže nastávať vnútorný konflikt, ktorý je formovaný
+nezlučiteľnými motiváciami jedinca, a tento stav vedie k psychickej záťaži. Na pochopenie
+vnútorného konfliktu je dôležité poznať osobné hodnoty a priority jednotlivca.
+Počas štúdia môžu nastať situácie, keď sa jedinec stretne s ťažkosťami, čím spôsobuje, že
+štúdium je pre neho nielen prekážkou, ale aj významným zdrojom stresu. Takéto okolnosti
+môžu viesť k nepríjemným pocitom a úzkosti, ktoré znemožňujú dosiahnuť požadované
+ciele. Pre dospelých môže byť konceptuálne pochopenie témy problematické, keďže často
+porovnávajú teóriu s praktickými skúsenosťami a hľadajú odpovede, pričom nemusia mať
+zhodu v názoroch založených na svojich predošlých skúsenostiach.
+Dôležité je zmierniť tieto prekážky a porozumieť ich príčinám, pretože tie môžu mať
+zásadný dopad na psychické a fyzické zdravie jednotlivca. Negatívne stavy sa často objavujú
+ako reakcia na neschopnosť uspokojiť základné potreby, čo bráni jedincovi v dosiahnutí
+stanovených cieľov (Cihan et al., 2019).
+
+1.2 Profesia sestry
+Sestry sú kľúčovým článkom v oblasti poskytovania zdravotnej starostlivosti, keďže bez ich
+prítomnosti by bolo zložitá realizácia klinickej medicíny. Stávajú sa čoraz významnejšími
+členmi zdravotníckeho tímu, pretože sú najbližšie k pacientom a udržiavajú s nimi
+najintenzívnejší kontakt. Ich úlohou je vytvárať kvalitný liečebno-ošetrovateľský vzťah
+s pacientmi a zabezpečovať uspokojenie ich biologických, psychických a sociálnych
+potrieb, pričom musia rešpektovať ich názory a duchovné hodnoty.
+Ošetrovateľstvo, ktoré sa neustále vyvíja a mení, vyžaduje od sestier, aby ich primárnym
+cieľom bolo pomáhať jednotlivcom a skupinám získať, udržiavať alebo obnoviť zdravie,
+príp. dôstojne prežiť proces umierania. V rámci neustáleho rozvoja ošetrovateľstva sestry
+22
+
+pravidelne získavajú nové vedomosti a odborné skúsenosti, čo ich robí zodpovednejšími a
+samostatnejšími v ich profesii. Povolanie sestry si vyžaduje špecifické znalosti, zručnosti a
+odbornú prípravu. Súčasťou tohto vzdelávania je aj osvojenie si rôznych rolí, ktoré sú
+kľúčové pre profesionálne vykonávanie tohto zamestnania.
+V súčasnom ošetrovateľstve sestry neustále vykonávajú rôzne úlohy, vrátane ošetrovateľky,
+komunikátorky, učiteľky, advokátky, manažérky, iniciátorky zmien, poradkyne, líderky a
+výskumníčky. Tieto role sa navzájom prelínajú a dopĺňajú, čo znamená, že jedna nevyhnutne
+nevylučuje druhú. Pri výkone profesie sestry je dôležité mať vhodné osobnostné
+predpoklady. Tieto predpoklady zahŕňajú schopnosť objektívne seba hodnotiť a posudzovať,
+chápať problémy pacientov a kolegov, mať kreatívne prístupy k riešeniu problémov, ako aj
+schopnosť empaticky pristupovať k pocitom a správaniu iných. Rovnako sa významne
+zohľadňuje vyzretosť osobnosti a povahy, pričom charakterové vlastnosti ako
+zodpovednosť, záujem a dobrý vzťah k ľuďom sú nevyhnutné pre každodenné úlohy
+(Zacharová, 2016).
+
+1.2.1 Koncepcia vzdelávania v odbore ošetrovateľstvo na Slovensku
+Podľa vestníka MZ SR z roku 2023: „Ošetrovateľstvo je samostatná, humanitná a
+aplikovaná vedná disciplína, ktorej predmetom je osoba ako holistická bytosť. Princíp
+holizmu v ošetrovateľstve spočíva v rešpektovaní ľudskej bytosti ako celku. Ošetrovateľstvo
+je neoddeliteľnou súčasťou zdravotnej starostlivosti a zahŕňa autonómnu starostlivosť
+o osobu, rodinu a komunitu v zdraví a v chorobe. Zahŕňa podporu zdravia, prevenciu
+chorôb, starostlivosť o chorých, o osoby so zdravotným postihnutím a zomierajúcich.
+Ošetrovateľstvo je charakterizované súhrnom činností, ktoré vychádzajú z teórií a
+koncepčných modelov ošetrovateľstva a smerujú k napĺňaniu bio-psycho-sociálnych a
+spirituálnych potrieb osoby, rodiny a komunity. Ošetrovateľstvo sa podieľa na prevencii,
+diagnostike, liečbe, rehabilitácii a edukácii pacienta. Jeho nositeľom je registrovaný
+zdravotnícky pracovník v zdravotníckom povolaní sestra, s profesijným titulom „sestra“
+s definovanou úrovňou vzdelania a odbornosti v súlade s národnou a medzinárodnou
+legislatívou, registrovaná v Slovenskej komore sestier a pôrodných asistentiek. Sestra
+v kontexte európskych noriem patrí medzi regulované povolania a je autoritou v oblasti
+priameho poskytovania ošetrovateľskej starostlivosti. Zodpovedá za svoje konanie, úroveň
+a spôsob svojho profesionálneho rozvoja a ďalšieho vzdelávania (MZ SR, 2023, s. 34)“.
+
+23
+
+Od roku 2004 sa v Slovenskej republike ustanovil trend vyššieho vzdelávania pre sestry a
+pôrodné asistentky, ktorý začína po ukončení strednej školy s maturitou. Slovenská komora
+sestier a pôrodných asistentiek pri implementácii tohto systému vychádzala zo smerníc
+Európskej únie, vrátane č. 77/452/EEC, č. 453/EEC, č. 80/154/EEC a č. 80/155/EEC, ako aj
+z dokumentov Medzinárodnej rady ošetrovateľstva (ICN), Mníchovskej deklarácie z roku
+2000 a Bolonskej deklarácie z roku 1999. Úroveň vzdelávania sa zvýšila z maturitného
+na vyššie odborné a následne na univerzitné vzdelanie. Odborné curriculá sa vytvárajú a
+porovnávajú s tradičnými európskymi univerzitami, pričom sa rešpektujú aj odporúčania
+Svetovej zdravotníckej organizácie a regulácie Európskej únie. Bakalárske štúdium končí
+štátnou skúškou z ošetrovateľstva a obhajobou záverečnej bakalárskej práce, pričom
+absolventi získavajú titul bakalár. Rovnako sa uznáva aj externé štúdium, ktoré je
+kompatibilné s denným štúdiom. Po ukončení bakalárskeho vzdelania môžu študenti
+pokračovať v magisterskom štúdiu, ktoré trvá dva roky a zameriava sa na biomedicínske a
+spoločenskovedné odbory, ako aj na ošetrovateľstvo (Hanzlíková, 2011).
+Podľa Centra vedecko-technických informácií SR bolo v roku 2024 v odbore
+ošetrovateľstvo 466 absolventov denného štúdia a 56 absolventov externého štúdia, v prvom
+a druhom stupni vysokoškolského vzdelania. Zároveň k 31.12.2024 študovalo v dennej
+forme štúdia 1608 študentov a v externej forme 492 študentov ošetrovateľstva, v prvom
+a druhom stupni vysokoškolského vzdelania. Počet absolventov v odbore má v posledných
+rokoch stúpajúci trend. Pre porovnanie, v roku 2020 bolo na Slovensku 357 absolventov
+denného štúdia, v roku 2023 to bolo 415 absolventov (CVTI, 2025).
+
+1.2.2 Kompetencie sestry
+Získaná odborná spôsobilosť na vykonávanie zdravotníckeho povolania prináša so sebou i
+kompetencie a zodpovednosť za rozhodnutia. Ministerstvo zdravotníctva Slovenskej
+republiky 30. júla 2024 vydalo novelu Vyhlášky č. 95/2018 Z. z., ktorá určuje rozsah
+kompetencií pre sestry a pôrodné asistentky v závislosti od ich úrovne vzdelania. Tento krok
+je súčasťou snahy rezortu zatraktívniť profesiu sestry v našej krajine a zvýrazniť jej
+nezastupiteľný význam v oblasti zdravotnej starostlivosti.
+Ministerstvo pripravilo túto novelu s ohľadom na potreby praxe, aby bola v súlade
+s programovým vyhlásením vlády na roky 2023 až 2027. Podľa vyhlásenia, novela rozširuje
+kompetencie sestier a pôrodných asistentiek, čím im umožňuje samostatne vykonávať širší
+okruh činností, čo pozitívne ovplyvní dostupnosť zdravotnej starostlivosti pre pacientov.
+24
+
+Taktiež to prispeje k zvýšeniu autonómie týchto profesií a zlepší ich profesionálny kredit.
+Okrem toho sa zohľadňujú aj požiadavky vzdelávacích inštitúcií v oblasti zdravotnej vedy a
+samotných poskytovateľov zdravotnej starostlivosti. Diskusie o novej vyhláške sa
+uskutočnili na rôznych úrovniach, vrátane ministerstva, odborníkmi a laickou verejnosťou.
+Nová vyhláška MZ SR č. 208/2024 Z. z. definuje rozsah ošetrovateľskej praxe, ktorú môže
+sestra vykonávať samostatne, na základe indikácií od lekára alebo v spolupráci s lekárom.
+Táto vyhláška priniesla niekoľko významných zmien. Medzi ne patrí napríklad schopnosť
+sestier a pôrodných asistentiek triediť pacientov podľa naliehavosti ich zdravotného stavu,
+čo je známe ako triáž. Rozširuje sa aj zoznam liekov, ktoré smú sestry a pôrodné asistentky
+podávať samostatne na základe pokynov lekára v rámci predpísaného rozsahu. Navyše,
+sestrám sa poskytujú väčšie možnosti pri starostlivosti o novorodencov. Novela tiež
+umožňuje sestrám vykonávať samostatne základné kožné testy na alergie a krvné vyšetrenia
+prostredníctvom metódy PoCT (Point of Care Testing). Výsledky týchto vyšetrení následne
+predkladajú lekárovi na posúdenie. Okrem toho môžu lekárovi pripravovať vybrané
+administratívne úkony, ktoré súvisia napríklad s predpisovaním liekov a zdravotníckych
+pomôcok. Vyhláška taktiež definuje podmienky pre posudzovanie EKG vyšetrení, vedenie
+pôrodu pôrodnou asistentkou, šitie drobných chirurgických rán, starostlivosť o rany ako aj
+určovanie základných diét pre hospitalizovaných pacientov v ústavnej zdravotnej
+starostlivosti a ďalšie činnosti (MZ SR, 2024).
+
+1.2.3 Povolanie sestry
+Povolanie sestry patrí medzi ošetrovateľské profesie a považuje sa za jedno
+z najzákladnejších a najhumánnejších povolaní. Je to služba, ktorá sa zameriava
+na starostlivosť o zdravie jednotlivca, jeho udržanie a rozvoj. Zdravie sa považuje za jednu
+z najcennejších hodnôt pre človeka (Vytejčková a kol., 2018). Sestra je dôležitou súčasťou
+tímu, ktorý sa venuje ošetrovateľskej starostlivosti. Ošetrovateľská starostlivosť je súbor
+odborných aktivít zameraných na udržanie, podporu a obnovu zdravia, ako aj na uspokojenie
+biologických, psychických a sociálnych potrieb pacienta. Tieto potreby vznikajú v súvislosti
+so zdravotným stavom jednotlivcov alebo skupín, ktorým je starostlivosť poskytovaná.
+Ošetrovateľský tím sa zameriava aj na zachovanie alebo obnovenie samostatnosti pacientov
+a podieľa sa na poskytovaní starostlivosti o pacientov s nevyliečiteľnými chorobami, pričom
+ich utrpenie zmierňuje a zabezpečuje dôstojný odchod zo života.
+
+25
+
+Ošetrovateľskú starostlivosť môžeme rozdeliť do troch základných kategórií: základná,
+špecializovaná
+
+a
+
+vysoko
+
+špecializovaná
+
+ošetrovateľská
+
+starostlivosť.
+
+Základná
+
+ošetrovateľská starostlivosť sa poskytuje pacientom, ktorým zdravotný stav alebo
+diagnostické a terapeutické postupy bránia vykonávať bežné denné aktivity. Medzi tieto
+aktivity patrí hygiena, vyprázdňovanie, prijímanie stravy, pohyb a ďalšie potreby, ktoré
+ošetrovateľský tím musí zabezpečiť. Pri poskytovaní základnej ošetrovateľskej starostlivosti
+sa vitalita pacienta stabilizuje a nie sú prítomné patologické zmeny. Ďalej existuje
+špecializovaná ošetrovateľská starostlivosť, ktorá je určená pre pacientov s výraznými
+obmedzeniami v bežných aktivitách, spôsobenými narušením zdravotného stavu alebo
+diagnostickými procedúrami. V tomto prípade už môže hroziť riziko narušenia, alebo
+zlyhania základných životných funkcií. Pacienti môžu mať aj psychické problémy, no zatiaľ
+ešte nevyžadujú stály dozor alebo používanie obmedzujúcich prostriedkov z dôvodu
+hroziaceho nebezpečenstva pre ich život alebo zdravie, či pre ohrozenie okolia.
+Špecializovaná ošetrovateľská starostlivosť sa poskytuje aj pacientom s vážnymi poruchami
+imunity a chronickými ochoreniami v terminálnom štádiu, kde sa už nepredpokladá
+vykonanie kardiopulmonálnej resuscitácie. Najvyššou formou je vysoko špecializovaná
+ošetrovateľská starostlivosť, pri ktorej pacienti vyžadujú kontinuálny dohľad alebo použitie
+obmedzujúcich prostriedkov (z dôvodu ohrozenia ich zdravia alebo života), pretože je
+vysoké riziko zlyhania základných životných funkcií; u mnohých pacientov sa často
+objavujú aj psychické patologické zmeny (Vytejčková a kol., 2018).
+Sestra má v oblasti zdravotnej starostlivosti nezastupiteľný status. V spolupráci s ostatnými
+zdravotníckymi odborníkmi sa podieľa na preventívnej, liečebnej, diagnostickej,
+rehabilitačnej, paliatívnej, urgentnej a dispenzárnej starostlivosti. Tieto špecializované
+služby poskytuje v širokom spektre poskytovateľov zdravotnej a sociálnej starostlivosti.
+Sestry taktiež zohrávajú dôležitú úlohu vo všetkých oblastiach a úrovniach vzdelávania
+zdravotníckych zamestnancov a aktívne sa podieľajú na výskume v oblasti ošetrovateľstva
+a medicíny (Strnadová a kol., 2021).
+
+1.2.4 Profesionálna rola sestry
+Spoločenská úloha, ktorú sestra plní, predstavuje očakávané a požadované správanie, ktoré
+vyplýva z jej postavenia v spoločnosti. Každý jedinec vykonáva svoju rolu v interakcii
+s inými, pričom tieto vzťahy sú vzájomne prepojené. Úloha sestry je rôznorodá; odlišné
+správanie sa očakáva pri interakcii s pacientmi, iné pri spolupráci s lekármi a iné v interakcii
+26
+
+s kolegami. Definovanie profesionálnych rolí a povinností každej profesie je ukotvené
+v legislatívnych normách, ktoré sa líšia medzi krajinami. Každý člen zdravotníckeho tímu
+by mal byť oboznámený so svojimi povinnosťami, kompetenciami a rovnako aj s úlohami
+ostatných členov tímu, pretože starostlivosť o pacientov je komplexný proces. V modernom
+ošetrovateľstve sa sestra stále viac stáva rovnocennou členkou zdravotníckeho tímu, ktorá je
+schopná samostatne vykonávať svoju prax v rámci svojich kompetencií. Úlohy sestry
+môžeme rozdeliť do niekoľkých základných kategórií: sestra ako ošetrovateľka, sestra ako
+edukátorka pacientov a ich rodín, sestra ako obhajkyňa pacienta, sestra ako koordinátorka,
+sestra ako asistentka a sestra ako výskumníčka (Plevová, 2018).
+V úlohe ošetrovateľky sa sestra zameriava na poskytovanie základnej ošetrovateľskej
+starostlivosti, pričom samostatne identifikuje a reaguje na potreby pacientov a rieši ich
+ošetrovateľské problémy. Okrem nemocníc sa stará o pacientov aj v domácej starostlivosti.
+V roli edukátorky sa sestra sústreďuje na vzdelávanie pacientov a ich rodín s cieľom
+podporovať zdravie a prevenciu chorôb. Ako sestra – obhajkyňa pacienta, hrá dôležitú úlohu
+v situáciách, keď pacient nie je schopný vyjadriť svoje potreby a priania. V pozícii sestry –
+koordinátorky spolupracuje s ostatnými členmi zdravotníckeho tímu a zodpovedá
+za plánovanie a realizáciu ošetrovateľskej starostlivosti prostredníctvom ošetrovateľského
+procesu. Taktiež aktívne zapája rodinu pacienta do starostlivosti, čo zabezpečuje
+individualizovaný prístup (Farkašová, 2021).
+Ako sestra – asistentka pripravuje pacientov na diagnostické a liečebné procedúry, asistuje
+pri nich a zabezpečuje dodržiavanie pokynov od lekára. Takto sa podieľa na diagnostických
+a terapeutických procesoch v starostlivosti o pacienta. V úlohe sestry – výskumníčky sa
+aktívne podieľa na získavaní nových poznatkov a informácií v oblasti ošetrovateľstva, ktoré
+predtým implementuje do svojej praktickej činnosti. Tak sa zúčastňuje aj na rôznych
+projektoch zameraných na rozvoj ošetrovateľstva a prispieva k vývoju nových štandardov
+ošetrovateľskej starostlivosti (Plevová, 2018).
+
+1.2.5 Imidž a atraktivita povolania sestry
+Imidž sestry nie je jednotný, pretože sestry pracujú na rôznych typoch pracovísk, ako sú
+ambulancie, nemocničné oddelenia, či operačné sály. Každá sestra plní viaceré úlohy
+a v týchto rolách je vnímaná odlišne. Rozdielne predstavy o sestrách sú spôsobené aj tým,
+že laická verejnosť na ne nazerá inak ako samotné sestry, či iní pracovníci v procese
+poskytovania zdravotnej starostlivosti.
+27
+
+Rozlišujeme interný a externý imidž sestry. Interný imidž sa týka toho, ako sestra vníma
+seba a svoju profesiu, zatiaľ čo externý imidž vyjadruje pohľad na profesiu z hľadiska laickej
+verejnosti, médií, politikov, lekárov a iných. V súčasnosti sa snaží ošetrovateľstvo budovať
+imidž sestry ako profesionálky – pokrokovej, vzdelanej a sofistikovanej osoby, ktorej
+cieľom je poskytovanie kvalitnej ošetrovateľskej starostlivosti (Farkašová, 2021).
+Na zlepšenie imidžu sestry je nevyhnutné porozumieť dvom základným princípom: princípu
+presvedčenia a vzťahu medzi zodpovednosťou a úspechom. Princíp presvedčenia naznačuje,
+že to, čomu veríme, sa často stáva realitou. Naše vlastné presvedčenie o sebe
+(sebahodnotenie) má vplyv na profesionálny obraz sestry. To, o čom sme presvedčení, sa
+zvyčajne prenáša na ľudí okolo nás. Princíp vzťahu medzi zodpovednosťou a úspechom sa
+zaoberá vzťahom medzi splnením úspechu a ochotou jedinca prevziať zodpovednosť
+za svoje činy, a tak sa vyhnúť prenášaniu viny na svoje okolie (Waltz et al., 2020).
+Rôzne faktory, ktoré ovplyvňujú imidž sestry, zahŕňajú komunikáciu (verbálnu aj
+neverbálnu), prístup k pacientom (behaviorálne prejavy, empatia, rešpekt), schopnosť
+počúvať potreby pacientov, ako aj celkové profesionálne a neprofesionálne správanie, ako
+aj aktívnu prezentáciu profesie všeobecnej sestry (účasť na seminároch, kongresoch)
+(Plevová, 2018).
+
+1.3 Motivačné faktory pre vykonávanie povolania sestry
+Ako sme už uviedli, motív predstavuje relatívne stabilnú hnaciu silu správania a konania
+jednotlivca. Môže prameniť z jeho vnútornej potreby „chcem, potrebujem“ niečo vykonať,
+alebo sa nejakým spôsobom správať. Správanie jednotlivca môže byť ovplyvnené
+vonkajšími motívmi, čo sú podnety z prostredia alebo situácií, ktoré pôsobia na správanie
+zvonku. Prirodzený stav pre človeka je harmónia, či už vnútorná alebo vonkajšia a
+prepojenie s prírodným a sociálnym prostredím, akým sú rodiny, pracoviská a kultúra. Ak
+dôjde k narušeniu týchto aspektov, vytvára to potrebu konať.
+Motivačné faktory v povolaní sestry sa klasifikujú ako interné a externé. Medzi vnútorné
+faktory patrí niekoľko zásadných aspektov:
+
+
+voľba povolania ako impulz,
+
+
+
+záujem o prácu, ktorý prichádza s pocitom uspokojenia z pracovnej činnosti a jej
+výsledkov,
+
+
+
+osobné skúsenosti s chorobou,
+
+
+
+profesionálny záujem,
+28
+
+
+
+prosociálny postoj,
+
+
+
+hodnotová orientácia, ktorá vyjadruje nadšenie a ochotu pomáhať starším a chorým;
+
+
+
+vôľa, čo znamená uvedomené zameranie aktivity na dosiahnutie stanoveného cieľa;
+
+
+
+ambícia, ktorá smeruje k hodnotám reflektovaným v cieľoch a plánoch, ako aj potreba
+dosahovať úspech,
+
+
+
+naplňovanie potreby sebarealizácie, čo predstavuje snahu o využitie potenciálu,
+schopností a individuality so želaním „stať sa tým, kým môžem byť“,
+
+
+
+zotrvačnosť vyplývajúca z obáv zo zmien v zamestnaní.
+
+Medzi vonkajšie motivačné faktory v povolaní sestry patrí:
+
+
+voľba povolania ako alternatívna možnosť,
+
+
+
+sociálny charakter zamestnania,
+
+
+
+legislatívne podmienky, ktoré upravujú vzdelávanie pre výkon ošetrovateľskej profesie,
+
+
+
+tímová spolupráca pri poskytovaní zdravotnej starostlivosti,
+
+
+
+rozširujúce sa funkcie a úlohy sestier,
+
+
+
+právne uznanie kompetencií sestier,
+
+
+
+kvalitné interpersonálne vzťahy (Zacharová, 2016).
+
+Na základe prieskumov možno usúdiť, že atraktivitu ošetrovateľskej profesie ovplyvňuje
+„čistá výhoda“, ktorú sestry vnímajú v súvislosti so svojou pracovnou pozíciou. Táto výhoda
+kombinuje individuálne faktory (vrátane kompetencií a rodinnej situácie), charakteristiku
+zamestnania, organizáciu (napr. imidž, množstvo verejných alebo súkromných nemocníc) a
+umiestnenie pracoviska (Drennan – Ross, 2019).
+Viacerí autori atraktivitu a udržanie zamestnancov v ošetrovateľstve skúmali z pohľadu
+študentov ošetrovateľstva (Herttuala et al., 2022). Na základe výsledkov sa ukázalo, že
+atraktivita profesie klesla, avšak ošetrovateľstvo sa stále považuje za zmysluplné a dôležité
+povolanie (Coco, 2019). Podľa vedúcich pracovníkov v ošetrovateľstve sa profesia stretáva
+s nedostatkom personálu, slabými platmi, psychicky a fyzicky náročnou prácou, násilím
+na pracovisku a neustálymi zmenami (Phillips et al., 2021). Začínajúce sestry sa cítia
+preťažené rastúcou pracovnou záťažou a nárokmi (Camveren et al., 2020). Mnohé z nich
+čelia stresu a symptómom vyhorenia, zvažujú odchod z profesie (Kox et al., 2023).
+Nedostatok osobnej podpory na pracovisku je jedným z faktorov, ktoré znižujú atraktivitu
+ošetrovateľstva (Seppälä et al., 2022). Dôležitými príspevkami k atraktivite a udržaniu
+zamestnancov v ošetrovateľstve sú bezpečnosť, ocenenie a mzda, ktorá zodpovedá úrovni
+zodpovednosti (Nurdiana et al., 2019). Silná podpora zo strany vedúcich sestier (Nurdiana
+29
+
+et al., 2019) a empatické vedenie (Seppälä et al., 2022) s otvorenou interakciou môžu
+pomôcť udržať pracovníkov. Ďalšie faktory, ktoré sú dôležité pre atraktivitu a udržanie
+profesie zahŕňajú profesionálny rozvoj, možnosti kariérneho rastu (Smit – Lawson, 2022) a
+systematické motivačné programy (Brook et al., 2019). V nemocniciach, kde boli zavedené
+kvalitné motivačné programy, udávajú zlepšenie v oblasti udržania zamestnancov a
+pracovnej pohody (Melissant et al., 2024).
+Salminen-Tuomaala zhrnula vo svojej práci všetky faktory, ktoré môžu pozitívne alebo
+negatívne ovplyvniť motiváciu k práci sestry. Vykonala prieskum na vzorke 94 študentov
+ošetrovateľstva a zachytáva ich vnímanie faktorov, ktoré zvyšujú a znižujú atraktivitu
+ošetrovateľskej profesie. Odpovede respondentov naznačili pozitívne očakávania a priania
+na jednej strane a skutočne zažitú realitu na strane druhej. Inými slovami, výsledky poukázali
+na nerovnováhu medzi tým, čo študenti ošetrovateľstva očakávali, a tým, čo naozaj zažili
+v zdravotníckych organizáciách.
+Faktory, ktoré by mohli zvýšiť atraktivitu ošetrovateľstva:
+
+
+posilnenie úlohy ošetrovateľstva na úrovni jednotlivcov, organizácií a spoločnosti,
+
+
+
+zmysluplné ošetrovateľské povinnosti,
+
+
+
+väčší vplyv na svoju prácu,
+
+
+
+lepšie pracovné podmienky a pohoda v zamestnaní,
+
+
+
+rozvoj ošetrovateľského líderstva,
+
+
+
+možnosti pracovného a kariérneho postupu.
+
+Faktory, ktoré môžu znížiť atraktivitu ošetrovateľskej profesie:
+
+
+znížené ocenenie ošetrovateľstva v rámci profesie a v spoločnosti,
+
+
+
+nesúlad medzi mzdou a náročnosťou pracovnej záťaže a pracovnými podmienkami,
+
+
+
+nesúlad medzi počtom zamestnancov a pracovnou záťažou,
+
+
+
+nedostatok podpory a povzbudenia od vedúcich,
+
+
+
+pracovná atmosféra, ktorá nepriaznivo ovplyvňuje psychickú pohodu.
+
+Ako uvádza ďalej, je nevyhnutné investovať do podpory imidžu ošetrovateľstva na úrovni
+jednotlivcov, organizácií a spoločnosti a podporovať pohodu a kariérne cesty sestier
+(Salminen-Tuomaala, 2024). Tento výsledok pripomína výsledky iného výskumu, ktorý
+uvádzal, že mladé začínajúce sestry sú preťažené nedostatočným vysvetlením kompetencií,
+veľkým pracovným zaťažením, nevyváženým pracovným a osobným životom a
+neschopnosťou poskytovať kvalitnú starostlivosť (Kox et al., 2020). Zistenia môžu tiež
+
+30
+
+odrážať odlišné očakávania posledných generácií, ktoré vstupujú do ošetrovateľských
+profesií (Tussing et al., 2024).
+Najnovšie generácie, ktoré vstupujú na trh práce (generácia Y a Z), môžu mať odlišné
+očakávania v porovnaní s predchádzajúcimi generáciami. Napríklad sa naznačuje, že
+najmladšia pracujúca generácia (Z) má kratšiu pozornosť a viac ocení praktické a
+interaktívne formy učenia sa v porovnaní s predchádzajúcimi generáciami. Ich nábor a
+udržanie si môžu vyžadovať personalizáciu, digitalizáciu a zladene s ich životným štýlom.
+V generácii pred generáciou Z sa uvádza, že mileniáli v ošetrovateľstve sú výrazne menej
+spokojní so svojou prácou v porovnaní s predchádzajúcimi generáciami sestier a majú väčšiu
+pravdepodobnosť, že budú mať názory, ktoré môžu negatívne ovplyvniť pracovníkov.
+Efektívne stratégie na riešenie potrieb mileniálov môžu zahŕňať neustále školenia (Tussing
+et al., 2024).
+Problémom mladšej generácie môže byť nedôvera v štúdium v odbore ošetrovateľstvo.
+Ľudia si často myslia, že sestrám by stačilo štúdium na strednej škole s maturitou, ako tomu
+bolo pred niekoľkými rokmi. Faktom ale zostáva, že od tej doby nie je kvalita
+stredoškolského štúdia rovnaká a bolo potrebné zvýšiť kvalifikáciu sestier. Popularitu
+tomuto odboru ubral aj vznik odboru zdravotnícky asistent, a hlavne prívlastok asistent
+odrádzal mladých ľudí od štúdia. Po zmene zdravotníckeho asistenta na praktickú sestru
+zaznamenali školy opäť vyšší záujem uchádzačov o štúdium. Praktickým sestrám sa navyše
+navýšili kompetencie, čo bol tiež pozitívny krok. V posledných tridsiatich rokoch však vývoj
+v oblasti vzdelávania viedol k poklesu prestíže povolania sestry, čo môže byť dôsledkom
+viacerých faktorov. Jedným z nich je nedostatočné sebavedomie sestier spojené
+s nedostatočným akceptovaním kompetencií. Niekedy je vidieť, že mnohé sestry odmietajú
+ísť obsluhovať prístroje, ktoré sa im zdajú zložité, alebo podávajú lieky, hoci majú
+pochybnosti o ich správnosti, pretože ich predpísal lekár, ktorý im podľa ich názoru rozumie
+lepšie, čo je nesprávne. Sestry by si mali začať vážiť samy seba a prijať zodpovednosť a
+vlastné kompetencie (Koubová, 2020).
+Zvýšenie prestíže povolania sestry je aj cieľom projektu Nursing Now, ktorý je globálnym
+projektom Medzinárodnej rady sestier a Svetovej zdravotníckej organizácie. Ďalším cieľom
+projektu je zviditeľniť prínos sestier pre spoločnosť, zlepšiť pracovné podmienky sestier a
+ich životný štýl, udržať skúsené sestry v povolaní a zvýšiť počet nových študentov
+ošetrovateľstva. Projekt Nursing Now sa zameriava predovšetkým na päť oblastí a to
+na zabezpečenie silnejšieho hlasu sestier a pôrodných asistentiek pri tvorbe zdravotníckej
+politiky, podporu väčších investícií do ošetrovateľskej pracovnej sily, podporu väčšieho
+31
+
+počtu sestier vo vedúcich pozíciách, podporu výskumu a zdieľanie príkladov najlepšej
+ošetrovateľskej praxe (Nursing Now, 2018). V posledných rokoch preverila náročnosť
+sesterského povolania pandémia koronavírusu. Ľudia si možno začali viac uvedomovať, čo
+musí sestra robiť a za akých podmienok. Práca počas pandémie bola pre sestry veľmi
+náročná. Nielenže museli vykonávať všetku prácu ako predtým, ale pribudli im aj starosti
+s obliekaním ochranných pomôcok, ktoré sa museli naučiť efektívne používať, aby
+nepoškodili pacienta alebo prostredie a nešírili infekciu ďalej. K práci pri starostlivosti
+o všetkých pacientov, navyše o infekčných, sa pridala aj práca v náročných pracovných
+podmienkach, v ktorých musia sestry často vydržať vzhľadom na nedostatok personálu viac
+hodín ako zvyčajne. Sestry pracovali vo väčšom strese a chaose, čo bolo veľmi psychicky
+náročné. Pandémia COVID-19 tiež poukázala na to, aký dôležitý je každý člen
+zdravotníckeho tímu a aká dôležitá je vzájomná spolupráca všetkých zúčastnených. Laickej
+verejnosti pandémia ponúkla väčší pohľad na zdravotnícke povolanie a tiež poukázala
+na rôzne nedostatky systému zdravotnej starostlivosti, ako napríklad nedostatok ochranných
+pomôcok alebo nedostatok zdravotníckeho personálu a prepracovanosť zdravotníckych
+pracovníkov (Binterová, 2020).
+Kľúčovou otázkou, ktorou sa zaoberá množstvo krajín, nie je len nedostatok zdravotníckych
+pracovníkov, ale aj pokles počtu nových študentov v zdravotníckych odboroch. Porozumieť
+tomuto fenoménu je vo všeobecnosti náročné, avšak je dôležité nezabudnúť na motivačné
+faktory, ktoré ovplyvnili rozhodovanie študentov a profesionálov pri výbere tejto profesie.
+Najčastejšie motivačné faktory pri výbere kariéry zahŕňajú túžbu pomáhať iným, príležitosť
+pracovať v tímovej spolupráci naprieč rôznymi odbormi, pracovné a študijné možnosti,
+priateľov a príbuzných v zdravotnej sfére, pozitívny obraz sestry, predchádzajúce skúsenosti
+z praxe, situácie vyžadujúce zdravotnú pomoc, ako aj negatívne skúsenosti v iných
+oblastiach, ktoré pôsobili neosobne a nezaujímavo. Ďalšími faktormi sú záujem o vedu,
+práca s modernými technológiami a účasť na výskumných projektoch v rôznych odboroch.
+Zameranie sa na tieto motivačné faktory môže pomôcť prilákať viac budúcich profesionálov
+do odboru. Avšak, keď zohľadníme charakteristiky mladých generácií, je jasné, že bez zmien
+v prístupe zamestnávateľov a spoločnosti nebude pre mladých ľudí profesia sestry
+atraktívna, čím sa nedostatok odborníkov ešte prehĺbi. Táto situácia je však výzvou, na ktorú
+nie sme dostatočne pripravení. Máme však schopnosť transformovať celý systém, ktorý
+ovplyvňuje aj tak špecifický odbor, ako je zdravotnícka profesia, alebo pomáhajúce profesie,
+ktoré sa zakladajú na altruizme, empatii a túžbe pomáhať.
+
+32
+
+2 VÝSKUM
+V dnešnej uponáhľanej dobe mladí ľudia pri výbere povolania zohľadňujú viaceré aspekty.
+Tak, ako sme popísali v predchádzajúcom texte, existuje mnoho motivačných faktorov,
+ktoré mladého človeka ovplyvnia pri výbere povolania sestry. Najlepším „hnacím motorom“
+v procese rozhodovania je vnútorný pocit, či chuť, pracovať v zdravotníctve aj napriek tomu,
+že vopred vieme, že profesia, pre ktorú sme sa rozhodli bude ťažká a náročná. Vysoká
+odbornosť, ktorú musí sestra dosiahnuť môže pre mnohých v procese rozhodovania
+znamenať akúsi výzvu, či cieľ, ktorý „ženie“ jedinca vpred a uvedomuje si, že profesia sestry
+sa bude nepretržite spájať s napredovaním, neustálym vzdelávaním a prekonávaním
+prekážok vlastného ja.
+
+2.1 Výskumný problém
+Motivačné faktory zohrávajú veľmi dôležitú úlohu nielen v procese rozhodovania pri výbere
+povolania, ale aj počas samotného štúdia v odbore ošetrovateľstvo. Počas štúdia sa študenti
+nielen teoreticky vzdelávajú, ale dostávajú sa do kontaktu s reálnym pacientom, kde môžu
+nadobudnuté teoretické vedomosti, ako aj praktické zručnosti získané v laboratórnych
+podmienkach uplatniť. Mnohí študenti sa na praxi v zdravotníckom zariadení utvrdia
+o správnosti vlastného rozhodnutia, mnohí však zistia, že túto prácu nemôžu vykonávať,
+pretože k nej nemajú vzťah.
+Opierajúc sa o vlastné skúsenosti, ale aj o získané informácie z preštudovania dostupnej
+literatúry sme identifikovali výskumný problém: Ktoré motivačné faktory ovplyvnili
+študentov odboru ošetrovateľstva pre výber zdravotníckeho povolania?
+
+2.2 Ciele výskumu
+Hlavný cieľ: Identifikovať motivačné faktory, ktoré ovplyvnili študentov odboru
+ošetrovateľstva pre výber zdravotníckeho povolania.
+Čiastkové ciele:
+1. Zistiť rozdiel vplyvu vnútorných a vonkajších motivačných faktorov na respondentov
+pri výbere zdravotníckeho povolania.
+2. Zistiť vplyv motivačných faktorov (vonkajších a vnútorných) pri výbere zdravotníckeho
+povolania v súvislosti s pohlavím respondentov.
+
+33
+
+3. Zistiť vplyv motivačných faktorov (vonkajších a vnútorných) pri výbere zdravotníckeho
+povolania v súvislosti s vekom respondentov.
+4. Zistiť vplyv motivačných faktorov (vonkajších a vnútorných) pri výbere zdravotníckeho
+povolania v súvislosti s ich ukončeným stredoškolským vzdelaním.
+
+2.3 Výskumné hypotézy
+Pri stanovovaní výskumných hypotéz sme vychádzali z nami stanoveného výskumného
+problému a jednotlivých výskumných cieľov. Všetky výskumné hypotézy sme štatisticky
+overili.
+H1: Vplyv vnútorných faktorov na respondentov pri výbere zdravotníckeho povolania je
+významne väčší (silnejší) ako vplyv vonkajších faktorov.
+H2: U respondentov oboch pohlaví je rozdiel v miere vplyvu vnútorných a vonkajších
+motivačných faktorov na voľbu zdravotníckeho povolania štatisticky významný a pôsobenie
+oboch faktorov nie je ovplyvnené pohlavím respondentov.
+H3: U respondentov rôznych vekových kategórií je rozdiel v miere vplyvu vnútorných
+a vonkajších motivačných faktorov na voľbu ich zdravotníckeho povolania štatisticky
+významný a pôsobenie oboch faktorov nie je ovplyvnené vekom respondentov.
+H4: Vplyv motivačných faktorov na výber zdravotníckeho povolania respondentov je
+vzhľadom na ich ukončené stredoškolské vzdelanie štatisticky významne odlišný.
+
+2.4 Organizácia a metodika výskumu
+Pre potreby vypracovania výskumnej časti diplomovej práce sme získali potrebné
+informácie zamerané na nami riešenú problematiku prostredníctvom dotazníka vlastnej
+konštrukcie (Príloha 1). Dotazník bol anonymný a distribuovaný online formou pomocou
+Google forms v časovom horizonte od marca 2024 do novembra 2024 a bol výhradne určený
+pre študentov vysokých škôl v odbore ošetrovateľstva (zámerný výber). Bol anonymný
+a obsahoval 3 demografické položky a 24 položiek zameraných na skúmanú problematiku.
+Všetky dotazníky boli vyplnené správne, nijaký z dotazníkov sme nevylúčili, preto môžeme
+konštatovať, že jeho návratnosť bola 100%. V jednotlivých položkách dotazníka mali
+respondenti označiť tú odpoveď, ktorá najviac vystihovala ich názor. Po skompletizovaní
+odpovedí respondentov sme ich previedli do programu MS Excel, v ktorom sme ich utriedili
+a čiastočne vyhodnotili, usporiadali do frekvenčných a kontingenčných tabuliek. Deskripciu
+údajov, skóre vnútorných a vonkajších faktorov, v rámci ktorej sme vyčíslili ich minimálnu
+34
+
+a maximálnu hodnotu, priemernú hodnotu, smerodajnú odchýlku, medián a modus, sme
+prezentovali formou tabuliek a priemerné skóre respondentov v jednotlivých položkách
+faktorov aj graficky. Vo verifikácii hypotéz bola štatistická významnosť rozdielov vplyvu
+vnútorných a vonkajších faktorov v rámci jednej triedy respondentov overená párovými
+testami, v medzitriednych porovnaniach, v triedení podľa veku, pohlavia a vzdelania
+dvojvýberovým t - testom. Veľkosť efektu (effect size), mieru, ktorá poukazuje na skutočný
+rozdiel medzi priemernými hodnotami porovnávaných súborov, sme určili Cohenovým
+d koeficientom. Vo verifikácii hypotéz bol použitý aj Chí – kvadrát test, štatistická
+významnosť rozdielu relatívnych početností bola overená testom zhody dvoch proporcií a
+Marascuilo procedúrou. Normalita údajov bola overená D´Agostino – Pearsonovým testom.
+Analýza časti údajov a testovanie bolo realizované v štatistickom programe MedCalc
+20.218.
+
+2.5 Charakteristika výskumného súboru
+Výskumný súbor tvorili študenti odboru ošetrovateľstvo, bez ohľadu na formu štúdia, ktorí
+prejavili ochotu vyplniť náš dotazník vlastnej konštrukcie online formou. Celkový počet
+respondentov, ktorí kompletne vyplnili dotazník bolo 239.
+
+35
+
+3 ANALÝZA VÝSLEDKOV VÝSKUMU
+Výberový súbor tvorilo 239 respondentov, študentov odboru ošetrovateľstva. 33 (13,81%)
+z nich bolo mužského a dominantná početnosť, 206 (86,19%), ženského pohlavia. Početnosť
+žien štatisticky významne prekročila hranicu 80% (binomický test: p = 0,0083).
+Tabuľka 1 Deskripcia údajov veku respondentov
+Vek respondentov
+muži
+ženy
+celkom
+
+M
+25,36
+24,98
+25,03
+
+SD
+2,92
+2,81
+2,83
+
+Mdn
+25
+25
+25
+
+Mode
+28
+25
+25
+
+min
+20
+20
+20
+
+max
+30
+30
+30
+
+Priemerným vekom respondentov výberového súboru bol vek 25,03 roka, priemerným
+vekom mužov vek 25,36 roka, žien 24,98 roka. Mediánom veku respondentov oboch pohlaví
+bol vek 25 rokov, modusom u mužov vek 28 rokov, u žien i celkovo 25 rokov. Vek mužov
+i žien bol zdola ohraničený vekom 20, zhora 30 rokov.
+Vo veku mužov a žien sme štatisticky významný rozdiel nezistili (Mann – Whitney test:
+z = 0,7182; zkrit = 1,6449; p = 0,2363).
+Tabuľka 2 Ukončená stredná škola
+Ukončená stredná škola
+
+muži
+n
+
+SZŠ
+Gymnázium
+SOŠ
+Spolu
+
+13
+15
+5
+33
+
+ženy
+%
+39,39
+45,45
+15,15
+100,00
+
+n
+70
+113
+23
+206
+
+spolu
+%
+33,98
+54,85
+11,17
+100,00
+
+n
+83
+128
+28
+239
+
+%
+34,73
+53,56
+11,72
+100,00
+
+SZŠ ukončilo 83 (34,73%) respondentov výberového súboru, 13 (39,39%) z celkovej
+početnosti mužov a 70 (33,98%) z celkovej početnosti žien. Gymnázium ukončilo 128
+(53,56%) respondentov, 15 (45,45%) z početnosti mužov a 113 (54,85%) z početnosti žien.
+SOŠ absolvovalo 28 (11,72%) respondentov, 5 (15,15%) z početnosti mužov a 23 (11,17%)
+z početnosti žien. Výber strednej školy nebol ovplyvnený pohlavím respondentov
+(Chí – kvadrát test: χ2 = 1,0951; χ2(0,05;2) = 5,9915; p = 05784).
+
+36
+
+Otázka 1 Páči sa Vám práca v zdravotníckom tíme?
+Tabuľka 3 Otázka 1
+Otázka 1
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+106
+90
+18
+18
+7
+239
+
+44,35
+37,66
+7,53
+7,53
+2,93
+100,00
+
+196 respondentov na otázku 1 odpovedalo kladne, 106 (44,35%) respondentom sa práca
+v zdravotníckom tíme jednoznačne páči a páči sa aj 90 (37,66%) respondentom, aj keď ich
+odpoveď nebola natoľko rozhodná. 18 (7,53%) respondentov sa k otázke nevedelo vyjadriť
+a rovnaká početnosť respondentov volila odpoveď skôr nie, 7 (2,93%) respondentom sa
+práca v zdravotníckom tíme vôbec nepáči.
+Otázka 2 Máte pocit, že svojou prácou pozitívne ovplyvníte životy iných ľudí?
+Tabuľka 4 Otázka 2
+Otázka 2
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+102
+99
+24
+12
+2
+239
+
+42,68
+41,42
+10,04
+5,02
+0,84
+100,00
+
+Na otázku, či majú respondenti pocit, že svojou prácou pozitívne ovplyvnia životy iných
+ľudí, 102 (42,68%) z nich odpovedalo, že „rozhodne áno“, 99 (41,42%) „skôr áno“, 12
+(5,02%) „skôr nie“, 2 (0,84%) určite nie a 24 (10,04%) respondentov na otázku nevedelo
+odpovedať.
+Otázka 3 Máte dobrý pocit keď sa zaujímate o problémy iných ľudí?
+Tabuľka 5 Otázka 3
+Otázka 3
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+57
+136
+37
+6
+3
+239
+
+23,85
+56,90
+15,48
+2,51
+1,26
+100,00
+
+37
+
+57 (23,85%) respondentov má určite dobrý pocit, keď sa zaujíma o problémy iných ľudí, má
+ho aj 136 (56,90%) respondentov, ktorí volili odpoveď „skôr áno“, 6 (2,51%) respondentov
+ho skôr nemá, 3 (1,26%) respondenti ho určite nemajú, 37 (15,48%) respondentov sa
+nevedelo vyjadriť.
+Otázka 4 Máte pre povolanie sestra nadšenie k práci s pacientami?
+Tabuľka 6 Otázka 4
+Otázka 4
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+70
+149
+17
+3
+0
+239
+
+29,29
+62,34
+7,11
+1,26
+0,00
+100,00
+
+Pre povolanie sestry určite má nadšenie k práci s pacientami 70 (29,29%) respondentov, skôr
+ho má 149 (62,34%) respondentov, skôr ho nemajú 3 (1,26%) respondenti, 17 (7,11%)
+respondentov na otázku nedokázalo odpovedať. Odpoveď „určite nie“ sa medzi
+odpoveďami respondentov vôbec nevyskytla.
+Otázka 5 Rád/a pracujete s ľuďmi?
+Tabuľka 7 Otázka 5
+Otázka 5
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+56
+137
+37
+6
+3
+239
+
+23,43
+57,32
+15,48
+2,51
+1,26
+100,00
+
+193 (80,75%) respondentov rado pracuje s ľuďmi, 56 (23,43%) určite áno a 137 (57,32%)
+skôr áno, 6 (2,51%) respondentov skôr nie a 3 (1,26%) respondenti s ľuďmi vôbec nepracujú
+radi. 37 (15,48%) respondentov na túto otázku nevedelo odpovedať.
+Otázka 6 Chcete pomáhať druhým ľuďom?
+Tabuľka 8 Otázka 6
+Otázka 6
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+65
+159
+15
+0
+0
+239
+
+27,20
+66,53
+6,28
+0,00
+0,00
+100,00
+
+38
+
+65 (27,20%) respondentov určite chce pomáhať druhým ľuďom, chce im pomáhať aj ďalších
+159 (66,53%) respondentov, aj keď ich odpoveď nebola tak rázna. 15 (6,28%) respondentov
+sa k otázke nevedelo vyjadriť. Ani jednu zo záporných odpovedí sme nezaznamenali.
+Otázka 7 Ovplyvnili Vás pri výbere zdravotníckeho povolania rodinní príslušníci alebo
+známi, ktorí pracujú alebo pracovali v zdravotníctve?
+Tabuľka 9 Otázka 7
+Otázka 7
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+62
+57
+0
+74
+46
+239
+
+25,94
+23,85
+0,00
+30,96
+19,25
+100,00
+
+62 (25,94%) respondentov bolo pri výbere zdravotníckeho povolania s určitosťou
+ovplyvnených rodinnými príslušníkmi alebo známymi, ktorí pracujú alebo pracovali
+v zdravotníctve. Aj 57 (23,85%) respondentov bolo nimi ovplyvnených, aj keď do menšej
+miery, 74 (30,96%) respondentov nimi skôr nebolo ovplyvnených a 46 (19,25%)
+respondentov nimi ovplyvnených vôbec nebolo.
+Otázka 8 Vidíte zmysel práce v zdravotníctve?
+Tabuľka 10 Otázka 8
+Otázka 8
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+70
+149
+17
+3
+0
+239
+
+29,29
+62,34
+7,11
+1,26
+0,00
+100,00
+
+219 (91,63%) respondentov vidí zmysel práce v zdravotníctve, 70 (29,29%) respondentov
+rozhodne áno, 149 (62,34%) skôr áno. Odpovede 17 (7,11%) respondentov boli vyhýbavé,
+nevedeli sa vyjadriť a odpovede 3 (1,26%) respondentov boli záporné, aj keď nie
+jednoznačne záporné.
+
+39
+
+Otázka 9 Máte pozitívny postoj k starostlivosti o druhých ľudí?
+Tabuľka 11 Otázka 9
+Otázka 9
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+57
+136
+37
+6
+3
+239
+
+23,85
+56,90
+15,48
+2,51
+1,26
+100,00
+
+57 (23,85%) respondentov určite má pozitívny postoj k starostlivosti o druhých ľudí, aj 136
+(56,90%) respondentov ho má, aj keď menej vyhranený, 6 (2,51%) respondentov ho
+pozitívny skôr nemá a 3 (1,26%) respondenti ho pozitívny určite nemajú. 37 (15,48%)
+respondentov sa k otázke nevedelo vyjadriť.
+
+Otázka 10 Pre odbor ošetrovateľstvo ste sa rozhodli z dôvodu blízkosti vysokej školy?
+Tabuľka 12 Otázka 10
+Otázka 10
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+13
+49
+12
+61
+104
+239
+
+5,44
+20,50
+5,02
+25,52
+43,51
+100,00
+
+Blízkosť vysokej školy určite bola dôvodom pre štúdium ošetrovateľstva v prípade 13
+(5,44%) respondentov, pre 49 (20,50%) respondentov tiež, nie však úplne, pre 61 (25,52%)
+respondentov ním blízkosť školy skôr nebola ako bola, pre 104 (43,51%) respondentov ňou
+určite nebola. 12 (5,02%) respondentov na otázku nevedelo odpovedať.
+Otázka 11 Bolo pre vás vo výbere štúdia ošetrovateľstva rozhodujúce finančné
+ohodnotenie práce sestry?
+Tabuľka 13 Otázka 11
+Otázka 11
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+3
+32
+12
+73
+119
+239
+
+1,26
+13,39
+5,02
+30,54
+49,79
+100,00
+
+40
+
+Finančné ohodnotenie práce sestry bolo pri výbere štúdia určite rozhodujúce pre 3 (1,26%)
+respondentov, pre 32 (13,39%) respondentov skôr rozhodujúce, pre 73 (30,54%) bolo
+rozhodujúce len do malej miery a pre 119 (49,79%) respondentov vôbec nebolo
+rozhodujúce. 12 (5,02%) sa k problému nevedelo vyjadriť.
+Otázka 12 Štúdium ošetrovateľstva bola pre vás jediná voľba pri výbere povolania?
+Tabuľka 14 Otázka 12
+Otázka 12
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+19
+42
+14
+69
+95
+239
+
+7,95
+17,57
+5,86
+28,87
+39,75
+100,00
+
+Štúdium ošetrovateľstva bolo pre 19 (7,95%) respondentov rozhodne jedinou voľbou
+pri výbere povolania, pre 42 (17,57%) skôr áno, pre 69 (28,87%) skôr nie, pre 95 (39,75%)
+jedinou voľbou určite nebolo. 14 (5,86%) respondentov k otázke nevedelo zaujať postoj.
+Otázka 13 Boli ste vedome a zámerne ovplyvnení svojím okolím pre výber povolania
+sestra?
+Tabuľka 15 Otázka 13
+Otázka 13
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+60
+142
+10
+13
+14
+239
+
+25,10
+59,41
+4,18
+5,44
+5,86
+100,00
+
+60 (25,10%) respondentov potvrdilo, že boli pri výbere povolania sestra určite vedome
+a zámerne ovplyvnení svojím okolím, bolo ním ovplyvnených aj 142 (59,41%)
+respondentov, nie však do takej miery ako v predchádzajúcej skupine respondentov. 13
+(5,44%) respondentov bolo ovplyvnených len v malej miere a 14 (5,86%) určite nebolo ním
+nebolo ovplyvnených.
+
+41
+
+Otázka 14 Boli ste vedome a zámerne ovplyvnení pre výber povolania sestra vzorom
+v rodine?
+Tabuľka 16 Otázka 14
+Otázka 14
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+75
+164
+0
+0
+0
+239
+
+31,38
+68,62
+0,00
+0,00
+0,00
+100,00
+
+Všetci respondenti boli vedome a zámerne ovplyvnení pre výber povolania sestra vzorom
+v rodine, 75 (31,38%) respondentov určite áno a 164 (68,62%) respondentov skôr áno.
+
+Otázka 15 Vaša motivácia študovať v odbore ošetrovateľstvo vychádzala len z túžby
+získať vysokoškolské vzdelanie?
+Tabuľka 17 Otázka 15
+Otázka 15
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+1
+35
+19
+85
+99
+239
+
+0,42
+14,64
+7,95
+35,56
+41,42
+100,00
+
+36 (15,06%) respondentov priznalo, že ich motivácia študovať v odbore ošetrovateľstvo
+vychádzala len z túžby získať vysokoškolské vzdelanie, u 85 (35,56%) vychádzala z nej len
+v malej miere a v prípade 99 (41,42%) z nej vôbec nevychádzala. 19 (7,95%) respondentov
+sa k otázke nevedelo vyjadriť.
+Otázka 16 Viedlo vás k výberu zdravotníckeho povolania spoločenské uznanie práce
+sestry?
+16 respondentov viedlo k výberu zdravotníckeho povolania spoločenské uznanie práce
+sestry, 2 (0,84%) z nich určite, 14 (5,86%) tiež, aj keď nie s takou určitosťou, pre 63
+(26,36%) respondentov to bolo len v malej miere dôležité a pre 133 (55,65%) pri výbere
+zdravotníckeho povolania nehralo žiadnu rolu. 27 (11,30%) respondentov sa k danej téme
+nevedelo vyjadriť.
+
+42
+
+Tabuľka 18 Otázka 16
+Otázka 16
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+2
+14
+27
+63
+133
+239
+
+0,84
+5,86
+11,30
+26,36
+55,65
+100,00
+
+Otázka 17 Vaše osobné doterajšie skúsenosti so zdravotníctvom sú skôr pozitívne?
+Doterajšie osobné skúsenosti so zdravotníctvom boli u 71 (29,71%) určite vo väčšine z nich
+pozitívne, u 107 (44,77%) respondentov skôr pozitívne, u 20 (8,37%) respondentov boli len
+v menšej miere pozitívne a u 24 (10,04%) s určitosťou neboli pozitívne.
+Tabuľka 19 Otázka 17
+Otázka 17
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+71
+107
+17
+20
+24
+239
+
+29,71
+44,77
+7,11
+8,37
+10,04
+100,00
+
+Doterajšie osobné skúsenosti so zdravotníctvom boli u 71 (29,71%) určite vo väčšine z nich
+pozitívne, u 107 (44,77%) respondentov skôr pozitívne, u 20 (8,37%) respondentov boli len
+v menšej miere pozitívne a u 24 (10,04%) s určitosťou neboli pozitívne.
+Otázka 18 Ovplyvnil vás vo výbere vášho povolania obdiv sestier, s prácou ktorých ste
+sa stretli počas doterajšieho života?
+Tabuľka 20 Otázka 18
+Otázka 18
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+37
+60
+7
+64
+71
+239
+
+15,48
+25,10
+2,93
+26,78
+29,71
+100,00
+
+Na otázku, či respondentov ovplyvnil vo výbere ich povolania obdiv sestier, s prácou
+ktorých sa stretli počas doterajšieho života, 37 (15,48%) z nich odpovedalo, že určite áno,
+43
+
+60 (25,10%) respondentov volilo odpoveď skôr áno, 64 (26,78%) respondentov odpoveď
+skôr nie a 71 (29,71%) respondentov odpoveď určite nie. 7 (2,93%) respondenti to nevedeli
+posúdiť.
+Otázka 19 Vyjadrite svoj názor vo vyjadrení: „Štúdium ošetrovateľstva je pre mňa iba
+„núdzové riešenie“.
+Tabuľka 21 Otázka 19
+Otázka 19
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+19
+42
+14
+69
+95
+239
+
+7,95
+17,57
+5,86
+28,87
+39,75
+100,00
+
+Na vyjadrenie „Štúdium ošetrovateľstva je pre mňa iba núdzové riešenie“, reagovalo 19
+(7,95%) respondentov odpoveďou „určite áno“, 42 (17,57%) respondentov odpoveďou
+„skôr áno“, 69 (28,87%) respondentov odpoveďou „skôr nie“ a 95 (39,75%) respondentov
+odpoveďou „určite nie“. 14 (5,86%) respondentov svoj názor nevedelo vyjadriť.
+Otázka 20 Zohrávala pri výbere štúdia zameraného na zdravotnícke povolanie aj
+„miera zodpovednosti“, ktorou musí disponovať každý zdravotnícky pracovník?
+Tabuľka 22 Otázka 20
+Otázka 20
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+78
+119
+15
+12
+15
+239
+
+32,64
+49,79
+6,28
+5,02
+6,28
+100,00
+
+Aj „miera zodpovednosti“, ktorou musí disponovať každý zdravotnícky pracovník, rozhodne
+zohrávala úlohu pri výbere štúdia u 78 (32,64%) respondentov, zohrávala aj u 119 (49,79%)
+respondentov, aj keď nie takú rozhodnú, u 12 (5,02%) respondentov bol jej vplyv len malý
+a u 15 (6,28%) respondentov nebol žiadny. 15 (6,28%) respondentov sa priamej odpovedi
+vyhlo.
+
+44
+
+Otázka 21 Pri výbere štúdia ošetrovateľstva ma ovplyvnila možnosť práce na zmeny.
+Tabuľka 23 Otázka 21
+Otázka 21
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+4
+119
+14
+35
+67
+239
+
+1,67
+49,79
+5,86
+14,64
+28,03
+100,00
+
+Možnosť práce na zmeny ovplyvnila výber štúdia ošetrovateľstva u 123 (51,46%)
+respondentov, u 4 (1,67%) z nich výrazne. U 35 (14,64%) respondentov bol ňou ich výber
+len mierne ovplyvnený a u 67 (28,03%) respondentov ňou vôbec nebol ovplyvnený. 14
+(5,86%) respondentov na otázku nevedelo odpovedať.
+
+Otázka 22 Štúdium ošetrovateľstva ma zaujalo aj preto, že je potrebné sa kontinuálne
+vzdelávať.
+Tabuľka 24 Otázka 22
+Otázka 22
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+66
+127
+8
+20
+18
+239
+
+27,62
+53,14
+3,35
+8,37
+7,53
+100,00
+
+U 66 (27,62%) respondentov určite bola dôvodom záujmu o štúdium ošetrovateľstva aj
+potreba kontinuálneho vzdelávania sa, u 127 (53,14%) bola dôvodom tiež, aj keď nie
+do takej miery zaujímavým. U 20 (8,37%) respondentov potreba kontinuálneho vzdelávania
+záujem o toto štúdium ovplyvnila len v malej miere a u 18 (7,53%) respondentov
+kontinuálne vzdelávanie sa pri výbere štúdia vôbec nebolo predmetom ich záujmu. 8
+(3,35%) respondentov sa k otázke konkrétne nevyjadrilo.
+
+45
+
+Otázka 23 Štúdium ošetrovateľstva bolo pre mňa zaujímavé z hľadiska možnosti
+zvyšovania si kvalifikácie
+Tabuľka 25 Otázka 23
+Otázka 23
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+66
+129
+13
+17
+14
+239
+
+27,62
+53,97
+5,44
+7,11
+5,86
+100,00
+
+Pre 195 (81,59%) respondentov bolo štúdium ošetrovateľstva zaujímavé z hľadiska
+možnosti zvyšovania si kvalifikácie, pre 66 (27,62%) s úplnou určitosťou. Pre 17 (7,11%)
+respondentov z tohto hľadiska skôr nebolo zaujímavým a pre 14 (5,86%) zaujímavým vôbec
+nebolo. 13 (5,44%) respondentov sa k problematike nevedelo vyjadriť.
+Otázka 24 Výber štúdia v odbore ošetrovateľstva ovplyvnila aj možnosť pracovať
+počas štúdia v zdravotníckom zariadení
+Výber štúdia v odbore ošetrovateľstva bol u 214 (89,54%) respondentov ovplyvnený aj
+možnosťou pracovať počas štúdia v zdravotníckom zariadení, u 80 (33,47%) bol tento
+vplyv výrazný. 25 (10,46%) respondentov nevedelo mieru tohto vplyvu posúdiť.
+Tabuľka 26 Otázka 24
+Otázka 24
+Určite áno
+Skôr áno
+Neviem sa vyjadriť
+Skôr nie
+Určite nie
+Spolu
+
+n
+
+%
+80
+134
+25
+0
+0
+239
+
+33,47
+56,07
+10,46
+0,00
+0,00
+100,00
+
+Výber štúdia v odbore ošetrovateľstva bol u 214 (89,54%) respondentov ovplyvnený aj
+možnosťou pracovať počas štúdia v zdravotníckom zariadení, u 80 (33,47%) bol tento
+vplyv výrazný. 25 (10,46%) respondentov nevedelo mieru tohto vplyvu posúdiť.
+Otázky dotazníka sme podľa typu faktora, ktorým bol ovplyvnený výber daného štúdia
+u respondentov, rozdelili do dvoch kategórií, otázky vonkajšieho a otázky vnútorného
+faktora. Motivačné faktory sme rozdelili podľa Zacharovej (2009), ktorá považuje pri výbere
+zdravotníckeho povolania za vnútorné motivačné faktory: voľbu povolania – impulz,
+záujem o povolanie ako osobnú skúsenosť s chorobou, profesionálnu zainteresovanosť
+46
+
+a rodinné tradície, prosociálnosť, hodnotovú orientáciu – zanietenosť, snahu pomáhať
+starým a chorým, vôľu – uvedomelá koncentrácia aktivity na realizáciu vytýčeného cieľa,
+ašpirácie, ktoré sú vytýčené v cieľoch a potrebe úspechu, uspokojovanie potreby
+sebarealizácie, zotrvačnosť prameniaca v snahe mať stále zamestnanie. Za vonkajšie
+motivačné faktory považuje pri výbere zdravotníckeho povolania: výber povolania ako
+náhradnú voľbu, tímovú spoluprácu počas poskytovania ošetrovateľskej starostlivosti
+o pacienta, prácu s ľuďmi ako sociálneho charakteru, sesterské kompetencie v zmysle
+legislatívy a kvalitné interpersonálne vzťahy na pracovisku.
+Každej z odpovedí respondentov v otázkach oboch faktorov sme priradili bodové skóre –
+využili sme Likertovu škálu hodnotenia (určite áno = 5; skôr áno = 4; neviem sa
+vyjadriť = 3; skôr nie = 2 a určite nie = 1) a vypočítali sme ich priemerné skóre v každej
+z otázok oboch faktorov. Prezentujeme ich v grafickej podobe.
+Vonkajší motivačný faktor:
+
+
+otázka 1: tímová participácia, sociálny charakter práce, práca s ľuďmi,
+
+
+
+otázka 2: sociálny charakter práce, práca s ľuďmi,
+
+
+
+otázka 8: sociálny charakter práce,
+
+
+
+otázka 9: sociálny charakter práce,
+
+
+
+otázka 10: výber povolania – náhradná voľba,
+
+
+
+otázka 11: legislatívna úprava podmienok vzdelania pre výkon,
+
+
+
+otázka 13: prosociálny charakter, práca s ľuďmi,
+
+
+
+otázka 16: sociálny charakter práce,
+
+
+
+otázka 19: výber povolania – náhradná voľba,
+
+
+
+otázka 21: tímová participácia,
+
+
+
+otázka 22: úprava podmienok vzdelávania,
+
+
+
+otázka 24: rozširujúce sa funkcie, tímová participácia.
+
+47
+
+vonkajší faktor
+5,00
+
+priemerné bodové skóre
+
+4,50
+4,00
+
+4,20
+4,13
+
+4,00
+
+4,20
+
+3,85
+
+3,92
+
+4,23
+
+3,50
+3,00
+
+2,82
+
+2,50
+2,25
+2,00
+
+2,19
+
+1,86
+
+1,70
+
+1,50
+1,00
+o1
+
+o2
+
+o8
+
+o9
+
+o 10
+
+o 11
+
+o 13
+
+o 16
+
+o 19
+
+o 21
+
+o 22
+
+o 24
+
+otázky vonkajšieho faktora
+
+Graf 1 Priemerné skóre respondentov v otázkach vonkajšieho faktora
+
+Z vonkajších faktorov, bol výber zdravotníckeho povolania respondentmi výberového
+súboru v najväčšej miere ovplyvnený pocitom, že svojou prácou pozitívne ovplyvnia životy
+iných ľudí (M ± SD: 4,20 ± 0,88; Mdn: 4) a rovnako aj tým, že vidia zmysel svojej práce
+v zdravotníctve (M ± SD: 4,20 ± 0,61; Mdn: 4) i tým, že sa im páči práca v zdravotníckom
+tíme (M ± SD: 4,13 ± 1,04; Mdn: 4).
+Naopak, ich výber zdravotníckeho povolania bol v najmenšej miere ovplyvnený
+spoločenským uznaním práce sestry (M ± SD: 1,70 ± 0,94; Mdn: 1), po ňom finančným
+ohodnotením sestry (M ± SD: 1,86 ± 1,09; Mdn: 2) a blízkosťou vysokej školy (M ± SD:
+2,19 ± 1,33; Mdn: 2).
+Celkové skóre každého z faktorov mohlo nadobudnúť hodnoty z intervalu 12 – 60 bodov.
+Priemerné skóre vonkajšieho faktora malo hodnotu 39,35 so smerodajnou odchýlkou 3,92,
+mediánom bola hodnota 39, modusom hodnoty 37 a 42, minimom hodnota 29, maximom 51
+bodov (tabuľka 27).
+Tabuľka 27 Deskripcia celkového skóre vonkajšieho faktora
+Skóre vo vonkajšom faktore
+celkom
+
+M
+39,35
+
+SD
+3,92
+
+Mdn
+39
+
+Mode
+37;42
+
+min
+29
+
+max
+51
+
+Celkovou priemernou hodnotou skóre v jednotlivých položkách vonkajšieho faktora bola
+hodnota 3,28 ± 0,33.
+48
+
+Miera vplyvu vonkajších faktorov na voľbu zdravotníckeho povolania u respondentov
+výberového súboru bola štatisticky významná (test zhody dvoch proporcií: početnosť
+všetkých kladných odpovedí vs početnosť všetkých záporných: z = 20,6575; zkrit = 2,3263;
+p = 4,177.10-95).
+Vnútorný motivačný faktor:
+
+
+otázka 3: snaha pomáhať druhým,
+
+
+
+otázka 4: vôľa – uvedomelá koncentrácia aktivity na realizáciu vytýčeného cieľa,
+
+
+
+otázka 5: prosociálnosť,
+
+
+
+otázka 6: prosociálnosť,
+
+
+
+otázka 7: rodinné tradície,
+
+
+
+otázka 12: výber povolania – impulz,
+
+
+
+otázka 14: rodinné tradície,
+
+
+
+otázka 15: uspokojovanie potreby, sebarealizácia,
+
+
+
+otázka 17: osobná skúsenosť so zdravotníctvom,
+
+
+
+otázka 18: osobná skúsenosť so zdravotníctvom, potreba úspechu,
+
+
+
+otázka 20: uvedomelá koncentrácia aktivity na vytýčený cieľ,
+
+
+
+otázka 23: uspokojovanie potrieb, sebarealizácia.
+
+Z vnútorných faktorov najviac ovplyvnilo výber povolania sestry u respondentov to, že boli
+vedome a zámerne ovplyvnení vzorom v rodine (M ± SD: 4,31 ± 0,47; Mdn: 4), v druhej
+najväčšej miere to, že chcú pomáhať druhým ľuďom (M ± SD: 4,21 ± 0,54; Mdn: 4)
+a takmer v takej istej miere ich nadšenie k práci s pacientami (M ± SD: 4,20 ± 0,61;
+Mdn: 4).
+Naopak, ich výber zdravotníckeho povolania bol v najmenšej miere ovplyvnený ich
+motiváciou študovať v odbore ošetrovateľstvo, vychádzajúcou z túžby získať vysokoškolské
+vzdelanie (M ± SD: 1,97 ± 1,06; Mdn: 2), po nej i tým, že by štúdium ošetrovateľstva bolo
+jedinou voľbou pri výbere ich povolania (M ± SD: 2,25± 1,35; Mdn: 2).
+
+49
+
+vnútorný faktor
+5,00
+
+priemerné bodové skóre
+
+4,50
+
+4,20
+
+4,00
+3,50
+
+4,31
+
+4,21
+4,00
+
+3,97
+3,76
+
+3,99
+
+3,90
+
+3,06
+
+3,00
+
+2,70
+
+2,50
+2,25
+2,00
+
+1,97
+
+1,50
+1,00
+o3
+
+o4
+
+o5
+
+o6
+
+o7
+
+o 12
+
+o 14
+
+o 15
+
+o 17
+
+o 18
+
+o 20
+
+o 23
+
+otázky vnútorného faktora
+
+Graf 2 Priemerné skóre respondentov v otázkach vnútorného faktora
+Celkové skóre vnútorných faktorov dosiahlo priemernú hodnotu 42,33 so smerodajnou
+odchýlkou 3,84, mediánom bola hodnota 42, modusom hodnota 41, minimom hodnota 34,
+maximom 52 bodov (tabuľka 28).
+Tabuľka 28 Deskripcia celkového skóre vnútorného faktora
+Skóre vo vnútornom faktore
+celkom
+
+M
+42,33
+
+SD
+3,84
+
+Mdn
+42
+
+Mode
+41
+
+min
+34
+
+max
+52
+
+Celkovou priemernou hodnotou skóre položiek vonkajšieho faktora bola hodnota
+3,53 ± 0,32.
+Miera vplyvu vnútorných faktorov na voľbu zdravotníckeho povolania u respondentov
+výberového súboru bola štatisticky veľmi významná (test zhody dvoch proporcií; početnosť
+všetkých kladných odpovedí vs početnosť všetkých záporných: z = 32,4210; zkrit = 2,3263;
+p = 6,938.10-231).
+
+3.1 Štatistické vyhodnotenie výskumu a testovanie hypotéz
+Pre účely nášho výskumu sme použili dotazník vlastnej konštrukcie, kde sme respondentom
+ponúkli 3 demografické a 24 názorových položiek. Jednotlivé položky dotazníka sme
+vytriedili do 2 skupín – vnútorné a vonkajšie motivačné faktory (rozdelenie uvádzame
+v predchádzajúcom texte). Po vyhodnotení jednotlivých položiek dotazníka samostatne, sme
+štatisticky overovali hypotézy, ktoré sme si stanovili v úvode nášho výskumu.
+
+50
+
+H1: Vplyv vnútorných faktorov na respondentov pri výbere zdravotníckeho povolania
+je významne väčší (silnejší) ako vplyv vonkajších faktorov.
+Voľba konkrétneho študijného odboru obyčajne býva výsledkom súhry širokého spektra
+motivačných faktorov, ktoré pôsobia na jednotlivca, či sú to osobnostné, skupinové alebo aj
+spoločenské činitele. Zaujímalo nás, čo vlastne v súčasnom spoločenskom prostredí
+motivovalo študentov nášho výberového súboru k výberu zdravotníckeho povolania,
+charakterizovaného vysokou mierou sociálneho kontaktu a zameranosťou na pomoc
+druhým. Prostredníctvom odpovedí respondentov v otázkach dotazníka sme zisťovali
+do akej miery ovplyvnili vonkajšie a vnútorné faktory ich voľbu. Predpokladali sme, že
+vnútorné, prosociálne motivačné faktory, vypovedajúce o túžbe respondentov pracovať
+s ľuďmi a pomáhať im, o chápaní ich profesie ako poslania, budú prevažovať nad vonkajšími
+faktormi.
+Už vo vyhodnotení dotazníka sme popísali spôsob hodnotenia miery vplyvu jednotlivých
+faktorov. Previedli sme deskripciu celkového skóre i priemerného skóre v otázkach
+vnútorných i vonkajších faktorov:
+Faktory
+
+celkové priemerné skóre
+
+priemerné skóre v otázkach faktora
+
+M ± SD
+
+Mdn
+
+M ± SD
+
+
+
+vnútorné:
+
+42,33 ± 3,84
+
+42
+
+3,53 ± 0,32
+
+
+
+vonkajšie
+
+39,35 ± 3,92
+
+39
+
+3,28 ± 0,33
+
+Vplyv oboch typov faktorov na výber zdravotníckeho povolania u respondentov bol
+významný.
+
+Celkové
+
+priemerné
+
+skóre
+
+v položkách
+
+oboch
+
+faktorov
+
+(vypočítané
+
+z priemerných hodnôt skóre respondentov v otázkach faktora) štatisticky veľmi významne
+prekročilo hodnotu 3 bodov. P hodnoty oboch testov (3,139.10-70 a 1,491.10-30) boli výrazne
+menšie ako hladina významnosti 0,0001 (tabuľka 30).
+Vzhľadom na to, že údaje skóre vnútorných i vonkajších faktorov mali normálnu distribúciu
+(D´Agostino – Pearsonov test normality, tabuľka 29), sme v testovaní použili parametrický
+jednovýberový t – test.
+
+51
+
+Tabuľka 29 Normalita údajov skóre faktorov v H1
+Normalita skóre v H1
+hodnoty skóre
+vnútorné faktory
+vonkajšie faktory
+rozdiel faktorov
+
+Koeficient šikmosti
+𝛾
+0,0221
+-0,1404
+0,1573
+
+Koeficient špicatosti
+𝛾
+-0,4934
+0,0502
+-0,0816
+
+P hodnota
+p
+0,1404
+0,6361
+0,5949
+
+normalita
+áno / nie
+áno
+áno
+áno
+
+Tabuľka 30 Jednovýberový t – test v H1
+Jednovýberový t - test
+priemerné skóre vs 3
+vnútorné faktory
+vonkajšie faktory
+
+Testovacia štatistika
+t
+25,4729
+13,2099
+
+Kritický obor
+W
+2,3421;∞)
+2,3421;∞)
+
+P hodnota
+p
+3,139.10-70
+1,491.10-30
+
+P hodnoty jednovýberových t - testov aj napriek tomu, že výsledky oboch testov boli
+signifikantné, naznačujú významnejšiu mieru vplyvu vnútorných faktorov. Aj koeficient
+Pearsonovej korelácie (r = 0,2427; p = 0,0002) napriek tomu, že bol štatisticky významný,
+nepotvrdil veľkú silu vzťahu vnútorných a vonkajších faktorov a je zrejmé, že bol v miere
+ich vplyvu na rozhodovanie sa respondentov pri výbere povolania štatisticky významný
+rozdiel. Preto sme testovaním overili štatistickú významnosť rozdielu priemerných hodnôt
+celkového skóre vnútorných (42,33 ± 3,84) a vonkajších (39,35 ± 3,92) faktorov. Údaje
+rozdielu párových hodnôt skóre vnútorných a vonkajších faktorov boli normálne
+distribuované (D´Agostino – Pearsonov test normality v tabuľke 29), preto bol v testovaní
+použitý párový t – test (tabuľka 31).
+Tabuľka 31 Párový t – test v H1
+Párový t - test
+priemerné skóre
+faktory: vnútorné vs vonkajšie
+
+Testovacia štatistika
+t
+9,6484
+
+Kritický obor
+W
+2,3421;∞)
+
+P hodnota
+p
+4,189.10-19
+
+Celkové priemerné skóre vnútorných faktorov bolo štatisticky významne väčšie ako celkové
+priemerné skóre vonkajších faktorov, p hodnota párového t – testu bola menšia ako hladina
+významnosti 0,0001, čím bolo preukázané, že vplyv vnútorných faktorov na rozhodovanie
+respondentov bol silnejší.
+Potvrdzuje to aj signifikantný výsledok testu zhody dvoch proporcií, ktorým sme porovnali
+štatistickú významnosť rozdielu sumárnych početností kladných odpovedí („určite áno“
+a „skôr áno“) respondentov v otázkach daných faktorov. P hodnota tohto testu
+(p = 4,339.10- 11) bola tiež menšia ako hladina významnosti 0,0001 (tabuľka 32).
+
+52
+
+Kladné odpovede:
+
+n
+
+%
+
+
+
+vnútorné faktory:
+
+1951 / 2868
+
+68,03
+
+
+
+vonkajšie faktory:
+
+1715 / 2868
+
+59,80
+
+Tabuľka 32 Test zhody dvoch proporcií v H1
+Test zhody dvoch proporcií
+sumár kladných odpovedí
+faktory: vnútorné vs vonkajšie
+
+Testovacia štatistika
+z
+6,4884
+
+Kritický obor
+W
+2,3263;∞)
+
+P hodnota
+p
+4,339.10-11
+
+Preukázali sme, že vplyv vnútorných faktorov na výber zdravotníckeho povolania bol
+v prípade respondentov nášho výberového súboru štatisticky významne väčší ako vplyv
+vonkajších faktorov. Náš predpoklad v hypotéze 1 bol správny a bol verifikovaný.
+Hypotéza 1 bola potvrdená.
+
+H2: U respondentov oboch pohlaví je rozdiel v miere vplyvu vnútorných a vonkajších
+motivačných faktorov na voľbu zdravotníckeho povolania štatisticky významný
+a pôsobenie oboch faktorov nie je ovplyvnené pohlavím respondentov.
+Minimom možného skóre respondentov vo vnútorných i vonkajších motivačných faktoroch
+bolo 12 bodov, maximom 60 bodov. Deskripciu celkového skóre respondentov oboch
+pohlaví v otázkach vnútorných i vonkajších faktorov uvádzame v tabuľke 33.
+Tabuľka 33 Deskripcia skóre faktorov, pohlavie
+Celkové skóre
+muži vnútorné faktory
+muži vonkajšie faktory
+ženy vnútorné faktory
+ženy vonkajšie faktory
+
+M
+42,33
+40,15
+42,33
+39,22
+
+SD
+3,71
+4,07
+3,87
+3,89
+
+Mdn
+42
+41
+42
+39
+
+Mode
+45
+42
+41
+37
+
+min
+35
+29
+34
+30
+
+max
+49
+48
+52
+51
+
+U mužov i žien nadobudlo celkové priemerné skóre vnútorných faktorov väčšiu hodnotu ako
+priemerné skóre vonkajších faktorov. Overili sme štatistickú významnosť ich rozdielu zvlášť
+u mužov a zvlášť u žien. Normalitu údajov skóre mužov sme overili Shapiro – Wilkovým
+testom (tabuľka 34), normalitu skóre žien D´Agostino – Pearsonovým testom normality
+(tabuľka 35).
+
+53
+
+Tabuľka 34 Normalita údajov skóre mužov
+Normalita skóre v H2
+
+Testovacia štatistika
+
+Kritická hodnota
+
+P hodnota
+
+normalita
+
+hodnoty skóre muži
+
+W
+
+Wkrit
+
+p
+
+áno / nie
+
+vnútorné faktory
+
+0,9626
+
+0,931
+
+0,3057
+
+áno
+
+vonkajšie faktory
+
+0,9515
+
+0,931
+
+0,1471
+
+áno
+
+rozdiel faktorov
+
+0,9850
+
+0,931
+
+0,9176
+
+áno
+
+Tabuľka 35 Normalita údajov skóre žien
+Normalita skóre v H2
+
+Koeficient šikmosti
+
+Koeficient špicatosti
+
+P hodnota
+
+normalita
+
+hodnoty skóre ženy
+
+𝛾
+
+𝛾
+
+p
+
+áno / nie
+
+vnútorné faktory
+
+0,0456
+
+-0,5126
+
+0,1524
+
+áno
+
+vonkajšie faktory
+
+-0,0509
+
+0,0023
+
+0,9430
+
+áno
+
+rozdiel faktorov
+
+0,1356
+
+-0,1239
+
+0,6962
+
+áno
+
+Údaje rozdielu vnútorných a vonkajších faktorov (párových hodnôt) boli u respondentov
+oboch pohlaví normálne rozdelené, preto sme štatistickú významnosť rozdielu hodnôt skóre
+vnútorných a vonkajších faktorov u respondentov oboch pohlaví overili párovými t -testami
+(tabuľka 36).
+Testovali sme H0: x
+
+ú
+
+é
+
+= x
+
+š
+
+oproti HA: x
+
+ú
+
+é
+
+ x
+
+š
+
+Tabuľka 36 Párové t – testy v H2, pohlavie
+Párový t - test
+faktory: vnútorné vs vonkajšie
+muži
+ženy
+
+Testovacia štatistika
+t
+3,0887
+9,1471
+
+Kritický obor
+W
+2,4487;∞)
+2,3447;∞)
+
+P hodnota
+p
+0,0021
+2,965.10-17
+
+ES
+d
+0,5600
+0,8012
+
+Výsledky oboch testov boli signifikantné, p hodnota v porovnaní u mužov (p = 0,0021) bola
+menšia ako hladina významnosti 0,01 a u žien (p = 2,965.10-17) bola výrazne menšia ako
+hladina významnosti 0,0001. U respondentov oboch pohlaví bol vplyv vnútorných faktorov
+pri výbere ich zdravotníckeho povolania štatisticky významne väčší ako vplyv vonkajších
+faktorov. U mužov i žien bol rozdiel v pôsobení oboch kategórií faktorov nielen štatisticky,
+ale aj vecne významný (muži: ES: d = 0,5600 – stredná sila) (ženy: ES: d = 0,8012 – veľká
+sila).
+Celkové priemerné skóre mužov vo vnútorných faktoroch bolo takmer identické
+s priemerným skóre žien. Daným hodnotám skóre odpovedajúci Studentov dvojvýberový
+t – test nepotvrdil štatistickú významnosť rozdielu hodnôt skóre mužov a žien, p hodnota
+testu (p = 0,4955) bola väčšia ako hladina významnosti 0,05 (tabuľka 37).
+54
+
+Tabuľka 37 Dvojvýberové t – testy v H2, pohlavie
+Dvojvýberový t - test
+muži vs ženy
+vnútorné faktory
+vonkajšie faktory
+
+Testovacia štatistika
+t
+0,0112
+1,2720
+
+Kritický obor
+W
+1,6513;∞)
+1,6513;∞)
+
+P hodnota
+p
+0,4955
+0,1023
+
+Ani rozdiel vo vplyve vonkajších faktorov u respondentov mužského a ženského pohlavia
+nebol štatisticky významný, p hodnota odpovedajúceho t -testu (p = 0,1023) bola väčšia ako
+hladina významnosti 0,05.
+Početnosti voľby jednotlivých možností odpovedí respondentov uvádzame v prehľadoch:
+Vnútorné faktory:
+odpovede
+
+určite áno
+
+skôr áno neviem
+
+skôr nie
+
+nie
+
+spolu
+
+
+
+muži
+
+107
+
+161
+
+20
+
+50
+
+58
+
+396
+
+
+
+ženy
+
+550
+
+1133
+
+171
+
+306
+
+312
+
+2472
+
+657
+
+1294
+
+191
+
+356
+
+370
+
+2868
+
+odpovede
+
+určite áno
+
+skôr áno
+
+neviem
+
+skôr nie
+
+nie
+
+spolu
+
+
+
+muži
+
+88
+
+157
+
+27
+
+52
+
+72
+
+396
+
+
+
+ženy
+
+494
+
+976
+
+191
+
+321
+
+490
+
+2472
+
+582
+
+1133
+
+218
+
+373
+
+562
+
+2868
+
+spolu
+Vonkajšie faktory:
+
+spolu
+
+To, že vplyv ani jedného z faktorov nebol ovplyvnený pohlavím respondentov potvrdili aj
+výsledky uvedeným početnostiam odpovedajúcich Chí – kvadrát testov (tabuľka 38).
+P hodnoty oboch testov (p = 0,0810 a p = 0,7926) prekročili hranicu hladiny významnosti
+5%.
+Tabuľka 38 Chí – kvadrát test v H2, pohlavie
+Chí – kvadrát test v H2
+pohlavie
+vnútorné faktory
+vonkajšie faktory
+
+Testovacia štatistika
+χ2
+8,3072
+1,6898
+
+Kritická hodnota
+χ2(0,05;4)
+9,4877
+9,4877
+
+P hodnota
+p
+0,0810
+0,7926
+
+Bolo preukázané, že vplyv vnútorných faktorov pri výbere povolania respondentmi bol
+u respondentov oboch pohlaví štatisticky významne väčší ako vplyv vonkajších faktorov
+(tabuľka 36), ale ani v jednej z kategórií faktorov nebol v závislosti od pohlavia
+respondentov významne odlišný (tabuľka 37).
+55
+
+Výsledky všetkých testov, ktoré sme vo verifikácii tejto hypotézy vykonali, nás oprávňujú
+potvrdiť jej platnosť.
+V prípade mužov bola v párovom teste potvrdená alternatívna hypotéza HA a stredný effect
+size, preto môžeme s istotou tvrdiť, že sme zaznamenali štatisticky významné rozdiely
+porovnávanými hodnotami a je nepravdepodobné, že by bol sledovaný effekt size významný
+len vďaka možnostiam štatistiky.
+V prípade žien bola potvrdená alternatívna hypotéza HA a veľký effect size, pri ktorom
+môžeme s istotou tvrdiť, že sme zaznamenali štatisticky významné rozdiely medzi
+hodnotami a výsledok nebol ovplyvnený možnosťami štatistiky.
+Hypotéza 2 bola potvrdená.
+
+H3: U respondentov rôznych vekových kategórií je rozdiel v miere vplyvu vnútorných
+a vonkajších motivačných faktorov na voľbu ich zdravotníckeho povolania štatisticky
+významný a pôsobenie oboch faktorov nie je ovplyvnené vekom respondentov.
+Respondentov sme rozdelili do dvoch vekových kategórií, respondentov vo veku ≤ 25 rokov
+(n = 145) a respondentov vo veku  25 rokov (n = 94).
+Predpokladali sme, že vplyv vnútorných faktorov pri výbere ich povolania je u respondentov
+oboch vekových kategórií väčší ako vplyv vonkajších faktorov.
+Deskripciu skóre respondentov oboch vekových tried v oboch kategóriách faktorov
+prezentujeme v tabuľke 39.
+Tabuľka 39 Deskripcia skóre faktorov, vek
+Celkové skóre
+
+M
+
+SD
+
+Mdn
+
+Mode
+
+min
+
+max
+
+vek ≤ 25 rokov vnútorné faktory
+
+42,49
+
+3,84
+
+42
+
+42
+
+34
+
+52
+
+vek ≤ 25 rokov vonkajšie faktory
+
+39,52
+
+3,95
+
+39
+
+37
+
+29
+
+51
+
+vek  25 rokov vnútorné faktory
+
+42,07
+
+3,84
+
+42
+
+41;45
+
+35
+
+50
+
+vek  25 rokov vonkajšie faktory
+
+39,09
+
+3,87
+
+40
+
+40
+
+30
+
+48
+
+Ako sme predpokladali, deskripcia skóre v tabuľke 39 poukazuje u respondentov oboch
+vekových kategóriu na väčšiu mieru vplyvu vnútorných faktorov. Štatistickú významnosť
+daného zistenia sme overili testovaním. Normalita rozdielov párových hodnôt údajov bola
+D´Agostino – Pearsonovým testom preukázaná (tabuľka 40), preto bol v testovaní v oboch
+vekových kategóriách použitý párový t – test (tabuľka 41).
+56
+
+V oboch vekových kategóriách sme testovali:
+H0: x
+
+ú
+
+é
+
+= x
+
+oproti
+
+š
+
+HA: x
+
+ú
+
+é
+
+ x
+
+š
+
+Tabuľka 40 Normalita údajov v H3, vek
+Normalita skóre v H3
+
+Koeficient šikmosti
+
+Koeficient špicatosti
+
+P hodnota
+
+normalita
+
+hodnoty skóre
+vnútorné faktory vek ≤25
+
+𝛾
+
+𝛾
+
+p
+
+áno / nie
+
+0,0688
+
+-0,3729
+
+0,5713
+
+áno
+
+vonkajšie faktory vek ≤25
+
+0,0087
+
+0,02197
+
+0,9744
+
+áno
+
+rozdiel faktorov vek ≤25
+
+-0,0428
+
+-0,2712
+
+0,7976
+
+áno
+
+vnútorné faktory vek 25
+
+-0,0511
+
+-0,6858
+
+0,1640
+
+áno
+
+vonkajšie faktory vek 25
+
+-0,4039
+
+0,0503
+
+0,2532
+
+áno
+
+rozdiel faktorov vek 25
+
+0,4357
+
+0,2183
+
+0,1779
+
+áno
+
+Tabuľka 41 Párové t – testy v H3, vek
+Párový t - test v H3
+faktory: vnútorné vs vonkajšie
+vek ≤ 25 rokov
+vek  25 rokov
+
+Testovacia štatistika
+
+Kritický obor
+
+P hodnota
+
+ES
+
+t
+
+W
+
+p
+
+d
+
+7,6048
+
+2,3525;∞)
+
+5,9148
+
+2,3671;∞)
+
+-12
+
+0,7623
+
+-8
+
+0,7758
+
+1,690.10
+
+2,737.10
+
+Výsledky testov v oboch vekových kategóriách boli signifikantné, p hodnota v porovnaní
+u respondentov vekovej kategórie ≤ 25 rokov (p = 1,690.10-12) i u respondentov vekovej
+kategórie  25 rokov (p = 2,737.10-8) bola menšia ako hladina významnosti 0,0001.
+U respondentov oboch vekových kategórií bol vplyv vnútorných faktorov pri výbere ich
+zdravotníckeho povolania štatisticky významne väčší ako vplyv vonkajších faktorov.
+Rozdiel v miere vplyvu daných kategórií faktorov bol v prípade respondentov vekovej
+kategórie ≤ 25 rokov (d = 0,7623) i vekovej kategórie  25 rokov (d = 0,7758) štatisticky
+i vecne (empiricky) významný.
+Výsledky v tejto časti podporujú predpoklad hypotézy 3.
+Celkové priemerné skóre respondentov daných vekových kategórií vo vnútorných
+i vonkajších faktoroch bolo len nepatrne odlišné. Zisteným hodnotám skóre odpovedajúci
+Studentov dvojvýberový t – test potvrdil, že rozdiel skóre hodnôt respondentov vekovej
+kategórie ≤ 25 rokov a respondentov vekovej kategórie  25 rokov nebol ani v jednej
+kategórii faktorov štatisticky významný. P hodnota v prípade porovnania vo vnútorných
+
+57
+
+faktoroch (p = 0,2076) i v prípade porovnania vo vonkajších faktoroch (p = 0,2030) bola
+väčšia ako hladina významnosti 0,05 (tabuľka 42).
+Tabuľka 42 Dvojvýberové t – testy v H3, vek
+Dvojvýberový t - test
+vek: ≤ 25 vs  25 rokov
+vnútorné faktory
+vonkajšie faktory
+
+Testovacia štatistika
+t
+0,8160
+0,8325
+
+Kritický obor
+W
+1,6513;∞)
+1,6513;∞)
+
+P hodnota
+p
+0,2076
+0,2030
+
+Miera vplyvu vnútorných i vonkajších faktorov na voľbu povolania u respondentov daných
+vekových kategórií nebola štatisticky významne odlišná.
+V prehľade uvádzame sumárne početnosti voľby odpovedí respondentov oboch vekových
+kategórií v otázkach každého z faktorov.
+Vnútorné faktory:
+Odpovede
+
+určite áno
+
+skôr áno
+
+neviem
+
+skôr nie
+
+nie
+
+spolu
+
+ vek ≤ 25
+
+398
+
+793
+
+120
+
+210
+
+219
+
+1740
+
+ vek  25
+
+259
+
+501
+
+71
+
+146
+
+151
+
+1128
+
+657
+
+1294
+
+191
+
+356
+
+370
+
+2868
+
+Odpovede
+
+určite áno
+
+skôr áno
+
+neviem
+
+skôr nie
+
+nie
+
+spolu
+
+vek ≤ 25
+
+373
+
+671
+
+133
+
+219
+
+344
+
+1740
+
+vek  25
+
+209
+
+462
+
+85
+
+154
+
+218
+
+1128
+
+spolu
+
+582
+
+1133
+
+218
+
+373
+
+562
+
+2868
+
+spolu
+Vonkajšie faktory:
+
+Na to, že miera vplyvu ani jedného z kategórií faktorov nebola ovplyvnená vekom
+respondentov,
+
+poukazujú
+
+výsledky
+
+prezentovaným
+
+početnostiam
+
+odpovedajúcich
+
+Chí – kvadrát testov (tabuľka 43).
+Tabuľka 43 Chí – kvadrát test v H3, vek
+Chí – kvadrát test v H3
+vek respondentov
+vnútorné faktory
+vonkajšie faktory
+
+Testovacia štatistika
+χ2
+1,3402
+4,5233
+
+Kritická hodnota
+χ2(0,05;4)
+9,4877
+9,4877
+
+P hodnota
+p
+0,8545
+0,3398
+
+58
+
+P hodnota testu v prípade vplyvu vnútorných faktorov (p = 0,8545) i p hodnota testu
+v prípade vplyvu vonkajších faktorov (p = 0,3398) bola väčšia ako hladina významnosti 5%.
+Dokázali sme, že vplyv vnútorných faktorov pri výbere povolania respondentmi bol
+u respondentov oboch vekových kategórií štatisticky významne väčší ako vplyv vonkajších
+faktorov, a ani v jednej z kategórií faktorov nebol v závislosti od ich veku štatisticky
+významne odlišný. Vek respondentov neovplyvnil výber ich povolania. Tieto dôkazy sú
+v úplnom súlade so znením hypotézy 3.
+Hypotéza 3 bola potvrdená.
+
+H4: Vplyv motivačných faktorov na výber zdravotníckeho povolania respondentov je
+vzhľadom na ich ukončené stredoškolské vzdelanie štatisticky významne odlišný.
+Respondenti nášho výberového súboru boli podľa typu ich ukončeného stredoškolského
+vzdelania rozdelení do troch tried:
+
+
+SZŠ
+
+n = 83
+
+
+
+gymnázium
+
+n = 128
+
+
+
+SOŠ
+
+n = 28
+
+Mieru vplyvu oboch typov faktorov na výber povolania respondentov tentoraz vyhodnotíme
+prostredníctvom sumárnych početností odpovedí respondentov v jednotlivých možnostiach
+odpovede v týchto faktoroch.
+Početnosti odpovedí respondentov v otázkach vnútorných i vonkajších faktorov, utriedené
+podľa typu ich stredoškolského vzdelania, uvádzame prostredníctvom prehľadov.
+vnútorné faktory:
+vzdelanie
+
+určite áno
+
+skôr áno
+
+neviem
+
+skôr nie
+
+nie
+
+spolu
+
+
+
+SZŠ
+
+238
+
+452
+
+64
+
+110
+
+132
+
+996
+
+
+
+G
+
+350
+
+705
+
+94
+
+199
+
+188
+
+1536
+
+
+
+SOŠ
+
+69
+
+137
+
+33
+
+47
+
+50
+
+336
+
+657
+
+1294
+
+191
+
+356
+
+370
+
+2868
+
+spolu
+
+Chí – kvadrát testom sme overili, či je voľba odpovedí respondentov v otázkach vnútorných
+faktorov ovplyvnená ich vzdelaním (tabuľka 44).
+
+59
+
+Tabuľka 44 Chí kvadrát test v H4, vnútorné faktory
+Chí – kvadrát test
+vzdelanie respondentov
+vnútorné faktory
+
+Testovacia štatistika
+χ2
+12,8622
+
+Kritická hodnota
+χ2(0,05;8)
+15,5073
+
+P hodnota
+p
+0,1167
+
+P hodnota testu (p = 0,1167), väčšia ako hladina významnosti 0,05, potvrdila, že výsledok
+testu nie je štatisticky významný. Voľba odpovedí respondentov, ktoré sú vyjadrením miery
+vplyvu vnútorných faktorov na výber ich zdravotníckeho povolania, nie je v súvislosti
+s ukončeným typom ich stredoškolského vzdelania významne odlišná.
+Štatistickú významnosť rozdielu relatívnych početností odpovedí respondentov daných
+typov vzdelania po dvojiciach navzájom sme v každej z možností odpovede overili
+Marascuilo procedúrou. Relatívne početnosti odpovedí respondentov s ukončenou SZŠ sme
+v každom porovnaní označili ako p1, s ukončeným gymnaziálnym vzdelaním (G) ako p2
+a s ukončenou SOŠ ako p3.
+Rozdiel porovnávaných relatívnych početností je štatisticky významný, keď je hodnota
+testovacej štatistiky väčšia ako odpovedajúca kritická hodnota, a naopak, nie je štatisticky
+významný, ak je hodnota testovacej štatistiky menšia ako odpovedajúca kritická hodnota.
+Ani v jednej z možností odpovede sme v relatívnych početnostiach odpovedí respondentov
+daných tried vzdelania štatisticky významný rozdiel v porovnaniach po dvojiciach navzájom
+nezistili. Vo všetkých porovnaniach bola hodnota testovacieho kritéria menšia ako
+odpovedajúca kritická hodnota (tabuľka 45).
+Tabuľka 45 Marascuilo procedúra v H4, vnútorné faktory
+odpoveď
+
+určite áno
+skôr áno
+neviem sa
+vyjadriť
+skôr nie
+určite nie
+
+Marascuilo procedúra – vnútorné faktory
+Testovacia štatistika
+Kritická hodnota
+0,0111
+0,0422
+p1 - p2
+0,0336
+0,0633
+p1 - p3
+0,0225
+0,0600
+p2 - p3
+0,0052
+0,0496
+p1 - p2
+0,0461
+0,0761
+p1 - p3
+0,0512
+0,0726
+p2 - p3
+0,0031
+0,0242
+p1 - p2
+0,0340
+0,0441
+p1 - p3
+0,0370
+0,0425
+p2 - p3
+0,0191
+0,0321
+p1 - p2
+0,0294
+0,0523
+p1 - p3
+0,0103
+0,0508
+p2 - p3
+0,0101
+0,0333
+p1 - p2
+0,0163
+0,0543
+p1 - p3
+0,0264
+0,0517
+p2 - p3
+
+rozdiel
+
+Signifikantnosť
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+nie
+
+60
+
+Miera vplyvu vnútorných faktorov na výber povolania u respondentov daných troch tried
+stredoškolského vzdelania nie je navzájom štatisticky významne odlišná.
+Hypotéza 4 v tejto časti dokazovania nebola potvrdená.
+Rovnaký spôsobom sme analyzovali odpovede respondentov v otázkach vonkajších
+faktorov.
+vonkajšie faktory:
+vzdelanie
+
+určite áno
+
+skôr áno
+
+neviem
+
+skôr nie
+
+nie
+
+spolu
+
+
+
+SZŠ
+
+238
+
+364
+
+71
+
+119
+
+204
+
+996
+
+
+
+G
+
+291
+
+644
+
+95
+
+214
+
+292
+
+1536
+
+
+
+SOŠ
+
+53
+
+125
+
+52
+
+40
+
+66
+
+336
+
+582
+
+1133
+
+218
+
+373
+
+562
+
+2868
+
+spolu
+
+Aj v prípade vonkajších faktorov sme Chí – kvadrát testom overili, či je voľba odpovedí
+respondentov ovplyvnená ich stredoškolským vzdelaním.
+Tabuľka 46 Chí kvadrát test v H4, vonkajšie faktory
+Chí – kvadrát test
+vzdelanie respondentov
+vonkajšie faktory
+
+Testovacia štatistika
+χ2
+50,6774
+
+Kritická hodnota
+χ2(0,05;8)
+15,5073
+
+P hodnota
+p
+3,028.10-8
+
+P hodnota testu (p = 3,028.10-8) bola v tomto prípade menšia ako hladina významnosti
+0,0001. Miera vplyvu vonkajších faktorov bola v tomto prípade ovplyvnená stredoškolským
+vzdelaním respondentov.
+Znamená to, že odpovede respondentov sú v niektorej z možností odpovede vzhľadom
+na vzdelanie respondentov významne odlišné. Preto sme opäť Marascuilo procedúrou zistili,
+v ktorých možnostiach odpovede, a medzi ktorými typmi vzdelania bol v relatívnych
+početnostiach odpovedí zaznamenaný štatisticky významný rozdiel (tabuľka 47).
+
+61
+
+Tabuľka 47 Marascuilo procedúra v H4, vonkajšie faktory
+odpoveď
+
+určite áno
+skôr áno
+neviem sa
+vyjadriť
+skôr nie
+určite nie
+
+Marascuilo procedúra – vonkajšie faktory
+Testovacia štatistika
+Kritická hodnota
+0,0495
+0,0411
+p1 - p2
+0,0812
+0,0588
+p1 - p3
+0,0317
+0,0545
+p2 - p3
+0,0538
+0,0484
+p1 - p2
+0,0066
+0,0746
+p1 - p3
+0,0472
+0,0715
+p2 - p3
+0,0094
+0,0250
+p1 - p2
+0,0835
+0,0523
+p1 - p3
+0,0929
+0,0506
+p2 - p3
+0,0198
+0,0332
+p1 - p2
+0,0004
+0,0500
+p1 - p3
+0,0203
+0,0484
+p2 - p3
+0,0147
+0,0398
+p1 - p2
+0,0084
+0,0616
+p1 - p3
+0,0063
+0,0584
+p2 - p3
+rozdiel
+
+Signifikantnosť
+áno
+áno
+nie
+áno
+nie
+nie
+nie
+áno
+áno
+nie
+nie
+nie
+nie
+nie
+nie
+
+Štatisticky významný rozdiel bol zaznamenaný v prípade odpovede „určite áno“. Relatívna
+početnosť tejto odpovede u respondentov s ukončenou SZŠ bola štatisticky významne väčšia
+ako relatívne početnosti respondentov s ukončeným gymnaziálnym vzdelaním i ukončenou
+SOŠ.
+Štatisticky významný rozdiel sme zistili aj v odpovedi „ skôr áno“. Tentoraz bola relatívna
+početnosť voľby tejto možnosti odpovede najväčšia u absolventov gymnázií a bola
+štatisticky významne väčšia ako u respondentov s ukončenou SZŠ.
+Štatisticky významný rozdiel sme zistili aj v početnostiach odpovedí respondentov, ktorí sa
+k problematike nevedeli vyjadriť. Boli to práve respondenti s ukončenou SOŠ, ktorých
+relatívne početnosti tejto odpovede štatisticky významne prevyšovali relatívne početnosti
+odpovedí respondentov s ukončenou SZŠ i gymnaziálnym vzdelaním.
+Výsledky testov v tejto časti dokazovania vypovedajú v prospech hypotézy 4.
+Ale vzhľadom na to, že len v miere vplyvu vonkajších faktorov na voľbu povolania
+respondentov bol zistený štatisticky významný rozdiel v súvislosti s typom ich ukončeného
+stredoškolského vzdelania, hypotézu 4 nemôžeme prijať.
+Hypotéza 4 nebola potvrdená.
+
+62
+
+4 DISKUSIA
+Diplomová práca sa venuje problematike motivačných faktorov študentov odboru
+ošetrovateľstva na výkon zdravotníckeho povolania. Z vlastných skúseností môžeme
+povedať, že profesia sesterského povolania je veľmi náročná a vyžaduje si nielen dostatočné
+teoretické vedomosti, ale aj vynikajúce praktické zručnosti. Zároveň môžeme konštatovať
+aj fakt, že kladie na sestry nielen fyzické, ale aj psychické nároky.
+Ako sme už uviedli v našej diplomovej práci, motivačné faktory sú významným činiteľom
+v procese rozhodovania pri výbere zdravotníckeho povolania. Ošetrovateľstvo ako študijný
+odbor na Slovensku poskytuje možnosť vzdelávania sestier v bakalárskom a magisterskom
+stupni. Je možné, aby sestra po ukončení 2. stupňa vysokoškolského vzdelania pokračovala
+aj v doktorandskom štúdiu. Každý stupeň vysokoškolského vzdelania kladie na budúcu
+sestru určité nároky, ktoré ju však v nemalej miere pripravuje na poskytovanie kvalitnej
+ošetrovateľskej starostlivosti, ako aj na prípadné manažovanie v zdravotníctve. Sestry sa
+počas svojej aktívnej praxe musia neustále vzdelávať, čo dokazuje aj päťročné sústavné
+hodnotenie všetkých sestier.
+V diplomovej práci sme sa venovali problematike motivačných faktorov a ich vplyvu na
+výber zdravotníckeho povolania u študentov odboru ošetrovateľstva. Podobné výskumy, či
+štúdie nie sú tak časté, preto sme naše výsledky výskumu porovnali najmä s výskumami,
+ktoré boli zamerané na vplyv motivačných faktorov u sestier, pretože tieto dve problematiky
+považujeme za veľmi príbuzné.
+Naše výsledky výskumu ukázali, že aj naši respondenti boli pri výbere svojho štúdia na
+vysokej škole – výbere odboru ošetrovateľstvo – ovplyvnení nielen vonkajšími, ale aj
+vnútornými faktormi. Štatistické výsledky preukázali, že vplyv vnútorných faktorov na
+výber zdravotníckeho povolania u našich respondentov bol významne väčší ako vplyv
+vonkajších faktorov. Porovnateľným je výskum, ktorý sa realizoval v roku 2014 na
+Slovensku a jeho hlavným cieľom bolo identifikovať a lepšie porozumieť motivačným
+faktorom, ktoré zohrali významnú úlohu pri voľbe študijného odboru – ošetrovateľstvo
+a sociálna práca. Jedná sa o študijné odbory, ktoré zaraďujeme do skupiny pomáhajúcich
+profesií, preto sú motivačné faktory považované za významné v celom procese
+rozhodovania. Výskumu sa zúčastnilo 193 študentov Vysokej školy sv. Alžbety, ktorí
+aktívne študovali v odboroch sociálna práca a ošetrovateľstvo v dennej a externej forme.
+Vekové zastúpenie študentov bolo od 19 do 56 rokov, s priemerným vekov respondentov
+63
+
+28, 51 rokov. zastúpenie mužského pohlavia bolo prirodzene nižšie ako ženského pohlavia.
+Respondenti mali v jednotlivých položkách dotazníka vyjadriť mieru ovplyvnenia daným
+motivačným faktorom pri rozhodovaní sa výberu odboru ošetrovateľstva alebo sociálnej
+práce. Autori výskumu zatriedili jednotlivé motivačné faktory do 3 skupín: prosociálne
+faktory, profesijné ambície a motivačné faktory súvisiace s konformitou. Výsledky výskumu
+poukazujú, že študentov sociálnej práce a ošetrovateľstva najviac motivovalo: práca
+s ľuďmi, zmysle odboru ako takého, ako aj motivácia získania vysokoškolského vzdelania.
+Výsledky rovnako poukázali na skupinu najmenej motivujúcich faktorov, ktoré ich
+ovplyvnili pri výbere študijných odborov – ošetrovateľstvo a sociálna práca. Medzi ne
+patrili: výber odboru ako „východisko z núdze“, želanie ich rodičov a potreba dosiahnuť
+vysokoškolské vzdelanie pre potreby zabezpečenia istoty v ich doterajšej práci.
+Výsledky teda potvrdili, že pre skupinu pomáhajúcich profesií je všeobecne potrebné, aby
+mali prosociálne správanie a dokázali realizovať činnosti zamerané na pomoc druhým, čo
+potvrdili aj odpovede študentov ošetrovateľstva, u ktorých bolo štatisticky významnejšie, že
+pomoc druhým je zároveň aj ich poslaním, oproti študentom sociálnej práce. Tieto výsledky
+korešpondujú s výsledkami nášho výskumu.
+Ďalej v tomto výskume autori zisťovali vplyv motivačných faktorov u respondentov
+v súvislosti s ich vekom. Autori výskumu konštatovali, že výsledky hovoria o tom, že čím
+sú študenti starší, tým častejšie u nich v procese voľby študijného odboru zohráva dôležitú
+úlohu prosociálna motivácia a menej sú ovplyvnení konformitou.
+V závere svojho výskumu konštatovali, že je veľmi potrebné, aby na vysokoškolské štúdium
+boli prijímaní nielen študenti s výrazným vnútorným motivačným faktorom, ale mali by sme
+kontinuálne počas štúdia zabezpečiť, aby boli študenti neustále motivovaní a „prebúdzaní“
+k pochopeniu podstaty ošetrovateľstva so zameraním na pomoc druhým a jeho prosociálny
+charakter (Leczová a kol., 2014).
+Štúdia, ktorú realizovali Poliaková, Stráňavová a Matišáková mala podobné zameranie. Jej
+hlavým cieľom bolo zistiť, ktoré faktory boli motivujúce pre sestry v procese rozhodovania
+na ďalšie štúdium II. stupňa v odbore ošetrovateľstvo. Súčasťou štúdie bolo aj porovnať
+vplyv vnútorných a vonkajších motivačných faktorov pri ich rozhodovaní. ide o podobnú
+štúdiu s našim výskumom, aj keď je potrebné zdôrazniť, že spomínaná štúdia bola zamerané
+na už pracujúce sestry, ktoré dosiahli 1. stupeň vysokoškolského vzdelania, kdežto v našom
+výskumu boli respondentmi budúci vysokoškoláci. Aj výsledky tejto štúdie potvrdili, že
+najväčší význam v procese rozhodovania sa mali vnútorné motivačné faktory, konkrétne:
+potreba osobného rastu a potreba získania nových vedomostí. Na základe výsledkov autorky
+64
+
+štúdie skonštatovali, že vplyv vnútorných motivačných faktorov bol štatisticky významne
+vyšší ako vplyv vonkajších motivačných faktorov (Poliaková a kol., 2021). Aj výsledky tejto
+štúdie korešpondujú s výsledkami nášho výskumu, v ktorom vplyv vnútorných motivačných
+faktorov bol väčší ako vonkajších.
+Výskum realizovaný v Honkongu bol zameraný na zisťovanie a skúmanie dôvodov, prečo
+chceli študenti pokračovať v ďalšom štúdiu v odbore ošetrovateľstvo. Výsledky výskumu
+boli získané prostredníctvom sedemdesiatich pološtrukturovaných rozhovorov so študentmi
+v odbore ošetrovateľstvo a poukázali na široké spektrum motivačných faktorov, aj keď
+u mnohých študentov bola zaznamenaná neistota v dosiahnutí vyššieho vzdelania, ako aj
+kariérneho rastu. Celkovo výsledky poukazujú na dva hlavné motívy aj naďalej študovať
+v odbore ošetrovateľstvo. Prvým motivačným faktorom je vnútorná motivácia k osobnému
+rastu a druhým motivačným faktorom je motivácia na uspokojenie nedostatkov. Závery však
+poukázali na vzájomné pôsobenie rôznych motivačných faktorov, pričom výskum
+považovali za významne heterogénny (Jung, Li, 2020).
+Macdiarmidová a kol. (2021) realizovali v roku 2021 výskum zameraný na komplexné
+popísanie motivačných faktorov smerujúcich absolventov zdravotníckych škôl k zápisu do
+programov zameraných na ošetrovateľstvo. Východiskami pre tento výskum bol fakt, že
+v súčasnosti zaznamenávame globálny deficit sestier, a preto je potrebné venovať tomuto
+stavu naliehavú pozornosť. Zaradení do výskumu boli respondenti, ktorí sa zapísali, alebo
+sa snažili zapísať do ošetrovateľských programov pre absolventov. Celkový počet
+respondentov bolo 491. Výsledky výskumu identifikovali 4 hlavné skupiny motivačných
+faktorov: nájdenie zmyslu a účelu života prostredníctvom altruizmu a starostlivosti
+o druhých, hľadanie uspokojenia v kariére, hľadanie zmeny v živote a možnosť získať
+štipendium. Naše výsledky výskumu je možné porovnať aj s výsledkami výskumu, ktorý bol
+zameraný na motiváciu zdravotníckych pracovníkov. Aj keď cieľovou skupinou výskumu
+boli už samotní zdravotnícki pracovníci, ktorí vykonávajú aktívne svoju profesiu, mohli by
+sme predpokladať, že motivačné faktory budú podobné ako u skupiny študentov, ktorí
+študujú v odbore ošetrovateľstvo a pripravujú sa na zdravotnícke povolanie. Hlavným
+cieľom výskumu bolo identifikovať faktory, ktoré vplývajú na motiváciu zdravotníckych
+pracovníkov pracujúcich v zdravotníckych zariadeniach. Autorky sa zamerali na hodnotenie
+a komparáciu motivačných faktorov v celom pracovnom procese poskytovania zdravotnej
+starostlivosti. Výskum preukázal, že motivácia je v pracovnom procese veľmi významná
+a ak je motivácia úspešná, vedie k efektívnemu zvládaniu pracovného nasadenia, ako aj
+lepšiemu zvládaniu a riešeniu stresových situácií, ktoré sú časté počas poskytovania
+65
+
+zdravotnej a ošetrovateľskej starostlivosti. Výskumnú vzorku tvorilo 160 respondentov
+(sestry, pôrodné asistentky, laborantky, fyzioterapeuti a praktické sestry). Zistenia výskumu
+konštatovali, že zdravotnícki pracovníci vo vyššom veku mali pozitívnejší postoj
+k zdravotníckemu povolaniu. Veľmi zaujímavý výsledok v tomto výskume bol aj ten, že až
+75,47% z celkového súboru respondentov uvažovali nad zmenou povolania aj napriek veľmi
+dobrej materiálno – technickej základni na ich pracovisku. Vychádzajúc z mnohých tvrdení
+viacerých autorov, ktorí tvrdia, že materiálno technické podmienky na pracovisku významne
+ovplyvňujú motiváciu pracovníkov, môžeme sledovať zistenú diskrepanciu (Hadašová
+a kol., 2017). V našom výskume sme v jednom z hypotéz štatisticky overovali, či vzájomne
+súvisia vnútorné a vonkajšie motivačné faktory s vekom respondentov. Dokázali sme, že
+vplyv vnútorných faktorov pri výbere povolania respondentmi bol u respondentov oboch
+vekových kategórií štatisticky významne väčší ako vplyv vonkajších faktorov, a ani v jednej
+z kategórií faktorov nebol v závislosti od ich veku štatisticky významne odlišný. Vek
+respondentov neovplyvnil výber ich povolania. Prieskum realizovaný v Čechách a na
+Slovensku zameraný na identifikáciu motivačných faktorov sestier na výkon povolania
+ukázal, že medzi najväčšie motivačné faktory považujú sestry úroveň vzťahov na
+pracovisku, platové ohodnotenie a uznanie ich práce od kolegov a nadriadených. Jednotlivé
+odpovede sestier v Čechách a na Slovensku boli takmer identické. V závere autori
+prieskumu skonštatovali, že motivačné faktory sú významné k získaniu a udržaniu
+profesionality, odbornému rastu a neustálemu zlepšovaniu sa (Ševčovičová, Emődiová,
+2016).
+
+4.1 Odporúčania pre prax
+Vypracované návrhy pre prax sme zosumarizovali na základe našich vlastných skúseností
+z praxe, ale aj na základe preštudovanej dostupnej literatúry a výsledkov nášho výskumu.
+Ovplyvňovať mladého človeka pri výbere zdravotníckeho povolania môžeme iba vtedy, ak
+sa s ním pravidelne stretávame. Samotné ovplyvnenie vie zrealizovať škola, ktorú by mladý
+človek mohol navštevovať. V súčasnosti sa pravidelne školy prezentujú Dňami otvorených
+dverí, ktoré ho môžu vo výraznej miere ovplyvniť v jeho rozhodovaní.
+Nami vytvorené odporúčania pre prax by mohli byť zakomponované do procesu praktickej
+výučby študentov stredných zdravotníckych škôl, kedy sme s nimi v priamom kontakte, ale
+je možné, aby boli aplikované aj do procesu vzdelávania študentov vysokých škôl v odbore
+ošetrovateľstvo. Zakomponovanie niektorých odporúčaní do praxe by mohlo prispieť
+66
+
+k zlepšeniu motivácie študentov nielen stredných škôl, ale aj študentov vysokých škôl
+v odbore ošetrovateľstvo, pre prácu v zdravotníctve a zvýšeniu poskytovania kvalitnej
+ošetrovateľskej starostlivosti.
+1. Podporovať rozvoj vnútorných motivačných faktorov: podpora samostatnosti,
+zodpovednosti, podpora pozitívneho postoja k profesii, vyzdvihnutie profesionality.
+2. Zvyšovať kvalitu praktickej výučby: podporovať činnosť mentorov a dbať na pozitívny
+profesionálny vzťah mentor – študent.
+3. Získavať pravidelne spätnú väzbu od študentov: zaujímať sa o skúsenosti študentov,
+či už zo školy, ale aj z praktickej výučby. Je veľmi potrebné, aby študent mohol otvorene
+porozprávať pedagógovi, či mentorovi, aké má skúsenosti, čo zažil, prípadne je potrebné
+vykonať debrifing a požadovanú situáciu podrobne rozobrať. V mnohých prípadoch je
+vhodný kolektívny debrifing.
+4. Realizovať pravidelné hodnotenie študentov: nielen v skúškovom období je potrebné
+študentov ohodnotiť – vhodné je slovné ohodnotenie (pochvala, prípadne upozornenie).
+Študent je schopný lepšie vyhodnotiť situácie a uvedomuje si, či „ide správnym smerom“.
+5. Podporovať študentov v tímovej spolupráci: oboznámiť študentov, aby pochopili, že
+ako ročník sú komunita, ktorá je vnímaná navonok ako celok a odporučiť im, aby riešili
+vzniknuté problémy všetci spolu. Podporovať študentov, aby si vzájomne pomáhali, ale
+nezamieňali si tento pojem s využívaním jeden druhého.
+6. Viesť študentov k sebarealizácii a zdravému sebahodnoteniu: iba objektívnym
+sebahodnotením a správnou sebarealizáciou môže študent pochopiť, čo so sebou prináša
+profesia sestry a akú úlohu plní v zdravotníckom tíme.
+7. Podporovať študentov v zachovaní integrity osobného života: odporúčať študentom
+zahŕňať do osobného života relaxáciu podľa vlastného uváženia a poukázať na to, že
+v budúcnosti je to potrebné, aby predišli syndrómu vyhorenia.
+
+67
+
+ZÁVER
+Súčasné zdravotníctvo zaznamenáva dlhšie obdobie nedostatočného počtu sestier. Dochádza
+k odchodu sestier do dôchodku, ale veľmi častým javom je, že sestry, ktoré ukončia
+vysokoškolské vzdelanie, odchádzajú zo Slovenska do iných krajín. Je nevyhnutné, aby
+sestry, ktoré by mohli po skončení štúdia nastúpiť do zamestnania, boli správne a dostatočne
+motivované a zamestnali sa v našich zdravotníckych zariadeniach.
+Každý človek sa vo svojom živote musí rozhodovať v mnohých situáciách. Na každého
+z nás sú nepretržite kladené nároky, nielen z pohľadu seba samého, ale aj nároky
+prichádzajúce z okolitého prostredia. Najväčší vplyv na človeka má rodina, ktorá ho formuje
+od narodenia. Jedným z kľúčových rozhodovaní je proces výberu povolania, ktoré bude
+jedinec vykonávať v celom svojom produktívnom období. Mnohí odborníci tvrdia, aby si
+človek vybral také povolanie, ku ktorému má vzťah a „baví ho“, aby bola jeho práca
+v budúcnosti aj jeho koníčkom. Zo skúseností vieme, že niekedy nemá človek na výber,
+pretože jeho momentálna situácia výrazne ovplyvní jeho budúcnosť. Aj motivačné faktory
+výrazne ovplyvňujú výber povolania, tým aj výber štúdia, pre ktoré sa človek rozhodne.
+Mnohé výskumy ukázali, že vnútorná motivácia, ktorá je podporovaná kvalitným
+vzdelávacím prostredím, ako aj vhodným rodinným prostredím, prispieva k dlhodobej
+vnútornej spokojnosti, ktorá je potrebná pre prácu v akomkoľvek odbore. Štúdium v odbore
+ošetrovateľstvo, ako aj práca v zdravotníctve, je spojená s neustálym rozvojom osobnosti,
+ako aj profesionálnych zručností. Vyžaduje si cit pre tímovú prácu, empatický pohľad
+na pacienta, správnu dávku pokory, ale aj primeranú hrdosť na status profesie sestry v celom
+procese poskytovania zdravotnej starostlivosti. Budúci študenti ošetrovateľstva majú svoje
+očakávania, ktoré smerujú k základnému cieľu – dosiahnuť profesionálny úspech
+v ošetrovateľstve a viesť vyvážený nielen osobný, ale aj pracovný život. Mnohí majú osobné
+skúsenosti so zdravotníctvom, ktoré sú pozitívneho, či negatívneho charakteru, ale každý,
+kto sa rozhodne pre profesiu sestry vie, že jeho práca bude náročná. Posilniť a uistiť by ich
+mohli v správnosti rozhodnutia pedagógovia, ale aj mentori na praxi, ktorí vo významnej
+miere vplývajú na ich ďalší osobnostný, ako aj kariérny rozvoj. Faktom však stále zostane
+to, že pri rozhodovaní vo výbere svojho povolania je človek neustále ovplyvnený nielen
+vnútornými, ale aj vonkajšími faktormi a je len na ňom, ktoré z nich majú pre neho väčšiu
+váhu.
+
+68
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+
+BINTEROVÁ, A. 2020. Sestra v první linii. In Journal, časopis Jihočeské univerzity
+v Českých Budějovicích, [online]. 2020, č. 32, s. 8-11. [cit. 2025-02-10]. Dostupné na
+internete:
+
+https://www.zsf.jcu.cz/images/ZSF/fakulta/aktualne/2020/2-5-
+
+20/JOURNAL_KVETEN_2020_web.pdf. ISSN 2336-2170.
+BROOK, J. et al. 2019. Characteristics of successful interventions to reduce turnover and
+increase retention of early career nurses: A systematic review. In International Journal of
+Nursing Studies. [online]. 2019, vol. 91, p. 47 – 59. [cit. 2025-02-08]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/30669077/. ISSN 1873-491X.
+BUCHAN, J. – CATTON, H. 2023. Investing in the nursing workforce for health system
+effectiveness. Geneva: ICN, 2023. 73 p. ISBN 978-92-95124-17-2.
+CAMVEREN, H. et al. 2020. Why do young nurses leave their organization? A qualitative
+descriptive study. In International Nursing Review. [online]. 2020, vol. 67, no. 4, p. 519 –
+528. [cit. 2025-02-08]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/33006181/.
+ISSN 0020-8132.
+CIHAN, T. et al. 2019. Emotional and Motivational Barriers to Effective Learning of
+Students. In Journal of Education and Future. [online]. 2019, vol. 16, p. 1 – 15. [cit. 202501-12]. Dostupné na internete: https://dergipark.org.tr/en/pub/jef/issue/47332/524370. ISSN
+3078-6010.
+COCO, K. 2020. Attraction factors in specialized nursing care. Survey to nurses in Tehy
+trade union. Finland: Tuija Kinnunen-Moilanen, 2020. 20 p. ISBN 978-952–6667–88–1.
+CVTI SR, 2025. Štatistická ročenka – vysoké školy. [online]. [cit. 2025-02-08]. Dostupné
+na
+
+internete:
+
+https://www.cvtisr.sk/cvti-sr-vedecka-kniznica/informacie-o-
+
+skolstve/statistiky/statisticka-rocenka-publikacia/statisticka-rocenka-vysokeskoly.html?page_id=9596.
+DENNAN, V. M. – ROSS, F. 2019. Global nurse shortages-the facts, the impact and action
+for change. In British Medical Bulletin.[online]. 2019, vol. 130, no. 1, p. 25 - 37. [cit. 202501-25]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/31086957/. ISSN 14718391.
+69
+
+FARKAŠOVÁ, D. 2021. Teória ošetrovateľstva princípy a prax. Učebnica pre študentov
+ošetrovateľstva. Martin: Osveta, 2021. 361 s. ISBN 978-80-8063-503-9.
+FORSYTH, P. 2009. Jak motivovat svůj tým. Praha: Grada, 2009. 98 s. ISBN 978-80-2472128-6.
+HADAŠOVÁ, L. – FERTAĽOVÁ, T. – ONDRIOVÁ, I. 2017. Motivácia zdravotníckych
+pracovníkov. In Grant journal. [online]. 2017, vol. 8, p. 16– 19. [cit. 2025-02-15]. Dostupné
+na internete: https://www.grantjournal.com/issue/0802/PDF/0802hadasova.pdf.
+HAJEROVÁ MŰLLEROVÁ, L. a kol. 2024. Řízení lidských zdrojů v kontextu
+organizačního chování. Praha: Wolters Kluwer ČR, 2024. 328 s. ISBN 978-80-767-6996-0.
+HANZLÍKOVÁ, M. 2011. Profesionálne ošetrovateľstvo a jeho regulácia. Martin: Osveta,
+2011. 155 s. ISBN 978-80-8063-360-8.
+HEKELOVÁ, Z., 2012. Manažerské znalosti a dovednosti pro sestry. Praha: Grada, 2012.
+128 s. ISBN 978-80-247-4732-3.
+HERTUALLA, N. et al., 2023. Working as a nurse manager and being in the middle of one’s
+career is connected to lower work well-being. In International Journal of Healthcare
+Management. [online]. 2023, vol. 17, no. 2, p. 227 – 237. [cit. 2025-02-10]. Dostupné na
+internete:
+
+https://researchportal.tuni.fi/en/publications/working-as-a-nurse-manager-and-
+
+being-in-the-middle-of-ones-career. ISSN 2047-9700.
+JUNG, J. - LI, X. 2020. Exploringmotivations of a master´sdegreepursuit in HongKong. In
+HigherEducationQuarterly, 2020, vol. 75, no. 2, pp 321 – 332, ISSN 1468-2273.[online].
+[cit.
+
+2025-02-01].
+
+Dostupné
+
+z:
+
+<https://sci-
+
+hub.se/https://onlinelibrary.wiley.com/doi/10.1111/hequ.12276>.
+KOUBOVÁ, M. 2020. Jak zvýšit prestiž povolání sester? Musí si začít vážit samy sebe,
+přijmout odpovědnost a kompetence, míní odborníci. In Zdravotnický deník. [online]. 2020
+[cit.
+
+2025-02-10].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.zdravotnickydenik.cz/2020/01/zvysit-prestiz-povolani-sester-musi-si-zacitvazit-samy-sebe-prijmout-odpovednost-kompetence-mini-odbornici/.
+KOX J. H. A. M. et al. 2023. Predicting late dropout from nursing education or early dropout
+from the profession. In Science Talks. [online]. 2023, vol. 5. [cit. 2025-02-08]. Dostupné na
+70
+
+internete: https://www.sciencedirect.com/science/article/pii/S2772569322001062. ISSN
+2772-5693.
+KOX, J. H. A. M. et al. 2020. Reasons why Dutch novice nurses leave nursing: A qualitative
+approach. In Nurse education in practice. [online]. 2020, vol. 47. [cit. 2025-02-10].
+Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/32781415/. ISSN 1873-5223.
+LECZOVÁ, D. a kol. 2014. Analýza motivačných faktorov pri výbere študijných odborov
+z oblasti pomáhajúcich profesií. In Supplement vybraných kapitol vo vedných odboroch
+sociálna práca a ošetrovateľstvo. [online]. 2014. [cit. 2025-02-10]. Dostupné na internete:
+https://psychologickaambulancia.sk/wp-content/uploads/2017/01/9.pdf.
+MACDIARMID,
+
+R.
+
+et
+
+al.
+
+2021.
+
+Whatmotivatespeople
+
+to
+
+commence
+
+a
+
+graduateentrynursingprogramme: a mixedmethodscopingreview. In BMC Nursing. 2021,
+vol. 20, no. 47, ISSN 1472-6955. [online]. [cit. 2025-01-20]. Dostupné z:
+<https://bmcnurs.biomedcentral.com/articles/10.1186/s12912-021-00564-9>.
+MACHOVÁ, R – ESSEOVÁ, M. 2020. Motivačné faktory ďalšieho vzdelávania vo svetle
+rozvoja ľudských zdrojov: vedecký článok (KEGA). Komárno: Ekonomickej fakulte
+Univerzity J. Selyeho, 2020. s. 367 – 378.
+MELLISANT, H. C. et al. 2024. Interventions that support novice nurses' transition into
+practice: A realist review. In International Journal of Nursing Studies. [online]. 2024, vol.
+157. [cit. 2025-02-08]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/38843645/.
+ISSN 1873-491X.
+MURPHY, L. F. 2020. Challenges of Human Resource Professionals Onboarding
+Generation Z Into the Federal Government: disertation theses. Walden University, 2020.
+186 p.
+MZ SR, 2024. Posilňujeme kompetencie sestier a pôrodných asistentiek. [online]. [cit. 202412-15]. Dostupné na internete: https://health.gov.sk/Clanok?mz-vyhlaska-sestry-porodneasistentky-kompetencie.
+NAKONEČNÝ, M. 2014. Motivace chování. Praha: Triton. 600 s. ISBN 978-80-7387-8306.
+
+71
+
+NURDIANA, N. et al., 2019. Head nurse strategy for increasing nurse retention: A factor
+analysis. In Enfermeria Clinica. [online]. 2019, vol. 29, p. 560 – 566. [cit. 2025-02-08].
+Dostupné na internete: https://scholar.ui.ac.id/en/publications/head-nurse-strategy-forincreasing-nurse-retention-a-factor-analy. ISSN 2445-1479.
+PHILLIPS, L. A. et al. 2021. Licenced practical nurses' perceptions of their work
+environments and their intention to stay: A cross‐sectional study of four practice settings. In
+Nursing Open. [online]. 2021, vol. 8, no. 6, p. 3299 – 3305. [cit. 2025-02-08]. Dostupné na
+internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC8510757/. ISSN 2054-1058.
+PISOŇOVÁ, M. 2021. Manažment vzdelávania. Teoretické, empirické a praxeologické
+aspekty riadenia vzdelávacích inštitúcií. Bratislava: Wolters Kluwer, 2021. 284 s. ISBN 97880-571-0382-0.
+POLIAKOVÁ, N. – STRÁŇAVOVÁ, Z. – MATIŠÁKOVÁ, I. 2021. Motivácia sestier
+pre
+
+štúdium v II. stupni vzdelávania v odbore ošetrovateľstvo. In Nové trendy
+
+v ošetrovateľstve VII. Zborník abstraktov z vedeckej konferencie s medzinárodnou účasťou.
+2021. 104 s. Trnava: Trnavská univerzita v Trnave. ISBN 978-80-568-0443-8.
+PLEVOVÁ, I. et al. 2018. Ošetřovatelství I. 2. přeprac. a dopl. vyd. Praha: Grada Publishing.
+288 s. ISBN 978-80-271-0888-6.
+RAFII, F. et al. 2019. Academic Motivation in Nursing Students: A Hybrid Concept
+Analysis. In Iranian Journal of Nursing and Midwifery Research. [online]. 2019, vol. 24,
+no.
+
+5,
+
+p.
+
+315
+
+–
+
+322.
+
+[cit.
+
+2024-12-10].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6714123/. ISSN 2228-5504.
+SALMINEN-TUOMAALA, M. 2024. What Factors Affect the Attractiveness of Nursing
+Profession? In Athens Journal of Health & Medical Sciences. [online]. 2024, vol. 11, no. 3,
+p.
+
+167-178.
+
+[cit.
+
+2025-02-10].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.athensjournals.gr/health/2024-11-3-4-Tuomaala.pdf. ISSN 2653-9411.
+SEPPÄLÄ, S. et al. 2022. Nurses' ratings of compassionate nursing leadership during the
+Covid-19 pandemic-A descriptive cross-sectional study In Journal of Nursing Management.
+[online]. 2022, vol. 30, no. 6, p. 1974 – 1980. [cit. 2025-02-08]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/35478468/. ISSN 0966-0429.
+
+72
+
+SMIT, B. – LAWSON, K. M. 2022. Growth mindsets increase flexible work arrangement
+attractiveness: a policy-capturing study. In Personell Review. [online]. 2022, vol. 52, no. 1,
+p.
+
+342
+
+–
+
+362.
+
+[cit.
+
+2025-02-08].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.econbiz.de/Record/growth-mindsets-increase-flexible-work-arrangementattractiveness-a-policy-capturing-study-smit-brandon/10014225930. ISSN 1758-6933.
+STRNADOVÁ, A., a kol. 2021. Koncepce ošetřovatelství. [online]. [cit. 2025-02-08].
+Dostupné
+
+na
+
+internete:
+
+https://www.mzcr.cz/wpcontent/uploads/wepub/9584/21397/Koncepce_osetrovatelstvi_ves
+tnik_6_2021.pdf. ISSN 1211-0868.
+ŠEVČOVIČOVÁ, A. – EMODIOVÁ, M. 2016. Motivácia sestier pre výkon povolania. In
+Florence. 2016, č. 10, s. 26 – 29. [online]. [cit. 2025-02-08]. Dostupné na internete:
+https://www.florence.cz/casopis/archiv-florence/2016/10/.
+TUSSING, T. E. 2024. Generational Differences in the Nursing Workforce. In Nurse
+Leader.
+
+[online].
+
+2024,
+
+vol.
+
+22.
+
+[cit.
+
+2025-01-12].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.researchgate.net/publication/380191415_Generational_Differences_in_the_N
+ursing_Workforce. ISSN 1541-4620.
+URBAN, J. 2017. Motivace a odměňování pracovníků. Praha: Grada, 2017. 160 s. ISBN
+978-80-271-0227-3.
+Vestník Ministerstva zdravotníctva SR S09209-2023-OOIZP: Koncepcia zdravotnej
+starostlivosti v odbore ošetrovateľstvo.
+VÉVODA, J. a kol., 2013. Motivace sester a pracovní spokojenost ve zdravotnictví. Praha:
+Grada, 2013. 160 s. ISBN 978-80-247-4732-3.
+VYTEJČKOVÁ, R. a kol. 2018. Ošetřovatelské postupy v péči o nemocné 1. Obecná část.
+Praha: Grada Publishing. 256 s. ISBN 978-80-247-3419-4.
+WALTZ, L.A. et al., 2020. Exploring job satisfaction and workplace engagement in
+millennial nurses. In Journal of Nursing Management. [online]. 2020, vol. 28, no. 3, p. 673
+–
+
+681.
+
+[cit.
+
+2025-01-12].
+
+Dostupné
+
+na
+
+internete:
+
+https://pubmed.ncbi.nlm.nih.gov/32068932/. ISSN 0966-0429.
+
+73
+
+WHO, 2020. State of the world's nursing 2020: investing in education, jobs and leadership.
+116 p. ISBN 978-92-4-000328-6.
+WHO, 2022. Human resources for health Global strategy on human resources for health:
+workforce 2030. [online]. 2022, 9 p. [cit. 2025-01-25]. Dostupné na internete:
+https://apps.who.int/gb/ebwha/pdf_files/WHA75/A75_15-en.pdf.
+ZACHAROVÁ, E. 2016. Komunikace v ošetřovatelské praxi. Praha: Grada Publishing,
+2016. 128 s. ISBN 978-80-271-0156-6.
+ZÍTKOVÁ, M. a kol. 2015. Vedení nových pracovníků v ošetřovatelské praxi: pro staniční
+a vrchní sestry. Praha: Grada Publishing, 2015. 168 s. ISBN 978-80-247-5094-1.
+ZSIGMOND, T. 2019. Knowledge management at Hungarian and Slovak enterprises. In
+Conference Proceedings, Reproduction of human capital - mutual links and connections:
+12th International Scientific Conference Praha, Czech Republic: Oeconomica Publishing
+House. P. 483 – 495.
+
+74
+
+PRÍLOHY
+Príloha 1
+
+Dotazník
+
+Príloha 1
+
+Dotazník
+
+Vážené študentky a študenti,
+volám sa Leona Bariaková, som študentkou Fakulty zdravotníctva a sociálnej práce
+Trnavskej univerzity v Trnave, v odbore ošetrovateľstvo. Touto cestou Vás prosím
+o vyplnenie dotazníka, ktorý je súčasťou mojej diplomovej práce s názvom „Vplyv
+motivačných faktorov študentov odboru ošetrovateľstva na výkon zdravotníckeho
+povolania“.
+Dotazník je anonymný a dobrovoľný. Výsledky budú použité len pri spracovaní mojej
+diplomovej práce. Otázky si prečítajte a zakrúžkujte jednu možnosť, ktorá najlepšie
+vystihuje Váš osobný názor.
+Vopred ďakujem za Váš čas a spoluprácu.
+Bc. Leona Bariaková
+Uveďte Váš vek
+
+Vaše pohlavie
+a) muž
+b) žena
+Uveďte strednú školu, ktorú ste ukončili
+1. Páči sa Vám práca v zdravotníckom tíme?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+2. Máte pocit, že svojou prácou ovplyvníte pozitívne životy iných ľudí?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+vyjadriť
+
+5
+určite nie
+
+3. Máte dobrý pocit keď sa zaujímate o problémy iných ľudí?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+4. Máte pre povolanie sestra nadšenie k práci s pacientami ?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+5. Rád/a pracujete s ľuďmi?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+6. Chcete pomáhať druhým ľuďom?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+7. Je niekto z vašich blízkych zdravotník?
+a) áno
+b) nie
+8. Vidíte zmysel práce v zdravotníctve?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+9. Máte pozitívny postoj k starostlivosti o druhých ľudí?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+vyjadriť
+
+5
+určite nie
+
+10. Pre odbor ošetrovateľstvo ste sa rozhodli z dôvodu blízkosti vysokej školy?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+11. Bolo pre vás vo výbere štúdia ošetrovateľstva rozhodujúce finančné ohodnotenie
+práce sestry?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+12. Štúdium ošetrovateľstva bola pre vás jediná voľba pri výbere povolania?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+13. Boli ste vedome a zámerne ovplyvnení svojím okolím pre výber povolania sestra?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+14. Boli ste vedome a zámerne ovplyvnení pre výber povolania sestra vzorom v
+rodine?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+15. Vaša motivácia študovať v odbore ošetrovateľstvo vychádzala len z túžby získať
+vysokoškolské vzdelanie?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+vyjadriť
+
+5
+určite nie
+
+16. Viedlo vás k výberu zdravotníckeho povolania spoločenské uznanie práce sestry?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+17. Vaše osobné doterajšie skúsenosti so zdravotníctvom sú skôr pozitívne?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+18. Ovplyvnil vás vo výbere vášho povolania obdiv sestier, s prácou ktorých ste sa
+stretli počas doterajšieho života?
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+19. Vyjadrite svoj názor vo vyjadrení: „Štúdium ošetrovateľstva je pre mňa iba
+„núdzové riešenie“.
+1
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+20. Zohrávala pri výbere štúdia zameraného na zdravotnícke povolanie aj „miera
+zodpovednosti“, ktorou musí disponovať každý zdravotnícky pracovník?
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+vyjadriť
+
+skôr nie
+
+5
+určite nie
+
+21. Pri výbere štúdia ošetrovateľstva ma ovplyvnila možnosť práce na zmeny
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+vyjadriť
+
+5
+určite nie
+
+22. Štúdium ošetrovateľstva ma zaujalo aj preto, že je potrebné sa kontinuálne
+vzdelávať
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+23. Štúdium ošetrovateľstva bolo pre mňa zaujímavé z hľadiska možnosti zvyšovania
+si kvalifikácie
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+5
+určite nie
+
+vyjadriť
+24. Výber štúdia v odbore ošetrovateľstva ovplyvnila aj možnosť pracovať počas
+štúdia v zdravotníckom zariadení
+určite áno
+
+2
+
+3
+
+4
+
+skôr áno
+
+neviem sa
+
+skôr nie
+
+vyjadriť
+
+5
+určite nie
+
+

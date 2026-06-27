@@ -1,0 +1,3316 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTV A SOCIÁLNEJ PRÁCE
+
+Evidenčné číslo
+
+ZDRAVOTNÁ GRAMOTNOSŤ LAICKEJ VEREJNOSTI
+O OCHORENÍ CIEVNA MOZGOVÁ PRÍHODA
+Diplomová práca
+
+2025
+Bc. Alexandra Svíčková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTV A SOCIÁLNEJ PRÁCE
+
+Evidenčné číslo
+
+ZDRAVOTNÁ GRAMOTNOSŤ LAICKEJ VEREJNOSTI
+O OCHORENÍ CIEVNA MOZGOVÁ PRÍHODA
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva
+
+Študijný odbor:
+
+7. 4. 1. Ošetrovateľstvo
+
+Vedúci práce / školiteľ:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava 2025
+Bc. Alexandra Svíčková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+Zadanie diplomovej práce
+Meno, priezvisko a tituly študenta:
+
+Bc. Alexandra Svíčková
+
+Kód študenta:
+
+S1320062490
+
+Študijný program:
+
+7. 4. 1. Ošetrovateľstvo
+
+Typ záverečnej práce:
+
+Diplomová práca
+
+Názov záverečnej práce:
+
+Zdravotná gramotnosť laickej verejnosti o ochorení
+cievna mozgová príhoda
+
+Meno, priezvisko a tituly školiteľa:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva, FZaSP TU
+
+Anotácia práce:
+
+V diplomovej práce sa budeme venovať zdravotnej
+gramotnosti laickej verejnosti o ochorení cievna
+mozgová
+
+príhoda.
+
+Prostredníctvom
+
+zistíme
+
+vedomosti
+
+laikov
+
+dotazníka
+
+o základných
+
+vedomostiach, príznakoch a následkoch ochorenia
+cievna mozgová príhoda.
+Jazyk v ktorom sa práca vypracuje:
+
+Slovenský jazyk
+
+Dátum schválenia zadania:
+
+02. 11. 2023
+
+___________________
+Podpis vedúceho práce
+
+ČESTNÉ VYHLÁSENIE
+Čestne vyhlasujem, že som diplomovú prácu vypracovala samostatne, pod odborným vedením
+školiteľky doc. PhDr. Jany Martinkovej, PhD., MPH., a použila som len zdroje, ktoré uvádzam
+v priloženom zozname použitej literatúry.
+
+__________________
+Trnava, 2025
+
+Bc. Alexandra Svíčková
+
+Poďakovanie
+Chcela by som sa veľmi poďakovať svojej školiteľke doc. PhDr. Jane Martinkovej, PhD.,
+MPH., za jej odborné vedenie, cenné rady a pripomienky, ktoré mi poskytla pri spracovaní
+diplomovej práce. Zároveň chcem poďakovať aj mojej rodine za pomoc a podporu, ktorú mi
+poskytli počas písania diplomovej práce.
+
+ABSTRAKT
+Svíčková, Alexandra: (Zdravotná gramotnosť laickej verejnosti o ochorení cievna mozgová
+príhoda) [Diplomová práca] / Alexandra Svíčková – Trnavská univerzita v Trnave, Fakulta
+zdravotníctva a sociálnej práce: Katedra ošetrovateľstva – Školiteľ: doc. PhDr. Jana
+Martinková, PhD., MPH, 2025, (75)
+Úvod: Cievna mozgová príhoda patrí medzi závažné civilizačné ochorenia s vysokou mierou
+morbidity a mortality. V teoretickej časti práce sa venujeme podrobnému opisu cievnej
+mozgovej príhody – jej príčinám, rizikovým faktorom, príznakom, diagnostike, liečbe,
+prevencii a ošetrovateľskej starostlivosti. Vo výskumnej časti sa zameriavame na analýzu
+úrovne zdravotnej gramotnosti v súvislosti s CMP a identifikáciu hlavných nedostatkov v
+povedomí laickej verejnosti.
+Cieľ práce: Cieľom práce je analyzovať zdravotnú gramotnosť laickej verejnosti o ochorení
+CMP.
+Metodika: Výskum bol realizovaný formou dotazníka, ktorý sa zameriaval na laickú verejnosť
+vo veku nad 18 rokov. Dotazník obsahoval 26 uzatvorených otázok týkajúcich sa základných
+znalostí o CMP, rizikových faktorov, príznakov a prvých krokov pri podozrení na CMP. Na
+výskume sa zúčastnilo 285 respondentov. Výsledky boli analyzované pomocou štatistických
+metód.
+Výsledky: Výsledky výskumu ukázali, že zdravotná gramotnosť v oblasti CMP je na rôznych
+úrovniach. Väčšina respondentov správne identifikovala základné príznaky CMP, avšak
+zaznamenali sa nedostatky v povedomí o rizikových faktoroch a správnom postupe pri
+podozrení na CMP. Zistili sa aj rozdiely v úrovni vedomostí podľa veku, pohlavia a vzdelania
+respondentov.
+Záver: Na základe výsledkov práce možno konštatovať, že zvyšovanie zdravotnej gramotnosti
+v oblasti CMP
+
+je
+
+nevyhnutné
+
+pre efektívnu
+
+prevenciu
+
+a
+
+včasnú
+
+diagnostiku.
+
+Kľúčové slová: Cievna mozgová príhoda, Laická verejnosť, Ošetrovateľská starostlivosť,
+Príznaky CMP, Prvá pomoc, Zdravotná gramotnosť
+
+ABSTRACT
+Svíčková, Alexandra: (Health Literacy of the General Public on Stroke) [Master's Thesis] /
+Alexandra Svíčková – Trnava University in Trnava, Faculty of Health and Social Work:
+Department of Nursing – Thesis Supervisor: doc. PhDr. Jana Martinková, PhD., MPH, 2025,
+(75)
+Introduction: Stroke is one of the most serious civilization diseases with a high morbidity and
+mortality rate. In the theoretical part of this thesis, we provide a detailed description of stroke,
+including its causes, risk factors, symptoms, diagnosis, treatment, prevention, and nursing care.
+The research part focuses on analyzing the level of health literacy regarding stroke and
+identifying the main gaps in public awareness.
+Objective: The aim of this thesis is to analyze the health literacy of the general public regarding
+stroke.
+Methodology: The research was conducted using a questionnaire targeting the general public
+over the age of 18. The questionnaire consisted of 26 closed-ended questions concerning basic
+knowledge about stroke, its risk factors, symptoms, and the first steps to take in case of a
+suspected stroke. A total of 285 respondents participated in the study. The results were analyzed
+using statistical methods.
+Results: The research findings showed that health literacy regarding stroke varies among
+respondents. While most participants correctly identified the basic symptoms of stroke, gaps
+were observed in knowledge about risk factors and the appropriate response to a suspected
+stroke. Differences in knowledge levels were also identified based on age, gender, and
+education.
+Conclusion: Based on the study's findings, we conclude that increasing health literacy
+regarding stroke is essential for effective prevention and early diagnosis.
+Keywords: First aid, General public, Health literacy, Nursing care, Stroke symptoms, Stroke
+
+Obsah
+Zoznam skratiek ........................................................................................................8
+Zoznam tabuliek ........................................................................................................9
+Zoznam grafov ........................................................................................................ 10
+Úvod ......................................................................................................................... 11
+1. Cievna mozgová príhoda ..................................................................................... 12
+
+2.
+
+3.
+
+1.1.
+
+Rozdelenie ................................................................................................. 12
+
+1.2.
+
+Príznaky .................................................................................................... 14
+
+1.3.
+
+Rizikové faktory ........................................................................................ 15
+
+1.4.
+
+Diagnostika ............................................................................................... 17
+
+1.5.
+
+Liečba ....................................................................................................... 20
+
+1.6.
+
+Komplikácie .............................................................................................. 23
+
+1.7.
+
+Prevencia ................................................................................................... 24
+
+1.8.
+
+Ošetrovateľská starostlivosť ......................................................................25
+
+Výskum ............................................................................................................ 29
+2.1.
+
+Hypotézy výskumu .................................................................................... 30
+
+2.2.
+
+Metodika výskumu .................................................................................... 30
+
+Analýza získaných údajov ............................................................................... 32
+3.1.
+
+4.
+
+Výsledky výskumnej analýzy .................................................................... 46
+
+Diskusia............................................................................................................ 57
+
+Odporúčania pre prax ............................................................................................ 63
+Záver........................................................................................................................ 64
+Zoznam použitej literatúry ..................................................................................... 65
+Prílohy ..................................................................................................................... 71
+
+Zoznam skratiek
+CMP - Cievna mozgová príhoda
+CT - Počítačová tomografia
+CTA - CT angiografia
+GCS - Glasgow coma scale
+iNCMP - Ischemická náhla cievna mozgová príhoda
+IVT - Intravenózna trombolýza
+MRI - Magnetická rezonancia
+NCT - Natívne CT
+NIHSS - National Institutes of Health Stroke Scale
+PCT - perfúzne ct
+TIA - Tranzientný ischemický atak
+
+Zoznam tabuliek
+Tabuľka 1 t-test ......................................................................................................... 48
+Tabuľka 2 Anova test ................................................................................................ 50
+Tabuľka 3 Pozorované početnosti.............................................................................. 52
+Tabuľka 4 Očakávané početnosti ............................................................................... 53
+Tabuľka 5 Pozorované početnosti.............................................................................. 54
+Tabuľka 6 Prepočítanie percent ................................................................................. 55
+Tabuľka 7 Pozorované početnosti.............................................................................. 55
+
+Zoznam grafov
+
+Graf 1 Pohlavie ................................................................................................ 32
+Graf 2 Vek ....................................................................................................... 32
+Graf 3 Vzdelanie .............................................................................................. 33
+Graf 4 Bydlisko ................................................................................................ 33
+Graf 5 Prekonanie CMP .................................................................................... 34
+Graf 6 Čo je CMP ............................................................................................. 34
+Graf 7 CMP pokladáte za ochorenie ................................................................... 35
+Graf 8 CMP postihuje ....................................................................................... 35
+Graf 9 Rozdelenie CMP .................................................................................... 36
+Graf 10 Opakované prekonanie CMP.................................................................. 36
+Graf 11 Rizikové faktory ................................................................................... 37
+Graf 12 Príznaky .............................................................................................. 38
+Graf 13 Kontaktovanie ZS ................................................................................. 38
+Graf 14 Poloha pri CMP .................................................................................... 39
+Graf 15 Typ poruchy reči .................................................................................. 40
+Graf 16 Telefónne číslo ..................................................................................... 40
+Graf 17 Oddelenie ............................................................................................ 41
+Graf 18 Vyšetrovacia metóda ............................................................................. 41
+Graf 19 Začatie liečby ....................................................................................... 42
+Graf 20 Dôležitosť úlohy logopéda ..................................................................... 42
+Graf 21 Ovplyvnenie následkov ......................................................................... 43
+Graf 22 Následky.............................................................................................. 43
+Graf 23 Vyliečenie bez následkov ...................................................................... 44
+Graf 24 Problém s prehĺtaním ............................................................................ 44
+Graf 25 Vedenie plnohodnotného života ............................................................. 45
+Graf 26 Som zdravotnícky pracovník .................................................................. 45
+
+Úvod
+Cievna mozgová príhoda, je ochorenie, ktoré postihuje milióny ľudí na celom svete.
+Mnohí si myslia, že ide o problém, ktorý sa týka len starších ľudí, no realita je oveľa
+komplexnejšia. Tento stav môže postihnúť každého, bez ohľadu na vek či životný štýl, a jeho
+následky môžu byť veľmi vážne – od dočasnej straty schopnosti hovoriť, pohybovať sa až po
+trvalé invalidity alebo dokonca smrť.
+Vedomosti verejnosti o cievnej mozgovej príhode zohrávajú kľúčovú úlohu v prevencii
+a včasnej intervencii. Včasné rozpoznanie príznakov cievnej mozgovej príhody, ako sú náhle
+problémy s rečou, slabosť alebo necitlivosť v končatinách, alebo zhoršená koordinácia, môže
+výrazne zlepšiť šance na úspešnú liečbu.
+Aj keď je CMP jedným z najčastejších dôvodov hospitalizácie a môže mať vážne
+následky na zdravie a život pacientov, výskumy ukazujú, že povedomie o tomto ochorení medzi
+laickou verejnosťou nie je dostatočne vysoké. Mnoho ľudí síce pozná základné informácie o
+mozgových príhodách, ale len málokto vie presne identifikovať príznaky, rozpoznať rizikové
+faktory alebo využiť preventívne opatrenia na zníženie pravdepodobnosti vzniku tohto
+ochorenia. Dôležité je aj pochopenie, že nie všetky príznaky CMP sú rovnaké a môžu sa
+prejavovať rôznymi spôsobmi v závislosti od typu a rozsahu postihnutia mozgu. Preto je
+nevyhnutné zamerať sa na zvyšovanie informovanosti a edukáciu širokej verejnosti o prevencii,
+rozpoznávaní príznakov a dostupných liečebných metódach, čo môže prispieť k zníženiu
+výskytu tohto vážneho ochorenia.
+V teoretických východiskách
+
+práce sme sa podrobne venovali cievnej mozgovej
+
+príhode (CMP), jej príčinám, typom, symptómom, diagnostike, liečbe a ošetrovateľskej
+starostlivosti o pacientov s týmto ochorením.
+V rámci výskumnej časti tejto práce sme sa zamerali na vedomosti laickej verejnosti o
+cievnej mozgovej príhode. Pomocou nami zhotoveného dotazníka, sme overili vedomosti
+laickej verejnosti v rôznych oblastiach ochorenia cievna mozgová príhoda. Ako cieľ výskumu
+sme si stanovili zistiť, do akej miery sú ľudia informovaní o rizikových faktoroch, symptómoch,
+prevencii a včasnej diagnostike CMP.
+
+11
+
+1. Cievna mozgová príhoda
+Akútna cievna mozgová príhoda predstavuje náhle vzniknutý fokálny neurologický deficit v
+oblasti zásobovanej postihnutými cievami mozgu, sietnice alebo miechy, pričom jeho príčinou
+je cerebrovaskulárne ochorenie. Tento stav môže postihnúť pacientov v akomkoľvek veku a
+patrí medzi významné faktory ovplyvňujúce morbiditu a mortalitu (Hui, 2024).
+Svetová zdravotnícka organizácia v roku 1970 definovala cievnu mozgovú príhodu ako stav
+charakterizovaný náhle vzniknutými klinickými príznakmi ložiskového alebo celkového
+narušenia mozgových funkcií, ktoré pretrvávajú dlhšie ako 24 hodín alebo vedú k smrti, pričom
+príčina je vaskulárna a nie je spojená s iným ochorením (Coupland, 2016).
+Od roku 2009 Rada pre cievne mozgové príhody Americkej srdcovej asociácie a Americkej
+asociácie pre cievne mozgové príhody odstránila časové kritérium ako rozhodujúci faktor a
+zaviedla klasifikáciu cievnej mozgovej príhody na základe zobrazovacích alebo patologických
+dôkazov trvalého poškodenia či odumretia buniek mozgu, sietnice alebo miechy spôsobeného
+cievnym pôvodom, a to aj v prípadoch, keď sa klinické príznaky neprejavia (Vogel, 2024).
+Podľa Zdravotníckej ročenky Slovenskej republiky za rok 2018 sú cievne mozgové príhody
+tretím najčastejším dôvodom hospitalizácie pacientov na Slovensku. Napriek pokroku v
+účinnosti liečby zostáva toto ochorenie vážnym spoločenským a ekonomickým problémom,
+pretože takmer polovica pacientov po prekonaní cievnej mozgovej príhody trpí trvalým
+neurologickým deficitom. Dôsledky tohto ochorenia sú komplexné a majú významný vplyv
+nielen na postihnutých jedincov, ale aj na ich rodiny, ktoré často nemajú dostatočné zdroje alebo
+pripravenosť na zvládnutie procesu rehabilitácie a života s následkami postihnutia (Dimunová,
+2021).
+
+1.1.
+
+Rozdelenie
+
+Cievne mozgové príhody sa na základe etiológie delia na ischemické, ktoré tvoria približne
+90 % prípadov, a hemoragické, predstavujúce zvyšných 10 %. Obe skupiny sa líšia
+mechanizmom vzniku, pričom lokalizácia postihnutia môže byť variabilná. Práve od miesta
+poškodenia cievneho systému sa odvíja charakter a rozsah neurologických príznakov (Souček,
+2019).
+
+12
+
+Ischemická cievna mozgová príhoda
+Ischemická cievna mozgová príhoda vzniká v dôsledku trombotickej alebo embolickej príhody,
+ktorá narušuje prietok krvi do určitej oblasti mozgu. Pri trombotickej príhode dochádza k
+zablokovaniu toku krvi priamo v postihnutej cieve vplyvom tvorby trombu, pričom tento proces
+je často následkom aterosklerotického ochorenia, disekcie tepny, fibromuskulárnej dysplázie
+alebo zápalových stavov. Naopak, pri embolickej príhode prietok krvi obmedzujú úlomky
+pochádzajúce z iného miesta tela. Emboly môžu pochádzať z proximálnej tepny, ako je
+aterosklerotický plát vo vnútornej krčnej tepne, alebo zo srdca, pričom spôsobujú distálne
+zablokovanie cievy mechanizmom prenosu embolu z tepny do tepny (Hui, 2024).
+Pri uzávere mozgovej tepny, bez ohľadu na jeho príčinu, sa spočiatku aktivuje autoregulačný
+mechanizmus, ktorý vedie k vazodilatácii s cieľom kompenzovať pokles perfúzneho tlaku a
+udržať konštantný prietok krvi do postihnutej oblasti. Ak perfúzny tlak klesne ešte viac, zvýši
+sa extrakcia kyslíka z krvi, až kým sa nakoniec nerozvinie ischémia. Tento stav narúša
+synaptickú funkciu neurónov, čo vedie k fokálnym neurologickým príznakom v závislosti od
+lokalizácie ischémie (Tursunová, 2021). Časť postihnutého tkaniva, známa ako penumbra,
+môže byť pri rýchlom obnovení prietoku krvi zachránená, čo umožňuje reverzibilitu
+symptómov. Ak však dôjde k nenávratnému poškodeniu, rozvinie sa mozgový infarkt
+sprevádzaný katabolickými procesmi a lokálnou acidózou. Voľné kyslíkové radikály spúšťajú
+ireverzibilnú lipolýzu a proteolýzu bunkových membrán, čo vedie k deštrukcii tkaniva. Po
+infarkte zostáva v postihnutej oblasti buď jazva, alebo pseudocysta (Šeblová, 2018).
+Hemoragická cievna mozgová príhoda
+Hemoragická mozgová príhoda predstavuje približne 20 % všetkých mozgových príhod,
+pričom najčastejším typom je intracerebrálne krvácanie. Výskyt intracerebrálneho krvácania je
+vyšší v populáciách, kde nie je dostatočne liečená hypertenzia (Montano, 2021).
+Krvácanie do mozgového tkaniva je v 40-50 % prípadov spojené s hypertenziou, zatiaľ čo v 30
+% ide o následok prasknutej aneuryzmy, artériovenóznej malformácie, krvného ochorenia,
+vaskulitídy, antikoagulačnej liečby, užívania drog a ďalších faktorov (Seidl, 2023). Po ruptúre
+malých artérií spôsobenej hypertenznými zmenami, koagulopatiami a inými vaskulopatiami
+vzniká expanzia hematómu a perihematómový edém. Zvyšujúci sa objem hematómu a edému
+vedie k zvýšenému intrakraniálnemu tlaku. V tejto fáze sa môžu objaviť poruchy vedomia,
+bolesti hlavy, zvracanie, zvýšenie krvného tlaku a ložiskové neurologické príznaky v závislosti
+od lokalizácie krvácania. Pri subarachnoidálnom krvácaní sú často prítomné meningiálne
+13
+
+príznaky (Šeblová, 2018). Hemoragická cievna mozgová príhoda má takmer vždy horší priebeh
+a liečebné výsledky v porovnaní s ischémiou. Tento typ príhody je spojený s vysokou
+morbiditou a mortalitou. Progresia hemoragickej mŕtvice vedie k ešte horším výsledkom.
+Včasná diagnostika a liečba sú kľúčové, pretože krvácanie sa často rýchlo rozširuje, čo môže
+spôsobiť náhle zhoršenie vedomia a neurologickú dysfunkciu (Seidl, 2023).
+Tranzientný ischemický atak
+Tranzientný ischemický atak (TIA) je typ mozgovej príhody, ktorý trvá len niekoľko minút a
+vzniká, keď sa na krátky čas preruší prívod krvi do určitej oblasti mozgu. Príznaky TIA sa
+zvyčajne objavia náhle a sú podobné príznakom mozgovej príhody, avšak trvajú kratšie. Štúdie
+ukazujú, že u 40 % pacientov s TIA sú prítomné kognitívne deficity, a to aj bez znateľného
+fokálneho poškodenia mozgu. Väčšina príznakov TIA zmizne do hodiny, ale môžu pretrvávať
+až 24 hodín (Abdullaeva, 2020).
+Prechodný ischemický atak je významným rizikovým faktorom pre vznik cievnej mozgovej
+príhody a nebezpečným prejavom cerebrovaskulárnej insuficiencie. TIA zohráva kľúčovú
+úlohu v diagnostike cerebrovaskulárnych ochorení a je považovaný za varovný signál pre
+potenciálny vznik mozgovej príhody. U 30–40 % pacientov, ktorí prekonali TIA, sa v priebehu
+nasledujúcich piatich rokov vyvinie cievna mozgová príhoda. Viac ako 20 % týchto prípadov
+sa vyskytne už v prvom mesiaci po TIA a takmer polovica pacientov zažíva mŕtvicu v priebehu
+prvého roka (Tursunova, 2021).
+
+1.2.
+
+Príznaky
+
+Príznaky mozgovej príhody sa často objavujú náhle, ale môžu sa rozvíjať aj v priebehu
+niekoľkých hodín alebo dokonca dní. Charakter symptómov závisí od typu mozgovej príhody
+a postihnutej oblasti mozgu. Diagnostika v prednemocničnej fáze sa zvyčajne zakladá na troch
+hlavných okruhoch príznakov:
+
+
+asymetrická mimika tváre,
+
+
+
+porucha reči, ktorá zahŕňa afáziu a disartriu,
+
+
+
+paréza alebo znížená svalová sila na jednej strane tela.
+
+Najbežnejšie používaným testom na diagnostiku akútnej cievnej mozgovej príhody je FAST
+test (face-arm-speech), ktorý hodnotí tvárovú mimiku, motoriku horných končatín a poruchy
+reči. Pozitívny výsledok testu je indikovaný, ak u pacienta došlo k výskytu aspoň jedného
+
+14
+
+hlavného príznaku alebo dvoch vedľajších príznakov akútnej cievnej mozgovej príhody počas
+posledných 24 hodín, a to aj v prípade, že symptómy už ustúpili.
+Hlavné klinické príznaky (FAST test)
+
+
+náhle vzniknutá hemiparéza alebo monoparéza,
+
+
+
+náhle vzniknutá centrálna lézia n. Facialis,
+
+
+
+náhle vzniknutá porucha reči (afázia).
+
+Vedľajšie klinické príznaky:
+
+
+náhle vzniknutá kvantitatívna alebo kvalitatívna porucha vedomia,
+
+
+
+náhle vzniknutá porucha necitlivosti na polovici tela,
+
+
+
+náhle vzniknutá dysartria,
+
+
+
+náhle vzniknutý výpadok polovice zorného poľa,
+
+
+
+náhle vzniknutá diplopia,
+
+
+
+náhle vzniknutá prudká, a typická, doposiaľ neznáma bolesť hlavy,
+
+
+
+opozícia šije,
+
+
+
+závrat s nauzeou či vracaním (Šeblová, 2018).
+
+1.3.
+
+Rizikové faktory
+
+Medzi najčastejšie rizikové faktory pre vznik cievnej mozgovej príhody (CMP) patrí dedičnosť,
+teda vrodená predispozícia, pohlavie, pričom muži sú viac ohrození ako ženy, a vek, pretože vo
+vyššom veku je riziko vzniku cievnej mozgovej príhody výraznejšie. Tieto faktory sú
+neovplyvniteľné. Existujú však aj ďalšie rizikové faktory, ktoré je možné ovplyvniť (Kalita,
+2010).
+Vysoký krvný tlak
+Hypertenzia je považovaná za najvýznamnejší rizikový faktor pre vznik mozgovej príhody. U
+osôb s vysokým krvným tlakom je riziko vzniku mozgovej príhody pred dosiahnutím veku 80
+rokov dvakrát až štyrikrát vyššie v porovnaní s ľuďmi, ktorí trpia normálnym krvným tlakom.
+Dlhodobé zvýšenie krvného tlaku zvyšuje pravdepodobnosť vzniku aterosklerózy. Okrem toho,
+vysoký krvný tlak môže tiež zvýšiť riziko vzniku hemoragických mozgových príhod, kedy
+dochádza k prasknutiu ciev a krvácaniu do mozgu.
+
+15
+
+Vysoký cholesterol
+Vysoká hladina cholesterolu môže zvyšovať pravdepodobnosť vzniku mozgovej príhody.
+Cholesterol sa môže usadzovať v stenách krvných ciev, čo spôsobuje ich zúženie a tvorbu
+aterosklerotických plátov. Tieto nahromadené pláty môžu blokovať prietok krvi a prispievať k
+tvorbe krvných zrazenín.
+Diabetes
+Diabetes mellitus zvyšuje riziko vzniku mozgovej príhody z viacerých dôvodov. Zvýšená
+hladina cukru v krvi, ktorá je charakteristická pre cukrovku, môže poškodiť cievy, čo vedie k
+ich zúženiu a zhoršeniu prietoku krvi. To obmedzuje dodávku kyslíka a živín do rôznych
+orgánov, vrátane mozgu, čím zvyšuje pravdepodobnosť ischemickej mozgovej príhody. Okrem
+toho, u pacientov s cukrovkou je častý aj vysoký krvný tlak, ktorý ďalej prispieva k poškodeniu
+ciev a zvyšuje riziko mozgovej príhody. Vysoký krvný tlak je považovaný za hlavnú príčinu
+vzniku mozgovej príhody, a preto kombinácia vysokého krvného tlaku a cukrovky výrazne
+zvyšuje pravdepodobnosť výskytu mozgovej príhody u týchto pacientov.
+Fajčenie
+Fajčenie samo o sebe, aj bez prítomnosti ďalších rizikových faktorov, takmer zdvojnásobuje
+pravdepodobnosť vzniku ischemickej mozgovej príhody. Tento negatívny vplyv na zdravie ciev
+je spôsobený toxickými látkami v cigaretovom dyme, ktoré poškodzujú cievy, zvyšujú krvný
+tlak a podporujú tvorbu krvných zrazenín. Avšak, riziko mozgovej príhody postupne klesá, ak
+osoba prestane fajčiť. Asi dva roky po ukončení fajčenia sa riziko výrazne zníži, a po piatich
+rokoch sa riziko mozgovej príhody zníži na úroveň, akú majú nefajčiari.
+Sedavý spôsob života
+Fyzická nečinnosť je spojená s mnohými negatívnymi zdravotnými následkami, vrátane
+zvýšeného rizika vzniku mozgovej príhody. Naopak, ľudia, ktorí pravidelne vykonávajú
+fyzickú aktivitu, majú nižšie riziko vzniku mozgovej príhody a nižšiu úmrtnosť na túto chorobu
+v porovnaní s tými, ktorí vedú sedavý spôsob života. Tento ochranný účinok fyzickej aktivity
+môže byť spôsobený viacerými faktormi, ako je zníženie krvného tlaku, lepšia kontrola hladiny
+cukru v krvi (diabetes mellitus) a redukcia nadmernej telesnej hmotnosti, ktoré všetky
+prispievajú k znižovaniu rizika vzniku mozgovej príhody (NINDS, 2024).
+
+16
+
+1.4.
+
+Diagnostika
+
+Náhla cievna mozgová príhoda je jednou z hlavných príčin úmrtí na celom svete a najčastejším
+dôvodom obmedzenej pohyblivosti. Pretože jediným účinným spôsobom liečby akútnej
+ischemickej mozgovej príhody je čo najrýchlejšie obnovenie prietoku krvi do postihnutej
+oblasti, dôraz je kladený na jej včasné rozpoznanie. Diagnostické testy by mali byť vykonané
+čo najskôr, ale nesmú spomaliť nevyhnutnú liečbu. Diagnóza mozgového infarktu sa určuje na
+základe anamnézy, klinických príznakov, ako aj výsledkov zobrazovacích a laboratórnych
+vyšetrení. V mnohých cerebrovaskulárnych centrách sa ako štandardný protokol na vyšetrenie
+zaviedol postup zahŕňajúci natívne CT (NCT), CT angiografiu (CTA) a perfúzne CT (PCT)
+(Gogolák, 2010).
+NIHSS škála
+Pred viac ako 30 rokmi bola zavedená NIHSS škála, ktorá znamenala významný krok v oblasti
+diagnostiky cievnej mozgovej príhody (Makharia, 2024). Stupnica National Institutes of Health
+Stroke Scale (NIHSS) sa dnes považuje za zlatý štandard na hodnotenie závažnosti mozgovej
+príhody. Okrem toho NIHSS pomáha pri plánovaní liečby pacientov s cievnou mozgovou
+príhodou a pri určovaní ich prognózy (Imran, 2024). U pacienta s cievnou mozgovou príhodou
+je možné vypočítať celkové skóre, ktoré pozostáva z 12 položiek, pričom každá položka môže
+mať hodnoty od 0 do 4. Hodnota 0 pri každej položke zvyčajne znamená normálne fungovanie
+danej schopnosti, zatiaľ čo vyššie hodnoty indikujú rôznu mieru poškodenia. Po sčítaní
+všetkých hodnôt získava neurológ celkové skóre pacienta. Maximálna možná hodnota skóre je
+42, pričom minimálne skóre je 0 (NZIP, 2024).
+Hodnotené položky NIHSS:
+1. úroveň vedomia,
+2. slovné odpovede,
+3. pochopenie významu,
+4. okulomotorika,
+5. zorné pole,
+6. paréza,
+7. motorika,
+8. ataxia končatín,
+9. senzitivita,
+10. reč,
+17
+
+11. dysartria,
+12. neglekt (Šeblová, 2019).
+
+Natívne CT
+Počítačová tomografia bola kľúčovou metódou na diagnostiku cievnych mozgových príhod. Na
+detekciu CMP sa používa natívne CT, ktoré je veľmi citlivé pri zistení krvácania, avšak nie
+všetky skoré ischemické cievne mozgové príhody sú touto technikou zachytené. V prvých
+šiestich hodinách po vzniku príhody natívne CT odhalí 40 – 73 % prípadov cievnej mozgovej
+príhody (Mair, 2014).
+Natívne CT sa primárne používa na vylúčenie iných patologických procesov v intrakraniálnom
+priestore, ktoré môžu imitovať ischemickú cievnu mozgovú príhodu (napríklad intraaxiálne a
+extraaxiálne krvácanie, nádory a pod.). Okrem toho natívne CT môže zobraziť včasné príznaky
+ischémie, ako je zníženie denzity v postihnutej oblasti, zmiznutie rozdielu medzi sivou a bielou
+hmotou, alebo vyhladenie kontúr. Tieto znaky sú hodnotené pomocou ASPECT skóre (0 – 10).
+Natívne CT môže tiež ukázať denzné oblasti v artérii, čo je indikátor tromboembolického
+materiálu prítomného v cievnom lúmene (Mikula, 2021).
+Perfúzne CT
+Perfúzne CT je pri ischemickej cievnej mozgovej príhode (iNCMP) indikované predovšetkým
+v prípadoch, kde je podozrenie na premeškaný čas, ktorý by ešte umožnil efektívnu kauzálnu
+terapiu s priaznivým pomerom medzi benefitom a rizikom, známy ako terapeutické (časové)
+okno (Davis, 2021). To sa týka pacientov, u ktorých klinické príznaky trvajú dlhšie, než je
+stanovené základné časové okno, alebo pacientov s „wake-up stroke“, teda tých, ktorí sa
+prebudili s príznakmi cievnej mozgovej príhody (Lucas, 2021).
+PCT v diagnostickom protokole ischemickej cievnej mozgovej príhody umožňuje posúdenie
+prekrvenia mozgového tkaniva. Hlavnou úlohou PCT je identifikovať ischemické oblasti v
+mozgu, ktoré môžu byť zachránené, čím pomáha pri výbere pacientov, ktorí sú vhodní na
+reperfúznu liečbu. PCT, spolu s ASPECT skóre a kolaterálnym skóre, je schopné predpovedať
+klinický vývoj pacientov s iNCMP. Tento postup je neinvazívny, rýchly a ponúka vysokú
+spoľahlivosť pri diagnostike.
+PCT sleduje tok jódovej kontrastnej látky cievami mozgu, pričom množstvo kontrastnej látky
+odráža krvný prietok a objem krvi v tkanive. Výsledná denzita tkaniva zodpovedá týmto
+18
+
+parametrom, čo robí túto metódu citlivou na ischemickú cievnu mozgovú príhodu. Avšak pri
+kvantitatívnom hodnotení prekrvenia sa zistené hodnoty nemusia vždy korelovať s nálezmi
+získanými inými zobrazovacími modalitami. Pre presnejšie hodnotenie sa preto využívajú
+farebné mapy (Kalina, 2008). Perfúzné CT je schopné odhaliť aj menšie, ťažšie detegovateľné
+ischemické lézie. Na ešte efektívnejšie zobrazenie sa často používa CT technika s duálnou
+energiou (Runge, 2015).
+Výhodou perfúzneho CT vyšetrenia je jeho rýchlosť a dostupnosť, čo umožňuje efektívne
+vykonanie vyšetrenia aj u menej spolupracujúcich pacientov bez potreby analgosedácie. V
+niektorých prípadoch môže byť potrebné vyradiť rozmazané snímky, ktoré sa objavia počas
+postprocesingových úprav (Lucas, 2021).
+CT angiografia
+Vzhľadom na širokú dostupnosť CT prístrojov je CT angiografia považovaná za neinvazívnu
+zobrazovaciu metódu voľby pri zobrazení mozgových tepien. Táto zobrazovacia technika je v
+súčasnosti odporúčaná ako zlatý štandard kontrastného vaskulárneho zobrazenia, a to pri
+podozrení na cievnu mozgovú príhodu aj tranzitórny ischemický atak (Demchuk, 2016).
+Vyšetrenie CT angiografie spočíva v zobrazení ciev naplnených kontrastnou látkou pomocou
+počítačovej tomografie. Ide o neinvazívnu metódu, pri ktorej sa kontrastná látka zvyčajne
+aplikuje do periférnej žily prostredníctvom dávkovača. Tento prístroj je nastavený tak, aby
+zabezpečil jej dopravenie prúdom krvi do cieľového úseku ciev v momente snímania obrazu.
+Úlohou CTA je nielen identifikovať miesto oklúzie, ale aj podrobne zobraziť morfológiu
+mozgových a krčných tepien počas celého ich priebehu, počnúc od aortálneho oblúka. Taktiež
+umožňuje posúdiť ich stenotizáciu alebo prítomnosť anatomických variant (Mikula, 2021). Pre
+pacientov indikovaných na rekanalizačnú terapiu je CT angiografia nevyhnutným vyšetrením
+(Malíková, 2019).
+Magnetická rezonancia
+Na získanie detailného obrazu mozgového tkaniva sa využívajú magnetické polia a rádiové
+vlny. Tento typ vyšetrenia, nazývaný magnetická rezonancia (MRI), sa využíva najmä u
+pacientov, ktorí sa zotavili z prechodného ischemického ataku. MRI je schopné podrobne
+zobraziť mozgové tkanivo a identifikovať aj malé oblasti, ktoré mohli byť postihnuté cievnou
+mozgovou príhodou (Tomek, 2018).
+
+19
+
+Magnetická rezonancia je považovaná za bezpečné diagnostické vyšetrenie, pretože nevyužíva
+ionizujúce žiarenie, čo znamená, že nepredstavuje riziko nežiaducich účinkov spojených s
+vystavením žiareniu. Vďaka tomu je vhodná aj pre tehotné ženy po dvanástom týždni
+tehotenstva (Seidl, 2023).
+V porovnaní s počítačovou tomografiou poskytuje magnetická rezonancia podrobnejšie a
+kvalitnejšie zobrazenie mäkkých tkanív a ciev, pričom v mnohých prípadoch nie je nutné použiť
+kontrastnú látku. Hlavnou nevýhodou je časová náročnosť, pretože samotné vyšetrenie a
+analýza výsledkov môžu trvať dlhšie, zvyčajne medzi 20 až 50 minútami. Okrem toho je
+magnetická rezonancia dostupná iba v niektorých zdravotníckych zariadeniach a nie je vhodná
+pre pacientov s kardiostimulátorom alebo implantovaným defibrilátorom, čo obmedzuje jej
+použiteľnosť (Leško, 2011).
+V dôsledku týchto faktorov sa magnetická rezonancia častejšie využíva v neskorších fázach,
+keď je potrebné podrobnejšie vyhodnotenie poškodenia mozgu alebo zmien v cievach. Na
+druhej strane, počítačová tomografia zostáva preferovaným nástrojom v akútnej fáze cievnej
+mozgovej príhody vďaka svojej rýchlosti a širokej dostupnosti (Kalita, 2010).
+
+1.5.
+
+Liečba
+
+Sú tri základné princípy v liečbe akútnej cievnej mozgovej príhody. Prvá je liečbe celkovej
+fyzickej kondície, ktorú sa snažíme optimalizovať, ide o takzvanú všeobecnú liečbu. Termín
+všeobecná liečba popisuje liečebnú stratégiu s cieľom stabilizovať kriticky chorého pacienta a
+kontrolovať systémové problémy, ktoré môžu narušiť zotavenie z náhlej cievnej mozgovej
+príhody všeobecná liečba zahŕňa pľúcnu a kardiálnu starostlivosť, udržanie homeostázy a
+metabolizmu a taktiež kontrolu a úpravu krvného tlaku. Druhá je špecifická terapia zameraná
+na patogenézu samostatnej náhlej cievnej mozgovej príhody, napríklad rekanalizácia cievnej
+oklúzie, prevencie niektorých mechanizmov neuronálnej lezie, ktorá vznikla po mozgovej
+ischémii. Tretie je prevencia a liečba komplikácií, jednak priamo neurologických, napríklad
+hemoragickej transformácie, expanzívneho edému, epileptický záchvatov a podobne, alebo
+všeobecne medicínskych, napríklad infekcii, dekubitov, hlbokej venóznej trombózy alebo
+pľúcnej embólie (Leško, 2011).
+Intravenozna trombolyza
+Intravenózna trombolýza (IVT) je považovaná za plne etablovanú kauzálnu liečbu akútnej
+ischemickej cievnej mozgovej príhody (Petrík, 2018). Reperfúzia predstavuje jedinú efektívnu
+stratégiu, ktorá môže zabrániť rozvoju poškodenia mozgu spôsobeného uzáverom mozgovej
+20
+
+tepny pri mozgovom infarkte. Kľúčovým faktorom úspechu akútnej reperfúznej terapie je
+včasná aplikácia liečby a dosiahnutie rekanalizácie. Efektívnosť systémovej trombolýzy je silne
+závislá od času, pričom benefit IVT sa postupne znižuje s časovým odstupom od nástupu
+príznakov mozgového infarktu (Powers, 2018).
+Podľa odporúčaní AHA/ASA z roku 2018 je intravenózna trombolýza zvyčajne indikovaná u
+pacientov, ktorí prichádzajú s jasným časovým oknom na liečbu do 4,5 hodiny od začiatku
+príznakov mozgového infarktu (Powers, 2018). Avšak klinické štúdie publikované od roku
+2018 poskytli dôkazy o výhodách akútnej reperfúznej liečby intravenóznou trombolýzou v
+predĺžených časových oknách až do 9, alebo dokonca 24 hodín od vzniku príznakov. Pri IVT
+sa využíva liek altepláza (rt-PA), ktorý sa aplikuje intravenózne do 4,5 hodiny od vzniku
+klinických príznakov v dávke 0,9 mg/kg telesnej hmotnosti, pričom 10 % dávky sa podáva ako
+bolus intravenózne a zvyšok sa infúzne podáva počas 1 hodiny. Maximálna dávka je 90 mg
+(Jakubíček, 2020).
+Pacienti, ktorí sú indikovaní na rekanalizačnú liečbu a vykazujú nestabilné alebo kolísajúce
+neurologické príznaky, poruchy vedomia, hemodynamickú nestabilitu alebo akútnu kardiálnu
+či respiračnú insuficienciu, by mali byť umiestnení na jednotku intenzívnej starostlivosti.
+Kľúčové je zabezpečiť stabilizáciu vitálnych funkcií a adekvátnu mozgovú perfúziu (Mako,
+2024).
+Trombektomia
+Ak štandardná intravenózna liečba (trombolýza) nie je účinná, môže sa zvážiť endovaskulárna
+liečba - trombektómia (Berkhemer, 2015). Mechanická trombektómia je považovaná za
+štandardnú liečbu ischemickej cievnej mozgovej príhody pri oklúzii veľkej tepny u pacientov
+starších ako 18 rokov (Kmečová, 2019).
+Typickí kandidáti na trombektómiu sú pacienti so stredne ťažkou až ťažkou symptomatológiou
+cievnej mozgovej príhody, ktorí majú potvrdený proximálny uzáver mozgovej cievy, avšak bez
+výraznej demarkácie veľkého infarktu (Voško, 2016).
+Arbitrárny časový rámec pre mechanickú trombektómiu, ktorý bol pôvodne stanovený na 6
+hodín od vzniku cievnej mozgovej príhody, bol na základe realizovaných štúdií postupne
+upravený na 24 hodín. Tento časový rámec by mal byť individuálne prispôsobený podľa
+klinického stavu pacienta a na základe zobrazovacích metód, ako je perfúzne CT alebo
+magnetická rezonancia mozgu (Kucharík, 2024).
+21
+
+Mechanická trombektómia je postup, pri ktorom sa krvná zrazenina odstraňuje z postihnutej
+krvnej cievy. Tento zákrok je alternatívou alebo doplnkom k trombolýze, pri ktorej sa používajú
+trombolytické lieky (ako altepláza či retepláza). Mechanická trombektómia sa bežne vykonáva
+v mozgových tepnách a slúži na zvrátenie ischémie pri niektorých ischemických mozgových
+príhodách. Existujú aj varianty trombektómie, ktoré zahŕňajú otvorenú cievnu chirurgiu.
+Účinnosť tohto zákroku pri liečbe cievnych mozgových príhod bola potvrdená v niekoľkých
+randomizovaných klinických štúdiách vykonaných v rôznych zdravotníckych zariadeniach.
+Zákrok mechanickej trombektómie sa môže vykonať buď v celkovej anestézii, alebo pri
+vedomej sedácii, a to v angiografickej miestnosti. Pri procedúre sa využíva systém koaxiálnych
+katétrov, ktorý je zavádzaný do arteriálneho obehu, obvykle prostredníctvom perkutánneho
+prístupu do pravej stehennej tepny. Následne sa mikrokatéter umiestni za postihnutý segment
+cievy, na ktorý sa nasadí stent-retriever na zachytenie trombu. Po úspešnom zachytení trombu
+sa stent vytiahne z tepny, často pri súčasnej kontinuálnej aspirácii cez väčšie katétre, čím sa
+zabezpečuje efektívne odstránenie krvnej zrazeniny.
+Inou technikou mechanickej trombektómie pri mozgových príhodách je priama aspirácia, ktorá
+zahŕňa zavedenie veľkého mäkkého aspiračného katétra do okludovanej cievy. Následne sa
+aplikuje priama aspirácia na získanie trombu. Táto technika môže byť kombinovaná so stentretriever metodikou, aby sa dosiahla vyššia miera rekanalizácie, no zároveň zvyšuje zložitosť
+celého postupu (Jeffrey, 2015).
+Antiagregačná liečba
+Riziko opakovanej ischemickej cievnej mozgovej príhody je počas prvých 30 dní veľmi vysoké,
+pričom 1 z 25 pacientov zažije ďalšiu príhodu v tomto časovom období. Ak je príčinou
+ischemickej
+
+cievnej
+
+mozgovej
+
+príhody
+
+nekardioembolický
+
+faktor,
+
+sú
+
+indikované
+
+protidoštičkové lieky, ktoré pomáhajú modifikovať riziko ďalších príhod a znižujú úmrtnosť, a
+to ako v akútnom období, tak aj dlhodobo. Medzi najčastejšie používané protidoštičkové lieky
+na celom svete patria aspirín, klopidogrel a dipyridamol, pričom všetky majú dôkazy o vysokej
+účinnosti v prevencii recidívy cievnej mozgovej príhody.
+Aspirin
+Aspirín je najviac študovaná protidoštičková látka, ktorá sa bežne používa v akútnej fáze a pri
+sekundárnej prevencii ischemickej cievnej mozgovej príhody, a to buď samostatne, alebo v
+kombinácii s inými protidoštičkovými liekmi. Podanie aspirínu do 48 hodín po vzniku cievnej
+22
+
+mozgovej príhody viedlo k výraznému zníženiu rizika včasnej recidívy cievnej mozgovej
+príhody a úmrtia. Počas tohto obdobia nebolo pozorované významné zvýšenie rizika
+hemoragickej cievnej mozgovej príhody ani transformácie.
+Klopidogrel
+Klopidogrel je protidoštičková látka druhej generácie z triedy tienopyridínov. Je schválený na
+liečbu ischemickej cievnej mozgovej príhody v akútnej fáze, najmä u pacientov, ktorí sú
+alergickí na aspirín, a tiež na dlhodobú sekundárnu prevenciu. Pre akútnu liečbu sa odporúča
+nasycovacia dávka klopidogrelu 300 alebo 600 mg, po ktorej nasleduje udržiavacia dávka 75
+mg denne (Zixiao, 2016).
+
+1.6.
+
+Komplikácie
+
+Akútna fáza cievnej mozgovej príhody sa sústreďuje na minimalizovanie ireverzibilného
+poškodenia mozgu, no s postupujúcim liečením sa pozornosť presúva na prevenciu a liečbu
+komplikácií spojených s cievnou mozgovou príhodou. S časom sa bezprostredné klinické
+následky tejto príhody často komplikujú rôznymi menej známymi medicínskymi,
+muskuloskeletálnymi a psychosociálnymi problémami.
+Spasticita a hypertonicita
+Až 60 % pacientov po mŕtvici trpí symptómami spasticity, ktorá je charakterizovaná
+nadmernou, neprimeranou a mimovoľnou svalovou aktivitou. Táto aktivita vedie k stuhnutiu,
+obmedzeniu pohybu a bolesti. V najzávažnejších prípadoch môže spasticita vyvolať pevné
+deformácie, známe ako kontraktúry, a zvýšiť riziko vzniku dekubitov. Konzervatívna liečba
+týchto kontraktúr zahŕňa fyzioterapiu, používanie dlah a správne polohovanie končatín.
+Epileptické záchvaty
+Epileptické záchvaty sa vyskytujú u 5 % – 9 % pacientov, ktorí prekonali cievnu mozgovú
+príhodu. Riziko záchvatov zostáva zvýšené počas prvého roka po príhode, pričom najvyššie
+riziko neskorých záchvatov sa vyskytuje v druhej polovici tohto obdobia. Záchvaty sú častejšie
+pri hemoragickej mŕtvici, mŕtvici s úplnou prednou cirkuláciou a mŕtvici, ktorá zahŕňa kôru.
+Liečba epileptických záchvatov sa zvyčajne vykonáva konvenčnými antikonvulzívami
+(Schwarzbach, 2020).
+
+23
+
+Inkontinencia
+Po cievnej mozgovej príhode môžu pacienti zažiť rôzne problémy s močením, ako je časté
+močenie, nutkanie na močenie alebo inkontinencia, ktoré sú spôsobené neurogénnym močovým
+mechúrom. Tieto problémy vedú k neúplnému vyprázdneniu močového mechúra.
+Mechanizmus inkontinencie moču po mŕtvici nie je úplne objasnený. Až 25 % pacientov s
+cievnou mozgovou príhodou trpí inkontinenciou moču pri prepustení z nemocnice a 15 % z
+nich zostáva inkontinentných aj po jednom roku. Fekálna inkontinencia, ktorá sa objavuje po
+cievnej mozgovej príhode, je veľmi častá, vyskytuje sa u 56 % pacientov v akútnom štádiu, u
+30 % po 7–10 dňoch a u 11 % po troch mesiacoch.
+Psychosociálne komplikácie mŕtvice
+Psychosociálne komplikácie cievnej mozgovej príhody sú veľmi časté a majú značný vplyv
+nielen na pacientov, ale aj na ich rodiny a priateľov. Až 70 % pacientov po cievnej mozgovej
+príhode zažíva zlú náladu, pričom 25 % až 30 % vykazuje výraznú depresiu (Chohan, 2019).
+
+1.7.
+
+Prevencia
+
+Cieľom prevencie cievnej mozgovej príhody je znížiť jej výskyt prostredníctvom cielených
+zásahov na modifikáciu rizikových faktorov, či už jedného, alebo viacerých faktorov, na úrovni
+populácie, komunity alebo jednotlivca. V niektorých prípadoch, ako je použitie
+protidoštičkových liekov, sa však cieľom stáva skôr aplikácia intervencie, ktorá je známa tým,
+že znižuje riziko ischemickej cievnej mozgovej príhody u osôb s vyšším rizikom, nežliečba
+konkrétneho rizikového faktora.
+Existujú tri hlavné úrovne prevencie cievnej mozgovej príhody:
+1. Primordiálna prevencia - Táto úroveň prevencie sa zameriava na opatrenia zdravého
+životného štýlu, ktoré sú aplikované na úrovni skupiny alebo populácie. Cieľom je
+znížiť výskyt fyziologických rizikových faktorov, ktoré by mohli viesť k cievnej
+mozgovej príhode.
+2. Primárna prevencia - Tento typ prevencie sa sústredí na jednotlivcov, ktorí nemajú v
+anamnéze cievnu mozgovú príhodu alebo prechodný ischemický záchvat. Cieľom je
+zlepšiť profil rizikových faktorov a zabrániť prvej cerebrovaskulárnej príhode.
+3. Sekundárna prevencia - Táto prevencia sa využíva u pacientov, ktorí už prekonali
+mŕtvicu alebo TIA, a jej cieľom je zabrániť recidíve cievnej mozgovej príhody.
+
+24
+
+Príklady primárnej prevencie cievnej mozgovej príhody zahŕňajú iniciatívy na podporu
+zdravých návykov, ako je odvykanie od fajčenia, dodržiavanie zdravej výživy, pravidelná
+fyzická aktivita a kontrola hmotnosti. Primárna aj sekundárna prevencia sa zameriava na
+špecifické rizikové faktory, ktoré sú spojené s životným štýlom, ako sú hypertenzia a diabetes
+mellitus, aby sa minimalizovalo riziko cievnej mozgovej príhody (Boehme, 2017).
+
+1.8.
+
+Ošetrovateľská starostlivosť
+
+Včasná a komplexná ošetrovateľská starostlivosť je kľúčová pre zmiernenie následkov cievnej
+mozgovej príhody, podporu procesu zotavenia pacienta a prevenciu sekundárnych komplikácií.
+Prostredníctvom dôkladného ošetrovateľského hodnotenia cievnej mozgovej príhody je možné
+identifikovať potenciálne komplikácie a vypracovať individuálne plány starostlivosti, ktoré
+podporujú zotavenie pacienta a pomáhajú predchádzať opakovaniu mozgových príhod.
+Sledovanie zdravotného stavu: Posudzovanie neurologických funkcií pacienta je základným
+krokom pri monitorovaní zdravotného stavu a prevencii komplikácií. Hodnotenie zahŕňa
+systematické sledovanie úrovne vedomia, motorických a senzorických deficitov, ako aj
+pravidelnú kontrolu vitálnych funkcií.
+Podávanie trombolytickej liečby: Sestra zohráva kľúčovú úlohu pri realizácii tejto liečby.
+Podľa platných terapeutických protokolov sestra zabezpečuje prípravu a správne podanie
+rekombinantného tkanivového aktivátora plazminogénu. Počas podávania trombolýzy sestra
+zabezpečuje intenzívne sledovanie vitálnych funkcií a neurologického stavu pacienta.
+Monitorovanie zahŕňa frekventné meranie krvného tlaku, srdcovej frekvencie, saturácie
+kyslíkom a sledovanie vedomia pacienta každých 15 minút počas prvých 2 hodín, následne
+podľa odporúčaní protokolu. Dôraz sa kladie na včasnú detekciu príznakov hemoragických
+komplikácií, ako sú náhly pokles vedomia, bolesti hlavy alebo zmeny neurologických deficitov.
+Polohovanie pacienta je kľúčové na prevenciu sekundárnych komplikácií, ako sú dekubity,
+kontraktúry a hlboká žilová trombóza. Sestry používajú rôzne pomôcky, vrátane vankúšov,
+podložiek a dlah, ktoré napomáhajú správnemu zarovnaniu tela a znižujú riziko deformácií
+kĺbov.
+Podpora rehabilitácie a terapie je nevyhnutnou súčasťou procesu zotavovania. Fyzikálna
+terapia sa zameriava na obnovu motorických funkcií, rovnováhy a mobility, pričom pracovná
+terapia pomáha pacientovi zlepšiť schopnosti potrebné na každodenné aktivity. Logopedická
+intervencia je dôležitá pri riešení jazykových a komunikačných deficitov, ako aj pri zvládaní
+ťažkostí s prehĺtaním, ktoré sú časté u pacientov s neurologickými poruchami.
+25
+
+Podávanie liekov podľa lekárskeho predpisu vyžaduje presnosť, bezpečnostné opatrenia a
+pravidelné monitorovanie účinkov a vedľajších príznakov liečby.
+Monitorovanie dysfágie (ťažkosti s prehĺtaním) je dôležitou súčasťou starostlivosti o
+pacientov s neurologickým poškodením. Modifikácia konzistencie stravy a vhodné
+polohovanie pacienta pri jedle sú základnými preventívnymi opatreniami.
+Prevencia komplikácií je zásadná pre optimalizáciu výsledkov starostlivosti. Použitie
+profylaktickej antikoagulácie, prísna kontrola infekcií a zavádzanie stratégií na prevenciu
+pádov prispievajú k zníženiu výskytu hlbokej žilovej trombózy, zápalu pľúc a ďalších
+závažných komplikácií. Dôsledné uplatňovanie preventívnych opatrení zlepšuje prognózu a
+kvalitu života pacienta.
+Monitorovanie vitálnych funkcií: Pravidelné a systematické sledovanie základných životných
+funkcií, ako sú krvný tlak, pulz, respiračná frekvencia a saturácia kyslíkom. Tieto parametre sú
+nevyhnutné na včasné odhalenie zhoršujúceho sa stavu pacienta, ako aj na efektívne riadenie
+terapeutických opatrení. Kontinuálne monitorovanie môže zahŕňať aj EKG u rizikových
+pacientov a hodnotenie teploty na identifikáciu infekcií alebo iných systémových komplikácií.
+Neurologické hodnotenie: vyhodnocovanie neurologického stavu pacienta je kľúčové, najmä
+pri ochoreniach centrálnej nervovej sústavy, ako je cievna mozgová príhoda. Hodnotí sa úroveň
+vedomia pomocou Glasgow Coma Scale (GCS), ako aj motorické a senzorické funkcie. Pri
+cerebrovaskulárnych príhodách sa používa škála NIHSS (National Institutes of Health Stroke
+Scale) na objektívne meranie neurologického deficitu. Pravidelné hodnotenie pomáha včas
+odhaliť zhoršenie stavu a potrebu úpravy liečby.
+Podpora dýchania: Monitorovanie respiračných funkcií a adekvátna podpora dýchania sú
+nevyhnutné pre pacientov s respiračnými ťažkosťami alebo s rizikom hypoxémie. Použitie
+kyslíkovej terapie je indikované pri nízkej saturácii kyslíkom (SpO₂ pod 94 %), pričom je
+potrebné individuálne prispôsobiť dávkovanie kyslíka. V prípade ťažších respiračných porúch
+môže byť nevyhnutná neinvazívna alebo invazívna ventilácia, a to najmä pri pacientoch s
+pľúcnymi ochoreniami alebo neurologickými poruchami ovplyvňujúcimi dýchanie.
+Podpora komunikácie: U pacientov so zhoršenou schopnosťou komunikácie, napríklad v
+dôsledku afázie, intubácie alebo neurologických deficitov, je dôležité zabezpečiť alternatívne
+spôsoby vyjadrovania. Môže ísť o komunikačné tabule, obrázky alebo elektronické zariadenia
+26
+
+umožňujúce
+
+komunikáciu.
+
+Podpora
+
+neverbálnej
+
+komunikácie
+
+a
+
+trpezlivý
+
+prístup
+
+zdravotníckeho personálu môžu výrazne znížiť frustráciu pacienta a zlepšiť jeho spoluprácu pri
+liečbe.
+Výživa a hydratácia: Udržiavanie adekvátnej výživy a hydratácie je zásadné pre celkový
+zdravotný stav pacienta. U niektorých pacientov môže byť potrebná enterálna výživa cez
+nazogastrickú alebo gastrostomickú sondu, najmä ak majú poruchy prehĺtania. Pravidelné
+monitorovanie príjmu a výdaja tekutín je dôležité na prevenciu dehydratácie, elektrolytovej
+nerovnováhy a podvýživy, ktoré môžu negatívne ovplyvniť proces hojenia a regenerácie
+organizmu.
+Psychosociálna podpora: Emocionálna pohoda pacienta a jeho rodiny je rovnako dôležitá ako
+fyzická starostlivosť. Poskytovanie psychologickej podpory, edukácia o stave pacienta a jeho
+ďalšom vývoji pomáha znižovať úzkosť a stres. Zapojenie sociálnych pracovníkov alebo
+podporných skupín môže byť užitočné pri riešení praktických a emocionálnych výziev
+spojených s ochorením alebo hospitalizáciou.
+Edukácia a komunikácia: Pacienti a ich rodiny by mali byť dôkladne informovaní o diagnóze,
+liečbe, možných komplikáciách a rehabilitačných opatreniach. Jasná a zrozumiteľná
+komunikácia zo strany zdravotníckeho personálu pomáha pacientom lepšie pochopiť ich
+zdravotný stav a motivovať ich k aktívnej účasti na liečbe a prevencii komplikácií. V prípade
+dlhodobej starostlivosti je dôležité poskytnúť informácie o potrebných úpravách životného
+štýlu a domácich opatreniach po prepustení z nemocnice.
+Prevencia infekcií: Pacienti so zdravotnými komplikáciami môžu byť náchylnejší na infekcie,
+preto je nevyhnutné dodržiavať prísne hygienické opatrenia. Starostlivosť o invazívne
+zariadenia, ako sú katétre, sondy alebo centrálne venózne prístupy, musí byť vykonávaná
+asepticky, aby sa predišlo nozokomiálnym infekciám. Rovnako je dôležité pravidelne
+vykonávať hygienu ústnej dutiny, aby sa zabránilo vzniku ventilačnej pneumónie u pacientov
+na umelej ventilácii.
+Vyhodnotenie a dokumentácia klinického stavu: Systematické zaznamenávanie zmien v
+zdravotnom stave pacienta je nevyhnutné na efektívne riadenie liečby a rozhodovanie o ďalších
+krokoch. Dokumentácia zahŕňa pravidelné hodnotenie vitálnych funkcií, neurologického stavu,
+27
+
+odpovede na terapiu a prípadné komplikácie. Presné a včasné zaznamenanie údajov
+zabezpečuje kontinuitu starostlivosti a umožňuje lepšiu spoluprácu medzi členmi
+zdravotníckeho tímu (Williams, 2019).
+
+28
+
+2. Výskum
+V diplomovej práci sa zameriavame na skúmanie zdravotnej gramotnosti laickej verejnosti
+o ochorení cievna mozgová príhoda. Napriek tomu, že CMP sú bežnou príčinou mortality a
+morbidity, vedomosti o jej príčinách, prevencii a včasnej diagnostike nie sú u laickej verejnosti
+vždy na dostatočnej úrovni. Rýchle rozpoznanie príznakov cievnej mozgovej príhody a
+okamžité zavolanie záchranky môže významne zlepšiť prognózu pacienta, preto je dôležité, aby
+široká verejnosť bola schopná identifikovať varovné signály tejto zdravotnej núdze. Včasná
+intervencia môže nielen zachrániť život, ale aj minimalizovať trvalé následky, ktoré CMP
+spôsobuje. Téma informovanosti o cievnych mozgových príhodách je aktuálna nielen v oblasti
+zdravotníctva, ale aj v prevencii, kde zohráva dôležitú úlohu edukácia a osvetové kampane.
+Zvyšovanie povedomia o rizikových faktoroch, správnych postupoch pri prvej pomoci a
+možnostiach prevencie môže prispieť k zníženiu počtu prípadov CMP a zmierniť ich negatívne
+dopady na spoločnosť.
+
+Vymedzenie výskumného problému
+Po spracovaní teoretických východísk sme si stanovili nasledujúci výskumný problém: Aké sú
+vedomosti laickej verejnosti o ochorení cievna mozgová príhoda?
+
+Ciele výskumu
+Na základe formulovania výskumného problému sme si stanovili nasledujúci hlavný ciel
+a k nemu čiastkové ciele ktoré nám pomôžu k dosiahnutiu hlavého cieľa.
+Hlavný cieľ:
+Zistiť, aké sú vedomosti laickej verejnosti o ochorení cievna mozgová príhoda.
+Čiastkové ciele
+Zistiť, koľko respondentov má skúsenosť s CMP.
+Zistiť, aké sú vedomosti laickej verejnosti o ochorení CMP.
+Zistiť, aké sú vedomosti laickej verejnosti o rizikových faktoroch CMP.
+Zistiť, aké sú vedomosti laickej verejnosti o prvých príznakoch CMP.
+Zistiť, aké sú vedomosti laickej verejnosti o možných následkoch CMP.
+
+29
+
+2.1.
+
+Hypotézy výskumu
+
+1. H0: Neexistuje štatisticky významný rozdiel medzi vedomosťami mužov a žien o
+rizikových faktoroch CMP.
+H1: Existuje štatisticky významný rozdiel medzi vedomosťami mužov a žien o rizikových
+faktoroch CMP.
+2. H0: Neexistuje štatisticky významný rozdiel medzi vedomosťami o príznakoch CMP
+vzhľadom na vek respondentov.
+H1: Existuje štatisticky významný rozdiel medzi vedomosťami o príznakoch CMP
+vzhľadom na vek respondentov.
+3. H0: Neexistuje štatisticky významný rozdiel medzi úrovňou vzdelania a vedomosťou
+správneho tiesňového čísla pri podozrení na CMP.
+H1: Existuje štatisticky významný rozdiel medzi úrovňou vzdelania a vedomosťou
+správneho tiesňového čísla pri podozrení na CMP.
+4. H0: Neexistuje štatisticky významný rozdiel medzi respondentmi, ktorí prekonali CMP,
+ktorí neprekonali CMP a tými, ktorí poznajú niekoho kto prekonal CMP, v názore na to, či
+môže človek po CMP viesť plnohodnotný život.
+H1: Existuje štatisticky významný rozdiel medzi respondentmi, ktorí prekonali CMP, ktorí
+neprekonali CMP a tými, ktorí poznajú niekoho kto prekonal CMP, v názore na to, či môže
+človek po CMP viesť plnohodnotný život.
+
+2.2.
+
+Metodika výskumu
+
+Výskumným nástrojom bol kvantitatívny neštandardizovaný dotazník. Dotazník bol anonymný
+a určený pre laickú verejnosť, ktorej vek presahuje 18 rokov. Spolu obsahoval dotazník 26
+uzatvorených otázok. Otázky č. 1-5 sa venovali demografickým údajom. Z otázok č. 6 – 10 sme
+zisťovali základné vedomosti laikov o ochorení CMP. V otázke č. 11 sme dali respondentom
+na výber viacero možností zodpovedajúcich rizikovým faktorom ochorenia. Vedomosti
+o príznakoch sme u respondentov overovali v otázke č. 12. Na prvú pomoc sme sa
+respondentov pýtali v otázkach č. 13 – 16. Nasledujúce otázky č. 17- 20 boli zamerané na
+poskytovanie starostlivosti v nemocnici o pacientov s CMP. V záverečných otázkach č. 21 – 25
+respondenti zodpovedali otázky ohľadom následkov CMP. Posledná otázka č. 26 bola
+kontrolná, aby sme mali zaručené, že výsledky nášho výskumu budú naozaj obsahovať iba
+laickú verejnosť. Ako výskumný súbor bola zvolená laická verejnosť každej vekovej kategórie.
+30
+
+Nakoľko bol náš výskum zameraný iba na laickú verejnosť, respondentom nemohla byť žiadna
+osoba pracujúca ako zdravotnícky pracovník.
+
+Výskumná vzorka
+Výskumnú vzorku tvorila laická verejnosť vo veku od 18 rokov, pričom boli vylúčení
+zdravotnícki pracovníci, aby výsledky odrážali skutočné povedomie laickej verejnosti o cievnej
+mozgovej príhode. Respondenti boli vybraní náhodným výberom z rôznych sociálnych a
+demografických skupín, aby bola zabezpečená rôznorodosť a objektivita získaných údajov. Do
+výskumu sa zapojilo celkovo 287 respondentov. Po identifikácii a vyradení dvoch
+zdravotníckych pracovníkov, ktorí nespĺňali kritériá výskumnej vzorky, bolo do finálnej
+analýzy zahrnutých 285 respondentov.
+
+Organizácia výskumu
+Výskum sa realizoval v období od októbra 2024 do februára 2025. Zber dát prebiehal
+prostredníctvom dotazníka, ktorý bol distribuovaný elektronicky s cieľom osloviť čo najširšiu
+a rôznorodú vzorku laickej verejnosti vo veku od 18 rokov. Dotazník bol zdieľaný na rôznych
+Facebookových stránkach zameraných na zdravie a prevenciu ochorení, ako aj na komunitných
+skupinách. Zároveň bol rozposlaný medzi rodinných príslušníkov a známych, čím sa
+zabezpečila diverzita respondentov z rôznych sociálnych a vekových skupín. Okrem toho bol
+dotazník zaslaný na rôzne fakulty našej univerzity. Tento spôsob distribúcie umožnil získať
+dostatočné množstvo odpovedí a zabezpečil reprezentatívnosť dát.
+Odkaz na dotazník: https://www.survio.com/survey/d/F7D4S8I9R1J2R2B3W
+
+Spracovanie výsledkov
+Dotazník bol distribuovaný v elektronickej forme prostredníctvom platformy Survio, čo
+umožnilo širokú dostupnosť a efektívne zbieranie údajov od respondentov. Odpovede
+respondentov na jednotlivé položky dotazníka boli spracované a zobrazené vo forme grafov,
+ktoré nám umožnili vizuálne zobraziť distribúciu odpovedí. Premenné, ktoré sme v dotazníku
+zberali, boli vyjadrené v percentách, čím sme získali prehľad o prevalencii jednotlivých
+názorov a vedomostí v skúmanej populácii. Na analýzu získaných dát sme použili rôzne
+štatistické testy, ktoré nám umožnili vyhodnotiť vzťahy medzi rôznymi premennými a
+identifikovať prípadné štatisticky významné rozdiely medzi odpoveďami rôznych skupín
+respondentov. Za štatisticky významné výsledky sme považovali hodnoty s p-hodnotou menšou
+ako 0,05.
+31
+
+3. Analýza získaných údajov
+V tejto časti práce sme sa venovali analýze odpovedí z dotazníka a štatistickému testovaniu
+hypotéz. Naším cieľom bolo zistiť, aké sú vedomosti respondentov o cievnej mozgovej príhode
+a či sa líšia podľa rôznych faktorov, ako sú vek, pohlavie, vzdelanie alebo osobná skúsenosť s
+CMP. Najskôr sme zozbierané údaje spracovali a upravili tak, aby boli vhodné na analýzu.
+Odpovede sme premenili na číselné hodnoty, čo nám umožnilo ich štatistické vyhodnotenie.
+Následne sme zvolili vhodné štatistické testy, pomocou ktorých sme overovali naše hypotézy a
+skúmali, či sú rozdiely medzi skupinami významné alebo len náhodné.
+Otázka č. 1: Vaše pohlavie:
+
+31%
+Muž
+Žena
+69%
+
+Graf 1 Pohlavie
+
+Z hľadiska pohlavia sa na výskume zúčastnilo 285 respondentov, z toho 69% žien a 31%
+mužov.
+Otázka č. 2: Váš vek:
+5%
+
+18-30
+
+10%
+42%
+
+31-45
+46-60
+
+21%
+
+61-74
+75 a viac
+
+22%
+
+Graf 2 Vek
+
+32
+
+Vo vekovej kategórii 18 – 30 rokov bolo 42% respondentov, vo veku 30 – 45 rokov 22%
+respondentov, vo veku 46 – 60 rokov 21% respondentov, v kategórii 60 – 75 rokov 10%
+respondentov a vo veku nad 75 rokov 5% respondentov.
+
+Otázka č. 3: Vaše vzdelanie:
+2% 5%
+
+Stredoškolské
+odborné bez maturity
+
+9%
+
+Stredoškolské s
+maturitou
+31%
+
+Vysokoškolské
+vzdelanie
+
+53%
+
+Vyššie odborné
+vzdelanie
+Základné
+
+Graf 3 Vzdelanie
+Základné vzdelanie malo 5% respondentov, stredné odborné vzdelanie bez maturity malo 9%
+respondentov, stredoškolské vzdelanie s maturitou malo 53% respondentov, vyššie odborné
+vzdelanie malo 2% respondentov a vysokoškolské vzdelanie malo 31% respondentov.
+
+Otázka č. 4: Vaše bydlisko:
+
+44%
+
+Na dedine
+V meste
+
+56%
+
+Graf 4 Bydlisko
+
+Z mesta pochádzalo 56% respondentov a z dediny 44% respondentov.
+
+33
+
+Otázka č. 5: Poznáte niekoho, kto prekonal cievnu mozgovú príhodu?
+
+Áno
+44%
+
+Ja sám(a) som
+prekonal(a) CMP
+
+52%
+
+Nie
+4%
+Graf 5 Prekonanie CMP
+Na otázku, či poznajú niekoho, kto prekonal CMP, odpovedalo kladne 52% respondentov,
+záporne odpovedalo 44% respondentov a 4% respondentov uviedlo, že sami prekonali CMP.
+
+Otázka č. 6: Čo je CMP?
+0.35%
+Infekčné ochorenie
+mozgu
+
+16.84%
+
+Porucha krvného
+obehu mozgu
+Zápalové ochorenie
+mozgu
+
+82.81%
+
+Nádorové ochorenie
+mozgu
+Graf 6 Čo je CMP
+Na otázku „Čo je CMP?“ označilo za poruchu krvného obehu v mozgu 82,81% opýtaných,
+16,84% respondentov si myslí, že ide o zápalové ochorenie mozgu, jeden respondent označil
+CMP za infekčné ochorenie. Odpoveď nádorové ochorenie mozgu neoznačil žiaden
+z respondentov.
+
+34
+
+Otázka č. 7: CMP pokladáte za ochorenie:
+
+7%
+Stredne závažné
+Veľmi závažné
+Nezávažné
+93%
+
+Graf 7 CMP pokladáte za ochorenie
+CMP ako veľmi závažné ochorenie označilo 93% respondentov, ako stredne závažné 7%
+respondentov. Žiaden z respondentov neoznačil možnosť nezávažné.
+
+Otázka č. 8: CMP postihuje:
+
+Ľudí v akomkoľvek
+veku
+
+22%
+
+Starších ľudí
+Mladších ľudí
+
+78%
+
+Graf 8 CMP postihuje
+Pri otázke, koho CMP postihuje, si 22% respondentov myslí, že CMP postihuje iba starších
+ľudí, 78% respondentov uviedlo, že CMP môže postihnúť ľudí v akomkoľvek veku, nikto
+z opýtaných si nemyslí že CMP postihuje iba mladších ľudí.
+
+35
+
+Otázka č. 9: CMP rozdeľujeme na:
+
+Ischemické (nedostatok
+okysličenia mozgu),
+hemoragické ( krvácanie
+do mozgu)
+Ischemické,
+hemoragické, nádorové
+
+4%
+
+28%
+
+61%
+7%
+
+Ischemické,
+hemoragické, TIA =
+(malá CMP, príznaky
+sami odznejú)
+Nerozdelujeme ich
+
+Graf 9 Rozdelenie CMP
+Rozdelenie CMP poznalo 28% respondentov, pričom 61% respondentov označilo ischemickú
+a hemoragickú formu, 7% sa domnievalo že existuje ischemická, hemoragická a nádorová
+forma CMP, možnosť nerozdeľujeme ich uviedli 4% opýtaných.
+
+Otázka č. 10: Môže človek prekonať CMP viackrát počas života?
+
+6%
+24%
+Áno
+61%
+1%
+
+8%
+
+Neviem
+Nie
+
+Graf 10 Opakované prekonanie CMP
+
+36
+
+O možnosti opakovanej CMP odpovedalo „Áno“ 61% respondentov, „Skôr áno“ odpovedalo
+24% respondentov, „Neviem“ odpovedalo 8% respondentov, „Skôr nie“ odpovedalo 6%
+respondentov a „Nie“ odpovedalo 1% respondentov.
+Otázka č. 11: Označte ktoré z nasledujúcich rizikových faktorov majú vplyv na CMP?
+
+250
+200
+150
+100
+50
+0
+
+215 215 213
+
+187
+148
+
+128
+
+95
+42
+
+32
+
+18
+
+3
+
+3
+
+Graf 11 Rizikové faktory
+
+Najviac respondentov a to 215 označilo faktory vysoký krvný tlak a zúženie ciev, 213
+respondentov označilo stres, fajčenie označilo 187, 148 respondentov označilo zdravý životný
+štýl, 128 označilo vek, 94 označilo ako rizikový faktor cukrovku, 42 respondentov označilo
+pohlavie, nízky krvný tlak vybralo 32 respondentov, 18 respondentov označilo očkovanie a 3
+respondenti označili nadmerné opaľovanie a promiskuitu za rizikový faktor.
+
+37
+
+Otázka č. 12: Označte ktoré z príznakov sa vyskytujú pri CMP:
+
+250
+200
+150
+100
+50
+0
+
+235 223
+
+202 198 195 187
+134
+81 70
+
+55
+
+22 17 16
+
+3
+
+2
+
+1
+
+Graf 12 Príznaky
+Ochrnutie polovice tváre ako príznak CMP označilo 235 respondentov, poruchu reči označilo
+223 respondentov, poruchu vedomia označilo 202 respondentov, dezorientáciu označilo 198
+respondentov, poruchu hybnosti končatín označilo 195 respondentov, poruchu zraku označilo
+134 respondentov, zvracanie 81, pomočenie sa 70, 55 označilo zvýšené potenie, 22 označilo
+zvýšenú telesnú teplotu, bolesť svalov označilo 17 respondentov, bolesť chrbtice 16, kašeľ 3, 2
+respondenti označili hyperaktivitu a kožnú vyrážku označil jeden respondent.
+
+Otázka č. 13: V prípade podozrenia na cievnu mozgovú príhodu:
+3% 1%
+
+Ihneď volám
+záchrannú službu
+
+Záchrannú službu
+volám iba v prípade
+poruchy vedomia
+Záchrannú službu
+volám po 30
+minútach, nakoľko
+stav neohrozuje život
+
+96%
+
+Graf 13 Kontaktovanie ZS
+38
+
+V prípade podozrenia na CMP ihneď zavolá záchrannú službu 96% respondentov, po 30
+minútach by zavolalo 1% respondentov a iba pri poruche vedomia by zavolali 3%
+respondentov. Odpoveď že nie je potrebné volať záchrannú službu neoznačil žiaden
+z respondentov.
+
+Otázka č. 14: Do akej polohy uložíme pacienta pri CMP ak je pri vedomí?
+
+6%
+
+Do stabilizovanej
+polohy
+Ležmo s podloženou
+hlavou
+
+24%
+
+Ležmo s podloženými
+nohami
+
+52%
+
+Ležmo s pokrčenými
+kolenami
+
+18%
+
+Graf 14 Poloha pri CMP
+Správnu polohu pacienta pri vedomí (ležmo s podloženou hlavou) poznalo iba 18%
+respondentov,
+
+najviac respondentov a to 52% označilo stabilizovanú polohu, 24%
+
+respondentov by pacienta uložilo do polohy ležmo s podloženými nohami a 6% respondentov
+by dali pacienta do polohy ležmo s pokrčenými kolenami.
+
+39
+
+Otázka č. 15: Aký typ poruchy reči je bežný pri CMP?
+Neschopnosť
+vysloviť slová alebo
+nezrozumiteľná reč
+Rýchla a
+nezastaviteľná reč
+Neobvyklé
+vyslovovanie cudzích
+slov
+Zvýšená hlasitosť reči
+
+100%
+
+Graf 15 Typ poruchy reči
+Na otázku, aký typ poruchy reči je bežný pri CMP, odpovedali všetci respondenti správne a to
+možnosťou že sa jedná o neschopnosť vysloviť slová alebo nezrozumiteľnú reč.
+
+Otázka č. 16: Aké telefónne číslo by ste mali volať pri podozrení na CMP?
+1%
+
+číslo 112
+44%
+
+číslo 150
+číslo 155
+
+54%
+
+číslo 158
+
+1%
+Graf 16 Telefónne číslo
+
+Telefónne číslo 112 označilo 44% respondentov, 155 označilo 54% respondentov, 158 a 150
+označilo 1% respondentov.
+
+40
+
+Otázka č. 17: Aké oddelenie sa venuje pacientom s CMP?
+
+Interné oddelenie
+23%
+Kardiologické
+oddelenie
+7%
+68%
+
+2%
+
+Neonatologické
+oddelenie
+Neurologické
+oddelenie
+
+Graf 17 Oddelenie
+Neurologické oddelenie ako primárne miesto hospitalizácie pacientov s CMP uviedlo 68%
+respondentov, 23% označilo interné oddelenie, kardiologické oddelenie označilo 7%
+respondentov a zvyšné 2% respondentov označili neonatologické oddelenie.
+
+Otázka č. 18: Primárnym vyšetrením v diagnostike CMP je:
+2% 1%
+CT počítačová
+tomografia
+Magnetická
+rezonancia
+
+37%
+
+RTG
+60%
+Sono vyšetrenie
+
+Graf 18 Vyšetrovacia metóda
+
+CT ako primárne vyšetrenie vybralo 60% respondentov, magnetickú rezonanciu vybralo 37%
+respondentov, RTG vybrali 2% respondentov a sono vyšetrenie vybralo 1% respondentov.
+
+41
+
+Otázka č. 19: Ako rýchlo je potrebné začať liečbu pri podozrení na CMP?
+
+Do 1 hodiny
+
+27%
+
+Do 12 hodín
+52%
+
+4%
+
+Do 3 hodín
+Do 6 hodín
+Neviem
+
+16%
+1%
+Graf 19 Začatie liečby
+
+Liečbu do jednej hodiny považovalo za nevyhnutnú 52% respondentov, do troch hodín 16%
+respondentov, do šiestich hodín 4% respondentov a do dvanástich hodín 1%respondentov, až
+27% respondentov uviedlo že nevie ako rýchlo je potrebné začať s liečbou pri podozrení na
+CMP.
+Otázka č. 20: Zohráva logopéd dôležitú úlohu pri následnej starostlivosti u pacienta po
+prekonaní CMP?
+
+7%
+Áno
+Neviem
+49%
+
+32%
+
+Nie
+Skôr áno
+
+Skôr nie
+7%
+5%
+Graf 20 Dôležitosť úlohy logopéda
+Úlohu logopéda pri rehabilitácii po CMP poznalo 49% respondentov. 32% označilo možnosť
+skôr áno, 7% označilo možnosť skôr nie, nie označilo 5% respondentov a 7% opýtaných
+nevedelo zhodnotiť potrebu logopéda u pacienta po CMP.
+
+42
+
+Otázka č. 21: Ako môžeme ovplyvniť, aby človek ktorý prekonal CMP mal čo najmenej
+následkov?
+
+1%
+
+Nedokážeme ovplyvniť
+následné príznaky CMP
+
+5%
+8%
+
+Správnou resuscitáciou
+
+Včasným rozpoznaním
+príznakov
+
+86%
+
+Včasným rozpoznaním
+príznakov a
+neodkladným privolaním
+záchrannej služby
+
+Graf 21 Ovplyvnenie následkov
+
+Včasné rozpoznanie príznakov považovalo za dôležité 8% respondentov, včasné rozpoznanie a
+neodkladné volanie záchrannej služby označilo 86% respondentov, správnu resuscitáciu
+označilo 1% respondentov a odpoveď, že následky nie je možné ovplyvniť, označilo 5%
+respondentov.
+Otázka č. 22: Aké najčastejšie následky môže mať pacient po prekonaní CMP?
+2% 1%1%
+Poruchy chuti a čuchu
+
+Poruchy osobnosti
+Poruchy reči a
+hybnosti končatín
+Poruchy zraku
+
+97%
+
+Graf 22 Následky
+
+43
+
+Poruchu reči a hybnosti končatín ako najčastejší následok CMP označilo 97% respondentov,
+poruchu zraku označili 2% respondentov, poruchu chuti a čuchu označilo 1% respondentov
+rovnako ako aj poruchu osobnosti.
+
+Otázka č. 23: Dá sa CMP vyliečiť bez trvalých následkov?
+
+Áno
+
+26%
+
+26%
+
+Neviem
+Nie
+
+13%
+33%
+
+Skôr áno
+Skôr nie
+
+2%
+Graf 23 Vyliečenie bez následkov
+Možnosť vyliečenia CMP bez trvalých následkov považovalo za reálnu 26% respondentov,
+rovnaký počet respondentov označilo možnosť skôr nie, 33% respondentov označilo možnosť
+skôr áno, 2% označili že to nie je možné a 13% respondentov to nevie posúdiť.
+
+Otázka č. 24: Môže človek po prekonaní CMP mať problém s prehĺtaním?
+
+13%
+
+28%
+
+Áno
+Neviem
+Nie
+
+28%
+
+Skôr áno
+Skôr nie
+
+27%
+4%
+Graf 24 Problém s prehĺtaním
+
+44
+
+Problémy s prehĺtaním po CMP označilo 28% respondentov, rovnaký počet respondentov
+označilo aj možnosť skôr áno, 27% označilo že nevie odpovedať na danú otázku, možnosť skôr
+nie označilo 13% opýtaných a 4% označili možnosť nie.
+
+Otázka č. 25: Môže človek po prekonaní CMP viesť plnohodnotný život?
+
+12%
+
+Áno
+46%
+
+Neviem
+Nie
+
+35%
+
+Skor áno
+Skôr nie
+5%
+2%
+
+Graf 25 Vedenie plnohodnotného života
+Na záver, otázku, či môže človek po prekonaní CMP viesť plnohodnotný život, kladne
+zodpovedalo 46% respondentov, skôr áno označilo 35%, 5% označilo možnosť neviem, 2%
+označili možnosť nie a 12% respondentov odpovedalo možnosťou skôr nie.
+Otázka č. 26: Som zdravotnícky pracovník:
+0%
+
+Nie
+Áno
+
+100%
+
+Graf 26 Som zdravotnícky pracovník
+
+Na kontrolnú otázku či je respondent zdravotnícky pracovník, všetci respondenti odpovedali
+nie.
+45
+
+3.1.
+
+Výsledky výskumnej analýzy
+
+V tejto časti práce sa venujeme výsledkom výskumnej analýzy, ktorá bola vykonaná s cieľom
+overiť stanovené hypotézy a získať štatisticky relevantné údaje. Na základe zozbieraných dát
+sme vykonali štatistické testy, ktoré nám umožnili posúdiť vzťahy medzi rôznymi premennými
+a vyvodiť závery o povahe skúmaných javov. S využitím analytických nástrojov, ako je
+Microsoft Excel a jeho funkcie pre štatistickú analýzu, sme spracovali a vyhodnotili údaje, aby
+sme overili, či existujú významné rozdiely alebo vzťahy medzi skúmanými skupinami. Táto
+časť poskytuje prehľad o výsledkoch analýzy, interpretácii dát a diskusii o ich význame v
+kontexte nášho výskumu.
+
+Hypotéza č.1
+H0: Neexistuje štatisticky významný rozdiel medzi vedomosťami mužov a žien o
+rizikových faktoroch CMP.
+H1: Existuje štatisticky významný rozdiel medzi vedomosťami mužov a žien o rizikových
+faktoroch CMP.
+V tejto hypotéze sa zameriavame na porovnanie vedomostí mužov a žien o rizikových faktoroch
+cievnej mozgovej príhody. Cieľom je zistiť, či existuje štatisticky významný rozdiel medzi
+týmito dvoma skupinami v úrovni ich vedomostí. V rámci testovania tejto hypotézy budeme
+analyzovať odpovede respondentov, pričom sa zameriame na to, ako pohlavie ovplyvňuje
+vedomosti o týchto rizikových faktoroch.
+Postup analýzy pomocou t-testu na porovnanie vedomostí mužov a žien o rizikových
+faktoroch CMP:
+1. Zadanie hypotéz
+Na začiatku sme si stanovili hypotézy, ktoré sme sa rozhodli testovať.
+2. Prevedenie odpovedí na číselné hodnoty
+Pred vykonaním štatistickej analýzy sme museli pripraviť dáta. V otázke č.11: „Označte
+ktoré z nasledujúcich rizikových faktorov majú vplyv na CMP?“ sme každému
+respondentovi priradili odpovede, pričom: správna odpoveď bola označená hodnotou 1 a
+46
+
+nesprávna odpoveď bola označená hodnotou 0. Tento krok bol nevyhnutný, aby sme mohli
+priradiť číselné hodnoty k jednotlivým odpovediam a neskôr ich spracovať.
+3. Zrátanie počtu získaných bodov pre každého respondenta
+Po tom, čo sme odpovede premenili na číselné hodnoty, sme pre každého respondenta
+spočítali celkový počet bodov. Tento počet bodov reprezentoval, koľko správnych
+odpovedí daný respondent poskytol. Tieto hodnoty sme uložili do samostatného stĺpca v
+Exceli pre každého respondenta. Každý respondent mohol získať až 12 bodov nakoľko
+1bod získal keď označil správny faktor ale aj v prípade kedy neoznačil nesprávny
+faktor.
+4. Rozdelenie účastníkov do skupín podľa pohlavia
+Respondenti boli rozdelení do dvoch skupín podľa pohlavia:
+
+
+Skupina 1: ženy
+
+
+
+Skupina 2: muži
+
+Tieto skupiny boli nevyhnutné na porovnanie ich vedomostí o rizikových faktoroch CMP.
+5. Vykonanie t-testu v Exceli
+Na porovnanie vedomostí medzi mužmi a ženami sme použili nezávislý t-test. Tento test
+bol vhodný, pretože sme porovnávali dve nezávislé skupiny (mužov a ženy). Pred
+vykonaním t-testu sme sa rozhodli pre test s rôznymi rozptylmi, pretože sme nemali dôvod
+predpokladať, že rozptyly medzi skupinami budú rovnaké. Na vykonanie t-testu sme v
+Exceli použili funkciu Data Analysis. Tento nástroj nám umožnil vykonať nezávislý t-test
+medzi dvoma skupinami.
+Postupovali sme podľa týchto krokov:
+
+
+V Exceli sme vybrali možnosť Data Analysis v záložke Data.
+
+
+
+Následne sme zvolili možnosť t-Test: Two-Sample Assuming Unequal Variances
+
+
+
+Pre Variable 1 Range sme zadali hodnoty pre ženy (počet bodov).
+
+
+
+Pre Variable 2 Range sme zadali hodnoty pre mužov (počet bodov).
+
+
+
+Nastavili sme potrebné parametre, ako sú Level of Significance, ktorá bola nastavená na
+0,05.
+
+
+
+Po vykonaní analýzy sme získali výsledky vrátane p-hodnoty, ktorá bola rozhodujúca pre
+interpretáciu výsledkov. Ak bola p-hodnota menšia ako 0,05, odmietli sme nulovú
+hypotézu a konštatovali sme, že medzi vedomosťami mužov a žien existuje štatisticky
+47
+
+významný rozdiel. Ak bola p-hodnota väčšia ako 0,05, prijali sme nulovú hypotézu, čo
+znamenalo, že medzi vedomosťami mužov a žien neexistoval štatisticky významný rozdiel.
+
+t-Test: Two-Sample Assuming Equal Variances
+ženy
+
+muži
+
+Mean
+
+8,80
+
+8,92
+
+Variance
+
+2,83
+
+1,60
+
+Observations
+
+196,00
+
+89,00
+
+Pooled Variance
+
+2,44
+
+Hypothesized Mean Difference
+
+0,00
+
+df
+
+283,00
+
+t Stat
+
+-0,60
+
+P(T<=t) one-tail
+
+0,27
+
+t Critical one-tail
+
+1,65
+
+P(T<=t) two-tail
+
+0,55
+
+t Critical two-tail
+
+1,97
+
+Tabuľka 1 t-test
+Záver
+Na základe výsledku t-testu sme získali p-hodnotu = 0,55 ktorá je vyššia ako stanovená hladina
+významnosti (α = 0,05). Táto p-hodnota nám naznačila, že prijímame nulovú hypotézu a
+konštatujeme, že rozdiel medzi vedomosťami mužov a žien o rizikových faktoroch CMP nie je
+štatisticky významný.
+
+48
+
+Hypotéza č. 2
+H0: Neexistuje štatisticky významný rozdiel medzi vedomosťami o príznakoch CMP
+vzhľadom na vek respondentov.
+H1: Existuje štatisticky významný rozdiel medzi vedomosťami o príznakoch CMP
+vzhľadom na vek respondentov.
+V tejto hypotéze sme sa zamerali na zistenie, či existuje štatisticky významný rozdiel medzi
+vedomosťami o príznakoch CMP naprieč rôznymi vekovými skupinami. Cieľom bolo zistiť, či
+vek respondentov ovplyvňuje ich úroveň vedomostí o príznakoch CMP.
+Postup analýzy pomocou anova testu na porovnanie vedomostí rôznych vekových
+kategórií o príznakoch CMP.
+1. Zadanie hypotéz
+Na začiatku sme si stanovili hypotézy, ktoré sme sa rozhodli testovať.
+2. Premenenie odpovedí na hodnoty
+Na začiatku sme odpovede respondentov na otázky týkajúce sa príznakov CMP premenili
+na numerické hodnoty. Každú správnu odpoveď sme označili hodnotou 1 a nesprávnu
+odpoveď hodnotou 0. Tento krok bol nevyhnutný na to, aby sme mohli objektívne posúdiť
+vedomosti respondentov v číselnej podobe.
+3. Zrátanie počtu získaných bodov každého respondenta
+Po premenení odpovedí sme pre každého respondenta vypočítali súčet získaných bodov.
+Týmto spôsobom sme určili, koľko správnych odpovedí mal každý respondent, čo
+predstavovalo jeho celkovú úroveň vedomostí o príznakoch CMP. Každý respondent mohol
+získať až 16 bodov nakoľko 1bod získal keď označil správny faktor ale aj v prípade
+kedy neoznačil nesprávny faktor.
+4. Priradenie respondentov do vekových kategórií
+Následne sme respondentov rozdelili do vekových kategórií, ktoré sme definovali ako:
+
+
+18-30 rokov
+
+
+
+31-45 rokov
+
+
+
+46-60 rokov
+49
+
+
+
+61-74 rokov
+
+
+
+75 a viac rokov
+
+Každý respondent bol priradený do príslušnej vekovej kategórie podľa svojho veku.
+5. Výber štatistického testu
+Na overenie našej hypotézy sme sa rozhodli pre test ANOVA, ktorý nám umožnil porovnať
+vedomosti medzi rôznymi vekovými skupinami. Test ANOVA je vhodný pre porovnávanie
+viac než dvoch skupín, keď máme na mysli analýzu rozptylu medzi skupinami a v rámci
+skupín. Predpokladali sme, že rozdiely medzi vekovými kategóriami môžu byť štatisticky
+významné.
+6. Vykonanie testu ANOVA
+Test ANOVA sme vykonali pomocou funkcie Data Analysis v programe Microsoft Excel.
+Po výbere funkcie ANOVA: Single Factor sme zadali príslušné údaje do pripravených
+tabuliek, kde sme mali zhrnuté vedomosti respondentov v jednotlivých vekových
+kategóriách. Na základe výpočtov nám program poskytol potrebné hodnoty, ktoré sme
+následne analyzovali.
+
+Anova: Single Factor
+SUMMARY
+Groups
+
+Count
+
+Sum
+
+Average
+
+Variance
+
+vek: 18-30
+
+120
+
+1440
+
+12
+
+3,781513
+
+vek: 31-45
+
+62
+
+771
+
+12,43548 4,217081
+
+vek: 46-60
+
+59
+
+711
+
+12,05085 4,911163
+
+vek: 61-74
+
+30
+
+225
+
+7,5
+
+vek: 75 a viac
+
+14
+
+130
+
+9,285714 0,989011
+
+Source of Variation
+
+SS
+
+df
+
+MS
+
+Between Groups
+
+650,8026 4
+
+162,7006 42,95943 4,35E-28
+
+Within Groups
+
+1060,447 280
+
+3,787309
+
+Total
+
+1711,249 284
+
+1,913793
+
+ANOVA
+
+Tabuľka 2 Anova test
+
+50
+
+F
+
+P-value
+
+F crit
+2,403885
+
+Záver
+Výsledky nám ukázali, že hodnota p=4,35E-28 je výrazne menšia ako stanovená hladina
+významnosti (α = 0,05). To znamená, že sme zamietli nulovú hypotézu a potvrdili, že existuje
+štatisticky významný rozdiel medzi vedomosťami o príznakoch CMP v rôznych vekových
+kategóriách. Na základe vykonaného testu ANOVA sme dospeli k záveru, že vedomosti o
+príznakoch CMP sa líšia medzi jednotlivými vekovými kategóriami. Respondenti vo vekovej
+kategórii 31-45 rokov mali najvyšší priemerný počet správnych odpovedí (12,4b), zatiaľ čo
+respondenti vo vekovej kategórii 61-74 rokov vykazovali najnižší priemerný počet správnych
+odpovedí (7,5b).
+
+Hypotéza č.3
+H0: Neexistuje štatisticky významný rozdiel medzi úrovňou vzdelania a vedomosťou
+správneho tiesňového čísla pri podozrení na CMP.
+H1: Existuje štatisticky významný rozdiel medzi úrovňou vzdelania a vedomosťou
+správneho tiesňového čísla pri podozrení na CMP.
+Cieľom bolo zistiť, či úroveň vzdelania respondentov ovplyvňuje ich schopnosť správne
+identifikovať tiesňové číslo, na ktoré je potrebné volať pri podozrení na cievnu mozgovú
+príhodu.
+Postup analýzy pomocou chi-kvadrát testu na porovnanie znalosti správneho tiesňového
+čísla pri podozrení na CMP a úrovňou vzdelania.
+1. Zadanie hypotéz
+Na začiatku sme si stanovili hypotézy, ktoré sme sa rozhodli testovať.
+2. Výber štatistickej metódy
+Pre túto analýzu sme sa rozhodli použiť chi-kvadrat test nezávislosti, ktorý je vhodný na
+testovanie vzťahu medzi dvoma kvalitatívnymi premennými. V tomto prípade sme skúmali
+vzťah medzi úrovňou vzdelania (kategórie: základné, stredoškolské odborné bez maturity,
+stredoškolské s maturitou, vyššie odborné, vysokoškolské) a vedomosťou správneho
+tiesňového čísla pri podozrení na CMP (správna alebo nesprávna odpoveď).
+
+51
+
+3. Zadanie údajov do kontingenčnej tabuľky
+Na základe poskytnutých údajov sme vytvorili kontingenčnú tabuľku, ktorá obsahovala
+počet správnych a nesprávnych odpovedí na otázku týkajúcu sa správneho tiesňového čísla
+v závislosti od úrovne vzdelania. Tabuľka vyzerala nasledovne:
+Pozorované početnosti
+Nesprávna Celkový počet
+
+Správna
+Vzdelanie
+
+odpoveď (155) odpoveď
+
+odpovedí
+
+Základné
+
+4
+
+11
+
+15
+
+6
+
+18
+
+24
+
+Stredoškolské s maturitou 87
+
+65
+
+152
+
+Vyššie odborné
+
+2
+
+3
+
+5
+
+Vysokoškolské
+
+56
+
+33
+
+89
+
+Spolu
+
+155
+
+130
+
+285
+
+Stredoškolské odborné
+bez maturity
+
+Tabuľka 3 Pozorované početnosti
+
+4. Prepočítanie percent správnych odpovedí
+Následne sme prepočítali percento správnych odpovedí pre každú vzdelanostnú skupinu,
+pričom sme použili nasledujúci vzorec:
+Percento správnych odpovedí = počet správnych odpovedí / celkový počet odpovedí
+v skupine x 100
+Výsledky boli nasledovné:
+Základné vzdelanie: 26,7% správnych odpovedí
+Stredoškolské odborné bez maturity: 25% správnych odpovedí
+Stredoškolské s maturitou: 57,2% správnych odpovedí
+Vyššie odborné vzdelanie: 40% správnych odpovedí
+Vysokoškolské vzdelanie: 62,9% správnych odpovedí
+5. Vytvorenie očakávaných hodnôt
+Na základe údajov sme vytvorili aj očakávané frekvencie pre každú bunku kontingenčnej
+tabuľky, za predpokladu nulovej hypotézy. Tieto očakávané hodnoty sme získali pomocou
+vzorca: Eij = (súčet riadka i) x (súčet stĺpa j) / celkový súčet. Tieto hodnoty nám umožnili
+získať základ pre výpočet chi-kvadratovej štatistiky.
+52
+
+Očakávané početnosti
+Správna
+
+Nesprávna
+
+Celkový počet
+
+Vzdelanie
+
+odpoveď (155) odpoveď
+
+odpovedí
+
+Základné
+
+8,2
+
+6,8
+
+15
+
+bez maturity
+
+13,1
+
+10,9
+
+24
+
+Stredoškolské s maturitou
+
+82,7
+
+69,3
+
+152
+
+Vyššie odborné
+
+2,7
+
+2,3
+
+5
+
+Vysokoškolské
+
+48,4
+
+40,6
+
+89
+
+Spolu
+
+155
+
+130
+
+285
+
+Stredoškolské odborné
+
+Tabuľka 4 Očakávané početnosti
+6. Vypočítanie chi-kvadratovej štatistiky a p-hodnoty
+Pomocou chi-kvadratového testu sme vypočítali p-hodnotu. Po aplikovaní testu na našu
+kontingenčnú tabuľku sme získali nasledujúce výsledky: p-hodnota: 0.0024
+7. Záver
+Pretože p-hodnota = 0.0024 je menšia ako predpokladaná úroveň významnosti (α = 0.05),
+zamietli sme nulovú hypotézu. Na základe týchto výsledkov sme dospeli k záveru, že
+medzi úrovňou vzdelania a vedomosťou správneho tiesňového čísla pri podozrení na
+CMP existuje štatisticky významný rozdiel. Tieto zistenia naznačujú, že vyššie úrovne
+vzdelania sú spojené s lepšími vedomosťami o správnom tiesňovom čísle.
+
+Hypotéza č.4
+H0: Neexistuje štatisticky významný rozdiel medzi respondentmi, ktorí prekonali CMP,
+ktorí neprekonali CMP a tými, ktorí poznajú niekoho kto prekonal CMP, v názore na to,
+či môže človek po CMP viesť plnohodnotný život.
+H1: Existuje štatisticky významný rozdiel medzi respondentmi, ktorí prekonali CMP,
+ktorí neprekonali CMP a tými, ktorí poznajú niekoho kto prekonal CMP, v názore na to,
+či môže človek po CMP viesť plnohodnotný život.
+Cieľom bolo zistiť, či existuje vzťah medzi skúsenosťami s CMP a názorom na schopnosť viesť
+plnohodnotný život po prekonaní CMP.
+
+53
+
+Postup analýzy pomocou chi-kvadrát testu na porovnanie znalosti správneho tiesňového
+čísla pri podozrení na CMP a úrovňou vzdelania.
+1. Zadanie hypotéz
+Na začiatku sme si stanovili hypotézy, ktoré sme sa rozhodli testovať.
+2. Výber štatistickej metódy:
+Na overenie tejto hypotézy sme sa rozhodli využiť Chi-kvadrát test nezávislosti. Tento
+test je vhodný na porovnanie kategorizovaných údajov medzi viacerými nezávislými
+skupinami.
+3. Zadanie údajov do kontingenčnej tabuľky
+Na základe poskytnutých údajov sme vytvorili kontingenčnú tabuľku kde sme respondentov
+rozdelili do troch skupín: tých, ktorí prekonali CMP, tých, ktorí neprekonali CMP, a tých,
+ktorí poznajú niekoho, kto prekonal CMP. Odpovede na otázku, či môže človek po CMP
+viesť plnohodnotný život, boli zaznamenané v dvoch kategóriách (áno + skôr áno, nie +
+skôr nie). Tabuľka vyzerala nasledovne:
+Pozorované početnosti
+
+Poznáte niekoho,
+
+Môže viesť
+
+Nemôže viesť
+
+plnohodnotný
+
+plnohodnotný
+
+kto prekonal CMP? život (áno, skôr áno)
+
+život (nie, skôr nie)
+
+Spolu
+
+Áno
+
+132
+
+16
+
+148
+
+Nie
+
+88
+
+24
+
+112
+
+prekonal CMP
+
+12
+
+0
+
+12
+
+Spolu
+
+232
+
+40
+
+272
+
+Ja sám som
+
+Tabuľka 5 Pozorované početnosti
+
+4. Prepočítanie percent odpovedí jednotlivých kategórií
+Následne sme prepočítali percento zvolených odpovedí pre každú skupinu, pričom sme
+použili nasledujúci vzorec:
+Percentuálny podiel = počet odpovedí v bunke / celkový počet odpovedí v skupine x 100
+Výsledky boli nasledovné:
+54
+
+Poznáte niekoho,
+
+Môže viesť plnohodnotný Nemôže viesť plnohodnotný
+
+kto prekonal CMP?
+
+život (áno, skôr áno)
+
+život (nie, skôr nie)
+
+Áno
+
+89%
+
+11%
+
+Nie
+
+79%
+
+21%
+
+prekonal CMP
+
+100%
+
+0%
+
+Spolu
+
+232
+
+40
+
+Ja sám som
+
+Tabuľka 6 Prepočítanie percent
+
+5. Vytvorenie očakávaných hodnôt
+Na základe údajov sme vytvorili aj očakávané frekvencie pre každú bunku kontingenčnej
+tabuľky, za predpokladu nulovej hypotézy. Tieto očakávané hodnoty sme získali pomocou
+vzorca: Eij = (súčet riadka i) x (súčet stĺpa j) / celkový súčet. Tieto hodnoty nám umožnili získať
+základ pre výpočet chi-kvadratovej štatistiky.
+Pozorované početnosti
+Poznáte niekoho,
+
+Môže viesť plnohodnotný Nemôže viesť plnohodnotný
+
+kto prekonal CMP? život (áno, skôr áno)
+
+život (nie, skôr nie)
+
+Spolu
+
+Áno
+
+126,2
+
+21,8
+
+148
+
+Nie
+
+95,5
+
+16,5
+
+112
+
+prekonal CMP
+
+10,2
+
+1,8
+
+12
+
+Spolu
+
+232
+
+40
+
+272
+
+Ja sám som
+
+Tabuľka 7 Pozorované početnosti
+
+6. Výpočet Chi-kvadrát hodnoty:
+Pomocou chi-kvadratového testu sme vypočítali p-hodnotu. Po aplikovaní testu na našu
+kontingenčnú tabuľku sme získali nasledujúce výsledky: p-hodnota 0.0193
+7. Výsledky testu:
+Chi-kvadrát test nezávislosti vykázal p-hodnotu 0,0193. Keďže p-hodnota bola menšia
+než bežná hladina významnosti 0,05, zamietli sme nulovú hypotézu. Týmto sme dospeli k
+záveru, že existuje štatisticky významný rozdiel medzi názormi respondentov z rôznych
+skupín (tých, ktorí prekonali CMP, tých, ktorí neprekonali CMP, a tých, ktorí poznajú
+55
+
+niekoho s CMP) na otázku, či môže človek po CMP viesť plnohodnotný život. Tí, ktorí
+poznajú niekoho po prekonaní CMP majú prevažne pozitívny názor na schopnosť viesť
+plnohodnotný život po CMP, aj keď podiel tých, ktorí pochybujú, je stále malý. Tí, ktorí
+nepoznajú nikoho po prekonaní CMP majú tiež väčšinou pozitívny názor, ale tento podiel
+je o niečo menší než v predchádzajúcej skupine, čo naznačuje, že osobné alebo
+sprostredkované skúsenosti môžu mať vplyv na vnímanie tejto otázky. Tí, ktorí prekonali
+sú jednoznačne presvedčení o tom, že je možné viesť plnohodnotný život aj po prekonaní
+tohto ochorenia. Tento výskum teda naznačuje, že osobná skúsenosť alebo skúsenosť z
+okolia (poznanie niekoho s CMP) výrazne vplýva na pozitívne vnímanie života po CMP.
+
+56
+
+4. Diskusia
+Informovanosť verejnosti o cievnej mozgovej príhode je mimoriadne dôležitá, pretože
+umožňuje včasné rozpoznanie príznakov a rýchlu reakciu, čo môže mať rozhodujúci vplyv na
+úspešnosť liečby a následky pre pacientov. Cievna mozgová príhoda je vážnym zdravotným
+problémom, ktorý si vyžaduje okamžitú lekársku pomoc. Čím skôr sa príznaky identifikujú a
+pacient dostane potrebnú starostlivosť, tým väčšia je šanca na minimalizovanie trvalých
+následkov, ako sú paralýzy, poruchy reči, či problémy s koordináciou pohybov. Verejnosť,
+ktorá je informovaná o príznakoch CMP, ako sú náhla slabosť alebo ochrnutie končatín,
+poruchy reči, zhoršenie videnia alebo problémy s rovnováhou, môže včas zasiahnuť a vyhľadať
+lekársku pomoc. Okrem toho informovanosť zohráva dôležitú úlohu aj v prevencii, pretože
+ľudia si uvedomujú rizikové faktory, ako sú vysoký krvný tlak, diabetes, fajčenie, nezdravá
+strava alebo sedavý spôsob života. Znalosť týchto faktorov im umožňuje prevziať
+zodpovednosť za svoje zdravie a prijať opatrenia na ich kontrolu, čím môžu znížiť
+pravdepodobnosť vzniku mozgovej príhody.
+V rámci našej výskumnej práce sme vypracovali dotazník, ktorý obsahoval 26 otázok
+zameraných na rôzne aspekty cievnej mozgovej príhody. Tieto otázky sa týkali demografických
+údajov
+
+respondentov,
+
+príznakov
+
+cievnej
+
+mozgovej
+
+príhody,
+
+rizikových
+
+faktorov,
+
+diagnostických postupov a následkov spojených s týmto ochorením. Cieľom bolo získať
+komplexné informácie, ktoré by nám umožnili lepšie pochopiť povedomie verejnosti o tejto
+téme a identifikovať faktory, ktoré ovplyvňujú vnímanie a reakciu ľudí na cievnu mozgovú
+príhodu. Dotazník sme distribuovali pomocou internetu medzi respondentov, pričom na naše
+otázky odpovedalo 285 osôb. Tieto údaje nám poskytli cenné informácie, ktoré sme následne
+analyzovali a použili pri vyhodnocovaní výsledkov našej štúdie.
+V prvých štyroch otázkach dotazníka sme získali demografické údaje respondentov. Z 285
+účastníkov bolo 69 % žien (196 respondentov) a 31 % mužov (89 respondentov). Vo vekovej
+kategórii 18 – 30 rokov bolo 119 respondentov, v kategórii 30 – 45 rokov 63 respondentov, v
+kategórii 46 – 60 rokov 60 respondentov, v kategórii 60 – 75 rokov 29 respondentov a v
+kategórii nad 75 rokov 14 respondentov.
+Z hľadiska vzdelania malo 14 respondentov základné vzdelanie, 26 respondentov stredné
+odborné vzdelanie bez maturity, 151 respondentov stredoškolské vzdelanie s maturitou, 6
+respondentov vyššie odborné vzdelanie a 88 respondentov vysokoškolské vzdelanie. Čo sa týka
+miesta bydliska, 159 respondentov pochádzalo z mesta a 126 respondentov z dediny.
+
+57
+
+Nasledujúce otázky sa venovali rôznym aspektom cievnej mozgovej príhody. Na otázku,
+či poznajú niekoho, kto prekonal CMP, odpovedalo kladne 148 respondentov (52 %), záporne
+125 respondentov (44 %) a 12 respondentov (4 %) uviedlo, že sami prekonali CMP. Na otázku
+„Čo je CMP?“, 236 respondentov (82,81 %) označilo CMP za poruchu krvného obehu v mozgu,
+48 respondentov (16,84 %) si myslelo, že ide o zápalové ochorenie mozgu, a 1 respondent
+označil CMP za infekčné ochorenie. Nikto neoznačil CMP ako nádorové ochorenie. CMP ako
+veľmi závažné ochorenie označilo 265 respondentov (93 %), ako stredne závažné 20
+respondentov (7 %), a žiadny respondent neoznačil možnosť nezávažné. Pri otázke, koho CMP
+postihuje, 63 respondentov (22 %) si myslí, že CMP postihuje iba starších ľudí, 223
+respondentov (78 %) uviedlo, že CMP môže postihnúť ľudí v akomkoľvek veku, a nikto si
+nemyslí, že CMP postihuje iba mladších ľudí. Rozdelenie CMP poznalo 80 respondentov (28
+%), pričom 174 respondentov (61 %) označilo ischemickú a hemoragickú formu, 20
+respondentov (7 %) uviedlo ischemickú, hemoragickú a nádorovú formu a 11 respondentov (4
+%) nevedelo odpovedať. Na otázku o možnosti opakovanej CMP odpovedalo „Áno“ 174
+respondentov (61 %), „Skôr áno“ 68 respondentov (24 %), „Neviem“ 23 respondentov (8 %),
+„Skôr nie“ 17 respondentov (6 %) a „Nie“ 3 respondenti (1 %).
+V otázke č. 11 sme sa zamerali na rizikové faktory cievnej mozgovej príhody. Najviac
+respondentov, konkrétne 215 (75,44 %), označilo vysoký krvný tlak a zúženie ciev ako rizikové
+faktory. 213 respondentov (74,74 %) označilo stres, 187 respondentov (65,53 %) označilo
+fajčenie, 148 respondentov (51,97 %) označilo zdravý životný štýl, 128 respondentov (44,91
+%) označilo vek, 94 respondentov (32,97 %) označilo cukrovku, 42 respondentov (14,74 %)
+označilo pohlavie, 32 respondentov (11,23 %) označilo nízky krvný tlak, 18 respondentov (6,32
+%) označilo očkovanie a 3 respondenti (1,05 %) označili nadmerné opaľovanie a promiskuitu
+ako rizikové faktory. Rovnakého záveru dospel aj Tuli (2024), ktorý vo svojej štúdii uvádza, že
+najčastejším rizikovým faktorom pre vznik cievnej mozgovej príhody, ktorý respondenti
+označili, bola hypertenzia (vysoký krvný tlak), a to až 83 % opýtaných. Tento výsledok
+potvrdzuje významný vplyv hypertenzie ako kľúčového rizikového faktora pre rozvoj cievnej
+mozgovej príhody, čo sa v súlade s našimi výsledkami prejavilo aj v našej výskumnej vzorke,
+kde vysoký krvný tlak a zúženie ciev označilo 75,44 % respondentov ako hlavné rizikové
+faktory. Alzayer (2023) vo svojej štúdii uvádza, že väčšina účastníkov (81,2 %) považovala
+fyzickú nečinnosť za najčastejší rizikový faktor spojený s mozgovou príhodou. Zaujímavým
+kontrastom však bolo, že len 41 % opýtaných označilo hypertenziu ako rizikový faktor a iba 25
+% považovalo cukrovku za faktor prospievajúci k vzniku mozgovej príhody.
+
+58
+
+Otázka týkajúca sa príznakov cievnej mozgovej príhody priniesla tieto výsledky:
+Ochrnutie polovice tváre označilo 235 respondentov (82,46 %), poruchu reči 223 respondentov
+(78,14 %), poruchu vedomia 202 respondentov (70,88 %), dezorientáciu 198 respondentov
+(69,47 %), a poruchu hybnosti končatín 195 respondentov (68,42 %). Menej časté príznaky
+zahŕňali poruchu zraku (47,02 %), zvracanie (28,42 %), pomočenie sa (24,56 %), zvýšené
+potenie (19,30 %) a zvýšenú telesnú teplotu (7,72 %). Bolesť svalov uviedlo 5,96 %, bolesť
+chrbtice 5,61 %, kašeľ 1,05 %, hyperaktivitu 0,70 % a kožnú vyrážku 0,35 %. Tieto výsledky
+ukazujú, že najčastejšie príznaky CMP sú ochrnutie tváre, porucha reči a vedomia. Alzayer
+(2023) zistila, že najčastejšími varovnými príznakmi cievnej mozgovej príhody boli „náhle
+ťažkosti s rozprávaním alebo porozumením reči“ a „náhla strata vedomia“, ktoré označilo 79,9
+% a 74,0 % respondentov. Zhong (2020) uvádza, že 57 % respondentov označilo ťažkosti s
+rozprávaním, artikuláciou alebo porozumením, a 59 % uviedlo necitlivosť alebo slabosť na
+jednej strane tváre alebo končatiny ako príznaky cievnej mozgovej príhody. Tento nález je v
+súlade s našimi výsledkami, kde porucha reči a vedomia boli medzi najčastejšími príznakmi.
+V prípade podozrenia na cievnu mozgovú príhodu by 96 % respondentov ihneď zavolalo
+záchrannú službu, čo ukazuje na vysokú pripravenosť verejnosti reagovať v kritických
+situáciách. V našej štúdii 44 % respondentov uviedlo, že v prípade podozrenia na cievnu
+mozgovú príhodu by volali na telefónne číslo 112, 54 % by volalo na číslo 155 a 1 %
+respondentov by volalo na čísla 158 alebo 150. V štúdii Patela (2019) sa zistilo, že hoci väčšina
+ľudí uvádza, že poznajú príznaky cievnej mozgovej príhody a dôležitosť volania na číslo
+záchrannej služby, rozsiahle štúdie ukazujú, že menej ako 60 % hospitalizovaných pacientov s
+CMP je transportovaných na pohotovosť záchrannou zdravotnou službou. Tento výsledok
+naznačuje, že aj napriek informovanosti verejnosti o príznakoch, existujú prekážky v rýchlej a
+včasnej reakcii na podozrenie z mozgovej príhody.
+Správnu polohu pacienta pri vedomí (ležmo s podloženou hlavou) poznalo iba 18 %
+respondentov. Najviac, 52 %, označilo stabilizovanú polohu, 24 % by pacienta uložilo s
+podloženými nohami a 6 % s pokrčenými kolenami.
+V otázkach zameraných na typ poruchy reči pri cievnej mozgovej príhode, oddelenie,
+ktoré sa týmto pacientom venuje, primárne vyšetrenie pri diagnostike CMP, ovplyvnenie
+príznakov a najčastejšie následky, väčšina respondentov odpovedala správne. Tento výsledok
+naznačuje, že verejnosť má relatívne dobré povedomie o kľúčových aspektoch súvisiacich s
+cievnou mozgovou príhodou. Tieto zistenia sú pozitívnym signálom, že informovanosť o
+cievnej mozgovej príhode sa zlepšuje, no zároveň poukazujú aj na potrebu ďalšieho
+vzdelávania, ktoré by pomohlo ešte viac zvýšiť presnosť a rýchlosť reakcií verejnosti v prípade
+59
+
+podozrenia na CMP. Znalosť diagnostických postupov, spôsobu ovplyvnenia príznakov a
+následkov CMP môže zohrávať rozhodujúcu úlohu pri včasnom vyhľadaní lekárskej pomoci,
+čím sa výrazne zvyšujú šance na úspešnú liečbu a minimalizáciu trvalých následkov.
+Na základe získaných údajov z dotazníkových položiek sme si stanovili niekoľko hypotéz,
+ktoré sme následne podrobili štatistickej analýze. Cieľom tejto analýzy bolo overiť, či existujú
+významné vzťahy medzi rôznymi premennými.
+V prvej hypotéze sme sa zamerali na overenie rozdielu medzi vedomosťami mužov a žien
+o rizikových faktoroch cievnej mozgovej príhody. Na tento účel sme porovnali odpovede
+mužov a žien na otázky týkajúce sa rôznych rizikových faktorov, ako sú vysoký krvný tlak,
+diabetes, fajčenie a iné. Po vykonaní štatistickej analýzy sme zistili, že medzi vedomosťami
+mužov a žien neexistuje štatisticky významný rozdiel. To znamená, že úroveň vedomostí o
+rizikových faktoroch CMP bola v oboch skupinách podobná, čo naznačuje, že pohlavie
+neovplyvňuje zásadným spôsobom znalosti respondentov v tejto oblasti. Naopak, Nanette
+Stroebele (2011) vo svojej práci, ktorá mala za cieľ systematický prehľad existujúcej literatúry,
+preskúmala poznatky o rizikových faktoroch mozgovej príhody a spracovala samostatnú
+analýzu podľa pohlavia. Výsledky ukázali, že v väčšine štúdií boli zistené lepšie znalosti o
+mozgovej príhode u žien v porovnaní s mužmi. Jose Ramírez-Moreno (2015) vo svojej štúdii,
+ktorá sa venovala znalostiam o cievnej mozgovej príhode z hľadiska pohlavia, zistil, že ženy
+mali lepšie znalosti o rizikových faktoroch cievnej mozgovej príhody v porovnaní s mužmi.
+Ďalej sa zistili aj rozdiely v typoch rizikových faktorov, ktoré uvádzali muži a ženy, pričom
+ženy mali tendenciu mať lepšie povedomie o širšom spektre rizikových faktorov.
+V druhej hypotéze sme sa zamerali na overenie rozdielu medzi vedomosťami o príznakoch
+cievnej mozgovej príhody v závislosti od veku respondentov. Po vykonaní štatistickej analýzy
+sme zistili, že existuje štatisticky významný rozdiel medzi vedomosťami o príznakoch CMP v
+rôznych vekových kategóriách. Najvyšší priemerný počet správnych odpovedí (12,4 bodu) bol
+zaznamenaný u respondentov vo vekovej kategórii 31-45 rokov, čo naznačuje lepšie povedomie
+o príznakoch v tejto vekovej skupine. Naopak, respondenti vo vekovej kategórii 61-74 rokov
+vykazovali najnižší priemerný počet správnych odpovedí (7,5 bodu), čo naznačuje nižšiu
+úroveň vedomostí. Tieto výsledky naznačujú, že vek má významný vplyv na úroveň vedomostí
+o cievnej mozgovej príhode, pričom mladší respondenti mali tendenciu vykazovať lepšie
+znalosti v tejto oblasti. Rovnaké výsledky preukazujú aj Nicol B. Marcus a kolektív vo svojej
+štúdii, ktorá sa zaoberala zistením vedomostí o varovných príznakoch cievnej mozgovej
+príhody na základe analýzy pätnástich štúdií, zistili, že respondenti vo vyšších vekových
+skupinách mali tendenciu vykazovať nižšie znalosti o varovných príznakoch cievnej mozgovej
+60
+
+príhody v porovnaní s respondentmi v mladších vekových skupinách. V siedmich z deviatich
+štúdií, ktoré zahŕňali regresnú analýzu, sa ukázalo, že nižší vek je významným prediktorom
+lepších vedomostí o varovných príznakoch cievnej mozgovej príhody. Napriek tomu sa v
+niektorých štúdiách zistilo, že veľmi mladé vekové skupiny (18-34 rokov) tiež vykazovali
+tendenciu mať nižšie znalosti o tejto problematike.
+V tretej hypotéze sme sa zamerali na overenie rozdielu medzi úrovňou vzdelania a
+vedomosťou správneho tiesňového čísla pri podozrení na cievnu mozgovú príhodu (CMP). Po
+vykonaní štatistickej analýzy sme zistili, že medzi úrovňou vzdelania a vedomosťou správneho
+tiesňového čísla pri podozrení na CMP existuje štatisticky významný rozdiel. Na základe týchto
+zistení môžeme konštatovať, že vyššie úrovne vzdelania sú spojené s lepšími vedomosťami o
+správnom tiesňovom čísle, ktoré je nevyhnutné pri včasnej reakcii na podozrenie na cievnu
+mozgovú príhodu. Mikulík (2008) vo svojej štúdii, ktorá sa zaoberala reakciou na mozgovú
+príhodu a hodnotením celoštátneho správania pri volaní 911, zistil, že ľudia so stredoškolským
+vzdelaním mali tendenciu skôr zavolať tiesňovú linku 155 narozdiel od ľudí so základným
+vzdelaním pri rozpoznaní príznakov cievnej mozgovej príhody. Tento nález naznačuje, že
+úroveň vzdelania môže mať vplyv na rýchlosť a adekvátnosť reakcie v prípade podozrenia na
+cievnu mozgovú príhodu, keďže vzdelanejší jednotlivci môžu mať lepšie povedomie o
+dôležitosti včasnej pomoci.
+V poslednej hypotéze sme skúmali rozdiel medzi respondentmi, ktorí prekonali cievnu
+mozgovú príhodu, tými, ktorí ju neprekonali, a tými, ktorí poznajú niekoho, kto prekonal CMP,
+v názore na to, či môže človek po CMP viesť plnohodnotný život. Výsledky ukázali, že existuje
+štatisticky významný rozdiel medzi názormi respondentov z rôznych skupín na túto otázku.
+Respondenti, ktorí poznajú niekoho po prekonaní CMP, majú prevažne pozitívny názor na
+schopnosť viesť plnohodnotný život po tomto ochorení, aj keď podiel tých, ktorí pochybujú, je
+stále malý. Respondenti, ktorí nepoznajú nikoho po prekonaní CMP, tiež vo väčšine prípadov
+vyjadrujú pozitívny názor, ale tento podiel je o niečo menší než v predchádzajúcej skupine, čo
+naznačuje, že osobné alebo sprostredkované skúsenosti môžu ovplyvniť vnímanie tejto otázky.
+Respondenti, ktorí sami prekonali cievnu mozgovú príhodu, sú jednoznačne presvedčení, že je
+možné viesť plnohodnotný život aj po prekonaní tohto ochorenia. Tieto výsledky naznačujú, že
+osobné skúsenosti s cievnou mozgovou príhodou, či už priamo, alebo sprostredkovane, majú
+významný vplyv na vnímanie možnosti viesť kvalitný život po tomto zdravotnom probléme. Aj
+napriek tomu, že ľudia niekedy pochybujú o úplnom vyliečení po prekonaní cievnej mozgovej
+príhody, podľa Reisdorf (2018) kombinácia lekárskeho ošetrenia, pravidelnej komunikácie s
+lekárom a zmien životného štýlu môže pomôcť ľuďom, ktorí prežili mozgovú príhodu, na ceste
+61
+
+k uzdraveniu a k návratu k normálnemu, zdravému životu. Tieto faktory zohrávajú kľúčovú
+úlohu pri zlepšení kvality života, obnove funkcií a celkovom zlepšení fyzického a psychického
+zdravia.
+Z týchto zistení vyplýva, že na zlepšenie informovanosti o cievnej mozgovej príhode je
+potrebné zamerať sa na vekové skupiny, ktoré majú nižšiu úroveň vedomostí, ako aj na
+zvyšovanie povedomia o správnej reakcii pri podozrení na CMP. Rovnako je dôležité zohľadniť
+úroveň vzdelania pri tvorbe vzdelávacích a osvetových materiálov, ktoré by mali byť
+prispôsobené rôznym skupinám obyvateľstva. Tieto zistenia naznačujú, že informovanosť o
+cievnej mozgovej príhode má kľúčový význam pre včasnú diagnostiku, liečbu a rehabilitáciu,
+čo môže viesť k lepšiemu životnému štandardu pacientov po prekonaní tejto choroby.
+
+62
+
+Odporúčania pre prax
+Na základe výsledkov, ktoré sme získali počas písania práce, by sme chceli navrhnúť
+niekoľko odporúčaní pre prax, ktoré sú zamerané na zlepšenie informovanosti a vedomostí
+laickej verejnosti o ochorení, akým je cievna mozgová príhoda:
+-
+
+Zvyšovanie povedomia o CMP: odporúčame, aby si laická verejnosť aktívne vyhľadávala
+informácie o príčinách, rizikových faktoroch a prejavoch CMP prostredníctvom
+dôveryhodných zdrojov, ako sú webové stránky zdravotníckych organizácií, odborné
+prednášky a informačné kampane.
+
+-
+
+Včasné rozpoznanie príznakov: je nevyhnutné, aby si verejnosť osvojila schopnosť
+identifikovať základné príznaky CMP pomocou skratky F.A.S.T.
+
+-
+
+Prevencia a zdravý životný štýl: odporúčame dodržiavať zásady zdravého životného štýlu,
+Dôležitá je pravidelná fyzická aktivita, obmedzenie alkoholu a eliminácia fajčenia.
+
+-
+
+Pravidelné preventívne prehliadky: laická verejnosť by mala pravidelne navštevovať svojho
+všeobecného lekára a podstupovať preventívne. Včasné odhalenie rizikových faktorov
+môže výrazne znížiť riziko vzniku CMP.
+
+-
+
+Zvyšovanie informovanosti v komunite: odporúčame, aby jednotlivci šírili získané
+vedomosti o CMP vo svojom okolí a informovali rodinných príslušníkov, priateľov či
+kolegov o rizikách a dôležitosti rýchlej reakcie pri výskyte príznakov CMP.
+
+-
+
+Správna reakcia v prípade núdze: v prípade podozrenia na CMP je nevyhnutné okamžite
+kontaktovať záchrannú zdravotnú službu.
+
+-
+
+Starostlivosť o psychické zdravie: odporúčame minimalizovať stres, venovať sa
+relaxačným aktivitám a udržiavať psychickú pohodu, keďže dlhodobý stres môže prispievať
+k rozvoju kardiovaskulárnych ochorení, vrátane CMP.
+Týmto spôsobom môžeme dosiahnuť, že verejnosť bude lepšie informovaná, čo povedie k
+
+zlepšeniu prevencie, diagnostiky a liečby cievnej mozgovej príhody. Zvýšené povedomie
+pomôže ľuďom lepšie rozpoznať prvé príznaky ochorenia, rýchlejšie vyhľadať lekársku pomoc
+a znížiť riziko vážnych komplikácií. Zároveň prispeje k vyššej miere prevencie prostredníctvom
+zdravšieho životného štýlu, pravidelnej kontroly rizikových faktorov a aktívnej účasti na
+edukačných programoch. Dlhodobo to môže viesť k zníženiu počtu prípadov cievnej mozgovej
+príhody, lepším výsledkom liečby a celkovému zlepšeniu kvality života postihnutých osôb aj
+ich rodín.
+63
+
+Záver
+Na základe stanoveného cieľa diplomovej práce ktorý znel nasledovne: Zistiť, aké sú
+vedomosti laickej verejnosti o ochorení cievna mozgová príhoda, sme
+zostaveného dotazníka sme získali
+
+pomocou nami
+
+prehľad vedomostí respondentov o ochorení, jeho
+
+príznakoch, rizikových faktoroch, prvej pomoci a následkoch.
+
+Na základe získaných
+
+informácii sme si stanovili hypotézy ktoré sme následne overovali pomocou štatistických
+metód.
+Podarilo sa nám zistiť že medzi vedomosťami mužov a žien v otázke rizikových
+faktorov neexistuje štatisticky významný rozdiel. Avšak napríklad v otázke na príznaky
+ochorenia sme zistili že je významný rozdiel vo vedomostiach vzhľadom na vek respondentov.
+Ukázalo sa že respondenti vo vekovej kategórii 31-45 rokov určili najviac správnych príznakov
+vyskytujúcich sa pri CMP zatiaľ čo respondenti vo vekovej kategórii 61-74 rokov označili
+najmenej správnych príznakov.
+Taktiež sa preukázalo že až 62% ľudí s vysokoškolským vzdelaním vie že pri podozrení
+na cievnu mozgovú príhodu má volať telefónne číslo 155 zatiaľ čo 75% ľudí so stredoškolským
+odborným vzdelaním bez maturity a 73% ľudí so základným vzdelaním označili inú možnosť
+telefónneho čísla pri podozrení na CMP.
+V otázke či existuje štatistický rozdiel medzi respondentmi, ktorí prekonali CMP, ktorí
+neprekonali CMP a tými, ktorí poznajú niekoho kto prekonal CMP, v názore na to, či môže
+človek po CMP viesť plnohodnotný život sme zistili nasledovné. Osoby, ktoré poznajú niekoho,
+kto prekonal cievnu mozgovú príhodu, majú prevažne pozitívny názor na možnosť viesť
+plnohodnotný život aj po tomto ochorení, pričom iba malá časť z nich vyjadruje pochybnosti.
+Podobný, avšak mierne nižší podiel pozitívnych názorov sa prejavuje aj u ľudí, ktorí takúto
+osobnú skúsenosť nemajú, čo naznačuje, že priame alebo sprostredkované skúsenosti zohrávajú
+dôležitú úlohu vo vnímaní tejto otázky. Na druhej strane, osoby, ktoré samotné prekonali CMP,
+sú jednoznačne presvedčené o možnosti plnohodnotného života po ochorení.
+Zistenia z tejto analýzy poskytujú dôležité informácie o úrovni znalostí verejnosti o
+CMP a môžu byť užitočné pri tvorbe edukačných kampaní zameraných na prevenciu a včasné
+rozpoznanie tohto ochorenia.
+
+64
+
+Zoznam použitej literatúry
+1. ABDULLAEVA MUBORAK, B., et al., 2020. Features of Neuroimaging Diagnostics of
+Transient Ischemic Attacks,. In Indian Journal of Forensic Medicine & Toxicology, [online].
+2020,
+
+vol14,
+
+no.
+
+4,
+
+s.
+
+7948–7952.
+
+[cit.
+
+2024.10.12.].
+
+Dostupné
+
+https://medicopublication.com/index.php/ijfmt/article/view/12900.
+
+na:
+DOI:
+
+https://doi.org/10.37506/ijfmt.v14i4.12900.
+2. ALZAYER, M.,2023. Knowledge and awareness of stroke and associated factors in the
+Saudi general population: A cross-sectional study. Frontiers in Neurology, 14, 1225980.
+[cit. 2025. 2. 2.] Dostupné z:
+https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1225980/full
+3. BERKHEMER, O. A., 2015. A Randomized Trial of Intraarterial Treatment for Acute
+Ischemic Stroke. In The New England journal of medicine. [online]. 2015, vol. 372, no. 1
+[cit.
+
+2024.
+
+10.
+
+12.].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa1411587 DOI: 10.1056/NEJMoa1411587
+4. BOEHME, A.M., 2017. Stroke Risk Factors, Genetics, and Prevention. In American Heart
+Association [online]. 2017, vol. 120, no. 3 [cit. 2024. 10. 12.]. Dostupné na internete:
+https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.116.308398.
+5. COUPLAND, A., et al., 2016. The definition of stroke. In Journal of the Royal Society of
+Medicine [online]. 2016,vol.110, no. 1 [cit. 2024.10.12.] Dostupné na internete:
+https://www.researchgate.net/publication/312389648_The_definition_of_stroke.
+
+DOI:
+
+10.1177/0141076816680121
+6. DAVIS. E., et al., 2021. CT perfusion: stroke, seizure or both? In BMJ Case Reports
+[online].
+
+2021,
+
+vol.
+
+14
+
+[cit.
+
+2024.
+
+10.
+
+12.].
+
+Dostupné
+
+na
+
+internete:
+
+https://casereports.bmj.com/content/14/12/e245723.info. ISSN: 1757-790X
+7. DEMCHUK, A., et. al., 2016. Comparing vessel imaging: noncontrast computed
+tomography/computed tomographic angiography should be the new minimum standard in
+acute disabling stroke. In Stroke [online]. 2016; vol.47, no.1 [cit. 2024. 10. 12.] Dostupné
+na internete: https://pubmed.ncbi.nlm.nih.gov/26645255/. PMID: 26645255
+8. DIMUNOVÁ, L., a kol., 2021. Kvalita života pacientov po cievnej mozgovej príhode. In
+Journal of nursing and social sciences related to health and illness. [online]. 2021, vol. 23,
+no.
+
+3
+
+[cit.
+
+2024.10.12.]
+
+Dostupné
+65
+
+na
+
+internete:
+
+https://www.proquest.com/openview/4c2b5e5507d4eb695609e3b0f4ef4cc9/1?pqorigsite=gscholar&cbl=6496878. DOI:10.32725/kont.2020.036
+9. GOGOLÁK, I., 2010. Diagnostika a liečba náhlych cievnych mozgových príhod. In
+Vaskulárna medicína. [online]. 2010, roč. 16, vol 2 [cit. 2024.10.12.] Dostupné na internete:
+https://www.solen.sk/sk/casopisy/vaskularna-medicina/diagnostika-a-liecba-nahlychcievnych-mozgovych-prihod. ISSN 1338-0206
+10. HUI, CH., et al., 2024. Ischemic Stroke. In Stat Pearls [online]. 2024, Treasure Island (FL):
+StatPearls
+
+Publishing
+
+[cit.
+
+2024.10.12.]
+
+Dostupné
+
+na
+
+internete:
+
+https://pubmed.ncbi.nlm.nih.gov/29763173/. PMID: 29763173.
+11. CHOHAN, S.A., 2019. Long-term complications of stroke and secondary prevention: an
+overview for primary care physicians. In Singapore Medical Journal. [online]. 2019, [cit.
+2024. 10. 12.]. Dostupné na internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC7911065/.
+PMID: 31889205
+12. IMRAN, Y., ZAHRA, A. A., 2024. The Use of NIHSS as an Assessment of Acute Stroke
+Severity. In Journal of Society Medicine, [online]. 2024, vol. 3, no. 2, s. 31–34. . [cit.
+2024.10.12.] Dostupné na internete: https://doi.org/10.47353/jsocmed.v3i2.128. ISSN:
+2964-5565
+13. JAKUBÍČEK, S., MIKULÍK, R., 2020. Akutní léčba mozkového infarktu – systémová
+trombolýza. In Neurológia pre prax. [online]. 2020, roč.25, no. 5. [cit. 2024. 10. 12.].
+Dostupné na internete: https://www.solen.sk/sk/casopisy/neurologia-pre-prax/akutni-lecbamozkoveho-infarktu-systemova-trombolyza?c=prihlasenie. ISSN: 1335-9592
+14. JEFFREY, L., et al., 2015. Stent-Retriever Thrombectomy after Intravenous t-PA vs. t-PA
+Alone in Stroke. In The New England journal of medicine. [online]. 2015, vol. 372, no. 24
+[cit.
+
+2024.
+
+10.
+
+12.].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa1415061 DOI: 10.1056/NEJMoa1415061
+15. KALINA, M., et al., 2008. Cévní mozková příhoda v medicínské praxi. Praha: Triton.2008.
+232 s. ISBN 978-80-7387-107-9
+16. KALITA, Z., 2010. Akutní cévní mozkové příhody: příručka pro osoby ohrožené cévní
+mozkovou příhodou, jejich rodinné příslušníky a známé. 1. vyd. Praha: Mladá fronta. 2010.
+39 s. ISBN: 978-80-204-2093-0
+17. KMEČOVÁ, L., a kol., 2019. Mechanická trombektómia v liečbe akútnej ischemickej
+cievnej mozgovej príhody v detskom veku.
+
+In Česká a slovenská neurologie
+
+a neurochirurgie. [online]. 2019, roč. 6 [cit. 2024. 10. 12.]. Dostupné na internete:
+https://www.csnn.eu/casopisy/ceska-slovenska-neurologie/2019-6-4/mechanicka66
+
+trombektomia-v-liecbe-akutnej-ischemickej-cievnej-mozgovej-prihody-v-detskom-veku118005 . ISSN 1803-6597
+18. KUCHARÍK, M., VULEV, I., 2024. Aktuálne postupy v liečbe akútnej ischemickej cievnej
+mozgovej príhody v 21. storočí. In Vaskulárna medicína. [online]. 2024, roč. 16, no 2 6 [cit.
+2024. 10. 12.]. Dostupné na internete: https://www.solen.sk/sk/casopisy/vaskularnamedicina/aktualne-postupy-v-liecbe-akutnej-ischemickej-cievnej-mozgovej-prihody-v-21storoci. ISSN 1338-0206
+19. LEŠKO, N., 2011. Akútna liečba ischemickej cievnej mozgovej príhody. Bratislava:
+Lundbeck Slovensko, 2011, 73 s. ISBN 978-80-89434-10-7
+20. LUCAS. L., et al., 2021. Acute Ischemic Stroke or Epileptic Seizure? Yield of CT Perfusion
+in a “Code Stroke” Situation. In American Journal of Neuroradiology [online]. 2021, vol.
+42,
+
+no.
+
+1,
+
+s.
+
+49-56
+
+64
+
+[cit.
+
+2024.
+
+10.
+
+12.].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7814788/. PMID: 33431502
+21. MAIR, G. a J. M. Wardlaw, 2014. Imaging of acute stroke prior to treatment: current
+practice and evolving techniques. In The British Journal of Radiology [online].2014, [cit.
+2024. 10. 12.]. doi: 10.1259/bjr.20140216. ISSN 0007-1285. Dostupné na internete:
+http://www.birpublications.org/doi/10.1259/bjr.20140216
+22. MAKHARIA, A., at all., 2024. The Pitfalls of NIHSS: Time for a New Clinical Acute Stroke
+Severity Scoring System in the Emergency?, In Annals of Indian Academy of Neurology,
+[online]. 2024, vol.27, no. 1, s. 15–18. . [cit. 2024.10.12.]
+
+Dostupné na internete:
+
+https://journals.lww.com/annalsofian/fulltext/2024/27010/the_pitfalls_of_nihss__time_for
+_a_new_clinical.8.aspx. DOI: 10.4103/aian.aian_842_23
+23. MAKO, M., 2024. Ischemické cievne mozgové príhody vo vertebrobazilárnom povodí. In
+Neurológia pre prax. [online]. 2024. roč. 25, no. 6 [cit. 2024. 10. 12.]. Dostupné na
+internete:
+
+https://www.solen.sk/sk/casopisy/neurologia-pre-prax/ischemicke-cievne-
+
+mozgove-prihody-vo-vertebrobazilarnom-povodi. ISSN 1335-9592
+24. MALÍKOVÁ, H., 2019. Základy radiologie a zobrazovacích metod. Praha: Univerzita
+Karlova, nakladatelství Karolinum.2019. 120 s. ISBN 978-80-246-4036-5.
+25. MIKULA. P., a kol., 2021. Perfúzne CT a jeho úloha v rozhodovacom procese pri akútnej
+ischemickej cievnej mozgovej príhode. In. Slovenská rádiológia. [online]. 2021, roč. 28,
+no.
+
+1-2,
+
+s.
+
+57-64
+
+[cit.
+
+2024.
+
+10.
+
+12.].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.slovakradiologyjournal.com/1-2-2021/perfuzne-ct-a-jeho-uloha-vrozhodovacom-procese-pri-akutnej-ischemickej-cievnej-mozgovej-prihode/ ISSN, 13350625
+67
+
+26. MIKULÍK, R., a kol., 2008. Calling 911 in Response to Stroke: A Nationwide Study
+Assessing Definitive Individual Behavior. In Stroke. . [online].2008, no. 6 [cit. 2025. 15.
+1.]. Dostupné na internete: https://www.ahajournals.org/doi/10.1161/strokeaha.107.499806
+27. MONTANO, A., et al., 2021. Chapter 13 - Hemorrhagic stroke, In Handbook of Clinical
+Neurology
+
+[online].
+
+202,
+
+[cit.
+
+2024.10.12.]
+
+Dostupné
+
+na
+
+internete:
+
+https://www.sciencedirect.com/science/article/abs/pii/B9780444640345000195.
+
+ISBN
+
+9780444640345
+28. Národní zdravotnický informační portál [online]. Praha: Ministerstvo zdravotnictví ČR
+a Ústav zdravotnických informací a statistiky ČR, 2024 [cit. 2024. 10. 12.]. Dostupné na
+internete: https://www.nzip.cz. ISSN 2695-0340.
+29. National Institute of Neurological Disorders and Stroke (NINDS). 2025. Prevention
+[online]. Bethesda: NINDS, 2025. [cit. 2024.10.12.]
+
+Dostupné na internete:
+
+https://www.ninds.nih.gov/health-information/stroke/prevention
+30. NICOL, M., 2005. Knowledge of risk factors and warning signs of stroke. In Vasc Health
+Risk Manag [online]. 2005, roč.1, no.2 [cit. 2025. 15. 1.]. Dostupné na internete:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1993942/ DOI: 10.2147/vhrm.1.2.137.64085
+31. PATEL A,.et al. 2019. Awareness of Stroke Signs and Symptoms and Calling 9-1-1 Among
+US Adults: National Health Interview Survey, 2009 and 2014. Prev Chronic Dis
+2019;16:180564.
+
+[cit.
+
+2025.
+
+2.
+
+2.]
+
+Dostupné
+
+z:
+
+https://www.cdc.gov/pcd/issues/2019/18_0564.htm DOI: 10.5888/pcd16.180564
+32. PETRÍK, O., a kol., 2018. Prvé podanie idarucizumabu s následnou intravenóznou
+trombolýzou a mechanickou trombektómiou na Slovensku. In Neurologie pro praxi.
+[online]. 2018, roč. 19, no. 5 [cit. 2024. 10. 12.]. Dostupné na internete:
+https://www.solen.cz/artkey/neu-2018050013_Prve_podanie_idarucizumabu_s_naslednou_intravenoznou_trombolyzou_a_mechan
+ickou_trombektomiou_na_Slovensku.php. ISSN 1803-5280
+33. POWERS, W., et al., 2018. 2018 Guidelines for the Early Management of Patients With
+Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart
+Association/American Stroke Association. In American Heart Association/American Stroke
+Association . 2018, vol. 49, no. 3, [cit. 2024. 10. 12.]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/29367334/. PMID: 29367334
+34. RAMÍREZ-MORENO, J., et al., 2015. Knowledge of stroke a study from a sex perspective.
+In BMC Research Notes. [online]. 2015, [cit. 2025. 15. 1.]. Dostupné na internete:
+
+68
+
+https://www.researchgate.net/publication/283261132_Knowledge_of_stroke_a_study_fro
+m_a_sex_perspective DOI:10.1186/s13104-015-1582-1
+35. RUNGE, V. M., et al., 2015. Magnetic Resonance Imaging and Computed Tomography of
+the Brain — 50 Years of Innovation, With a Focus on the Future. In Investigative Radiology
+[online]
+
+2015. roč.
+
+50,
+
+no.1,
+
+[cit.
+
+2024. 10. 12.] Dostupné na
+
+internete:
+
+https://insights.ovid.com/crossref?an=00004424-201509000-00002 :. ISSN 0020-9996.
+36. SEIDL, Z., 2023. Neurologie pro studium i praxi. 3. vydanie. Praha: Grada, 2023. 408 s.
+ISBN: 978-80-247-5247-1
+37. SCHWARZBACH, C.J., 2020. Komplikationen nach Schlaganfall. In Der Nervenarzt. .
+[online].
+
+2020,
+
+vol
+
+91[cit.
+
+2024.
+
+10.
+
+12.].
+
+Dostupné
+
+na
+
+internete:
+
+https://link.springer.com/article/10.1007/s00115-020-00988-9#Sec3.
+38. SOUČEK, M., a kol., 2019. Vnitřní lékařství v kostce. Praha: Grada, 2019. 464 s. ISBN:
+978-80-271-2289-9
+39. STROEBELE, N., et al., 2011. Knowledge of risk factors, and warning signs of stroke: a
+systematic review from a gender perspective. In Int J Stroke. [online]. 2011, roč 6, no.1 [cit.
+2025. 15. 1.]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/21205242/
+DOI: 10.1111/j.1747-4949.2010.00540.x
+40. ŠEBLOVÁ, J., a kol., 2018. Urgentní medicína v klinické praxi lékaře. 2. vydanie. Praha:
+Grada, 2018. 476 s. ISBN: 978-80-271-0596-0
+41. TOMEK, A., et. al, 2018. Neurointenzivní péče. Třetí, přepracované a doplněné vydání.
+Praha: Mladá fronta. 2018. 607 s. ISBN 978-80-204-5119-4.
+42. TULI W., et al., Knowledge of stroke risk factors and prevention among hypertensive
+patients on follow-up at Addis Ababa University Tertiary Hospital, Addis Ababa, Ethiopia:
+a cross-sectional study BMJ Open 2024;14:e089159. [cit. 2025. 2. 2.] Dostupné na
+internete: https://bmjopen.bmj.com/content/14/11/e089159
+
+doi: 10.1136/bmjopen-2024-
+
+089159
+43. TURSUNOVA, M. O., et al. "Significance of Transient Ischemic Attacks (TIA) in the
+Development and Course of Ischemic Strokes. In International Journal of Health and
+Medical Sciences, [online]. vol. 4, no. 2, 2021, pp. 215-219, [cit. 2024.10.12.]. Dostupné
+na:
+
+https://www.neliti.com/publications/411138/significance-of-transient-ischemic-
+
+attacks-tia-in-the-development-and-course-of#citeDOI:10.31295/ijhms.v4n2.1703.
+44. VOGEL, N. E., 2024. Optimizing Prehospital Acute Stroke Care in the Presence of
+Economic Constraints, Linkopings Universitet, 2024. 69 s. Dostupné na internete:
+
+69
+
+https://ebookcentral.proquest.com/lib/truni-ebooks/detail.action?docID=31279674. ISBN:
+9789180753982
+45. VOŠKO, M., 2016. Trombektómia „s“, alebo „bez“ systémovej trombolýzy. In Česká a
+slovenská neurologie a neurochirurgie. [online]. 2016, no. 2 [cit. 2024. 10. 12.] Dostupné
+na
+
+internete:
+
+https://www.csnn.eu/casopisy/ceska-slovenska-neurologie/2016-2-
+
+9/trombektomia-s-alebo-bez-systemovej-trombolyzy-57769. ISSN 1803-6597
+46. WILLIAMS, J., et al., 2019. Stroke Nursing 2nd Edition. Wiley-Blackwell, 2019. 400 s.
+[cit. 2025. 2. 2.] ISBN-13 : 978-1119111450
+47. ZIXIAO, L., et al., 2016. Treatment Effect of Clopidogrel Plus Aspirin Within 12 Hours of
+Acute Minor Stroke or Transient Ischemic Attack. In National Library of Medicine.
+[online].
+
+2016,
+
+roč.
+
+5,
+
+no.3 [cit.
+
+2024.
+
+10.
+
+12.].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4943275/. doi: 10.1161/JAHA.115.003038
+
+70
+
+Prílohy
+Príloha 1
+
+Dotazník
+Milí respondenti,
+volám sa Bc. Alexandra Svíčková a študujem odbor ošetrovateľstvo v magisterskom ročníku
+na Trnavskej univerzite v Trnave. Tento dotazník je súčasťou mojej diplomovej práce s
+názvom „Zdravotná gramotnosť laickej verejnosti o ochorení cievna mozgová príhoda“.
+Cieľom dotazníka je získať informácie o vedomostiach laickej verejnosti o cievnej mozgovej
+príhode. Dotazník je určený iba nezdravotníckym pracovníkom, pričom vaše odpovede budú
+anonymné a použijú sa len na účely výskumu.
+Ďakujem vám za váš čas a ochotu prispieť k tomuto výskumu.
+S pozdravom,
+Bc. Alexandra Svíčková
+
+DEMOGRAFICKÉ ÚDAJE
+Vaše pohlavie:
+a) Žena
+b) Muž
+Váš vek:
+a) 18-30
+b) 30-45
+c) 46-60
+d) 60-75
+e) 75 a viac
+Vaše vzdelanie:
+a) Základné
+b) Stredné odborné bez maturity
+c) Stredoškolské s maturitou
+d) Vyššie odborné vzdelanie
+e) Vysokoškolské vzdelanie
+Bydlisko:
+a) V meste
+b) Na dedine
+
+71
+
+Poznáte niekoho kto prekonal cievnu mozgovú príhodu (ďalej len CMP)?
+a) Áno
+b) Nie
+c) Ja sám(a) som prekonal(a) CMP
+VŠEOBECNÉ INFORMÁCIE
+Čo je CMP?
+a) Zápalové ochorenie mozgu
+b) Infekčné ochorenie mozgu
+c) Porucha krvného obehu v mozgu
+d) Onkologické ochorenie mozgu
+CMP pokladáte za ochorenie:
+a) Nezávažné
+b) Stredne závažné
+c) Veľmi závažné
+CMP postihuje:
+a) Starších ľudí
+b) Mladších ľudí
+c) Ľudí v akomkoľvek veku
+Rozdelenie CMP:
+a) Nerozdeľujeme ich
+b) Ischemické (nedostatok okysličenia mozgu), hemoragické ( krvácanie do mozgu)
+c) Ischemické, hemoragické, nádorové
+d) Ischemické, hemoragické, TIA = (malá CMP, príznaky sami odznejú)
+Môže človek prekonať CMP viackrát počas života?
+a) Áno
+b) Skôr áno
+c) Neviem
+d) Skôr nie
+e) Nie
+RIZIKOVÉ FAKTORY
+Označte ktoré z nasledujúcich rizikových faktorov majú vplyv na CMP?
+
+
+
+
+
+
+
+
+Vek
+Pohlavie
+Zdravý životný štýl
+Nízky krvný tlak
+Cukrovka
+Promiskuita
+Fajčenie
+72
+
+
+
+
+
+
+
+Nadmerné opaľovanie
+Stres
+Zúženie ciev
+Očkovanie
+Vysoký krvný tlak
+
+PRVÁ POMOC
+Označte ktoré z príznakov sa vyskytujú pri CMP:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kašeľ
+Porucha vedomia
+Kožná vyrážka
+Bolesť hlavy
+Hyperaktivita
+Zvýšené potenie
+Dezorientácia
+Zvýšená telesná teplota
+Bolesť svalov
+Porucha hybnosti končatín
+Bolesť chrbtice
+Pomočenie sa
+Zvracanie
+Porucha reči
+Porucha zraku
+Ochrnutie polovice tváre
+
+V prípade podozrenie na cievnu mozgovú príhodu:
+a) Nie je potrebné volať záchrannú službu
+b) Ihneď volám záchrannú službu
+c) Záchrannú službu volám po 30 minútach, nakoľko stav neohrozuje život
+d) Záchrannú službu volám iba v prípade poruchy vedomia
+Do akej polohy uložíme pacienta pri CMP ak je pri vedomí?
+a) Do stabilizovanej polohy
+b) Ležmo s podloženými nohami
+c) Ležmo s podloženou hlavou
+d) Ležmo s pokrčenými nohami
+Aký typ poruchy reči je bežný pri CMP?
+a) Neschopnosť vysloviť slová alebo nezrozumiteľná reč
+b) Rýchla a nezastaviteľná reč
+c) Neobvyklé vyslovovanie cudzích slov
+d) Zvýšená hlasitosť reči
+
+73
+
+Aké telefónne číslo by ste volali ohľadom pomoci?
+a) 112
+b) 155
+c) 158
+d) 150
+
+STAROSTLIVOSŤ V NEMOCNICI
+Aké oddelenie sa venuje pacientom s CMP?
+a) Interné oddelenie
+b) Kardiologické oddelenie
+c) Neurologické oddelenie
+d) Neontologické oddelenie
+Primárnym vyšetrením v diagnostike CMP je:
+a) CT počítačová tomografia
+b) Magnetická rezonancia
+c) RTG
+d) Sono vyšetrenie
+Ako rýchlo je potrebné začať liečbu pri podozrení na CMP?
+a)
+b)
+c)
+d)
+e)
+
+Do 1 hodiny
+Do 2 hodín
+Do 6 hodín
+Do 12 hodín
+Neviem
+
+Zohráva logopéd dôležitú úlohu pri následnej starostlivosti u pacienta po prekonaní CMP?
+a) Áno
+b) Skôr áno
+c) Neviem
+d) Skôr nie
+e) Nie
+NÁSLEDKY CMP
+Ako môžeme ovplyvniť, aby človek ktorý prekonal CMP mal čo najmenej následkov?
+a) Včasným rozpoznaním príznakov
+b) Včasným rozpoznaním príznakov a neodkladným privolaním záchrannej služby
+c) Správnou resuscitáciou
+d) Nedokážeme ovplyvniť následné príznaky CMP
+Aké najčastejšie následky môže mať pacient po prekonaní CMP?
+a) Poruchu zraku
+b) Poruchu chuti a čuchu
+74
+
+c) Poruchu reči a hybnosti končatín
+d) Poruchu osobnosti
+Dá sa CMP vyliečiť bez trvalých následkov?
+a) Áno
+b) Skôr áno
+c) Neviem
+d) Skôr nie
+e) Nie
+Môže človek po prekonaní CMP mať problém s prehĺtaním?
+a) Áno
+b) Skôr áno
+c) Neviem
+d) Skôr nie
+e) Nie
+Môže človek po prekonaní CMP viesť plnohodnotný život?
+a) Áno
+b) Skôr áno
+c) Neviem
+d) Skôr nie
+e) Nie
+Som zdravotnícky pracovník:
+a) Áno
+b) Nie
+
+75
+
+

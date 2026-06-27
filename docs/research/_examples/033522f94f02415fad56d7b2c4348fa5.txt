@@ -1,0 +1,3601 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+KVALITA ŽIVOTA PACIENTOV S TRACHEOSTÓMIOU
+Diplomová práca
+
+2026
+Bc. Nela Habiňáková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+KVALITA ŽIVOTA PACIENTOV S TRACHEOSTÓMIOU
+Diplomová práca
+
+Študijný odbor: 7.4.1 Ošetrovateľstvo
+Študijný program: Ošetrovateľstvo
+Školiace pracovisko: FZaSP Katedra Ošetrovateľstva
+Vedúci práce: PhDr. Mgr. Oľga Kabátová, PhD., MPH,
+
+Trnava, 2026
+Bc. Nela Habiňáková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+ZADANIE ZÁVEREČNEJ DIPLOVEJ PRÁCE
+Meno, priezvisko a tituly študenta:
+
+Bc. Nela Habiňáková
+
+Kód študenta:
+
+39001
+
+Študijný odbor:
+
+7.4.1 Ošetrovateľstvo
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Typ záverečnej práce:
+
+Diplomová práca
+
+Názov záverečnej práce:
+
+Kvalita života pacientov s tracheostómiou
+
+Meno, priezvisko a tituly vedúceho práce: PhDr. Mgr. Oľga Kabátová PhD., MPH,
+Školiace pracovisko:
+
+Katedra ošetrovateľstva, FZaSP TU
+
+Meno, priezvisko a tituly vedúceho pracoviska: doc. PhDr. Andrea Botíková, PhD., MPH
+Anotácia záverečnej práce:
+
+Diplomová práca sa zameriava na hodnotenie
+
+kvality života pacientov s tracheostómiou. Pomocou štandardizovaného dotazníka WHOQOLBREF skúma ich kvalitu života. Cieľom je zistiť úroveň kvality života v jednotlivých
+doménach, zhodnotiť subjektívne vnímanie zdravia a spokojnosti so životom, a analyzovať
+potenciálne faktory, ktoré ju ovplyvňujú. Získané poznatky majú prispieť k lepšiemu
+pochopeniu potrieb týchto pacientov a k zlepšeniu ošetrovateľskej starostlivosti.
+Jazyk, v ktorom sa práca vypracuje:
+
+slovenský jazyk
+
+Dátum schválenia zadania:
+
+13.01. 2025
+
+.................................................
+podpis vedúceho diplomovej práce
+
+2
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že som diplomovú prácu s názvom „Kvalita života pacientov
+s tracheostómiou“ vypracovala samostatne a pod odborným vedením PhDr. Mgr. Oľgy
+Kabátovej PhD., MPH a tiež s použitím dostupných literárnych zdrojov, ktoré sú uvedené
+v priloženom zozname použitej literatúry.
+
+V Trnave, dňa 30.03. 2026
+.......................................
+podpis
+
+3
+
+Poďakovanie
+Touto cestou si dovoľujem vysloviť poďakovanie mojej školiteľke PhDr. Mgr. Oľge
+Kabátovej PhD., MPH za odborné usmerňovanie, cenné rady, pripomienky a konzultácie.
+
+ABSTRAKT
+
+4
+
+HABIŇÁKOVÁ, Nela. Kvalita života pacientov s tracheostómiou. [Diplomová práca]. / Nela
+Habiňáková - Trnavská univerzita v Trnave, Fakulta zdravotníctva a sociálnej práce, Katedra
+ošetrovateľstva. – Vedúca katedry: doc. PhDr. Andrea Botíková, PhD., MPH.
+Stupeň odbornej kvalifikácie: Magister (Mgr.) – Dátum odovzdania práce: 30.03.2026 –
+Trnava, Fakulta zdravotníctva a sociálnej práce Trnavskej univerzity v Trnave, Školiteľ:
+PhDr. Mgr. Oľga Kabátová PhD., MPH. Trnava: FZaSP, 2026, 71 strán.
+Úvod: Tracheostómia predstavuje život zachraňujúci alebo kvalitu života zlepšujúci zákrok,
+avšak spája sa s významnými zmenami v komunikácii, dýchaní, prehĺtaní a celkovom
+psychickom a fyzickom prežívaní pacienta. Zhodnotenie kvality života tejto špecifickej skupiny
+pacientov je kľúčové pre optimalizáciu ošetrovateľskej starostlivosti a poskytovanie cielenej
+podpory.
+Ciele práce: Hlavným cieľom diplomovej práce je zhodnotiť kvalitu života pacientov s
+tracheostómiou pomocou štandardizovaného dotazníka WHOQOL-BREF.
+Metodika práce: Práca je koncipovaná ako kvantitatívny, deskriptívny a analytický výskum s
+prierezovým dizajnom. Výskumný súbor tvorili pacienti s tracheostómiou vo veku 18 rokov a
+viac, ktorí sú schopní komunikácie a udelili informovaný súhlas s účasťou. Dáta boli zbierané
+pomocou štandardizovaného dotazníka WHOQOL-BREF, ktorý hodnotí kvalitu života v
+štyroch doménach (fyzické zdravie, psychologické zdravie, sociálne vzťahy, životné
+prostredie), a krátkeho demografického dotazníka. Dáta boli spracované anonymne a dôverne.
+Výsledky: Výsledky poukázali na štatisticky významne nižšie skóre kvality života pacientov
+s tracheostómiou vo fyzickej a psychologickej doméne v porovnaní s normatívnou populáciou.
+Naopak, v doméne sociálnych vzťahov a prostredia boli zaznamenané vyššie alebo
+porovnateľné hodnoty.
+Záver: Kvalita života pacientov s tracheostómiou je výrazne ovplyvnená najmä fyzickými a
+psychickými faktormi, pričom významnú úlohu zohráva sociálna opora a prostredie. Zlepšenie
+kvality života si vyžaduje komplexný prístup zahŕňajúci medicínsku, psychickú a sociálnu
+starostlivosť.
+Kľúčové slová: fyzické zdravie, kvalita života, ošetrovateľská starostlivosť, psychické zdravie,
+sociálne vzťahy, tracheostómia, WHOQOL-BREF, životné prostredie.
+
+ABSTRACT
+
+5
+
+HABIŇÁKOVÁ,
+
+Nela. Quality of Life of Patients with Tracheostomy. [Master’s Thesis].
+
+/
+
+Nela Habiňáková – Trnava University in Trnava, Faculty of Health Care and Social Work,
+Department of Nursing. – Head of Department: Assoc. Prof. Andrea Botíková, PhD., MPH,
+– Degree of Professional Qualification: Master (Mgr.) – Date of Thesis Submission: 30.03.
+2026
+
+–
+
+Trnava, Faculty of
+
+Health Care and Social Work,
+
+Trnava
+
+University
+
+in
+
+Trnava, Supervisor: PhDr. Mgr. Oľga Kabátová, PhD., MPH. Trnava: FHaSW, 2026, 71
+pages.
+Introduction: Tracheostomy represents a life-saving or quality-of-life-improving procedure,
+yet it is associated with significant changes in communication, breathing, swallowing, and the
+patient's overall psychological and physical well-being. Evaluating the quality of life of this
+specific patient group is crucial for optimizing nursing care and providing targeted support.
+Objectives: The main aim of the study is to assess the quality of life of patients with
+tracheostomy using the standardized WHOQOL-BREF questionnaire.
+Methods: The study is designed as a quantitative, descriptive, and analytical research with a
+cross-sectional design. The research sample consisted of tracheostomy patients aged 18 years
+and older, who were capable of communication and provided informed consent to participate.
+Data were collected using the standardized WHOQOL-BREF questionnaire, which assesses
+quality of life across four domains (physical health, psychological health, social relationships,
+environment), and a brief demographic and clinical questionnaire. Ethical approval and consent
+from the management of healthcare facilities were obtained prior to data collection.
+Data were processed anonymously and confidentially.
+Results: The results indicated statistically significantly lower quality of life scores in patients
+with a tracheostomy in the physical and psychological domains compared to the normative
+population. Conversely, higher or comparable values were observed in the domains of social
+relationships and environment.
+Conclusion: The quality of life of patients with a tracheostomy is significantly affected mainly
+by physical and psychological factors, while social support and environment also play an
+important role. Improving quality of life requires a comprehensive approach that includes
+medical, psychological, and social care.
+Keywords: tracheostomy, quality of life, nursing care, WHOQOLBREF, physical health, psychological health, social relationships, environment.
+
+OBSAH
+6
+
+Zoznam tabuliek a grafov.........................................................................................................8
+Zoznam požitých skratiek a značiek.......................................................................................9
+Úvod..........................................................................................................................................10
+1
+
+TEORETICKÉ VÝCHODISKÁ KVALITY ŽIVOTA PACIENTOV
+
+S TRACHEOSTÓMIOU........................................................................................................11
+1.1
+
+Charakteristika a klasifikácia............................................................................11
+1.1.1 Indikácie tracheostómie............................................................................12
+1.1.2 Klasifikácia tracheostómie.......................................................................13
+1.1.3 Tracheostomické kanyly...........................................................................14
+
+2
+
+3
+
+1.2
+
+Komplikácie tracheostómie ..............................................................................15
+
+1.3
+
+Ošetrovateľská starostlivosť o pacienta s tracheostómiou................................17
+
+1.4
+
+Komunikácia .....................................................................................................19
+
+1.5
+
+Výživa pacienta ................................................................................................20
+
+1.6
+
+Psychosociálne aspekty starostlivosti ...............................................................21
+
+1.7
+
+Úloha sestry v edukácií pacienta ......................................................................21
+
+1.8
+
+Kvalita života pacienta s tracheostómiou..........................................................22
+
+METODIKA PRIESKUMU ......................................................................................27
+2.1
+
+Prieskumné ciele a otázky, hypotézy.................................................................28
+
+2.2
+
+Charakteristika prieskumnej metódy.................................................................28
+
+2.3
+
+Charakteristika prieskumnej vzorky .................................................................31
+
+2.4
+
+Zber dát.............................................................................................................32
+
+VÝSLEDKY PRIESKUMU............................................................................................33
+3.1 Vyhodnotenie prieskumných otázok............................................................................35
+3.2 Verifikácia hypotéz..................................................................................................... 38
+
+DISKUSIA .............................................................................................................................43
+4.1 Odporúčania pre prax .............................................................................................52
+ZÁVER ....................................................................................................................................53
+ZOZNAM POUŽITEJ LITERATÚRY ...............................................................................54
+ZOZNAM PRÍLOH ...............................................................................................................62
+
+ZOZNAM TABULIEK A GRAFOV
+7
+
+Tab. 1 Prehľad domén a položiek
+Tab. 2 Charakteristika prieskumného súboru
+Tab. 3 Výpočet položiek fyzickej domény
+Tab. 4 Výpočet položiek domény prežívanie
+Tab. 5 Výpočet položiek sociálnej domény
+Tab. 6 Výpočet položiek domény prostredie
+Tab. 7 Transformácia dát na škálu 0-100
+Tab. 8 Celkové skóre domén
+Tab. 9 Subjektívne hodnotenie celkovej kvality života
+Tab. 10 Spokojnosť so zdravotným stavom
+Tab. 11 Kvalita života podľa veku pacientov
+Tab. 12 Výsledok t-testu
+Tab. 13 Porovnanie priemerných hodnôt domén kvality života s normatívnymi hodnotami
+WHOQOL-BREF
+Tab. 14 Výpočet t-testu a p-hodnoty pre jednotlivé domény
+Graf 1 Subjektívne hodnotenie celkovej kvality života respondentov
+Graf 2 Spokojnosť so zdravotným stavom
+Graf 3 Porovnanie domén kvality života s normatívnymi hodnotami
+Graf 4 Porovnanie celkového hodnotenia kvality života a spokojnosti so zdravím
+s normatívnymi hodnotami
+
+8
+
+ZOZNAM POUŽITÝCH SKRATIEK A ZNAČIEK
+M
+
+Priemer
+
+SD
+
+Smerodajná odchýlka
+
+%
+
+Percentá
+
+Tab. Tabuľka
+č.
+
+číslo
+
+WHO Svetová zdravotnícka organizácia
+b.r.
+
+bez roku
+
+9
+
+ÚVOD
+Tracheostómia predstavuje významný medicínsky zákrok, ktorý sa využíva najmä pri akútnych
+alebo chronických respiračných ochoreniach, zlyhávaní horných dýchacích ciest alebo pri
+potrebe dlhodobej umelej pľúcnej ventilácie. Ide o chirurgické vytvorenie otvoru do
+priedušnice, do ktorého sa zavádza tracheostomická kanyla zabezpečujúca priechodnosť
+dýchacích ciest a adekvátne dýchanie pacienta. Hoci je tento zákrok často život zachraňujúci,
+prináša so sebou aj viaceré medicínske a ošetrovateľské výzvy, ktoré môžu ovplyvniť
+každodenné fungovanie pacienta a jeho kvalitu života (Nakarada-Kordic et al., 2018).
+Tracheostómia je komplexný chirurgický výkon, ktorý okrem fyzických zmien ovplyvňuje aj
+psychickú a sociálnu stránku života pacientov. Pacienti po tracheostómii často hlásia ťažkosti
+s komunikáciou, prehĺtaním a sociálnym fungovaním, ktoré významne znižujú subjektívne
+vnímanú kvalitu života a sebestačnosť. Tieto aspekty je dôležité brať do úvahy pri starostlivosti
+o pacienta, rehabilitácii a psychosociálnej podpore (Phookan a Talukdar, 2023).
+Výskumy zároveň poukazujú na to, že pacienti s tracheostómiou môžu počas adaptácie na nový
+zdravotný stav prežívať zvýšenú mieru úzkosti, depresie a stresu, ktoré môžu negatívne
+ovplyvniť rehabilitačný proces a celkovú kvalitu života (Calderone et al., 2025) .
+Cieľom tejto diplomovej práce je zamerať sa na problematiku kvality života pacientov s
+tracheostómiou. Práca sa venuje zosumarizovaniu aktuálnych poznatkov o tracheostómii, jej
+indikáciách a ošetrovateľskej starostlivosti o pacientov s tracheostómiou. Prieskumná časť
+práce je zameraná na realizáciu prieskumu, ktorého cieľom je zistiť, ako pacienti s
+tracheostómiou vnímajú svoju kvalitu života. Získané výsledky budú následne analyzované a
+vyhodnotené s cieľom identifikovať najčastejšie problémy pacientov a navrhnúť odporúčania
+pre ošetrovateľskú prax.
+Z hľadiska ošetrovateľstva je nevyhnutné porozumieť individuálnym potrebám pacientov,
+poskytovať adekvátnu edukáciu, psychickú podporu a znižovať bariéry, ktoré im bránia v
+dôstojnom a kvalitnom živote. Táto práca tak môže prispieť k zlepšeniu klinickej praxe,
+zvyšovaniu empatie u zdravotníckeho personálu a podpore pacientov v ich každodennom
+živote.
+
+10
+
+1 TEORETICKÉ
+
+VÝCHODISKÁ
+
+KVALITY
+
+ŽIVOTA
+
+PACIENTOV S TRACHEOSTÓMIOU
+Tracheostómia predstavuje kľúčový chirurgický zákrok, ktorý umožňuje zabezpečiť
+priechodnosť dýchacích ciest a ventiláciu pľúc v situáciách, keď je horná časť dýchacieho
+traktu obštruovaná alebo keď je potrebná dlhodobá respiračná podpora. Je to postup, ktorý má
+zásadný význam pre prežitie a následnú kvalitu života mnohých pacientov, napriek tomu, že
+prináša so sebou špecifické výzvy pre pacienta aj ošetrujúci personál. Táto kapitola sa zameria
+na podrobný prehľad tracheostómie, od jej definície a histórie, cez indikácie, typy kanyly, až
+po potenciálne komplikácie (Durbin, 2015).
+
+1.1CHARAKTERISTIKA A KLASIFIKÁCIA TRACHEOSTÓMIE
+Tracheostómia je chirurgický zákrok, ktorého cieľom je vytvorenie dočasného alebo trvalého
+chirurgického otvoru (stómie) v priedušnici (trachei) a zavedenie tracheostomickej kanyly,
+ktorá zabezpečuje priame spojenie dýchacích ciest s vonkajším prostredím (Durbin, 2015).
+Tento postup obchádza horné dýchacie cesty (nos, ústa, hltan a hrtan), čím umožňuje priamy
+vstup vzduchu do pľúc. Primárnym účelom tracheostómie je zabezpečenie a udržanie
+priechodných dýchacích ciest, uľahčenie dýchania, odsávanie sekrétov z dolných dýchacích
+ciest, ochrana pred aspiráciou u pacientov s dysfunkciou prehĺtania a poskytovanie ventilačnej
+podpory, najmä pri dlhodobej mechanickej ventilácii (Physiopedia, 2026). Tracheostómia je
+odlišná od koniotómie (krikotyreotómie), ktorá je urgentným výkonom vykonávaným pri
+akútnej obštrukcii dýchacích ciest a predstavuje incíziu cez ligamentum conicum (ligamentum
+cricothyroideum) (Walls et al., 2018).
+História tracheostómie siaha až do starovekých civilizácií, hoci prvé dokumentované pokusy a
+popisy tohto zákroku sa objavujú už v egyptských hieroglyfoch a staroindických textoch
+(Cipriano et al., 2019). Predpokladá sa, že prvé operácie boli vykonávané s cieľom uľahčiť
+dýchanie pri obštrukcii horných dýchacích ciest. V antickom Grécku a Ríme sa o tracheostómii
+zmienili lekári ako Hipokrates a Galén, no pre vysoké riziko infekcie a nízku mieru prežitia sa
+zákrok dlho považoval za extrémne nebezpečný (Monteiro et al., 2018).
+Významný pokrok nastal v 16. storočí, keď taliansky chirurg Antonio Musa Brassavola úspešne
+vykonal tracheostómiu u pacienta s hrtanovou obštrukciou. Až v 19. storočí, s objavom
+anestézie a zlepšením hygienických podmienok, sa tracheostómia stala relatívne bezpečnejším
+11
+
+a častejšie vykonávaným zákrokom, najmä pri epidémiách záškrtu (diférie). Francúzsky lekár
+Armand Trousseau je považovaný za priekopníka v rozsiahlejšom používaní tracheostómie pri
+diftérii v polovici 19. storočia, pričom výrazne prispel k zlepšeniu techniky a pooperačnej
+starostlivosti (Kokong et al., 2016). V 20. storočí, s rozvojom intenzívnej medicíny a
+mechanickej ventilácie, sa indikácie pre tracheostómiu rozšírili a zákrok sa stal štandardným
+postupom v manažmente kriticky chorých pacientov (Kokong et al., 2016). Moderné techniky,
+ako je perkutánna dilatačná tracheostómia, ktorá bola zavedená v 80. rokoch 20. storočia, ešte
+viac zvýšili bezpečnosť a dostupnosť tohto zákroku (Monteiro et al., 2018).
+1.1.1 INDIKÁCIE TRACHEOSTÓMIE
+Tracheostómia sa vykonáva z rôznych dôvodov, ktoré možno kategorizovať predovšetkým na
+základe potreby zabezpečiť dýchacie cesty, uľahčiť ventiláciu alebo chrániť dýchacie cesty
+pred aspiráciou.
+Kľúčové indikácie zahŕňajú (Ernstmeyer a Christman, 2021; Eng et al., 2019):
+-
+
+Obštrukcia horných dýchacích ciest: Ide o najčastejšiu akútnu indikáciu, kde je
+zablokovaný prívod vzduchu do pľúc. Príčinami môžu byť:
+
+-
+
+Zápalové stavy: Edém hrtana pri anafylaxii, ťažké infekcie (napr. epiglotitída,
+laryngeálny edém) (Ernstmeyer a Christman, 2021).
+
+-
+
+Traumy: Poranenia hrtana alebo trachey, maxilofaciálne traumy (Eng et al., 2019).
+
+-
+
+Nádory: Malígne alebo benígne tumory hrtana, hltana alebo okolitých štruktúr, ktoré
+komprimujú dýchacie cesty.
+
+-
+
+Vrodené anomálie: Laryngomalácia, tracheomalácia alebo stenózy u pediatrických
+pacientov.
+
+-
+
+Cudzie telesá: Hoci sa zvyčajne riešia endoskopicky, v niektorých prípadoch môžu
+vyžadovať tracheostómiu (Ernstmeyer a Christman, 2021).
+
+-
+
+Potreba dlhodobej mechanickej ventilácie: U pacientov, ktorí sú dlhodobo závislí od
+umelej pľúcnej ventilácie (zvyčajne dlhšie ako 7-14 dní), tracheostómia znižuje riziko
+komplikácií spojených s orotracheálnou intubáciou (napr. poškodenie hlasiviek,
+nazofaryngeálne erózie, sinusitída) a zlepšuje komfort pacienta. Táto indikácia je častá
+u pacientov s chronickou obštrukčnou chorobou pľúc (CHOCHP) s respiračným
+zlyhaním, neurologickými ochoreniami (napr. amyotrofická laterálna skleróza,
+myasthenia gravis, poranenia miechy), ktoré vedú k paralýze dýchacích svalov,
+dlhodobými kómatóznymi stavmi (Eng et al., 2019; Ernstmeyer a Christman, 2021).
+
+12
+
+-
+
+Ochrana dýchacích ciest pred aspiráciou: U pacientov s poruchami prehĺtania
+(dysfágia), ktoré zvyšujú riziko vdýchnutia potravy, tekutín alebo orálnych sekrétov do
+pľúc (napr. po cievnej mozgovej príhode, pri degeneratívnych neurologických
+ochoreniach). Tracheostómia s kanylou s nafukovacou manžetou môže poskytnúť
+mechanickú bariéru (O'Connor et al., 2019).
+
+-
+
+Uľahčenie toalety dýchacích ciest: U pacientov s nadmernou produkciou hlienov alebo
+s neschopnosťou efektívne kašľať a expektorovať (napr. pri cystickej fibróze,
+bronchiektáziách alebo po rozsiahlych operáciách hrudníka). Tracheostómia umožňuje
+pravidelné odsávanie sekrétov priamo z priedušnice (Durbin, 2015).
+
+Rozhodnutie o vykonaní tracheostómie je vždy individuálne a multidisciplinárne, zvažujúce
+potenciálne prínosy voči rizikám a celkovému stavu pacienta (Raimonde et al., 2025).
+1.1.2 KLASIFIKÁCIA TRACHEOSTÓMIE
+Tracheostómia sa môže klasifikovať podľa viacerých kritérií, predovšetkým podľa dĺžky
+trvania, techniky prevedenia a anatomického umiestnenia.
+Podľa dĺžky trvania rozlišujeme:
+-
+
+Dočasná tracheostómia: Vykonáva sa s očakávaním, že po vyriešení primárneho
+problému (napr. ústup edému, stabilizácia stavu, odvykanie od ventilátora) bude kanyla
+odstránená (dekanylovaná) a stómia sa prirodzene uzavrie (Durbin, 2015). Väčšina
+tracheostómií, najmä v prostredí intenzívnej starostlivosti, je dočasná.
+
+-
+
+Trvalá tracheostómia: Je indikovaná v prípadoch, keď je poškodenie alebo obštrukcia
+dýchacích ciest ireverzibilná, alebo keď je dlhodobá ochrana dýchacích ciest
+nevyhnutná (napr. po rozsiahlych resekciách hrtana pri rakovine, pri pokročilých
+neuromuskulárnych ochoreniach) (Johnson a Rosen, 2018). Stómia sa v týchto
+prípadoch udržiava otvorená trvalo.
+
+Podľa techniky prevedenia:
+-
+
+Chirurgická (otvorená) tracheostómia: Je tradičný postup, pri ktorom sa vykoná incízia
+na krku a priame rozdelenie tkanív až po priedušnicu, kde sa vytvorí stómia pod priamou
+vizualizáciou. Vykonáva sa zvyčajne na operačnej sále v celkovej anestézii (Higgins,
+2018).
+
+-
+
+Perkutánna dilatačná tracheostómia (PDT) je menej invazívna technika vykonávaná pri
+lôžku pacienta na jednotke intenzívnej starostlivosti, často pod bronchoskopickou
+kontrolou. Pri tomto postupe sa používajú špeciálne dilatačné nástroje na postupné
+rozšírenie otvoru v priedušnici. V porovnaní s otvorenou chirurgickou tracheostómiou
+13
+
+môže byť spojená s nižším výskytom niektorých komplikácií, ako je krvácanie a
+infekcia, najmä ak je vykonávaná skúseným personálom (Brasard, 2017).
+-
+
+Podľa anatomického umiestnenia:
+-
+
+Horná tracheostómia: Otvor sa vytvára nad štvrtým priedušnicovým prstencom.
+
+-
+
+Stredná tracheostómia: Otvor sa vytvára medzi druhým a štvrtým priedušnicovým
+prstencom.
+
+-
+
+Dolná tracheostómia: Otvor sa vytvára pod štvrtým priedušnicovým prstencom.
+
+Väčšina tracheostómií sa vykonáva v úrovni druhého až štvrtého tracheálneho prstenca, aby sa
+minimalizovalo riziko poškodenia hlasiviek a subglotického priestoru (Durbin, 2015).
+1.1.3 TRACHEOSTOMICKÉ KANYLY
+Tracheostomické kanyly sú zdravotnícke pomôcky určené na udržanie priechodnosti
+tracheostómie a zabezpečenie dýchania. Existuje široká škála typov a veľkostí, ktoré sa
+vyberajú individuálne pre každého pacienta na základe jeho anatomických potrieb, účelu
+tracheostómie a celkového klinického stavu (Cameron et al., 2016).
+Kľúčové charakteristiky a typy kanýl zahŕňajú:
+Materiál:
+-
+
+Plastové (PVC, silikón): Najčastejšie používané, sú flexibilné, biokompatibilné a
+dostupné v rôznych prevedeniach. Silikónové kanyly sú mäkšie a vhodné pre dlhodobé
+používanie.
+
+-
+
+Kovové: Historicky staršie, dnes sa používajú zriedkavejšie, najmä u niektorých
+pacientov s trvalými tracheostómiami pre ich odolnosť a možnosť sterilizácie.
+
+S manžetou (cuffed) vs. bez manžety (uncuffed):
+-
+
+S manžetou: Kanyly obsahujú nafukovací balónik (manžetu) na distálnom konci, ktorý
+po nafúknutí tesní priedušnicu. Zabraňujú aspirácii (vtekaniu tekutín do pľúc) a
+umožňujú efektívnu mechanickú ventiláciu. Sú však spojené s rizikom tlakovej nekrózy
+tracheálnej steny, ak je manžeta nadmerne nafúknutá (Nieswiadomy, 2018).
+
+-
+
+Bez manžety: Používajú sa u pacientov, ktorí nemajú riziko aspirácie a nevyžadujú
+mechanickú ventiláciu. Umožňujú prúdenie vzduchu okolo kanyly do hrtana, čo je
+dôležité pre fóniu (tvorbu hlasu) a postupné dekanylovanie. Sú bežné u pediatrických
+pacientov, kde manžeta môže poškodiť rastúcu priedušnicu.
+
+Fenestrované (fenestrated) vs. nefenestrované (unfenestrated):
+-
+
+Fenestrované kanyly: Majú jeden alebo viac otvorov (fenestrácií) na zadnej strane
+kanyly, ktoré umožňujú prúdenie vzduchu do hrtana a hlasiviek, keď je kanyla
+14
+
+zatvorená alebo manžeta vyfúknutá. Tým sa pacientovi umožňuje rozprávať alebo
+kašľať cez prirodzené dýchacie cesty. Sú vhodné pre pacientov v procese odvykania od
+ventilácie a pri nácviku reči (Nieswiadomy, 2018).
+-
+
+Nefenestrované kanyly: Nemajú otvory a vzduch prechádza iba cez kanylu. Používajú
+sa primárne na ventiláciu alebo pri vysokom riziku aspirácie.
+
+-
+
+Vnútorná kanyla (inner cannula): Mnohé typy kanýl majú vyberateľnú vnútornú kanylu,
+ktorá uľahčuje čistenie a zabraňuje obštrukcii hlienom bez nutnosti výmeny celej
+kanyly. Môže byť s okienkom alebo bez neho (Cameron et al., 2016).
+
+Typ zakončenia:
+-
+
+Štandardné zakončenie: Otvorené pre dýchanie.
+
+-
+
+S fonetickým ventilom (speaking valve): Umožňuje pacientovi rozprávať, keď je
+manžeta vyfúknutá. Ventil sa otvorí pri nádychu a uzavrie pri výdychu, smerujúc
+vzduch cez hlasivky (Johnson et al., 2019).
+
+Výber vhodného typu a veľkosti kanyly je rozhodujúci pre komfort pacienta, prevenciu
+komplikácií a úspešné odvykanie od tracheostómie. Je dôležité, aby si ošetrujúci personál bol
+vedomý špecifík každej kanyly a jej správneho používania.
+
+1.2 KOMPLIKÁCIE TRACHEOSTÓMIE
+Napriek tomu, že tracheostómia je život zachraňujúci zákrok, nie je bez rizík a môže byť
+spojená s rôznymi komplikáciami, ktoré sa môžu vyskytnúť v akútnej fáze (počas a krátko po
+zákroku) alebo v neskorom období pri dlhodobom používaní. Znalosť týchto komplikácií je
+kľúčová pre ich prevenciu, včasnú detekciu a efektívny manažment.
+Medzi perioperačné a skoré pooperačné komplikácie (do 7 dní) patrí:
+-
+
+Krvácanie: Patrí medzi najčastejšie komplikácie, môže byť mierne alebo závažné,
+vyžadujúce si revíziu (Fernandez-Bussy et al., 2015).
+
+-
+
+Pneumotorax/Pneumomediastínum: Nahromadenie vzduchu v pleurálnej dutine alebo v
+mediastíne, môže nastať pri poškodení pľúc alebo mediastinálnych štruktúr.
+
+-
+
+Poškodenie okolitých štruktúr: Napríklad recurrentného laryngeálneho nervu (vedie k
+paréze hlasiviek), ezofágu, veľkých ciev (Durbin, 2010)
+
+-
+
+Subkutánny emfyzém: Vzduch prenikajúci do podkožia, prejavujúci sa opuchom a
+praskavým zvukom pri palpácii).
+
+-
+
+Obštrukcia kanyly: Môže nastať zrazeninami, hlienom alebo malpozíciou kanyly. Je
+akútnou, život ohrozujúcou komplikáciou (Fernandez-Bussy et al., 2015).
+15
+
+-
+
+Dekanylovácia (neúmyselné odstránenie kanyly): Mimoriadne nebezpečná najmä v
+ranom pooperačnom období, kedy stómia ešte nie je stabilizovaná a môže sa rýchlo
+uzavrieť (Durbin, 2010)
+
+-
+
+Infekcia: Infekcia v mieste stómie alebo tracheobronchitída, pneumónia (FernandezBussy et al., 2015).
+
+Medzi neskoré komplikácie (po 7 dňoch) radíme:
+-
+
+Granulácie a jazvenie: Tvorba granulačného tkaniva v oblasti stómie alebo v trachei, čo
+môže viesť k obštrukcii dýchacích ciest (Lais et al., 2025).
+
+-
+
+Tracheálna stenóza: Zúženie priedušnice, často v mieste stómie alebo v dôsledku tlaku
+manžety, môže si vyžadovať chirurgickú korekciu (Lais et al., 2025).
+
+-
+
+Tracheoezofageálna fistula: Abnormálne spojenie medzi tracheou a pažerákom,
+zriedkavá, ale závažná komplikácia, ktorá vedie k aspirácii (Umstot et al., 2024).
+
+-
+
+Tracheoinnominátna fistula: Vytvorenie spojenia medzi tracheou a brachiocefalickou
+artériou (truncus brachiocephalicus), extrémne zriedkavá, ale masívna a život
+ohrozujúca krvácavá komplikácia (Lais et al., 2025).
+
+-
+
+Problémy s fóniou a komunikáciou: Pretrvávajúce problémy s tvorbou hlasu alebo
+neschopnosťou rozprávať, čo má významný dopad na kvalitu života pacienta (Lais et
+al., 2025).
+
+-
+
+Kozmetické problémy a psychologické dopady: Stigmatizácia spojená s viditeľnou
+kanylou, zmeny obrazu tela, úzkosť, depresia a sociálna izolácia (Umstot et al., 2024).
+
+-
+
+Ťažkosti s prehĺtaním (dysfágia): Prítomnosť kanyly môže interferovať s mechanizmom
+prehĺtania, čo môže pretrvávať aj po dekanylování (Lais et al., 2025).
+
+Efektívna ošetrovateľská starostlivosť, edukácia pacienta a jeho rodiny o správnej starostlivosti
+o tracheostómiu a včasné rozpoznanie príznakov komplikácií sú kľúčové pre minimalizáciu ich
+výskytu a zlepšenie celkového výsledku pre pacienta (Čechová a kol., 2018).
+
+16
+
+1.3 OŠETROVATEĽSKÁ
+
+STAROSTLIVOSŤ
+
+O
+
+PACIENTA
+
+S TRACHEOSTÓMIOU
+Ošetrovateľská starostlivosť o pacienta s tracheostómiou je komplexná a vyžaduje si vysokú
+úroveň odborných vedomostí, praktických zručností a empatického prístupu. Tracheostómia
+ovplyvňuje nielen fyziologické funkcie dýchania, ale má aj významné psychosociálne dôsledky
+pre pacienta a jeho blízkych. Cieľom ošetrovateľskej starostlivosti je zabezpečiť priechodnosť
+dýchacích ciest, predchádzať komplikáciám, podporovať komfort pacienta, uľahčiť
+komunikáciu a podporiť adaptáciu na zmenenú životnú situáciu. Sestra zohráva kľúčovú úlohu
+v koordinácii starostlivosti a edukácii pacienta a jeho rodiny (Mahfoz, 2022; Queirós et al.,
+2021).
+Starostlivosť o pacienta s tracheostómiou je mnohostranná a musí byť individuálne
+prispôsobená potrebám každého pacienta. Zahŕňa nielen priame ošetrovateľské intervencie
+zamerané na tracheostómiu samotnú, ale aj celkovú podporu pacienta. Kľúčové aspekty
+všeobecnej starostlivosti zahŕňajú monitoring vitálnych funkcií, posúdenie stavu dýchacích
+ciest, zabezpečenie hydratácie a adekvátnej výživy, manažment bolesti a nepríjemných pocitov,
+ako aj prevenciu infekcií (Ernstmeyer a Christman, 2021).
+Pri ošetrovateľskej starostlivosti o pacienta s tracheostómiou je kľúčové kontinuálne
+posudzovať jeho klinický stav, vrátane monitorovania respiračnej funkcie, saturácie kyslíkom,
+respiračnej frekvencie, farby kože a ďalších vitálnych parametrov, ako aj včasného rozpoznania
+symptómov respiračnej tiesne alebo zmeny charakteru sekrétov, ktoré môžu signalizovať
+komplikácie ako obštrukcia dýchacích ciest, infekcia či krvácanie (Ernstmeyer a Christman,
+2021).
+Zabezpečenie adekvátnej hydratácie, či už perorálne alebo intravenózne, je kľúčové pre
+udržanie vlhkosti dýchacích ciest a riedenie hlienu, čo uľahčuje jeho odsávanie a znižuje riziko
+obštrukcie tracheostomickej kanyly, keďže nedostatočná hydratácia vedie k zvýšenej viskozite
+sekrétov a zhoršeniu ich eliminácie (St George’s University Hospitals NHS Foundation Trust,
+n.d.). Polohovanie pacienta, najmä do polosedu, môže optimalizovať ventiláciu a znížiť riziko
+aspirácie. Okrem toho je nevyhnutné venovať pozornosť hygiene ústnej dutiny, a to aj u
+intubovaných pacientov, aby sa predišlo infekciám (Mullerová a kol., 2023).
+Celková ošetrovateľská starostlivosť by mala byť vždy zameraná na podporu nezávislosti
+pacienta, ak je to možné, a na jeho aktívne zapojenie do starostlivosti o vlastnú tracheostómiu.
+
+17
+
+Hygiena tracheostómie a pravidelná výmena kanýl sú kritické pre prevenciu infekcií a udržanie
+priechodnosti dýchacích ciest. Sterilné techniky musia byť prísne dodržiavané, najmä v
+nemocničnom prostredí, a aseptické v domácej starostlivosti (Davies, 2016).
+Starostlivosť o stómiu: Koža okolo stómie musí byť udržiavaná v čistote a suchu. Pravidelne
+(minimálne raz denne, alebo častejšie podľa potreby) sa čistí okolie stómie sterilným
+fyziologickým roztokom a gázou, pričom sa odstraňujú hlien, krusty a iné nečistoty. Použitie
+špeciálnych podložiek pod kanylu môže zabrániť macerácii kože a tlakovým vredom. Dôležité
+je tiež pravidelne kontrolovať upevnenie tracheostomických pásikov, aby neboli príliš voľné
+(riziko dekanylovácie) ani príliš tesné (riziko tlakových poranení krku) (Cameron et al., 2016).
+Čistenie a výmena vnútornej kanyly: Ak má kanyla vnútornú kanylu, tá sa vyberá, čistí a mení
+podľa pokynov výrobcu, zvyčajne každých 8-12 hodín, alebo častejšie v závislosti od množstva
+sekrétov. Čistí sa teplou vodou a kefkou, prípadne špeciálnym čistiacim roztokom, a potom sa
+dôkladne opláchne a vysuší, než sa znovu zavedie (Davies, 2016).
+Výmena celej kanyly: Frekvencia výmeny celej kanyly závisí od typu kanyly a klinického stavu
+pacienta, obvykle každých 7-30 dní. Prvá výmena by mala byť vykonaná lekárom po
+stabilizácii stómie, následné výmeny môžu vykonávať edukované sestry alebo v niektorých
+prípadoch aj pacienti alebo ich rodinní príslušníci v domácom prostredí (NHS, 2016). Pred
+výmenou je potrebné pripraviť všetko potrebné sterilné vybavenie, vrátane novej kanyly
+rovnakej alebo o niečo menšej veľkosti pre prípadné komplikácie. Pacient by mal byť
+informovaný a polohovaný tak, aby bol zákrok pre neho čo najmenej stresujúci. Je nevyhnutné,
+aby sestra poznala techniku výmeny a bola pripravená na riešenie možných komplikácií, ako je
+neschopnosť znovu zaviesť kanylu alebo krvácanie (Nieswiadomy, 2018).
+Odsávanie sekrétov z trachey a tracheobronchiálneho stromu je neoddeliteľnou súčasťou
+starostlivosti o pacienta s tracheostómiou, ktorej cieľom je udržanie priechodnosti dýchacích
+ciest a prevencia obštrukcie (Cleveland Clinic, 2023).
+Indikácie na odsávanie: Odsávanie by sa malo vykonávať len vtedy, keď je to klinicky
+indikované, nie rutinne. Indikácie zahŕňajú počuteľný hlien v dýchacích cestách, zjavné sekréty
+v kanyle, prítomnosť kašľa, zhoršenie dýchania, pokles saturácie kyslíkom, alebo subjektívny
+pocit dýchavičnosti u pacienta (Marietta et al., 2025).
+Technika odsávania: Používa sa sterilná technika s jednorazovými odsávacími katétrami. Pred
+odsávaním sa pacient preoxygenuje (zvýšenie prívodu kyslíka) a po ňom sa ventilácia obnoví.
+Katéter sa zavádza bez aktívneho odsávania až do pocitu odporu (alebo do predpísanej hĺbky)
+a potom sa pomaly vyťahuje s rotáciou a aktívnym odsávaním, pričom jeden odsávací manéver
+
+18
+
+by nemal trvať dlhšie ako 10-15 sekúnd. Je dôležité vyhnúť sa nadmernému a častému
+odsávaniu, ktoré môže viesť k traume sliznice a bronchospazmu (Oseh, 2023).
+Frekvencia a monitorovanie: Frekvencia odsávania sa líši v závislosti od množstva a hustoty
+sekrétov. Pacient sa počas a po odsávaní monitoruje na známky hypoxie, bradykardie alebo
+iných nežiaducich reakcií. Dokumentuje sa množstvo, farba a konzistencia sekrétov (Smith et
+al., 2017). Zabezpečenie dostatočnej hydratácie a zvlhčovania vzduchu je kľúčové pre riedenie
+hlienu a zníženie potreby odsávania (Ernstmeyer a Christman, 2021).
+
+1.4 KOMUNIKÁCIA PACIENTA S TRACHEOSTÓMIOU
+Komunikácia je základnou ľudskou potrebou a jej narušenie u pacientov s tracheostómiou patrí
+medzi najvýraznejšie stresory, ktoré znižujú kvalitu života a obmedzujú interakciu s okolím.
+Ak pacient nemôže hovoriť (napr. kvôli nafúknutej manžete alebo po laryngektómii), je
+nevyhnutné použiť alternatívne komunikačné metódy, ako sú komunikačné tabuľky, gestá
+alebo hovorové ventily, ktoré obnovujú schopnosť sebavyjadrenia a zlepšujú kvalitu života
+(Gentile et al., 2024).
+Alternatívne metódy komunikácie:
+-
+
+Písanie a gestá: Jednoduché tabuľky s písmenami alebo obrázkami, písanie na papier,
+tablety alebo mobilné telefóny.
+
+-
+
+Hlasové ventily (speaking valves): Ak je to možné a bezpečné, použitie fonetického
+ventilu na kanyle môže umožniť prúdenie vzduchu cez hlasivky a obnoviť hlas.
+Vyžaduje si vyfúknutú manžetu a koordináciu s dýchacím úsilím pacienta (Johnson et
+al., 2019).
+
+-
+
+Elektronické hlasové generátory: Pre pacientov s laryngektómiou, ktorí stratili hlas.
+
+-
+
+Orálne a mimické prejavy: Čítanie z pier, gestá, výrazy tváre.
+
+Sestra musí proaktívne identifikovať a podporovať najefektívnejšiu komunikačnú metódu pre
+každého pacienta. Dôležité je venovať pacientovi plnú pozornosť, byť trpezlivá, používať
+krátke a jednoduché vety, pýtať sa áno/nie otázky a poskytnúť dostatok času na odpoveď.
+Zabezpečenie komunikačných pomôcok a edukácia rodiny o ich používaní je taktiež kľúčová.
+Efektívna komunikácia znižuje pocit izolácie a frustrácie, posilňuje dôstojnosť pacienta a
+zlepšuje jeho psychosociálnu pohodu (Gentile et al., 2024).
+
+19
+
+1.5 VÝŽIVA PACIENTA S TRACHEOSTÓMIOU
+Adekvátna výživa je esenciálna pre rekonvalescenciu, hojenie rán a udržanie imunity pacienta
+s tracheostómiou. Prítomnosť kanyly však môže komplikovať príjem potravy a tekutín (Skoretz
+et al., 2020).
+Tracheostómia môže narušiť normálny mechanizmus prehĺtania, čím sa zvyšuje riziko aspirácie
+a rozvoja dysfágie. Tento stav môže byť spôsobený obmedzeným pohybom hrtana, zníženou
+senzitivitou faryngu a trachey v dôsledku prítomnosti kanyly, ako aj narušením tlakového
+prostredia v hrtane (Goff, 2017). Všetci pacienti s tracheostómiou by mali byť posúdení na
+riziko dysfágie a v prípade potreby by mala byť konzultovaná logopedička (Skoretz et al.,
+2020).
+Metódy výživy:
+-
+
+Orálna výživa: Ak je prehĺtanie bezpečné, pacient môže prijímať upravenú stravu (napr.
+kašovitá, mletá, zahustená tekutina). Je potrebné dbať na správnu polohu pacienta počas
+jedla, pomalé tempo a dôkladné žuvanie. V prípade kanyly s manžetou môže byť
+potrebné manžetu pred jedlom vyfúknuť (po konzultácii s lekárom a posúdení rizika
+aspirácie).
+
+-
+
+Enterálna výživa: Ak je orálny príjem nemožný alebo nedostatočný, zavedie sa
+enterálna
+
+výživa
+
+prostredníctvom
+
+nazogastrickej
+
+sondy,
+
+gastrostómie
+
+alebo
+
+jejunostómie. Tieto metódy zabezpečujú prísun živín priamo do tráviaceho traktu (AlHamwi at al., 2019).
+-
+
+Parenterálna výživa: V závažných prípadoch, keď enterálna cesta nie je možná, sa
+pristupuje k parenterálnej výžive, ktorá dodáva živiny intravenózne.
+
+Sestra monitoruje príjem potravy, sleduje známky aspirácie (napr. kašeľ, cyanóza, horúčka),
+váhu pacienta, a spolupracuje s logopedičkou a nutričnou terapeutkou na vytvorení optimálneho
+nutričného plánu. Edukuje pacienta a rodinu o bezpečných technikách stravovania (Garrity et
+al., 2018).
+
+20
+
+1.6 PSYCHOSOCIÁLNE ASPEKTY STAROSTLIVOSTI
+Psychosociálne aspekty starostlivosti o pacienta s tracheostómiou sú rovnako dôležité ako
+fyzická starostlivosť. Život s tracheostómiou predstavuje výraznú zmenu a môže viesť k celému
+radu psychologických a sociálnych problémov (Jurys et al., 2025).
+Psychologické dopady: Pacienti s tracheostómiou často prežívajú výraznú psychickú záťaž,
+ktorá sa prejavuje úzkosťou, strachom – najmä obavami z udusenia alebo náhleho uvoľnenia
+kanyly – ako aj pocitmi frustrácie, bezmocnosti a sociálneho odstupu (Nakarada-Kordic et al.,
+2018). Zmenený obraz tela v dôsledku viditeľnej kanyly môže viesť k zníženému sebavedomiu,
+pocitom hanby a sociálnej stigmatizácii (Jurys et al., 2025). Neschopnosť komunikovať
+verbálne prispieva k frustrácii a pocitom izolácie. Sestra by mala aktívne monitorovať
+psychický stav pacienta, všímať si zmeny v správaní a zabezpečiť psychologickú podporu,
+prípadne konzultáciu s klinickým psychológom (Brenner et al., 2025).
+Sociálne dopady: Komunikačné bariéry a zmenený vzhľad môžu viesť k sociálnej izolácii.
+Pacienti sa môžu vyhýbať spoločenským aktivitám, čo má negatívny vplyv na ich sociálne
+vzťahy a podpornú sieť (Negi et al., 2024). Návrat do práce alebo k hobby činnostiam je často
+náročný. Rodinní príslušníci tiež prežívajú záťaž spojenú s úlohou opatrovateľa a s vlastnými
+obavami o pacienta. Sestra by mala podporovať sociálnu interakciu, zapájať rodinu do
+starostlivosti a poskytovať poradenstvo o dostupných podporných skupinách a komunitných
+zdrojoch (Negi et al., 2024).
+Podpora adaptácie: Kľúčové je pomôcť pacientovi a jeho rodine adaptovať sa na život s
+tracheostómiou.
+
+To
+
+zahŕňa
+
+edukáciu,
+
+psychologickú
+
+podporu,
+
+povzbudzovanie
+
+k
+
+sebastarostlivosti a postupnému návratu k aktivitám každodenného života. Individualizovaný
+prístup, rešpektovanie hodnôt pacienta a podpora jeho autonómie sú nevyhnutné
+(Tracheostomy UK, 2025).
+
+1.7 ÚLOHA SESTRY V EDUKÁCIÍ PACIENTA
+Sestra zohráva nezastupiteľnú úlohu pri edukácii pacienta s tracheostómiou a jeho rodiny.
+Kvalitná edukácia je základom pre bezpečnú a efektívnu starostlivosť v domácom prostredí,
+prevenciu komplikácií a zlepšenie kvality života (OpenStax, 2023).
+Edukačný plán by mal byť komplexný a zahŕňať:
+21
+
+-
+
+Základné informácie o tracheostómii: Vysvetlenie zákroku, jeho účelu a vplyvu na
+dýchanie.
+
+-
+
+Starostlivosť o tracheostómiu: Správna hygiena stómie, čistenie vnútornej kanyly,
+technika výmeny celej kanyly (ak ju bude vykonávať pacient/rodina), manipulácia s
+tracheostomickými pásikmi.
+
+-
+
+Odsávanie sekrétov: Správna technika, kedy odsávať, aké pomôcky používať a ako ich
+sterilizovať/dezinfikovať.
+
+-
+
+Rozpoznanie a riešenie komplikácií: Príznaky infekcie, obštrukcie kanyly, krvácania,
+dekanylovácie a postup pri riešení krízových situácií.
+
+-
+
+Komunikácia: Používanie alternatívnych komunikačných metód a hlasových ventilov,
+ak sú indikované.
+
+-
+
+Výživa: Bezpečné techniky stravovania, úprava stravy, monitorovanie príjmu a známok
+aspirácie.
+
+-
+
+Cestovanie a životný štýl: Rady pre bezpečné cestovanie, prispôsobenie aktivít (napr.
+sprchovanie, plávanie), vplyv na prácu a spoločenský život.
+
+-
+
+Psychosociálna podpora: Informácie o podporných skupinách, psychologickej pomoci
+a adaptácii na zmenený životný štýl (Tracheostomy UK, 2025).
+
+Edukácia by mala byť postupná, opakovaná a prispôsobená individuálnym schopnostiam
+pacienta a rodiny. Využívajú sa rôzne metódy, ako demonštrácie, praktický nácvik zručností,
+písomné materiály, videá a otázky/odpovede. Je dôležité overiť pochopenie informácií a
+zručností. Sestra funguje ako kľúčový edukátor a advokát pacienta, čím prispieva k jeho
+empowermentu a zvýšeniu kvality života (OpenStax, 2023)
+
+1.8 KVALITA ŽIVOTA PACIENTA S TRACHEOSTÓMIOU
+Kvalita života predstavuje komplexný a multidimenzionálny koncept, ktorý nadobúda v
+kontexte súčasnej medicíny a ošetrovateľstva čoraz väčší význam. Východiskovým bodom
+hodnotenia zdravotného stavu a efektivity liečebných intervencií už nie je len prežitie alebo
+potlačenie symptómov, ale celková spokojnosť a pohoda jednotlivca. Cieľom moderného
+zdravotníctva je nielen predĺžiť život, ale zabezpečiť aj jeho kvalitu, čo zahŕňa fyzické,
+psychické a sociálne blaho (Gurková, 2011).
+
+22
+
+Definícia kvality života (QoL – Quality of Life) je široká a reflektuje subjektívne vnímanie
+jedinca o svojej pozícii v živote v kontexte kultúrnych a hodnotových systémov, v ktorých žije,
+a vo vzťahu k jeho cieľom, očakávaniam, štandardom a obavám (WHOQOL Group., 1995).
+Svetová zdravotnícka organizácia (WHO) definuje kvalitu života ako „jedincovo vnímanie jeho
+postavenia v živote v kontexte kultúrneho a hodnotového systému, v ktorom žije, a vo vzťahu
+k jeho cieľom, očakávaniam, štandardom a obavám“ (WHOQOL Group., 1998). Tento koncept
+je komplexný a multidimenzionálny, zahŕňa fyzické zdravie, psychologický stav, úroveň
+nezávislosti, sociálne vzťahy, osobné presvedčenia a vzťah k výrazným črtám životného
+prostredia (WHOQOL Group., 1998).
+Dôležité je zdôrazniť subjektívny charakter kvality života, keďže to, čo je pre jedného človeka
+znakom kvalitného života, nemusí byť pre druhého (Rapley, 2017). Jedinec sám je najlepším
+sudcom svojej kvality života, čo robí meranie a interpretáciu tohto konceptu náročným, ale
+zároveň nevyhnutným pre personalizovanú starostlivosť. Nejde len o absenciu choroby
+alebo diskomfortu, ale o celkový stav pohody, spokojnosti a schopnosti plnohodnotne žiť v
+súlade so svojimi hodnotami (Gurková, 2022). Kvalita života je dynamický jav, ktorý sa mení
+v čase a je ovplyvňovaný rôznymi internými (napr. zdravotný stav, osobnostné črty) a
+externými faktormi (napr. sociálno-ekonomické podmienky, dostupnosť služieb) (Rapley,
+2017). Jej hodnotenie umožňuje hlbšie porozumenie potrieb pacienta a poskytuje komplexnejší
+obraz o jeho celkovom stave, presahujúc čisto biomedicínske ukazovatele (Calman, 1984).
+V zdravotníctve sa často hovorí o kvalite života súvisiacej so zdravím (HRQoL – HealthRelated Quality of Life). Táto užšia koncepcia sa zameriava na aspekty kvality života, ktoré sú
+priamo ovplyvnené zdravotným stavom, chorobou alebo liečbou. HRQoL je teda špecifická
+podmnožina celkovej kvality života, ktorá zohľadňuje vplyv ochorenia a jeho dôsledkov na
+fyzické fungovanie, emocionálnu pohodu a sociálne interakcie.
+Hodnotenie HRQoL sa stalo kľúčovým nástrojom v klinickej praxi a vo výskume z viacerých
+dôvodov. Umožňuje poskytovať starostlivosť zameranú na pacienta, ktorá presahuje čisto
+medicínske parametre a zohľadňuje jeho celkové blaho a perspektívu (Herdman et al., 2019).
+V prípade chronických ochorení, ktoré nemožno úplne vyliečiť, alebo v paliatívnej
+starostlivosti, sa zlepšenie kvality života stáva primárnym cieľom liečby a často je dôležitejšie
+ako predĺženie života za každú cenu (Gill and Feinstein, 2015). Meranie HRQoL pomáha
+lekárom a sestrám porozumieť, ako choroba a jej liečba ovplyvňujú každodenný život pacienta,
+jeho funkčné schopnosti, emocionálny stav a sociálne interakcie (Dodd Sb, et al., 2018). Tieto
+informácie sú cenné pri výbere terapeutických postupov, sledovaní ich efektivity, pri hodnotení
+dopadu nových liečebných metód a pri identifikácii oblastí, kde je potrebná intenzívnejšia
+23
+
+podpora. Okrem toho, meranie HRQoL je dôležité pri hodnotení nákladovej efektívnosti
+zdravotníckych intervencií, pri formulovaní zdravotníckych politík a pri alokácii zdrojov,
+keďže poskytuje dôkazy o tom, ako rôzne intervencie zlepšujú pacientov život (Gill a Feinstein,
+2015; Herdman et al., 2019).
+Kvalita života je výsledkom komplexnej interakcie mnohých faktorov, ktoré možno
+kategorizovať do niekoľkých hlavných domén:
+-
+
+Fyzické zdravie: Táto doména zahŕňa telesnú pohodu a funkčné schopnosti. Patria sem
+aspekty ako prítomnosť bolesti (akútnej aj chronickej), únavy, úroveň energie a vitality,
+kvalita spánku, mobilita, fyzická aktivita a celková funkčná zdatnosť (Krokos
+and Rountree, 2019). Chronické ochorenia, telesné obmedzenia, strata zmyslových
+funkcií a nežiaduce účinky liečby (napr. nauzea, anorexia) môžu významne znížiť
+fyzickú doménu kvality života, ovplyvňujúc schopnosť vykonávať bežné denné aktivity
+(Gill a Feinstein, 2015).
+
+-
+
+Psychologický stav: Emocionálna a mentálna pohoda je kľúčová pre celkovú kvalitu
+života. Zahŕňa prítomnosť alebo absenciu úzkosti, depresie, stresu, pocit šťastia,
+spokojnosti, sebaúctu, sebavedomie, ako aj kognitívne schopnosti (pamäť,
+koncentrácia, schopnosť učiť sa). Schopnosť vyrovnať sa s chorobou, adaptovať sa na
+zmenené životné podmienky a mať pocit kontroly nad svojím životom sú taktiež
+dôležitými psychologickými determinantmi kvality života (Rapley, 2017).
+
+-
+
+Sociálne vzťahy: Kvalita a rozsah sociálnych interakcií a podpory sú neoddeliteľnou
+súčasťou kvality života. Patria sem kvalita rodinných vzťahov, priateľstiev,
+partnerských vzťahov, sociálna podpora zo strany blízkych, pocit spolupatričnosti a
+účasť na spoločenských aktivitách (Cohen and Janicki-Deverts, 2017). Sociálna
+izolácia, konflikty vo vzťahoch, diskriminácia alebo stigmatizácia môžu mať výrazne
+negatívny dopad na vnímanú kvalitu života (Gill and Feinstein, 2015).
+
+-
+
+Úroveň nezávislosti: Táto doména sa týka schopnosti jedinca samostatne fungovať a
+rozhodovať o svojom živote. Zahŕňa schopnosť vykonávať bežné denné aktivity
+(hygiena, obliekanie, stravovanie, prácu), závislosť na pomoci druhých, finančnú
+autonómiu a celkový pocit kontroly nad vlastným životom (WHOQOL group, 1995).
+Strata nezávislosti, či už fyzickej alebo ekonomickej, môže viesť k pocitom
+bezmocnosti a frustrácie.
+
+-
+
+Environmentálne faktory: Prostredie, v ktorom jedinec žije, má významný vplyv na jeho
+kvalitu života. Sem patrí bezpečnosť a dostupnosť bývania, prístup k zdravotníckym a
+sociálnym službám, finančná situácia, kvalita životného prostredia (napr. čistota
+24
+
+vzduchu, hluk), príležitosti pre rekreáciu a voľný čas, prístup k vzdelaniu a celková
+spoločenská podpora (WHOQOL group, 1998). Tieto externé faktory môžu buď
+uľahčovať alebo sťažovať dosahovanie osobnej pohody.
+-
+
+Osobné presvedčenia a spiritualita: Pre mnohých jedincov zohráva dôležitú úlohu ich
+systém hodnôt, osobné presvedčenia, náboženské alebo duchovné presvedčenia a pocit
+zmyslu života. Tieto aspekty môžu poskytovať oporu v náročných životných situáciách,
+pomáhať pri zvládaní stresu a ovplyvňovať celkové vnímanie pohody a spokojnosti so
+životom (Pargament, 2019).
+
+Tieto faktory sa navzájom ovplyvňujú a ich dynamická interakcia formuje celkovú kvalitu
+života jedinca, pričom žiadna z domén by nemala byť izolovaná od ostatných (Calman, 1984).
+Pacienti s tracheostómiou predstavujú špecifickú klinickú skupinu, u ktorej sú všetky vyššie
+uvedené domény kvality života významne ovplyvnené prítomnosťou tracheostomickej kanyly
+a súvisiacimi obmedzeniami. Hoci tracheostómia je často život zachraňujúci zákrok, jej
+dôsledky presahujú fyziologické aspekty a dotýkajú sa hlboko psychosociálnej sféry života
+pacienta a jeho rodiny (Brenner et al., 2025).
+Fyzická doména: Pacienti s tracheostómiou často zažívajú bolesť, diskomfort alebo pocit
+cudzieho telesa v oblasti stómie (Nakarada-Kordic et al., 2018). Môžu sa stretnúť so zmenenou
+citlivosťou krku, chronickým kašľom, nadmernou tvorbou hlienov a potrebou ich pravidelného
+odsávania, čo môže byť fyzicky aj psychicky vyčerpávajúce (Epstein-Lubow GP, et al., 2018).
+Obmedzená mobilita, problémy so spánkom v dôsledku dýchania cez kanylu, únava a znížená
+fyzická aktivita sú časté, čo ovplyvňuje pocit telesnej integrity a samostatnosti (NakaradaKordic et al., 2018). Tieto fyzické obmedzenia vedú k zníženej participácii na bežných denných
+aktivitách a k pocitu zníženej vitality.
+Psychologická doména: Jedným z najvýraznejších psychologických stresorov je strata hlasu
+alebo sťažená komunikácia, čo môže viesť k frustrácii, sociálnej izolácii, úzkosti a depresii.
+Pacienti sa často cítia bezmocní, osamelí a môžu trpieť zníženým sebavedomím a zmeneným
+obrazom tela v dôsledku viditeľnej stómie (Epstein-Lubow GP, et al., 2018; Brenner et al.,
+2025). Pacienti s tracheostómiou často prežívajú dlhodobý pocit ohrozenia súvisiaci s možnými
+komplikáciami, ako je vypadnutie kanyly, infekcia, krvácanie alebo riziko zadusenia. Táto
+neustála obava môže viesť k zvýšenej úzkosti, pocitom zraniteľnosti a strate kontroly nad
+vlastným telom. Okrem fyzických rizík sa u mnohých pacientov objavuje aj sociálne stiahnutie,
+
+25
+
+znížené sebavedomie a pocity stigmatizácie, čo významne negatívne ovplyvňuje ich kvalitu
+života (Nakarada-Kordic et al., 2018).
+Sociálna doména: Komunikačné bariéry, ktoré vyplývajú z neschopnosti hovoriť alebo
+sťaženého vyjadrovania, často vedú k sociálnej izolácii a obmedzujú účasť na spoločenských a
+rodinných aktivitách (McGrath et al., 2012). Pacienti sa môžu cítiť nepochopení, iní, alebo sa
+môžu obávať reakcií okolia, čo narúša ich sociálne vzťahy a môže viesť k pocitu osamelosti.
+Návrat do práce, k hobby činnostiam alebo k bežným spoločenským interakciám je často
+problematický a vyžaduje si výraznú adaptáciu (Brenner et al., 2025).
+Starostlivosť o tracheostomovaného pacienta vyžaduje komplexné samosprávne úlohy, ktoré
+ovplyvňujú každodennú autonómiu osoby, často si vyžadujú špecifické zručnosti a pomoc
+opatrovateľov, čo môže znižovať pocit samostatnosti a nezávislosti (Weidlich et al., 2023).
+Potreba odsávania sekrétov, čistenia kanyly a zvládania prípadných akútnych situácií vedie k
+vyššej závislosti na rodine alebo ošetrovateľoch, čo môže ovplyvniť rodinnú dynamiku a viesť
+k preťaženiu opatrovateľov (Negi et al., 2024).
+Environmentálna doména: Pacienti s tracheostómiou potrebujú špecifické vybavenie a
+pomôcky pre starostlivosť o stómiu, čo môže predstavovať finančnú záťaž (Nakarada-Kordic
+et al., 2018). Starostlivosť o pacientov s tracheostómiou často obmedzuje ich aktivity v bežnom
+prostredí, napríklad nesmú plávať ani sa ponárať do vody, aby sa zabránilo komplikáciám
+(Memorial Sloan Kettering Cancer Center, 2026). Z tohto dôvodu je nevyhnutné upraviť
+domáce prostredie, zabezpečiť pravidelnú zdravotnícku starostlivosť a rehabilitáciu a
+poskytnúť pacienta a opatrovateľom potrebnú edukáciu pre bezpečný výkon starostlivosti doma
+(Cordeiro et al., 2024).
+Sestra zohráva kľúčovú úlohu pri podpore a zlepšovaní kvality života týchto pacientov.
+Edukácia o správnej starostlivosti o stómiu, podpora alternatívnych foriem komunikácie (napr.
+písanie, gestá, hlasové protezy), psychologická podpora, poradenstvo pre pacientov a ich
+rodiny, a aktívna pomoc pri adaptácii na novú životnú situáciu sú nevyhnutné pre dosiahnutie
+čo najlepšej kvality života (Queirós et al., 2021). Systematické hodnotenie kvality života
+pomocou štandardizovaných nástrojov, ako je WHOQOL-BREF, umožňuje identifikovať
+konkrétne oblasti, ktoré si vyžadujú cielenú intervenciu a individualizovaný ošetrovateľský
+plán, čím sa optimalizuje komplexná starostlivosť (Cameron et al., 2016).
+
+26
+
+2 METODIKA PRIESKUMU
+Tracheostómia patrí medzi často vykonávané chirurgické zákroky zabezpečujúce priechodnosť
+dýchacích ciest u pacientov s rôznymi ochoreniami horných dýchacích ciest alebo pri dlhodobej
+ventilácii. Hoci ide o život zachraňujúci výkon, prítomnosť tracheostomickej kanyly môže
+významne ovplyvniť každodenný život pacienta a jeho celkové fungovanie. Pacienti s
+tracheostómiou často čelia viacerým fyzickým aj psychosociálnym problémom, ako sú poruchy
+komunikácie, problémy s prehĺtaním, zmeny telesného obrazu či obmedzenie sociálnych aktivít
+(Canbolat Seyman and Şenol Çelik, 2020).
+Tieto faktory môžu viesť k zníženiu kvality života v rôznych oblastiach, vrátane fyzického
+zdravia, psychického prežívania, sociálnych vzťahov a životného prostredia. Výskumy
+poukazujú na to, že tracheostómia môže negatívne ovplyvniť viaceré dimenzie života pacienta
+a znížiť jeho subjektívne vnímanie zdravotného stavu a celkovej pohody (Goff, 2017).
+Z tohto dôvodu sa v súčasnosti čoraz väčší dôraz kladie nielen na samotnú liečbu a
+ošetrovateľskú starostlivosť o pacientov s tracheostómiou, ale aj na hodnotenie ich kvality
+života. Hodnotenie kvality života umožňuje komplexnejšie posúdiť dopad ochorenia a liečby
+na každodenné fungovanie pacienta a môže prispieť k zlepšeniu poskytovanej zdravotnej
+starostlivosti (Fernandez-Bussy et al., 2015).
+Na meranie kvality života sa často využívajú štandardizované dotazníky, medzi ktoré patrí aj
+dotazník WHOQOL-BREF vyvinutý Svetovou zdravotníckou organizáciou. Tento nástroj
+umožňuje hodnotiť kvalitu života v štyroch základných doménach: fyzické zdravie, psychické
+prežívanie, sociálne vzťahy a prostredie (World Health Organization, 1996).
+Na základe uvedených skutočností sa prieskumný problém tejto práce zameriava na zistenie,
+aká je kvalita života pacientov s tracheostómiou a ktoré oblasti života sú prítomnosťou
+tracheostómie najviac ovplyvnené. Zároveň sa skúma, ako pacienti subjektívne hodnotia svoju
+kvalitu života v jednotlivých doménach – fyzické zdravie, psychické prežívanie, sociálne
+vzťahy a prostredie – prostredníctvom dotazníka WHOQOL-BREF.
+
+27
+
+2.1PRIESKUMNÉ CIELE, OTÁZKY A HYPOTÉZY
+Hlavným cieľom prieskumu je zistiť kvalitu života pacientov s tracheostómiou.
+Na naplnenie hlavného cieľa sme stanovili nasledovné čiastkové ciele:
+-
+
+Zistiť celkovú úroveň kvality života pacientov s tracheostómiou, hodnotenú
+prostredníctvom dotazníka WHOQOL-BREF.
+
+-
+
+Identifikovať domény dotazníka WHOQOL-BREF, v ktorých pacienti s tracheostómiou
+dosahujú najnižšie a najvyššie skóre.
+
+-
+
+Posúdiť súvislosť medzi subjektívne vnímanou prítomnosťou zdravotného problému a
+kvalitou života pacientov s tracheostómiou.
+
+-
+
+Analyzovať potenciálne rozdiely v kvalite života pacientov s tracheostómiou s ohľadom
+na ich pohlavie a vek.
+
+Prieskumné otázky:
+1. Aká je úroveň kvality života pacientov s tracheostómiou podľa dotazníka WHOQOLBREF?
+2. V ktorých doménach WHOQOL-BREF dosahujú pacienti s tracheostómiou najnižšie a
+najvyššie skóre?
+3. Ako pacienti s tracheostómiou subjektívne vnímajú svoju kvalitu života a zdravie ?
+Hypotézy:
+H1: Predpokladá sa, že existujú štatisticky významné rozdiely v kvalite života pacientov s
+tracheostómiou v závislosti od veku.
+H2: Predpokladá sa, že pacienti s tracheostómiou dosahujú nižšie skóre kvality života v
+jednotlivých doménach WHOQOL-BREF v porovnaní s normatívnymi hodnotami.
+
+2.2CHARAKTERISTIKA PRIESKUMNEJ METÓDY
+Tento výskum prebiehal na ORL oddelení vo FNTT v Trnave. Pre dosiahnutie stanoveného
+cieľa a získanie relevantných empirických údajov bol zvolený kvantitatívny prístup s využitím
+metódy dotazníkového prieskumu. Hlavným nástrojom zberu dát sa stal medzinárodne
+uznávaný a validovaný štandardizovaný dotazník Svetovej zdravotníckej organizácie
+WHOQOL-BREF (World Health Organization Quality of Life – BREF). Tento nástroj
+28
+
+predstavuje skrátenú verziu dotazníka WHOQOL-100 a je špeciálne navrhnutý na
+multidimenzionálne hodnotenie kvality života v klinickej praxi i výskume.
+Samotný dotazník WHOQOL-BREF pozostáva z 26 položiek. Prvé dve položky (Q1 a Q2) sú
+zamerané na celkové subjektívne vnímanie kvality života a spokojnosť s celkovým zdravotným
+stavom. Zostávajúcich 24 položiek je rozdelených do štyroch základných domén kvality života:
+1. Fyzické zdravie (7 položiek): zahŕňa hodnotenie bolesti, únavy, energie, spánku, mobility,
+aktivít bežného dňa a závislosti od medicínskej liečby.
+2. Psychologická doména (6 položiek): posudzuje prítomnosť pozitívnych a negatívnych citov,
+sebaúctu, telesný obraz, spiritualitu a kognitívne schopnosti.
+3. Sociálne vzťahy (3 položky): skúma spokojnosť s osobnými vzťahmi, sociálnu podporu a
+sexuálny život.
+4. Životné prostredie (8 položiek): hodnotí faktory ako bezpečnosť, finančné zdroje, dostupnosť
+zdravotnej a sociálnej starostlivosti, prostredie domova, prístup k informáciám, dopravu a
+možnosti rekreácie.
+Respondenti na jednotlivé otázky odpovedali prostredníctvom päťbodovej Likertovej škály (15), pričom vyššie dosiahnuté skóre indikuje subjektívne vnímanú vyššiu kvalitu života v danej
+oblasti. Pred samotným výpočtom skóre domén boli vybrané položky prepočítané reverzným
+spôsobom (Q3, Q4 a Q26), aby vyššia hodnota vždy predstavovala vyššiu úroveň kvality
+života. Následne bol pre každú doménu vypočítaný priemer hodnôt príslušných položiek. Tento
+priemer bol následne transformovaný na škálu 4–20 vynásobením hodnoty štyrmi, v súlade s
+odporúčanou metodikou hodnotenia dotazníka. V analýze celkového skóre boli priemery
+jednotlivých domén dotazníka WHOQOL-BREF transformované na škálu 0–100. Celkové
+skóre kvality života bolo následne stanovené ako aritmetický priemer štyroch domén. Prvé dve
+položky dotazníka (celkové hodnotenie života a spokojnosť so zdravím) boli analyzované
+samostatne v pôvodnej škále 1-5 bodov, v súlade s metodikou WHOQOL-BREF.
+Pre účely tohto prieskumu bol dotazník doplnený o neštandardizovanú úvodnú časť zameranú
+na získanie demografických a klinických profilov respondentov. Táto časť obsahovala položky
+identifikujúce pohlavie, vek, dosiahnuté vzdelanie, rodinný stav a subjektívne vnímanú
+prítomnosť ochorenia. Tieto doplňujúce údaje sú kľúčové pre následnú štatistickú analýzu
+vzťahov a testovanie stanovených hypotéz.
+
+29
+
+Tab. 1 Prehľad domén a položiek
+Domény
+
+doména 1
+
+fyzické zdravie
+
+doména 2
+
+Prežívanie
+
+doména 3
+
+sociálne vzťahy
+
+doména 4
+
+Prostredie
+
+samostatné
+položky
+
+Položky
+Q3
+bolesť a nepríjemné pocity
+Q4
+závislosť na lekárskej star.
+energia a únava
+Q10
+Q15
+Pohyblivosť
+Q16
+Spánok
+Q17
+každodenné činnosti
+Q18
+pracovná výkonnosť
+potešenie zo
+Q5
+života
+Q6
+zmysel života
+Q7
+Sústredenie
+telesný vzhľad
+Q11
+Q19
+spokojnosť so sebou
+Q26
+negatívne pocity
+Q20
+osobné vzťahy
+Q21
+sexuálny život
+Q22
+opora priateľov
+Q8
+osobné bezpečie
+Q9
+životné prostredie
+Q12
+finančná situácia
+Q13
+prístup k informáciám
+Q14
+záľuby
+Q23
+prostredie v okolí bydliska
+Q24
+dostupnosť zdravotnej star.
+Q25
+doprava
+Q1
+kvalita života
+Q2
+
+spokojnosť so zdravím
+
+(zdroj: Dragomerická, Bartoňová, 2006, s.32)
+
+30
+
+2.3 CHARAKTERISTIKA PRIESKUMNEJ VZORKY
+Prieskumný súbor bol vytvorený prostredníctvom zámerného (účelového) výberu respondentov
+na základe vopred definovaných inkluzívnych kritérií. Základným kritériom pre zaradenie do
+prieskumu bola prítomnosť dočasnej alebo trvalej tracheostómie u dospelého pacienta (vek nad
+18 rokov). Ďalšími podmienkami boli kognitívna schopnosť porozumieť obsahu dotazníka,
+schopnosť vyplniť dotazník samostatne alebo s pomocou a dobrovoľný súhlas s účasťou na
+prieskume. Dotazníky sme distribuovali na ORL oddelení vo FNTT.
+Charakteristika prieskumného súboru
+Tab. 2 Charakteristika prieskumného súboru
+Vek
+<=65
+>65
+Vzdelanie
+Žiadne
+Základná
+Stredná
+Terciálne
+rodinný stav
+slobodná/ý
+Žijúca/i oddelene
+vydatá/ženatý
+rozvedená/ý
+družka/druh
+vdova/vdovec
+
+počet
+22
+29
+
+%
+43,14
+56,86
+
+0
+1
+42
+8
+
+0
+1,96
+82,35
+15,69
+
+10
+2
+17
+5
+4
+13
+
+19,61
+3,92
+33,33
+9,8
+9,8
+25,49
+
+Prieskumný súbor tvorilo 51 respondentov s tracheostómiou. Z hľadiska veku bolo 22
+respondentov vo veku 65 rokov a menej a 29 respondentov bolo starších ako 65 rokov. V súbore
+výrazne prevažovali muži, pričom zastúpenie žien bolo minimálne (n = 1). V otázke
+subjektívneho vnímania prítomnosti choroby všetkých 51 opýtaných zvolilo odpoveď áno.
+
+31
+
+2.4 ZBER DÁT
+Zber údajov prebiehal v období od novembra 2025 do februára 2026 formou papierového
+dotazníka, na ORL oddelení vo FNTT v Trnave.
+
+V rámci zberu dát bolo celkovo
+
+distribuovaných 100 dotazníkov v tlačenej forme. Celkový počet vrátených a korektne
+vyplnených dotazníkov bol 51, čo predstavuje 51 % návratnosť. V kontexte prieskumov u
+špecifických klinických skupín pacientov, akými sú pacienti s tracheostómiou, sa táto získaná
+skúmaná vzorka (n = 51) považuje za dostatočnú a reprezentatívnu pre potreby diplomovej
+práce, pričom umožňuje realizáciu adekvátnych štatistických operácií.
+Z hľadiska etiky výskumu bol prieskum realizovaný ako plne anonymný. Respondenti boli v
+úvode dotazníka jasne informovaní o účele spracovania údajov, o dobrovoľnosti účasti a o tom,
+že získané informácie budú spracované hromadne a využité výhradne na vedecko-výskumné
+účely tejto práce. Celý proces zberu a spracovania dát prebiehal v súlade s platnými
+nariadeniami o ochrane osobných údajov (GDPR).
+Realizácia výskumu bola schválená vedením zdravotníckeho zariadenia FNTT v Trnave.
+Písomný súhlas s realizáciou výskumu sme vložili ako prílohu.
+
+32
+
+3. VÝSLEDKY PRIESKUMU
+
+Vyhodnotenie položiek v dotazníku podľa domén
+Tab. 3 Výpočet položiek fyzickej domény
+
+Q3
+Q4
+Q10
+Q15
+Q16
+Q17
+Q18
+
+Položky
+bolesť a nepríjemné
+pocity
+závislosť na lekárskej
+starostlivosti
+energia a únava
+Pohyblivosť
+Spánok
+každodenné činnosti
+pracovná výkonnosť
+
+Priemer
+
+%
+
+SD
+
+4,22
+
+80,5
+
+0,76
+
+3,59
+3,12
+4,51
+2,96
+3,73
+3,1
+
+64,75
+53
+87,75
+49
+68,25
+52,5
+
+0,83
+0,59
+0,67
+0,69
+0,75
+0,5
+
+Analýzou výsledkov jednotlivých položiek fyzickej domény sme zistili, že najnižšie hodnoty
+ukazujú na oblasť spánku (49 %), pracovnú výkonnosť (52,5%) a energie a únavy (53 %).
+Stredné hodnoty boli zistené pri závislosti na lekárskej starostlivosti (64,75 %) a pri vykonávaní
+každodenných činností (68,25 %), čo naznačuje určitý stupeň obmedzenia, avšak nie výrazný.
+Naopak, najvyššie hodnoty boli dosiahnuté v oblasti pohyblivosti (87,75 %) a bolesti a
+nepríjemných pocitov (80,5 %). Variabilita odpovedí bola nízka až stredná (SD = 0,59 – 0,83),
+čo naznačuje pomerne konzistentné odpovede respondentov, pričom mierne vyššia variabilita
+bola zaznamenaná pri závislosti na lekárskej starostlivosti.
+Tab. 4 Výpočet položiek domény prežívanie
+Q5
+Q6
+Q7
+Q11
+Q19
+Q26
+
+Položky
+potešenie zo života
+zmysel života
+Sústredenie
+telesný vzhľad
+spokojnosť so sebou
+negatívne pocity
+
+Priemer
+2,61
+2,71
+3,27
+2,29
+2,73
+2,43
+
+%
+40,25
+42,75
+56,75
+32,25
+43,25
+35,75
+
+33
+
+SD
+0,49
+0,61
+0,67
+0,58
+0,6
+0,5
+
+Analýza položiek ukazuje, že respondenti najlepšie hodnotia svoju schopnosť sústrediť sa
+(56,75). Najnižšie hodnotenia sa objavili v položkách súvisiacich s telesným vzhľadom
+(32,25 %) a negatívnymi pocitmi (35,75 %). Stredné hodnoty v oblastiach potešenia zo života
+(40,25 %), zmyslu života (42,75 %) a spokojnosti so sebou (43,25 %). Štandardné odchýlky sa
+pohybovali v rozmedzí (0,49–0,67).
+Tab. 5 Výpočet položiek sociálnej domény
+Q20
+Q21
+Q22
+Q8
+
+Položky
+osobné vzťahy
+sexuálny život
+opora priateľov
+osobné bezpečie
+
+Priemer
+3,37
+3,92
+4,14
+3,84
+
+%
+59,25
+73
+78,5
+71
+
+SD
+0,77
+0,27
+0,53
+0,37
+
+Na úrovni jednotlivých položiek boli najnižšie hodnoty zaznamenané v oblasti osobných
+vzťahov (59,25%). Vyššie hodnoty boli zistené pri sexuálnom živote (73%) a osobnom bezpečí
+(71%). Najvyššia hodnota bola dosiahnutá v oblasti opory priateľov (78,5%). Hodnoty
+štandardnej odchýlky sa pohybovali v rozmedzí od 0,27 do 0,77.
+Tab. 6 Výpočet položiek domény prostredie
+Q9
+Q12
+Q13
+Q14
+Q23
+Q24
+Q25
+
+Položky
+životné prostredie
+finančná situácia
+prístup k informáciám
+Záľuby
+prostredie v okolí
+bydliska
+dostupnosť zdravotnej
+starostlivosti
+Doprava
+
+Priemer
+3,69
+3,27
+3,92
+2,1
+
+%
+67,25
+56,75
+73
+27,5
+
+SD
+0,47
+0,53
+0,59
+0,64
+
+4,22
+
+80,5
+
+0,42
+
+3,66
+3,31
+
+66,5
+57,75
+
+0,2
+0,73
+
+Na úrovni jednotlivých položiek v doméne prostredia bola najnižšia hodnota zaznamenaná v
+oblasti záľub (27,5 %). Nižšie hodnoty boli zistené aj pri finančnej situácii (56,75 %) a doprave
+(57,75 %). Stredné hodnoty dosiahli položky životné prostredie (67,25 %) a dostupnosť
+zdravotnej starostlivosti (66,5 %). Vyššie hodnoty boli zaznamenané pri prístupe k informáciám
+(73 %) a prostredí v okolí bydliska (80,5 %). Hodnoty štandardnej odchýlky sa pohybovali v
+rozmedzí od 0,2 do 0,73.
+
+34
+
+3.1 Vyhodnotenie prieskumných otázok
+Prieskumná otázka 1
+Aká je úroveň kvality života pacientov s tracheostómiou podľa dotazníka WHOQOLBREF?
+Tab. 7 Transformácia dát na škálu 0-100
+doména
+fyzická
+prežívanie
+sociálne vzťahy
+prostredie
+
+Priemer 4.20
+14,41
+10,69
+15,24
+14,18
+
+Priemer 0-100
+65,06
+41,81
+70,25
+63,63
+
+Celkové skóre kvality života pacientov s tracheostómiou podľa dotazníka WHOQOL-BREF
+dosiahlo hodnotu 42,63 na škále 0–100, čo poukazuje na nižšiu úroveň kvality života
+sledovaného súboru.
+
+Prieskumná otázka 2
+V ktorých doménach WHOQOL-BREF dosahujú pacienti najnižšie a najvyššie skóre?
+Tab. 8 Celkové skóre domén
+Doména
+
+Priemer
+
+Medián
+
+Modus
+
+Minimum
+
+Maximum
+
+Fyzická
+
+14,41
+
+14,29
+
+15,43
+
+11,43
+
+17,14
+
+Prežívanie
+Sociálne
+vzťahy
+
+10,69
+
+10,67
+
+10,67
+
+8
+
+14
+
+15,24
+
+16
+
+16
+
+10,67
+
+17,33
+
+Prostredie
+
+14,18
+
+14,5
+
+14,5
+
+11,5
+
+16
+
+Tabuľka 8 celkové skóre domén prezentuje priemerné hodnoty jednotlivých domén kvality
+života hodnotených pomocou dotazníka WHOQOL-BREF. Výsledky poukazujú na rozdiely v
+hodnotení jednotlivých oblastí kvality života u pacientov s tracheostómiou.
+Najvyššie priemerné skóre bolo zaznamenané v doméne sociálnych vzťahov (M = 15,24), čo
+naznačuje relatívne priaznivé hodnotenie medziľudských vzťahov a sociálnej podpory
+respondentov. Naopak, najnižšie priemerné skóre bolo zistené v druhej doméne prežívanie (M
+35
+
+= 10,69), čo môže poukazovať na prítomnosť psychickej záťaže, obáv alebo zníženej
+psychickej pohody u pacientov s tracheostómiou.
+Hodnoty vo fyzickej doméne (M = 14,41) a doméne prostredia (M = 14,18) dosiahli stredné
+hodnoty. Uvedené výsledky naznačujú, že kvalita života pacientov s tracheostómiou je
+ovplyvnená viacerými faktormi, pričom rozdiely medzi jednotlivými doménami poukazujú na
+rôzne aspekty prežívania zdravotného stavu a každodenného fungovania respondentov.
+
+Prieskumná otázka 3
+Ako pacienti s tracheostómiou subjektívne vnímajú svoju kvalitu života a
+zdravie?
+•
+
+Otázka 1: Ako by ste ohodnotili Vašu kvalitu života?
+
+Tab. 9 Subjektívne hodnotenie celkovej kvality života
+Odpovede
+1. veľmi slabá
+2. slabá
+3. ani slabá ani
+dobrá
+4. dobrá
+5. veľmi dobrá
+
+Počet
+5
+19
+
+%
+9,62
+36,54
+
+26
+1
+0
+
+50
+1,92
+0
+
+Graf 1 Subjektívne hodnotenie celkovej kvality života respondentov
+
+36
+
+Tabuľka 9 a graf 1 znázorňujú rozdelenie odpovedí respondentov na otázku hodnotenia
+celkovej kvality života. Najväčší podiel respondentov hodnotil svoju kvalitu života ako ani
+dobrú ani zlú (50 %), čo poukazuje na skôr priemerné vnímanie kvality života. Významná časť
+respondentov uviedla aj negatívne hodnotenie, pričom 36,54 % označilo kvalitu života ako
+slabú a 9,62 % ako veľmi slabú. Naopak, len minimálny podiel respondentov hodnotil svoju
+kvalitu života pozitívne (1,92 % ako dobrú a 0 % ako veľmi dobrú).
+Výsledky naznačujú, že pacienti s tracheostómiou vnímajú svoju kvalitu života prevažne
+neutrálne až negatívne, pričom pozitívne hodnotenie sa vyskytuje len ojedinele.
+
+•
+
+Otázka 2: Ako ste spokojná/ý s Vaším zdravím?
+
+Tab. 10 Spokojnosť so zdravotným stavom
+Odpovede
+1.veľmi nespokojný
+2.nespokojný
+3.ani spokojný ani
+nespokojný
+4.spokojný
+5.veľmi spokojný
+
+počet
+0
+24
+22
+5
+0
+
+Graf 2 Spokojnosť so zdravotným stavom
+
+37
+
+%
+0
+46,15
+42,31
+9,62
+0
+
+Tabuľka 10 a graf 2 znázorňujú rozdelenie odpovedí respondentov na otázku spokojnosti so
+zdravotným stavom. Najväčší podiel respondentov uviedol, že je nespokojný (46,15 %), pričom
+významná časť respondentov hodnotila svoj zdravotný stav ako ani spokojný ani nespokojný
+(42,31 %). Len malý podiel respondentov vyjadril spokojnosť so svojím zdravím (9,62 %) a
+nikto z respondentov neoznačil extrémne hodnoty (veľmi spokojný ani veľmi nespokojný).
+Výsledky poukazujú na to, že pacienti s tracheostómiou vnímajú svoj zdravotný stav prevažne
+negatívne až neutrálne, pričom spokojnosť so zdravím je zastúpená len v malej miere.
+
+3.2 Verifikácia hypotéz
+Hypotéza 1.
+Predpokladá sa, že existujú štatisticky významné rozdiely v kvalite života pacientov s
+tracheostómiou v závislosti od veku.
+Tab. 11 Kvalita života podľa veku pacientov
+Premenná
+Q1 kvalita života
+Q2 spokojnosť so zdravím
+Fyzická
+Prežívanie
+sociálne vzťahy
+Prostredie
+
+<=65 priemer
+2,36
+2,73
+13,9
+10,43
+14,79
+14,2
+
+>65 priemer
+2,52
+2,55
+14,8
+10,9
+15,59
+14,8
+
+Tab. 12 Výsledok t-Testu
+t-Test: Two-Sample Assuming
+Equal Variances
+Mean
+Variance
+Observations
+Pooled Variance
+Hypothesized Mean Difference
+Df
+t Stat
+P(T<=t) one-tail
+t Critical one-tail
+P(T<=t) two-tail
+t Critical two-tail
+
+<=65
+13,9
+13,14
+5,5951
+3
+5,950067
+0
+4
+-0,31297
+0,384971
+2,131847
+0,769941
+2,776445
+38
+
+> 65
+14,8
+13,76333
+6,305033
+3
+
+Pri porovnaní priemerných hodnôt jednotlivých domén kvality života podľa veku respondentov
+boli zistené len malé rozdiely medzi skupinami. V doméne prostredia boli hodnoty oboch
+vekových skupín takmer rovnaké. Najvýraznejší rozdiel bol zaznamenaný vo fyzickej doméne,
+kde starší respondenti dosiahli priemernú hodnotu 14,8 v porovnaní s hodnotou 13,9 u mladšej
+skupiny. Podobný trend bol pozorovaný aj v doméne prežívania, kde priemer staršej skupiny
+(10,9) mierne prevýšil hodnotu mladších respondentov (10,43). V doméne sociálnych vzťahov
+dosiahli respondenti nad 65 rokov hodnotu 15,59, zatiaľ čo mladšia skupina 14,79. Najmenší
+rozdiel bol zaznamenaný v doméne prostredia, kde boli hodnoty oboch skupín relatívne
+vyrovnané (14,8 vs. 14,2). Uvedené výsledky naznačujú trend mierne vyššieho hodnotenia
+kvality života u starších respondentov vo všetkých sledovaných oblastiach, avšak bez
+výrazných rozdielov medzi skupinami.
+Starší respondenti hodnotia celkovú kvalitu života mierne vyššie než mladší (2,52 vs. 2,36).
+Rozdiel je malý, takže možno hovoriť o slabom trendovom rozdiele, bez výraznej štatistickej
+významnosti. Naopak, mladší respondenti hodnotia spokojnosť so zdravím mierne vyššie než
+starší (2,73 vs. 2,55). Opäť ide o malý rozdiel, ktorý neindikuje zásadnú odlišnosť.
+Na posúdenie rozdielov v kvalite života medzi respondentmi vo veku ≤ 65 rokov a > 65 rokov
+bol použitý t-test pre dva nezávislé výbery. Výsledky analýzy nepreukázali štatisticky
+významný rozdiel medzi porovnávanými skupinami (p = 0,38).
+Na základe získaných výsledkov možno konštatovať, že vek respondentov nemal štatisticky
+významný vplyv na hodnotenie kvality života v jednotlivých doménach. Hypotéza 1 sa preto
+nepotvrdila.
+
+Hypotéza 2.
+
+Predpokladá sa, že pacienti s tracheostómiou dosahujú nižšie skóre kvality života v jednotlivých
+doménach WHOQOL-BREF v porovnaní s normatívnymi hodnotami.
+
+39
+
+Tab. 13 Porovnanie priemerných hodnôt domén kvality života s normatívnymi hodnotami
+WHOQOL-BREF
+Premenná
+Fyzická
+Prežívanie
+Soc. Vzťahy
+Prostredie
+Kvalita života
+Spokojnosť
+so zdravím
+
+M
+14,41
+10,69
+15,24
+14,18
+2,45
+
+SD
+1,3
+1,16
+1,44
+0,79
+0,7
+
+95 % CI
+14,05 – 14,77
+10,37 - 11,01
+14,84 - 15,64
+13,96 - 14,4
+2,26 - 2,64
+
+M norma
+15,55
+14,78
+14,98
+13,3
+3,82
+
+SD norma
+2,55
+2,43
+2,89
+2,08
+0,72
+
+2,63
+
+0,66
+
+2,45 - 2,81
+
+3,68
+
+0,85
+
+Graf č. 3 Porovnanie domén kvality života s normatívnymi hodnotami
+
+40
+
+Graf 4 Porovnanie celkového hodnotenia kvality života a spokojnosti so zdravím
+s normatívnymi hodnotami
+
+Tab. 14 Výpočet t-testu a p-hodnoty pre jednotlivé domény
+Premenné
+Kvalita života
+Zdravie
+Fyzická doména
+Prežívanie
+Sociálne vzťahy
+Prostredie
+
+t-test
+-13,98
+-11,36
+-6,26
+-25,18
+1,29
+7,96
+
+p- hodnota
+p < 0,001
+p < 0,001
+p < 0,001
+p < 0,001
+p > 0,05
+p < 0,001
+
+Významnosť
+Významné
+Významné
+Významné
+Významné
+Nevýznamné
+Významné
+
+Tabuľka 15 prezentuje porovnanie priemerných hodnôt jednotlivých domén kvality života
+získaných v tomto výskume s hodnotami populačnej normy pre českú populáciu od
+Dragomerickej, Bartoňovej (2006, s. 17-22), ktoré sú dostupné v publikácií WHOQOL-BREF,
+WHOQOL-100: příručka pro uživatele české verze dotazníků kvality života Světové
+zdravotnické organizace. Uvedené sú priemerné hodnoty výskumného súboru (M), smerodajná
+odchýlka výskumného súboru (SD) a 95 % interval spoľahlivosti pre skúmaný súbor, ako aj
+normatívne hodnoty pre bežnú populáciu ( M a SD). Cieľom tejto analýzy bolo verifikovať
+hypotézu H2, ktorá predpokladala signifikantne nižšiu úroveň kvality života u pacientov vo
+všetkých sledovaných doménach.
+Získané výsledky v doméne 1, zameranej na fyzické zdravie, potvrdzujú vysoko štatisticky
+významný rozdiel (p < 0,001). Respondenti v súbore dosiahli priemerné skóre 14,41 (SD =
+41
+
+1,3), čo predstavuje pokles oproti populačnej norme (M = 15,55; SD = 2,55). Najmarkantnejšia
+diskrepancia sa však prejavila v doméne 2 (psychologické zdravie). Priemerné skóre v súbore
+(M = 10,69; SD 1,16) je v ostrom kontraste s populačným priemerom (M = 14,78; SD 2,43).
+Vysoká hodnota t-testu (-25,18) a signifikantná p-hodnota (p < 0,001) naznačujú hlbokú eróziu
+psychickej pohody. Paradoxné zistenia prináša doména 3 (sociálne vzťahy) a doména 4
+(prostredie). V oblasti sociálnej interakcie dosiahli pacienti priemerné skóre 15,24, čo mierne
+prevyšuje normu (14,98). Podobne v doméne prostredia je hodnota súboru (14,18) vyššia ako
+populačný priemer (13,3). Kritický prepad je evidovaný v odpovediach na separátne otázky
+hodnotiace celkovú kvalitu života (Q1) a spokojnosť so zdravím (Q2). Pri celkovom hodnotení
+(Q1) dosiahli respondenti priemer len 2,45 oproti norme 3,82. Ešte výraznejší rozdiel je v
+spokojnosti so zdravotným stavom (Q2), kde pacienti s tracheostómiou skórovali na úrovni 2,63
+(norma 3,68).
+Vzhľadom na uvedené skutočnosti možno konštatovať, že hypotéza 2 bola potvrdená v
+kľúčových aspektoch fyzického a psychického zdravia, ako aj v celkovom vnímaní kvality
+života a zdravia. V doménach sociálnych vzťahov a prostredia sa však predpoklad o nižšom
+skóre nepotvrdil, čo otvára priestor pre diskusiu o adaptačných mechanizmoch a vplyve
+podporných systémov u tejto skupiny pacientov.
+
+42
+
+DISKUSIA
+Cieľom tejto práce bolo zhodnotiť kvalitu života pacientov s tracheostómiou s
+využitím štandardizovaného dotazníka WHOQOL-BREF, ktorý je široko používaný na
+meranie subjektívnej kvality života v rôznych populáciách. Dotazník pozostáva zo 26 položiek
+rozdelených do štyroch hlavných domén: fyzické zdravie, psychické zdravie, sociálne vzťahy
+a prostredie, pričom dve položky hodnotia celkovú kvalitu života a spokojnosť so zdravím.
+Údaje boli zhromaždené prostredníctvom dotazníkov zozbieraných vo FNTT na ORL
+oddelení, a následne spracované podľa odporúčaní WHO. Hodnoty jednotlivých domén boli
+prepočítané na škálu 4-20 pre jednoduchšiu interpretáciu, pričom zachovali svoj lineárny
+charakter, a samostatné otázky 1 a 2 boli hodnotené podľa škály 1-5. Na vyhodnotenie
+rozdielov medzi vzorkou a normatívnymi hodnotami populácie podľa Dragomerickej
+a Bartoňovej (2006) bol použitý jednovýberový t-test, ktorý umožňuje zistiť, či sledovaná
+vzorka významne odlišuje od očakávanej normy.
+Pacienti s tracheostómiou predstavujú špecifickú skupinu, u ktorej dochádza
+k významným zmenám v oblasti fyzického fungovania, komunikácie a sociálnej interakcie.
+Kvalita života pacientov s tracheostómiou je preto komplexne podmienená nielen základným
+ochorením, ale aj mierou adaptácie na nový zdravotný stav, dostupnosťou multidisciplinárnej
+starostlivosti a úrovňou sociálnej podpory.
+Znížené skóre vo fyzickej doméne kvality života možno vysvetliť prítomnosťou
+chronických symptómov a funkčných obmedzení, ktoré sú u pacientov s tracheostómiou bežné.
+Najnižšie hodnoty v doméne fyzického zdravia sme zaznamenali v oblastiach spánku, energie
+a únavy, čo naznačuje významné obmedzenia vitality a nedostatočný odpočinok u pacientov s
+tracheostómiou, pričom stredné skóre v závislosti na starostlivosti a každodenných činnostiach
+ukazuje čiastočné, ale nie výrazné obmedzenia. Tieto faktory významne ovplyvňujú
+každodenné fungovanie pacienta a vedú k zníženiu subjektívneho hodnotenia fyzickej pohody.
+Podobné zistenia uvádzajú aj Kumar a kolektív (2020), ktorí identifikovali signifikantné
+zníženie fyzickej domény kvality života u pacientov s tracheostómiou (p < 0,001). Relatívne
+vyššie hodnoty v pohyblivosti a bolesti/ nepríjemných pocitoch poukazujú na zachovanú
+fyzickú funkčnosť a nižší vnímaný diskomfort. Tieto výsledky sú konzistentné s literatúrou,
+ktorá uvádza, že fyzické aspekty, ako energia, spánok a schopnosť samostatnej starostlivosti,
+sú najviac ovplyvnené po tracheostómii, pričom zlepšenie v priebehu času závisí od adaptácie
+pacienta a podpory pri starostlivosti (Ceron a kolektív, 2019). Tento výsledok možno
+43
+
+interpretovať ako dôsledok komplexného fyzického zaťaženia, ktoré tracheostómia
+predstavuje. Dôležitým aspektom je aj potreba pravidelnej starostlivosti o tracheostómiu, ktorá
+môže byť fyzicky aj psychicky náročná. Pacienti musia venovať zvýšenú pozornosť hygiene,
+manipulácii s kanylou a prevencii komplikácií, čo môže viesť k pocitu neustáleho obmedzenia.
+Okrem toho môžu byť prítomné poruchy spánku, spôsobené napríklad potrebou čistenia vložky
+kanyly pre jej upchatie spútom a následným sťaženým dýchaním, nepríjemnými pocitmi pri
+dýchaní alebo obavami z komplikácií počas noci. Z pohľadu vlastného zamyslenia možno
+predpokladať, že aj pri relatívnej stabilizácii zdravotného stavu zostáva fyzická doména
+výrazne ovplyvnená, keďže pacienti si neustále uvedomujú svoje telesné limity. Fyzické
+zdravie je tak citlivou oblasťou kvality života u pacientov s tracheostómiou.
+V rámci detailnejšieho pohľadu na jednotlivé položky zaradené v doméne prežívanie
+sa javí určitý nesúlad medzi funkčnými a subjektívne prežívanými aspektmi kvality života
+pacientov s tracheostómiou. Respondenti relatívne lepšie hodnotili svoju schopnosť sústredenia
+čo môže naznačovať zachovanú úroveň kognitívneho fungovania aj napriek zdravotnému
+obmedzeniu. Na druhej strane sa však potvrdila nižšia miera spokojnosti v oblastiach potešenia
+zo života, zmyslu života a spokojnosti so sebou samým, čo poukazuje na oslabenú emocionálnu
+pohodu.
+Tracheostómia nepredstavuje len funkčné obmedzenie, ale zásadným spôsobom narúša telesný
+obraz, sebavnímanie a sebavedomie jednotlivca. Za obzvlášť významné možno považovať
+nízke hodnotenie telesného vzhľadu, ktoré môže súvisieť s narušením telesného obrazu v
+dôsledku viditeľnej tracheostómie. Tento faktor negatívne ovplyvňuje sebahodnotenie a
+sociálne interakcie, čo potvrdzujú aj výskumy zamerané na self-image u pacientov s
+tracheostómiou (Hashmi a kol. 2010). Zmeny vo fyziognómii, prítomnosť tracheostomickej
+kanyly a strata prirodzenej reči môžu viesť k sociálnej izolácii, úzkosti a depresívnemu
+prežívaniu. Tento aspekt potvrdzujú aj Pandian a kol. (2020), ktorí poukazujú na zvýšený
+výskyt úzkostných a depresívnych symptómov u pacientov s tracheostómiou v dôsledku
+komunikačných bariér a zmeny telesného obrazu. Aj vo svojom systematickom prehľade
+Nakarada-Kordic a kol. (2018) zdôrazňujú psychickú záťaž, pocity úzkosti a negatívne sociálne
+dôsledky života s tracheostómiou, pričom upozorňujú na nevyhnutnosť komplexného prístupu
+k ošetrovateľskej starostlivosti o týchto pacientov. Pacienti môžu pociťovať neistotu, obavy z
+reakcie okolia, frustráciu a pocit bezmocnosti, najmä vzhľadom na obmedzenú schopnosť
+komunikácie, ktorá je základným nástrojom sociálnej interakcie. Narúšanie komunikácie tak
+môže mať hlboký dopad na psychické prežívanie a viesť k sociálnemu stiahnutiu a izolácii.
+
+44
+
+Možno predpokladať, že psychologická záťaž nie je rovnomerná u všetkých pacientov. Kým
+niektorí jedinci dokážu situáciu postupne prijať a adaptovať sa, iní môžu prežívať dlhodobý
+stres a zhoršenie psychickej pohody. Výsledné skóre psychickej domény tak odráža nielen
+samotný zdravotný stav, ale aj individuálne copingové stratégie a osobnostné charakteristiky
+pacientov. Vyššia variabilita odpovedí poukazuje na individuálne rozdiely v adaptácii
+pacientov na život s tracheostómiou
+Naopak, vyššie skóre v doméne sociálnych vzťahov a prostredia predstavuje
+zaujímavý a do určitej miery paradoxný výsledok. Napriek fyzickému a psychickému zaťaženiu
+môžu pacienti subjektívne vnímať svoje sociálne zázemie a životné podmienky pozitívne.
+Tento jav možno čiastočne vysvetliť zvýšenou mierou podpory zo strany rodiny, blízkych osôb
+a zdravotníckeho personálu, ktorá je u pacientov s tracheostómiou často intenzívnejšia.
+Podobné závery uvádzajú aj Illinykh-Bair a Smith (2026), ktorí vo svojej meta-analýze
+poukázali na pozitívny vplyv sociálnej opory na kvalitu života pacientov s chronickými
+ochoreniami, a to naprieč rôznymi typmi zdravotných stavov. Zistené výsledky položiek
+sociálnych vzťahov poukazujú na relatívne priaznivé hodnotenie sociálnej opory, najmä v
+oblasti podpory zo strany priateľov, zatiaľ čo nižšie skóre v oblasti osobných vzťahov môže
+naznačovať určité narušenie blízkych interpersonálnych väzieb u pacientov s tracheostómiou.
+Tieto výsledky sú v súlade so zisteniami kvalitatívnej štúdie, ktorá poukazuje na to, že pacienti
+s tracheostómiou často čelia sociálnej izolácii, komunikačným bariéram a stigmatizácii, čo
+negatívne ovplyvňuje ich medziľudské vzťahy (Daraie a kol., 2021).
+Relatívne vyššie skóre v doméne sociálnych vzťahov možno teda interpretovať ako výsledok
+zvýšenej podpory, ktorú pacienti po zavedení tracheostómie získavajú. Rodina, blízki a
+zdravotnícky personál zohrávajú kľúčovú úlohu pri zvládaní ochorenia, čo môže viesť k
+subjektívne pozitívnemu hodnoteniu medziľudských vzťahov. Zaujímavým aspektom je, že
+napriek obmedzeniam v komunikácii a možnej sociálnej izolácii pacienti môžu svoje vzťahy
+vnímať ako kvalitnejšie. Pravdepodobne to súvisí s tým, že krízová situácia často posilňuje
+rodinné väzby a zvyšuje angažovanosť blízkych osôb, čo zvyšuje pocit starostlivosti, empatie
+a podpory. Z vlastného pohľadu možno uvažovať o tzv. kompenzačnom mechanizme, kedy
+silná sociálna opora čiastočne vyvažuje negatívne dopady ochorenia v iných oblastiach.
+Sociálne vzťahy tak môžu predstavovať ochranný faktor, ktorý pacientom pomáha lepšie
+zvládať náročnú životnú situáciu.
+Uvedené zistenia naznačujú, že hoci sociálne väzby môžu byť narušené, podpora zo strany
+blízkeho okolia zohráva dôležitú úlohu v adaptácii pacientov na život s tracheostómiou.
+
+45
+
+Pri analýze výsledkov položiek v doméne prostredia bol najvýraznejší problém
+identifikovaný v oblasti záľub, kde veľmi nízke skóre poukazuje na obmedzené možnosti
+trávenia voľného času alebo zníženú schopnosť zapájať sa do voľnočasových aktivít u
+pacientov s tracheostómiou. Tento výsledok môže súvisieť so zdravotným stavom pacientov a
+jeho dopadom na ich každodenné fungovanie. Nižšie hodnoty vo finančnej situácii a doprave
+naznačujú určité obmedzenia v materiálnych a logistických podmienkach, ktoré môžu
+ovplyvňovať dostupnosť služieb a celkovú kvalitu života. Podobné zistenia uvádza aj štúdia,
+ktorá poukazuje na významný vplyv socioekonomických faktorov a environmentálnych
+podmienok na kvalitu života hodnotenú pomocou WHOQOL-BREF, pričom nižšie skóre bolo
+spojené najmä s finančnými obmedzeniami a dostupnosťou zdrojov (Cordeiro, 2024). Naopak,
+vyššie skóre v oblasti prístupu k informáciám a prostredia v okolí bydliska poukazuje na
+relatívne priaznivé podmienky v týchto oblastiach, pričom dostupnosť zdravotnej starostlivosti
+dosahovala stredné až vyššie hodnoty. Dostupná zdravotná starostlivosť, pravidelný kontakt so
+zdravotníckym personálom a prístup k pomôckam, ktoré uľahčujú každodenné fungovanie,
+môžu významne prispievať k pozitívnemu hodnoteniu environmentálnych aspektov kvality
+života. Pacienti môžu zároveň oceňovať zlepšené materiálne a hygienické podmienky, najmä
+ak sú v starostlivosti zdravotníckeho zariadenia alebo majú zabezpečenú domácu
+ošetrovateľskú starostlivosť. Vnímanie prostredia ako bezpečného a stabilného môže tak
+pôsobiť ako faktor, ktorý zmierňuje negatívne vnímanie kvality života v iných doménach.
+Podobné zistenia uvádza systémový prehľad Kangas a kol. (2025), podľa ktorého sú faktory
+ako sociálna opora, dostupnosť zdravotnej starostlivosti a stabilné životné podmienky
+významnými determinantmi kvality života u pacientov s chronickými ochoreniami.
+Variabilita odpovedí bola celkovo nízka až stredná, čo naznačuje relatívne konzistentné
+hodnotenie jednotlivých aspektov prostredia medzi respondentmi. Vyššie alebo stabilné
+hodnoty v doméne prostredia možno vysvetliť tým, že pacienti s tracheostómiou často vnímajú
+svoje okolie ako bezpečné a podporujúce. Prostredie tak môže predstavovať stabilizujúci faktor,
+ktorý zmierňuje negatívne vnímanie kvality života v iných doménach.
+Na zodpovedanie prvej prieskumnej otázky bola analyzovaná úroveň kvality života
+pacientov s tracheostómiou. Celkové skóre dosiahlo hodnotu 42,63 (na škále 0–100), čo
+poukazuje na nižšiu úroveň kvality života. Tento výsledok naznačuje, že pacienti vnímajú svoju
+životnú situáciu ako výrazne ovplyvnenú zdravotným stavom a prítomnosťou tracheostomickej
+kanyly. Znížená kvalita života môže súvisieť nielen s fyzickými obmedzeniami, ako sú
+dýchacie ťažkosti, únava či diskomfort, ale aj s psychologickými a sociálnymi faktormi, ako sú
+problémy s komunikáciou, zmenený obraz tela či sociálna izolácia.
+46
+
+Hodnota celkového skóre zároveň poukazuje na potrebu komplexného prístupu k starostlivosti
+o týchto pacientov. Okrem zabezpečenia fyziologických potrieb je dôležité zamerať sa aj na
+psychickú podporu, edukáciu pacienta a jeho rodiny, ako aj na podporu sociálnej integrácie.
+Výsledky naznačujú, že zlepšenie kvality života si vyžaduje multidisciplinárny prístup a
+aktívnu úlohu ošetrovateľského personálu pri adaptácii pacienta na zmenenú životnú situáciu.
+V rámci druhej prieskumnej otázky sme sa zamerali na rozdiely medzi jednotlivými
+doménami kvality života podľa WHOQOL-BREF. Výsledky poukázali na najnižšie skóre v
+psychickej doméne (prežívanie), čo naznačuje výraznú psychickú záťaž, zníženú emocionálnu
+pohodu a prítomnosť obáv u pacientov s tracheostómiou. Naopak, najvyššie hodnoty boli
+zaznamenané v doméne sociálnych vzťahov, čo poukazuje na relatívne priaznivé vnímanie
+sociálnej opory a medziľudských vzťahov.
+Tento kontrast medzi nízkym psychickým prežívaním a vyšším hodnotením sociálnych
+vzťahov potvrdzuje komplexnosť kvality života u týchto pacientov a je v súlade so štúdiami,
+ktoré poukazujú na význam sociálnej podpory ako protektívneho faktora pri zvládaní
+chronického ochorenia, napriek pretrvávajúcej psychickej záťaži (napr. Skevington a kol.,
+2021; Nakarada-Kordic a kol., 2018). Stredné hodnoty vo fyzickej a environmentálnej doméne
+zároveň naznačujú, že tieto oblasti sú síce ovplyvnené zdravotným stavom, avšak ich vnímanie
+nie je tak negatívne ako v prípade psychického prežívania.
+Dôležitou súčasťou hodnotenia kvality života boli aj dve globálne položky dotazníka
+WHOQOL-BREF, ktoré sa zameriavajú na celkové vnímanie kvality života a spokojnosť so
+zdravím. Výsledky analýzy tretej prieskumnej otázky ukázali, že až polovica respondentov
+hodnotila svoju kvalitu života ako ani dobrú ani zlú, pričom významná časť ju vnímala
+negatívne. Pozitívne hodnotenie sa vyskytovalo len minimálne. Podobný trend bol
+zaznamenaný aj pri spokojnosti so zdravím, kde prevažovala nespokojnosť alebo neutrálne
+hodnotenie, zatiaľ čo spokojnosť uviedlo len malé percento respondentov.
+Tieto zistenia poukazujú na celkovo znížené subjektívne vnímanie kvality života a zdravia u
+pacientov s tracheostómiou, čo je v súlade so zahraničnými štúdiami využívajúcimi WHOQOLBREF, ktoré identifikujú globálne hodnotenie kvality života a zdravia ako výrazne ovplyvnené
+chronickým ochorením a funkčnými obmedzeniami (Skevington a kol., 2020). Nízke
+hodnotenie týchto položiek možno interpretovať ako odraz každodenných ťažkostí pacientov,
+najmä v oblasti komunikácie, fyzických limitácií a psychickej záťaže, pričom tieto faktory majú
+zásadný vplyv na celkové sebahodnotenie kvality života.
+V rámci prvej hypotézy sme predpokladali existenciu štatisticky významných rozdielov
+v kvalite života pacientov s tracheostómiou v závislosti od veku. Na základe výsledkov
+47
+
+štatistickej analýzy sa však tento predpoklad nepotvrdil, keďže medzi porovnávanými
+vekovými skupinami (≤ 65 rokov a > 65 rokov) nebol zistený štatisticky významný rozdiel (p
+= 0,38). Starší respondenti hodnotili celkovú kvalitu života mierne vyššie v porovnaní s
+mladšími, avšak rozdiel je malý a možno ho interpretovať skôr ako slabý trend než ako
+významnú odlišnosť. Tento výsledok môže súvisieť s lepšou adaptáciou starších pacientov na
+zdravotné obmedzenia, realistickejšími očakávaniami alebo väčším dôrazom na stabilitu a
+zvládanie každodenného života. Naopak, mladší respondenti hodnotili spokojnosť so zdravím
+mierne vyššie než starší. čo môže odrážať lepšiu fyzickú kondíciu alebo kratšie trvanie
+ochorenia. Celkovo však rozdiely medzi skupinami nie sú výrazné, čo naznačuje, že kvalita
+života je ovplyvnená aj ďalšími faktormi, ako sú psychický stav, sociálna podpora či schopnosť
+adaptácie na ochorenie.
+Pri podrobnejšom pohľade na priemerné hodnoty jednotlivých domén kvality života
+boli síce zaznamenané mierne rozdiely, avšak bez štatistickej významnosti. Respondenti starší
+ako 65 rokov dosiahli mierne vyššie skóre vo fyzickej, psychickej aj sociálnej doméne, zatiaľ
+čo v doméne prostredia boli hodnoty oboch skupín takmer identické. Tento trend môže
+naznačovať určitú mieru adaptácie starších pacientov na ich zdravotný stav.
+Z teoretického hľadiska by sa pritom dalo očakávať, že vyšší vek bude spojený s nižšou kvalitou
+života, najmä v dôsledku prítomnosti komorbidít, zníženej fyzickej výkonnosti a celkového
+zdravotného stavu. Na druhej strane viaceré štúdie poukazujú na to, že starší pacienti môžu
+lepšie zvládať chronické ochorenia a ich dôsledky vďaka vyššej miere psychickej adaptácie,
+skúsenostiam a odlišným očakávaniam od života.
+Tento fenomén je často označovaný ako „paradox starnutia“, kedy subjektívne hodnotenie
+kvality života nemusí priamo korelovať s objektívnym zdravotným stavom (Steptoe a kolektív,
+2015). Tieto výsledky sú v súlade aj s prezentovanými dátami, kde rozdiely medzi skupinami
+nedosahovali výrazný charakter.
+Dôležitým faktorom je aj schopnosť zvládania ochorenia a miera sociálnej opory. Netuveli a
+Blane (2008) poukazujú na to, že kvalita života v staršom veku je výrazne ovplyvnená
+adaptáciou na zdravotné obmedzenia a dostupnosťou sociálnych zdrojov. To môže vysvetľovať
+aj vyššie hodnoty v doméne sociálnych vzťahov u starších respondentov v tomto výskume.
+Zároveň je potrebné zdôrazniť, že kvalita života nie je determinovaná samotným vekom, ale
+skôr súhrou viacerých faktorov, ako sú fyzické fungovanie, psychický stav, prítomnosť
+komorbidít a úroveň sociálnych vzťahov, pričom vek ako izolovaná premenná zohráva menšiu
+úlohu (Talarska a kolektív, 2018).
+
+48
+
+Na základe uvedených zistení možno konštatovať, že vek respondentov v tomto výskume
+nepredstavoval významný faktor ovplyvňujúci kvalitu života v jednotlivých doménach
+dotazníka WHOQOL-BREF. Nepotvrdenie hypotézy však neznamená, že vek nemá žiadny
+vplyv, ale skôr poukazuje na komplexnosť problematiky kvality života a potrebu jej
+multidimenzionálneho posudzovania.
+V druhej hypotéze sme predpokladali, že pacienti s tracheostómiou dosahujú nižšie skóre
+kvality života v jednotlivých doménach WHOQOL-BREF v porovnaní s normatívnymi
+hodnotami bežnej populácie. Získané výsledky tento predpoklad potvrdili len čiastočne, pričom
+najvýraznejšie rozdiely boli zaznamenané v oblasti fyzického a psychického zdravia, ako aj v
+celkovom subjektívnom hodnotení kvality života a spokojnosti so zdravím.
+V doméne fyzického zdravia bol zistený štatisticky vysoko významný rozdiel (p < 0,001),
+pričom respondenti dosiahli nižšie priemerné skóre (M = 14,41; SD = 1,3) v porovnaní s
+populačnou normou (M = 15,55; SD = 2,55). Tento výsledok je v súlade so štúdiou Rodrigues
+a kol. (2022), ktorá uvádza, že viac ako 60 % pacientov s tracheostómiou pociťuje výrazné
+fyzické obmedzenia v každodennom živote, čo sa premieta do signifikantne nižšieho skóre
+fyzickej domény kvality života (p < 0,001) (Rodrigues a kol., 2022).
+Ešte výraznejší rozdiel bol zaznamenaný v psychologickej doméne, kde priemerné skóre
+respondentov (M = 10,69; SD = 1,16) výrazne zaostávalo za populačnou normou (M = 14,78;
+SD = 2,43). Vysoká hodnota t-testu (-25,18) a signifikantná hladina významnosti (p < 0,001)
+poukazujú na výrazné zhoršenie psychickej pohody pacientov. Tento výsledok korešponduje
+so zisteniami Pandian a kol. (2021), ktorí uvádzajú, že približne 45 % pacientov s
+tracheostómiou vykazuje symptómy depresie a viac ako 50 % pociťuje úzkosť, pričom tieto
+faktory významne znižujú kvalitu života (p < 0,01) (Pandian a kol., 2021).
+Naopak, zaujímavé a do určitej miery paradoxné výsledky boli zistené v doméne sociálnych
+vzťahov a prostredia. V oblasti sociálnych interakcií dosiahli respondenti mierne vyššie skóre
+(M = 15,24) v porovnaní s normou (M = 14,98). Podobný trend bol zaznamenaný aj v doméne
+prostredia, kde hodnota výskumného súboru (M = 14,18) prevýšila populačný priemer (M =
+13,3). Tieto zistenia možno interpretovať v kontexte významu sociálnej opory, čo potvrdzuje
+aj štúdia Lakshmanan a kol. (2023), podľa ktorej pacienti s dostatočnou sociálnou podporou
+dosahujú signifikantne vyššie skóre v sociálnej doméne kvality života (p = 0,02).
+Podobne aj environmentálna doména môže byť ovplyvnená dostupnosťou zdravotnej
+starostlivosti, kompenzačných pomôcok a celkovým socioekonomickým zabezpečením.
+Výskumy zamerané na kvalitu života pomocou nástrojov WHOQOL (Skevington a kol., 2021)
+poukazujú na to, že faktory ako dostupnosť zdravotných služieb, finančné zabezpečenie a
+49
+
+životné podmienky majú štatisticky významný vplyv na environmentálnu doménu kvality
+života (p < 0,05), čo môže vysvetľovať vyššie skóre v tejto oblasti aj napriek prítomnosti
+závažného ochorenia.
+Výrazný pokles bol zaznamenaný aj pri hodnotení celkovej kvality života (Q1) a spokojnosti
+so zdravím (Q2). Respondenti dosiahli priemer 2,45 v porovnaní s normou 3,82 pri celkovom
+hodnotení kvality života a 2,63 oproti norme 3,68 pri spokojnosti so zdravím. Tento výsledok
+je v súlade so zisteniami WHOQOL Group a novšími analýzami (napr. Skevington a kol.,
+2020), ktoré potvrdzujú, že subjektívne vnímanie zdravotného stavu patrí medzi najsilnejšie
+determinanty celkovej kvality života, pričom tento vzťah dosahuje vysokú štatistickú
+významnosť (p < 0,001).
+Zistené hodnoty naznačujú, že zdravotný stav má zásadný vplyv na globálne hodnotenie kvality
+života pacientov. V prípade pacientov s tracheostómiou môže byť tento efekt ešte výraznejší,
+keďže ide o chronický a často limitujúci stav zasahujúci do viacerých oblastí života – fyzickej,
+psychickej aj sociálnej.
+Zároveň možno uvažovať, že respondenti pri hodnotení celkovej kvality života a spokojnosti
+so zdravím vychádzajú najmä zo svojich aktuálnych ťažkostí, ako sú obmedzenia v
+komunikácii, zmeny v telesnom obraze či zvýšená závislosť od okolia. Tieto faktory môžu viesť
+k negatívnejšiemu sebahodnoteniu, aj keď niektoré čiastkové domény (napr. prostredie) môžu
+byť hodnotené priaznivejšie.
+Dôležitým aspektom je aj subjektívny charakter týchto ukazovateľov. Pacienti môžu svoje
+zdravie hodnotiť nielen na základe objektívneho stavu, ale aj v kontexte očakávaní,
+predchádzajúcich skúseností a schopnosti adaptácie na ochorenie. V tomto smere môže
+zohrávať úlohu aj psychická odolnosť, sociálna podpora či dĺžka trvania ochorenia.
+Na základe uvedených zistení možno konštatovať, že hypotéza bola potvrdená predovšetkým v
+kľúčových oblastiach fyzického a psychického zdravia, ako aj v globálnom hodnotení kvality
+života. Nepotvrdenie hypotézy v doménach sociálnych vzťahov a prostredia však poukazuje na
+komplexnosť problematiky kvality života a naznačuje, že aj napriek závažnému zdravotnému
+stavu môžu určité faktory pôsobiť protektívne.
+Pri interpretácii výsledkov tejto štúdie je potrebné zohľadniť niekoľko limitácií. Po
+prvé, vzorka respondentov bola relatívne malá, čo môže znížiť generalizovateľnosť výsledkov
+na širšiu populáciu. Limitom môže byť nerovnomerne zastúpená vzorka podľa pohlavia.
+Ďalšou obmedzujúcou skutočnosťou je, že neboli k dispozícii informácie o dôvode zavedenia
+sledovaného ochorenia ani o základnej diagnóze, čo obmedzuje možnosť identifikovať
+potenciálne rizikové faktory ovplyvňujúce kvalitu života.
+50
+
+Výsledky mohli byť ovplyvnené aj časovým rámcom zberu dát, ktorý predstavuje len
+obmedzené obdobie, a preto nemusí plne zachytávať možné variácie kvality života v čase.
+Vzhľadom na tieto obmedzenia je potrebné byť opatrný pri zobecňovaní výsledkov a odporúča
+sa overiť zistenia v štúdiách s väčšou, reprezentatívnejšou a diverzifikovanou vzorkou.
+
+51
+
+4.1 Odporúčania pre prax
+Na základe získaných výsledkov možno formulovať niekoľko odporúčaní pre klinickú prax,
+ktoré by mohli prispieť k zlepšeniu kvality života pacientov s tracheostómiou.
+-
+
+V oblasti fyzického zdravia sa javí ako dôležité zamerať sa na podporu funkčnej
+nezávislosti pacientov. Vhodné je zabezpečiť pravidelnú edukáciu pacientov aj ich
+rodinných príslušníkov v oblasti starostlivosti o tracheostómiu, vrátane hygieny,
+manipulácie s kanylou a prevencie komplikácií.
+
+-
+
+podporovať primeranú fyzickú aktivitu a rehabilitáciu, ktorá môže prispieť k zlepšeniu
+fyzickej kondície a zníženiu únavy
+
+-
+
+venovať zvýšenú pozornosť psychickému prežívaniu pacientov. Vzhľadom na výrazný
+dopad tracheostómie na sebavnímanie a komunikáciu by mala byť súčasťou
+starostlivosti aj psychologická podpora. Vhodné je zabezpečiť prístup k psychológovi
+alebo psychoterapeutovi, ako aj podporu pri adaptácii na zmenený telesný obraz a
+životnú situáciu. Dôležitú úlohu môže zohrávať aj nácvik alternatívnych spôsobov
+komunikácie.
+
+-
+
+podporovať zapojenie rodiny a blízkych osôb do procesu starostlivosti.
+
+-
+
+edukácia rodiny môže prispieť k lepšiemu pochopeniu potrieb pacienta a k posilneniu
+sociálnej opory
+
+-
+
+podporovať sociálnu integráciu pacientov a predchádzať ich izolácii, napríklad
+prostredníctvom komunitných alebo podporných skupín.
+
+-
+
+zabezpečiť dostupnosť kvalitnej zdravotnej starostlivosti a potrebných pomôcok.
+Pacienti by mali mať prístup k odbornému poradenstvu, rehabilitačným službám a
+adekvátnemu materiálnemu zabezpečeniu
+
+-
+
+zlepšenie informovanosti pacientov o dostupných službách a možnostiach podpory
+môže prispieť k vyššej spokojnosti a pocitu bezpečia.
+
+-
+
+odporúča sa multidisciplinárny prístup k pacientovi s tracheostómiou, ktorý zahŕňa
+spoluprácu lekára, sestry, fyzioterapeuta, logopéda a psychológa. Takýto prístup
+umožňuje adresovať nielen fyzické, ale aj psychické a sociálne potreby pacienta, čím
+môže významne prispieť k zlepšeniu celkovej kvality života.
+
+52
+
+ZÁVER
+V závere diplomovej práce konštatujeme, že kvalita života pacientov s tracheostómiou je
+komplexne ovplyvnená viacerými faktormi, pričom najvýraznejšie zmeny v porovnaní
+s normou sa prejavujú vo fyzickej a psychickej oblasti. Výsledky výskumu poukázali na to, že
+pacienti vnímajú svoju kvalitu života prevažne neutrálne až negatívne, čo sa potvrdilo aj pri
+hodnotení celkovej kvality života a spokojnosti so zdravím. Najnižšie hodnoty boli
+zaznamenané v psychickej doméne, čo naznačuje významnú psychickú záťaž, prítomnosť
+úzkosti, zníženú emocionálnu pohodu a narušené sebavnímanie. Naopak, najvyššie skóre bolo
+dosiahnuté v doméne sociálnych vzťahov, čo poukazuje na význam sociálnej opory ako
+dôležitého ochranného faktora pri zvládaní ochorenia. Fyzická a environmentálna doména
+dosahovali stredné hodnoty, pričom najvýraznejšie problémy vo fyzickej oblasti boli spojené
+so spánkom, únavou a zníženou energiou.
+Výsledky zároveň poukázali na to, že kvalita života pacientov s tracheostómiou je vo viacerých
+oblastiach nižšia v porovnaní s bežnou populáciou, najmä v doméne fyzického a psychického
+zdravia, ako aj v globálnom hodnotení kvality života a spokojnosti so zdravím. Na druhej
+strane, vyššie hodnoty v sociálnej a environmentálnej doméne naznačujú, že napriek
+závažnému zdravotnému stavu môžu určité faktory, ako je sociálna podpora, dostupnosť
+zdravotnej starostlivosti a stabilné prostredie, pozitívne ovplyvňovať vnímanie kvality života.
+V rámci prieskumných otázok sa nepotvrdila významná súvislosť medzi vekom a kvalitou
+života, pričom rozdiely medzi vekovými skupinami boli len minimálne. Tento výsledok
+poukazuje na skutočnosť, že vek nemusí byť rozhodujúcim faktorom, ale dôležitejšiu úlohu
+zohráva schopnosť adaptácie na zdravotný stav, psychická odolnosť a sociálne zázemie.
+Rovnako nebolo možné posúdiť rozdiely podľa pohlavia z dôvodu výraznej nerovnomernosti
+výskumného súboru, čo predstavuje limitáciu výskumu.
+Získané poznatky zdôrazňujú potrebu komplexného a multidisciplinárneho prístupu k
+pacientom s tracheostómiou, ktorý by mal zahŕňať nielen fyzickú starostlivosť, ale aj
+psychologickú podporu, edukáciu pacientov a ich rodín, ako aj posilňovanie sociálnych
+vzťahov. Osobitná pozornosť by mala byť venovaná psychickému prežívaniu pacientov, ktoré
+sa ukázalo ako najviac ovplyvnená oblasť kvality života.
+Na základe uvedených zistení možno konštatovať, že kvalita života pacientov s tracheostómiou
+je významne ovplyvnená ich zdravotným stavom, pričom kľúčovú úlohu zohráva nielen fyzické
+fungovanie, ale aj psychické prežívanie a sociálne prostredie.
+
+53
+
+ZOZNAM POUŽITEJ LITERATÚRY
+1. AL-HAMWI, A.S., et al. Nutritional support for tracheostomized patients: a review.
+Journal of Clinical Nutrition & Dietetics. 2019;5(1):1-5. Dostupné (online) na:
+https://clinical-nutrition.imedpub.com/
+2. BRASARD A. Percutaneous dilatational tracheostomy: current techniques and
+controversies. Journal of Intensive Care Medicine. 2017;32(4):255-266. Dostupné
+(online) na: https://journals.sagepub.com/doi/abs/10.1177/0885066616688531
+3. CALMAN KC. Quality of life in cancer patients—an hypothesis.
+Journal of Medical Ethics.
+
+1984;10(3):124-127. Dostupné
+
+(online)
+
+na:
+
+https://jme.bmj.com/content/10/3/124.full.pdf
+
+4. CAMERON T.S., et al. Tracheostomy tubes: a comprehensive guide. Anaesthesia &
+Intensive
+
+Care.
+
+2016;44(Suppl
+
+1):33-42.
+
+Dostupné
+
+(online)
+
+na:
+
+https://journals.sagepub.com/doi/10.1177/0310057X160440S107
+
+5. CANBOLAT Seyman Ç, Şenol Çelik S. Effect of protective cover on the quality of life
+of patients with tracheostomy—A quasi-experimental study. Journal of PeriAnesthesia
+Nursing. 2020;35(4):430–436. doi:10.1016/j.jopan.2020.01.013. Dostupné (online) na:
+https://www.sciencedirect.com/science/article/abs/pii/S1089947220300290/
+6. CIPRIANO P., et al. Tracheostomy: from ancient times to modern intensive care.
+Journal of Intensive Care Medicine. 2019;34(5):371-380. Dostupné (online) na:
+https://journals.sagepub.com/doi/10.1177/0885066619830501
+7. COHEN S, Janicki-Deverts D. Social support and health.
+
+In:
+
+Health Psychology. Academic Press; 2017. s. 351-383. ISBN 978-0128053003.
+8. CORDEIRO ALPC, Santos JARE, Barroso ACL, Donoso MTV, Mata LRFPD, Chianca
+TCM. Tracheostomy care for adults and the elderly in the home environment: a scoping
+review. Rev Esc Enferm USP. 2024 Aug 2;58:e20240028. doi: 10.1590/1980-220XREEUSP-2024-0028en. PMID: 39101811; PMCID: PMC11299533. dostupné (online)
+na: https://pubmed.ncbi.nlm.nih.gov/39101811/
+9. ČECHOVÁ, S. a kol. Špeciálne ošetrovateľstvo. Martin: Osveta, 2018. 248 s. ISBN
+978-80-8063-462-9.
+10. DAVIES A., et al. Caring for patients with a tracheostomy. Nursing Standard.
+2016;30(36):47-58. Dostupné (online) na: https://s3-eu-west-1.amazonaws.com/emap-
+
+54
+
+moon-prod/wp-content/uploads/sites/3/2016/05/110516_Tracheostomy-1-Caring-forpatients-with-a-tracheostomy.pdf
+11. RAIMONDE AJ, Gaston S, Wang CF. Tracheostomy. In: StatPearls. Treasure Island
+(FL):
+
+StatPearls
+
+Publishing;
+
+2026
+
+Jan-. Dostupné
+
+(online)
+
+na:
+
+https://www.ncbi.nlm.nih.gov/books/NBK559124/
+12. DODD S, et al. 'Being with' or 'doing for'? How the role of an end-of-life volunteer
+befriender can impact patient wellbeing: interviews from a multiple qualitative case
+study (ELSA). Support Care Cancer. 2018 Sep;26(9):3163-3172. doi: 10.1007/s00520018-4169-2. Epub 2018 Mar 29. PMID: 29594487; PMCID: PMC6096531. dostupné
+(online) na: https://pmc.ncbi.nlm.nih.gov/articles/PMC6096531/
+13. DURBIN C.G. Tracheostomy. Respiratory Care Clinics of North America.
+2015;21(3):395-416.
+
+Dostupné
+
+(online)
+
+na:
+
+https://www.sciencedirect.com/science/article/pii/S107380721500057X
+
+14. DURBIN C.G. Tracheostomy: why, when,
+2010;55(8):1056-1078. dostupné
+
+and how?
+
+Respiratory Care.
+
+(online)
+
+na:
+
+https://journals.sagepub.com/doi/full/10.4187/respcare.10551056
+15. ENG C., et al. Tracheostomy in the critically ill: current considerations. Current
+Opinion
+
+in
+
+Anesthesiology.
+
+2019;32(2):167-172.
+
+Dostupné
+
+(online)
+
+na:
+
+https://journals.lww.com/coanesthesiology/Abstract/2019/04000/Tracheostomy_in_the_critically_ill__current.12.
+aspx
+16. MARIETTA, M, Semien G, Fitzgerald BM. Surgical Airway Suctioning. [Updated
+2025 Apr 22]. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2026 Jan. Dostupné (online) na: https://www.ncbi.nlm.nih.gov/sites/books/NBK448077/
+17. EPSTEIN-LUBOW GP, et al. A Systematic Review of Patient and Caregiver
+Experiences with a Tracheostomy. American Journal of Hospice and Palliative
+Medicine.
+
+2018;35(1):162-174.
+
+Dostupné
+
+(online)
+
+na:
+
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6096531/)
+18. FERNANDEZ-BUSSY S, Mahajan B, Folch E, Caviedes I, Guerrero J, Majid A.
+Tracheostomy tube placement: early and late complications. J Bronchology Interv
+Pulmonol. 2015;22(4):357-364. doi:10.1097/LBR.0000000000000177. Dostupné
+(online) na: https://pubmed.ncbi.nlm.nih.gov/26348694/
+
+55
+
+19. OSEH, Christopher. Tracheostomy suctioning: What it is and how to do it. Medically
+reviewed by N. L. Aeronson. London: Medical News Today, 2023. Dostupné (online)
+na: https://www.medicalnewstoday.com/articles/tracheostomy-suctioning
+20. OPENSTAX. (2023). The nurse’s role in patient and family education. In
+Fundamentals of Nursing (Chap. 17.3). OpenStax. Dostupné (online) na:
+https://openstax.org/books/fundamentals-nursing/pages/17-3-the-nurses-role-inpatient-and-family-education
+21. GILL TM, Feinstein AR. A critical appraisal of the quality of quality-of-life
+measurements. JAMA. 1994 Aug 24-31;272(8):619-26. PMID: 7726894. Dostupné
+(online) na: https://pubmed.ncbi.nlm.nih.gov/7726894/
+22. GILYOMA, J.M., Balumuka, D.D. & Chalya, P.L. Ten-year experiences with
+Tracheostomy at a University teaching hospital in Northwestern Tanzania: A
+retrospective review of 214 cases. World J Emerg Surg 6, 38 (2011). dostupné (online)
+na: https://doi.org/10.1186/1749-7922-6-38
+23. CLEVELAND CLINIC. Tracheostomy Suctioning: Purpose, Procedure & Risks.
+Cleveland:
+
+Cleveland
+
+Clinic,
+
+2024.
+
+Dostupné
+
+(online)
+
+na:
+
+https://my.clevelandclinic.org/health/procedures/tracheostomy-suctioning
+24. GOFF D. Managing dysphagia in tracheostomized patients: where are we now? Curr
+Opin
+
+Otolaryngol
+
+Head
+
+Neck
+
+doi:10.1097/MOO.0000000000000364.
+
+Surg.
+Dostupné
+
+2017;25(3):217-222.
+(online)
+
+na:
+
+https://pubmed.ncbi.nlm.nih.gov/28459759/
+25. HASHMI NK, Ransom E, Nardone H, Redding N, Mirza N. Quality of life and selfimage in patients undergoing tracheostomy. Laryngoscope. 2010;120 Suppl 4:S196.
+doi:
+
+10.1002/lary.21663.
+
+PMID:
+
+21225794.
+
+dostupné
+
+(online)
+
+na:
+
+https://pubmed.ncbi.nlm.nih.gov/21225794/
+26. HERDMAN M,
+
+et
+
+al. The use of patient-
+
+reported outcomes for quality of life in clinical trials and clinical practice: challenges
+and opportunities.
+
+Quality of Life Research.
+
+2019;28(10):2639-2647. Dostupné
+
+(online) na: https://link.springer.com/article/10.1007/s11136-019-02264-5
+27. HIGGINS D., et al. Surgical tracheostomy versus percutaneous dilatational
+tracheostomy: an updated meta-analysis of randomised controlled trials. Annals of
+Surgery.
+
+2018;267(2):237-246.
+
+Dostupné
+
+(online)
+
+na:
+
+https://journals.lww.com/annalsofsurgery/Abstract/2018/02000/Surgical_Tracheostomy_Ve
+rsus_Percutaneous.21.aspx
+56
+
+28. CH ABHISHA et al., Study of incidence, indications of tracheostomy in relation to age
+and sex at a tertiary hospital. International Journal of Academic Medicine and
+Pharmacy. 2022; 4(5): 728-732. doi: 10.47009/jamp.2022.4.5.152. dostupné (online)
+na:
+
+https://www.academicmed.org/Uploads/Volume4Issue5/152.-2.-C-H-
+
+Abhisha_MEDP-728-732.pdf
+29. ILLINYKH-BAIR K. & Smith T.B. Effects of Social Support Interventions on Medical
+Patient Survival: A Meta-Analysis of Non-Randomized Clinical Trials. Healthcare,
+2026. 14(2), 277. dostuné (online) na: https://doi.org/10.3390/healthcare14020277
+30. JOHNSON J.T., Rosen C.A. Bailey's Head and Neck Surgery--Otolaryngology. 6th ed.
+Philadelphia, PA: Wolters Kluwer; 2018. ISBN 9781496383611.
+31. JOHNSON R.A., et al. Speaking valves in tracheostomy: an updated systematic review
+and meta-analysis. Laryngoscope. 2019;129(1):173-181. Dostupné (online) na:
+https://onlinelibrary.wiley.com/doi/abs/10.1002/lary.27367
+32. KANGAS T, Milis SL, Vanthomme K, Vandenheede H. The social determinants of
+health-related quality of life among people with chronic disease: a systematic literature
+review. Qual Life Res. 2025 Sep;34(9):2501-2511. doi: 10.1007/s11136-025-03976-1.
+Epub 2025 Apr 29. PMID: 40301158; PMCID: PMC12431912. dostupné (online) na:
+https://pubmed.ncbi.nlm.nih.gov/40301158/
+33. GENTILE, MN, Irvine AD, King AM, Hembrom AS, Guruswamy KS, Palivela NE,
+Langton-Frost N, McElroy CR, Pandian V. Enhancing Communication in Critically Ill
+Patients with a Tracheostomy: A Systematic Review of Evidence-Based Interventions
+and Outcomes. Tracheostomy. 2024;1(1):26-41. doi: 10.62905/001c.115440. Epub
+2024 Mar 31. PMID: 39253605; PMCID: PMC11382609. dostupné (online) na:
+https://trachjournal.scholasticahq.com/article/115440-enhancing-communication-incritically-ill-patients-with-a-tracheostomy-a-systematic-review-of-evidence-basedinterventions-and-outcomes
+34. KROKOS KJ, Rountree SJ. Mental Health
+
+and Quality of Life.
+
+In:
+
+Handbook of Quality of Life in Mental Health. Springer, Cham; 2019. s. 3-18. ISBN
+978-3-319-95152-2.
+35. QUEIRÓS SMM, Pinto IES, de Brito MAC, Santos CSVB. Nursing interventions for
+the promotion of tracheostomy self-care: A scoping review. J Clin Nurs. 2021
+Nov;30(21-22):3055-3071. doi: 10.1111/jocn.15823. Epub 2021 Jun 8. PMID:
+34101275. Dostupné (online) na: https://pubmed.ncbi.nlm.nih.gov/34101275/
+
+57
+
+36. MAHFOZ, T.M.B. Attitude and practices of tracheostomy care among nursing staff in
+Saudi
+
+Arabia. BMC
+
+Nurs 21,
+
+367
+
+(2022).
+
+Dostupné
+
+(online)
+
+na:
+
+https://link.springer.com/article/10.1186/s12912-022-01150-3
+37. GURKOVÁ, Elena. Vybrané aspekty kvality života. Prešov: Prešovská univerzita,
+Fakulta zdravotníctva, 2011. 187 s. ISBN 978-80-555-0371-4.
+38. GURKOVÁ, Elena. Meranie kvality života v ošetrovateľstve. 2. doplnené vydanie.
+Martin: Osveta, 2022. 210 s. ISBN 978-80-8063-502-2.
+39. Lais G, Piquilloud L. Tracheostomy: update on why, when and how. Curr Opin Crit
+Care. 2025 Feb 1;31(1):101-107. doi: 10.1097/MCC.0000000000001224. Epub 2024
+Nov
+
+25.
+
+PMID:
+
+39588741.
+
+Dostupné
+
+(online)
+
+na:
+
+https://pubmed.ncbi.nlm.nih.gov/39588741/
+40. MCGRATH BA,
+
+et
+
+al. Multidisciplinary guidelines for the management
+
+of tracheostomy patients. Anaesthesia. 2012;67(10):1025-1031. dostupné (online) na:
+https://associationofanaesthetistspublications.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2012.07217.x
+41. JURYS T, Orzażewska M, Klimek K, Działach E, Markowski J, Grajek M.
+Psychosocial Barriers and Social Perceptions in Oncology Patients with Tracheostomy:
+Case-Control
+
+Study.
+
+Curr
+
+Oncol.
+
+2025
+
+Dec
+
+31;33(1):22.
+
+doi:
+
+10.3390/curroncol33010022. PMID: 41590342; PMCID: PMC12840029. Dostupné
+(online) na: https://www.mdpi.com/1718-7729/33/1/22
+42. BRENNER. MJ, Moser CH, Ward E, Sperry ED, Bosworth B, Freeman-Sanderson A,
+Allgood S, Pandian V. The Lived Experience of Individuals with a Tracheostomy and
+their Caregivers: A Qualitative Analysis. Tracheostomy. 2025 Dec 1;2(3):33-42. doi:
+10.62905/001c.147784. PMID: 41477027; PMCID: PMC12752748. Dostupné (online)
+na:
+
+https://trachjournal.scholasticahq.com/article/147784-the-lived-experience-of-
+
+individuals-with-a-tracheostomy-and-their-caregivers-a-qualitative-analysis
+43. NEGI, M., Cecilia, M.S., Sharma, K.k. et al. Psychosocial, physical problems and
+coping strategies of patients having long term / permanent tracheostomy. Discov
+Psychol 4, 171 (2024).. Dostupné (online) na: https://doi.org/10.1007/s44202-02400290-8
+44. MONTEIRO S., de Farias, T.P., de Camargo Millen, M., Locio, R.V. (2018). The
+History of Tracheostomy. In: de Farias, T. (eds) Tracheostomy. Springer, Cham.
+Dostupné (online) na: https://link.springer.com/chapter/10.1007/978-3-319-67867-2_1
+
+58
+
+45. MÜLLEROVÁ, N. a kol. Ošetrovateľstvo v intenzívnej starostlivosti. 2. vydanie.
+Martin: Osveta, 2023. 416 s. ISBN 978-80-8063-514-5.
+46. NAKARADA-KORDIC I, Patterson N, Wrapson J, Reay SD. A Systematic Review of
+Patient and Caregiver Experiences with a Tracheostomy. Patient. 2018 Apr;11(2):175191. doi: 10.1007/s40271-017-0277-1. PMID: 28914429. Dostupné (online) na:
+https://pubmed.ncbi.nlm.nih.gov/28914429/
+47. NETUVELI G., Blane D. Quality of life in older ages, British Medical Bulletin, Volume
+85,
+
+Issue
+
+1,
+
+March
+
+2008,
+
+Pages
+
+113–126,
+
+dostupné
+
+(online)
+
+na: https://doi.org/10.1093/bmb/ldn003
+48. NHS. National Tracheostomy Safety Project (NTSP): Guidelines for Safe
+Tracheostomy Care. London: NHS England; 2016. dostupné (online) na:
+https://tracheostomy.org.uk/
+49. NIESWIADOMY R.M. Foundations of Nursing Practice: A Nursing Process Approach.
+3rd ed. New York, NY: Pearson; 2018. ISBN 978-0134417073.
+50. PARGAMENT KI.
+
+Spirituality, religion,
+
+and coping:
+
+A professional's guide. Guilford Press; 2019. ISBN 978-1462531332.
+51. PHOOKAN J, Talukdar R. A Study on Quality of Life in Post-tracheostomised Patients.
+Indian J Otolaryngol Head Neck Surg. 2023 Jun;75(2):848-856. doi: 10.1007/s12070023-03511-z. Epub 2023 Feb 10. PMID: 36817016; PMCID: PMC9913029. dostupné
+(online) na: https://pmc.ncbi.nlm.nih.gov/articles/PMC9913029/
+52. PHYSIOPEDIA. Tracheostomy (b.r.). Dostupné (online) na: https://www.physiopedia.com/Tracheostomy
+53. RAPLEY M.
+
+Quality of Life: The Concept and Its Measurement. Routledge;
+
+2017.
+
+ISBN 978-0761950196.
+54. SKEVINGTON S.M., Rowland, C., Panagioti, M. et al. Enhancing the multidimensional assessment of quality of life: introducing the WHOQOL-Combi. Qual Life
+Res 30, 891–903 (2021). dostupné na: https://link.springer.com/article/10.1007/s11136020-02661-9
+55. SKORETZ, Stacey A. MSc, PhD, CCC-SLP, SLP(C), RSLP1,2,3,4; Riopelle,
+Stephanie J. MSc, SLP(C), RSLP1; Wellman, Leslie MSc, SLP(C)4,5; Dawson,
+Camilla BSc (Hons), DClinP, MRCSLT1,6. Investigating Swallowing and
+Tracheostomy Following Critical Illness: A Scoping Review. Critical Care Medicine
+48(2):p e141-e151, February 2020. | DOI: 10.1097/CCM.0000000000004098.
+
+59
+
+Dostupné
+
+(online)
+
+na:
+
+https://journals.lww.com/ccmjournal/abstract/2020/02000/investigating_swallowing_a
+nd_tracheostomy.34.aspx
+56. STEPTOE A, Deaton A, Stone A. Subjective wellbeing, health, and ageing. The Lancet,
+2014;
+
+385,
+
+640-648.
+
+Dostupné
+
+(online)
+
+na:
+
+https://doi.org/10.1016/S0140-
+
+6736(13)61489-0
+57. St
+
+George’s
+
+Humidification
+
+University
+in
+
+Hospitals
+
+tracheostomy
+
+NHS
+
+Foundation
+
+Trust.
+
+(b.r.).
+
+care.
+
+Dostupné
+
+(online)
+
+na:
+
+https://www.stgeorges.nhs.uk/gps-and-clinicians/clinical-resources/tracheostomyguidelines/humidification/
+58. TRACHEOSTOMY UK. (2025). Appendix 3: Tracheostomy patient / carers / family
+education.
+
+Tracheostomy
+
+UK.
+
+Dostupné
+
+(online)
+
+na:
+
+https://tracheostomy.org.uk/storage/files/Appendix%203%20TRACHEOSTOMY%20
+EDUCATION.pdf
+59. UMSTOT, R, Samanta D, Umstot E, Area SA, Richmond BK, Jarrouj A. Ten-Year
+Review of Tracheostomy Techniques and Related Complications. Am Surg. 2024
+Feb;90(2):225-230. doi: 10.1177/00031348231198115. Epub 2023 Aug 22. PMID:
+37608524. Dostupné (online) na: https://pubmed.ncbi.nlm.nih.gov/37608524/
+60. WEIDLICH, S., Pfeiffer, J. & Kugler, C. Self-management of patients with
+tracheostomy in the home setting: a scoping review. J Patient Rep Outcomes 7, 101.
+2023. Dostupné (online) na: https://doi.org/10.1186/s41687-023-00643-2
+61. KOKONG, D. D. et al. Tracheostomy: The dynamics of indications in an old procedure.
+Journal of Otolaryngology and Rhinology, 2016, roč. 2, č. 2, s. 016. dostupné (online)
+na:
+
+https://clinmedjournals.org/articles/jor/journal-of-otolaryngology-and-rhinology-
+
+jor-2-016.php?jid=jor
+62. TALARSKA, D, Tobis S, Kotkowiak M, Strugała M, Stanisławska J, WieczorowskaTobis K. Determinants of Quality of Life and the Need for Support for the Elderly with
+Good Physical and Mental Functioning. Med Sci Monit. 2018 Mar 19;24:1604-1613.
+doi: 10.12659/msm.907032. PMID: 29551764; PMCID: PMC5870108. dostupné
+(online) na: https://pmc.ncbi.nlm.nih.gov/articles/PMC5870108/
+63. WALLS R.M., et al. Rosen's Emergency Medicine: Concepts and Clinical Practice. 9th
+ed. Philadelphia, PA: Elsevier; 2018. ISBN 978-0323354790.
+
+60
+
+64. WHOQOL
+
+Group. Development of the World Health Organization WHOQOL-
+
+BREF quality of life assessment. The WHOQOL
+
+Group.
+
+Psychological Medicine.
+
+1998;28(3):551-558. dostupné (online) na: https://pubmed.ncbi.nlm.nih.gov/9626712/
+65. WHOQOLGroup. The World Health Organization Quality of Life Assessment (WHO
+QOL): position paper from the World Health Organization.
+Social Science & Medicine.
+
+1995;41(10):1403-1409. dostupné
+
+(online)
+
+na:
+
+https://pubmed.ncbi.nlm.nih.gov/8560308/
+66. World Health Organization. WHOQOL-BREF: introduction, administration, scoring
+and generic version of the assessment. Geneva: World Health Organization; 1996
+dostupné (online) na: https://www.who.int/tools/whoqol/whoqol-bref
+67. Open Resources for Nursing (Open RN); Ernstmeyer K, Christman E, editors. Nursing
+Skills. Eau Claire (WI): Chippewa Valley Technical College; 2021. Chapter 22
+Tracheostomy
+
+Care
+
+&
+
+Suctioning. Dostupné
+
+(online)
+
+na:
+
+https://www.ncbi.nlm.nih.gov/books/NBK593189/
+68. Memorial Sloan Kettering Cancer Center. Caring for your tracheostomy. Retrieved
+March 29, 2021, from https://www.mskcc.org/cancer-care/patient-education/caringyour-tracheostomy
+
+61
+
+ZOZNAM PRÍLOH:
+Príloha 1: Dotazník
+Príloha 2: Súhlas s vykonaním výskumu
+
+62
+
+Príloha 1
+Vážený respondent, vážená respondentka,
+moje meno je Bc. Nela Habiňáková a som študentkou Trnavskej univerzity v Trnave,
+Fakulta zdravotníctva a sociálnej práce, odbor ošetrovateľstvo. Žiadam vás o vyplnenie
+dotazníka pre moju diplomovú prácu, ktorej cieľom že zistiť kvalitu života pacientov
+s tracheostómiou. Dotazník je dobrovoľný a anonymný.
+
+O VÁS
+Pred tým ako začnete, chceli by sme Vás požiadať odpovedať na niekoľko všeobecných otázok
+o Vás: zakrúžkujte správnu odpoveď alebo vyplňte poskytnuté voľné miesto.
+
+Aké je Vaše pohlavie?
+
+Žena / Muž
+
+Váš dátum narodenia?
+
+_____ /_____ / _____ deň / mesiac/ rok
+
+Aké je Vaše najvyššie dosiahnuté vzdelanie?
+
+Žiadne
+
+Základná škola
+Stredná škola
+Terciárne
+
+Aký je Váš stav?
+
+Slobodná/ý
+Žijúca/i oddelene
+Vydaná/ženatý
+Rozvedená/ý
+Družka / Druh
+Vdova/vdovec
+
+Ste momentálne chorá/ý? Áno/Nie
+Ak nie je niečo v poriadku s Vaším zdravím, čo
+myslíte, že to je? .................................................................... choroba/problém
+63
+
+Inštrukcie
+Toto ohodnotenie sa pýta na to, ako vnímate svoju kvalitu života, zdravia alebo iné oblasti
+Vášho života. Prosím, odpovedajte na všetky otázky. Ak ste si nie istý/á, ktorú odpoveď máte
+dať na otázku, prosím vyberte tú, ktorá sa javí ako najvhodnejšia. Touto môže byť často
+prvá odpoveď, ktorá Vás napadne.
+Prosím majte na zreteli Vaše štandardy, nádeje, radosti a obavy. My sa pýtame, čo si myslíte
+o svojom živote počas posledných 2 týždňov. Napríklad, mysliac na posledné dva týždne,
+otázka môže znieť:
+
+Dostávate toľko podpory od iných
+koľko potrebujte?
+
+Vôbec
+1
+
+Nie
+veľa
+
+Primerane
+
+Veľa
+
+Úplne
+
+3
+
+4
+
+5
+
+2
+
+Mali by ste zakrúžkovať číslo, ktoré sa najviac hodí, koľko podpory ste dostali od iných
+v priebehu posledných dvoch týždňov. Takže by ste zakrúžkovali číslo 4, ak ste dostali veľa
+podpory zo strany iných.
+Dostávate ten druh podpory od
+iných koľko potrebujte?
+
+Vôbec
+1
+
+Nie
+veľa
+
+Primerane
+
+Veľa
+
+Úplne
+
+3
+
+4
+
+5
+
+2
+
+Zakrúžkovali by ste číslo 1, ak by ste nedostávali žiadnu podporu, ktorú by ste potrebovali od
+iných počas posledných dvoch týždňov.
+
+MSA/MNH/PSF/97.6
+Strana 17
+
+Prosím, prečítajte si každú otázku, zhodnoťte Vaše pocity a zakrúžkujte číslo škály
+každej otázky, ktoré Vám ponúka najlepšiu odpoveď.
+
+Veľmi
+slabá
+
+64
+
+Slabá
+
+Ani
+slabá
+ani
+dobrá
+
+Dobrá
+
+Veľmi
+dobrá
+
+Ako by ste ohodnotili Vašu
+kvalitu života?
+
+1(G1)
+
+2(G4
+)
+
+Ako ste
+spokojný/
+á s Vaším
+zdravím?
+
+1
+
+2
+
+3
+
+Veľmi
+nespokojný/
+á
+
+Nespokojný/
+á
+
+Ani
+spokojný/á
+ani
+nespokojný/
+á
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Spokojný/
+á
+
+Veľmi
+spokojný/
+á
+
+4
+
+5
+
+Nasledujúce otázky sa pýtajú, ako veľmi ste pociťovali určité veci v priebehu posledných
+dvoch týždňov.
+
+Vôbec
+
+Trochu
+
+Priemerne
+
+Veľmi
+
+Extrémne
+
+Do akej miery cítite, že
+Vám fyzická bolesť bráni
+robiť to, čo potrebujete
+spraviť?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Ako veľmi potrebujete
+nejakú zdravotnú liečbu,
+4(F11.3)
+aby ste mohli vykonávať
+dennodenné aktivity?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+3(F1.4)
+
+5(F4.1)
+
+Ako veľmi si
+vychutnávate život?
+
+Do akej miery pociťujete,
+6(F24.2) že je Váš život
+zmysluplný?
+7(F5.3)
+
+Ako dobre sa dokážete
+koncentrovať?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+8(F16.1)
+
+Ako bezpečne sa cítite
+počas denného života?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+9(F22.1)
+
+Ako zdravé je Vaše
+fyzikálne prostredie?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+65
+
+Nasledujúce otázky sa pýtajú, ako úplne zažívate alebo ste boli schopný/á urobiť určité veci
+v priebehu posledných dvoch týždňov.
+
+Vôbec
+
+Trochu
+
+Primerane Väčšinou
+
+Úplne
+
+10(F2.1)
+
+Máte dosť energie pre
+Váš každodenný život?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+11(F7.1)
+
+Ste schopný/á prijať svoj
+telesný vzhľad?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+12(F18.1)
+
+Máte dostatok peňazí na
+pokrytie Vašich potrieb?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Ako dostupné sú pre Vás
+informácie, ktoré
+13(F20.1)
+potrebujete pre Váš
+každodenný život?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Do akej miery máte
+14(F21.1) príležitosť venovať sa
+aktivitám voľného času?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+MSA/MNH/PSF/97.6
+Strana 18
+
+15(F9.1) Ako dobre vyjdete?
+
+Veľmi
+slabo
+1
+
+Slabo
+
+Ani
+slabo
+ani
+dobre
+
+Dobre
+
+Veľmi
+dobre
+
+2
+
+3
+
+4
+
+5
+
+Nasledujúce otázky sa pýtajú, ako dobre alebo spokojne ste sa cítili pri rôznych aspektoch
+Vášho života v priebehu posledných dvoch týždňov.
+
+Veľmi
+Nespokojný
+nespokojný
+/á
+/á
+
+66
+
+Ani
+spokojný/á
+ani
+
+Spokojný
+/á
+
+Veľmi
+spokojný
+/á
+
+nespokojný
+/á
+Ako ste
+spokojný/á so
+16(F3.3)
+svojím
+spánkom?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Ako ste
+spokojný/á
+s Vašou
+schopnosťou
+17(10.3)
+vykonávať
+Vaše
+dennodenné
+aktivity?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Ako ste
+spokojný/á
+s Vašou
+spôsobilosťou
+pracovať?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Ako ste
+19(F6.3) spokojný/á so
+sebou?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+20(F13.
+3)
+
+Ako ste
+spokojný/á
+s Vašimi
+osobnými
+vzťahmi?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+21(F15.
+3)
+
+Ako ste
+spokojný/á so
+svojím
+sexuálnym
+životom?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+22(F14.
+4)
+
+Ako ste
+spokojný/á
+s podporou,
+ktorú
+dostávate od
+Vašich
+priateľov?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+23(F17.
+3)
+
+Ako ste
+spokojný/á
+s podmienkam
+
+1
+
+2
+
+3
+
+4
+
+5
+
+18(F12.
+4)
+
+67
+
+i miesta
+Vášho
+pobytu?
+
+24(F19.
+3)
+
+Ako ste
+spokojný/á
+s dostupnosťo
+u
+k zdravotníck
+ym službám?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+25(F23.
+3)
+
+Ako ste
+spokojný/á
+s Vašou
+dopravou?
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Nasledujúce otázky sa pýtajú, ako často ste pociťovali alebo zažili určité veci v priebehu
+posledných dvoch týždňov.
+
+Ako často mávate
+negatívne pocity, ako
+26(F8.1) napríklad zlá nálada,
+zúfalstvo, úzkosť,
+depresia?
+
+Nikdy
+
+Zriedkavo
+
+Celkom
+často
+
+Veľmi
+často
+
+Vždy
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Máte nejaké poznámky ohľadom tohto ohodnotenia?
+.......................................................................................................................................................
+.......................................................................................................................................................
+.......................................................................................................................................................
+...........................................................................................
+
+ĎAKUJEM ZA VAŠU POMOC
+
+68
+
+Príloha 2
+
+69
+
+

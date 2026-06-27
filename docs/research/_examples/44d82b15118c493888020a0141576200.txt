@@ -1,0 +1,3487 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+36400
+
+DIGITÁLNA GRAMOTNOSŤ PACIENTOV PRI VYUŢÍVANÍ MODERNÝCH
+INFORMAČNÝCH TECHNOLÓGIÍ V OŠETROVATEĽSTVE
+Diplomová práca
+
+2026
+Bc. Margaréta Štofaniková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+DIGITÁLNA GRAMOTNOSŤ PACIENTOV PRI VYUŢÍVANÍ MODERNÝCH
+INFORMAČNÝCH TECHNOLÓGIÍ V OŠETROVATEĽSTVE
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Školiace pracovisko: Katedra Ošetrovateľstva, TU
+Študijný odbor:
+
+Ošetrovateľstvo
+
+Vedúci práce/školiteľ: doc. PhDr. Jana Martinková PhD., MPH.
+
+Trnava 2026
+Bc. Margaréta Štofaniková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+Zadanie diplomovej práce
+
+Meno a priezvisko študenta: Bc. Margaréta Štofaniková
+Kód študenta:
+
+S1321066076
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Typ záverečnej práce:
+
+Diplomová práca
+
+Názov práce:
+
+Digitálna gramotnosť pacientov pri vyuţívaní moderných
+informačných technológií v ošetrovateľstve
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva, TU
+
+Meno, priezvisko a tituly školiteľa: doc. PhDr. Jana Martinková PhD., MPH.
+Anotácia záverečnej práce: V diplomovej práci sa venujeme digitálnej zdravotnej
+gramotnosti
+
+pacientov
+
+pri
+
+vyuţívaní
+
+moderných
+
+informačných technológií v ošetrovateľstve. Prostredníctvom
+dotazníka
+
+DHLI
+
+zisťujeme
+
+úroveň
+
+ich
+
+digitálnych
+
+kompetencií a analyzujeme faktory, ktoré ju ovplyvňujú.
+Jazyk, v ktorom sa práca vypracuje: Slovenský jazyk
+Dátum schválenia zadania:
+
+11.11.2024
+
+....................................
+Podpis vedúceho práce
+
+ČESTNÉ PREHLÁSENIE
+
+Čestne prehlasujem, ţe diplomovú práci na tému „Digitálna gramotnosť pacientov pri
+využívaní moderných informačných technológií v ošetrovateľstve“ som vypracovala
+samostatne pod vedením doc. PhDr. Jana Martinková PhD., MPH.. Všetky pouţité
+literárne zdroje som uviedla v zozname pouţitej literatúry.
+
+Trnava, 2026
+
+.............................................
+
+Bc. Margaréta Štofaniková
+
+POĎAKOVANIE
+Rada by som vyjadrila úprimnú vďaku školiteľke, doc. PhDr. Jane Martinkovej PhD.,
+MPH., za jej cenné usmernenia, odborné vedenie a trpezlivosť počas vypracovania tejto
+práce. Vaše odborné vedenie a podpora mi veľmi pomohli.
+
+ABSTRAKT
+
+Štofaniková, Margaréta: (Digitálna gramotnosť pacientov pri vyuţívaní moderných
+informačných technológií v ošetrovateľstve) [Diplomová práca] / Margaréta Štofaniková Trnavská univerzita v Trnave, Fakulta zdravotníctva a sociálnej práce: Katedra
+ošetrovateľstva – Školiteľ: doc. PhDr. Jana Martinková, PhD., MPH, 2026 (80)
+Úvod: V práci sa venujeme skúmaniu úrovne digitálnej zdravotnej gramotnosti pacientov
+pri vyuţívaní moderných informačných technológií v ošetrovateľskej praxi. Našim cieľom
+bolo analyzovať schopnosti pacientov vyhľadávať, hodnotiť a efektívne vyuţívať
+zdravotné informácie online, ako aj ochranu ich súkromia pri pouţívaní digitálnych
+zdravotníckych nástrojov. Prostredníctvom štandardizovaného dotazníka DHLI sme
+identifikovali oblasti, kde majú pacienti vyššiu alebo niţšiu digitálnu gramotnosť a zistili
+sme faktory, ktoré ju ovplyvňujú, vrátane veku, vzdelania a frekvencie pouţívania
+internetu.
+Cieľ práce: Cieľom práce je zistiť úroveň digitálnej zdravotnej gramotnosti pacientov pri
+vyuţívaní moderných informačných technológií v ošetrovateľstve prostredníctvom
+štandardizovaného dotazníka DHLI ( Digital Health Literacy Instrument ) a analyzovať
+faktory, ktoré ju ovplyvňujú.
+Metodika: Výskum bol realizovaný prostredníctvom štandardizovaného dotazníka DHLI,
+ktorý hodnotil technické zručnosti, navigáciu, vyhľadávanie a hodnotenie zdravotných
+informácií, pridávanie vlastného obsahu a ochranu súkromia. Dotazník bol vyplnený 120
+respondentmi vo veku nad 18 rokov, rôzneho vzdelania a miesta bydliska. Výsledky boli
+následne analyzované pomocou štatistických metód.
+Výsledky: Respondenti najlepšie zvládali technické zručnosti a schopnosť skopírovať či
+vloţiť text, zatiaľ čo oblasti hodnotenia spoľahlivosti a ochrany súkromia vykazovali
+niţšiu úroveň. Digitálna gramotnosť bola významne ovplyvnená vzdelaním (p=0,002),
+vekom (p = 0,000) a frekvenciou pouţívania internetu (p = 0,000). Respondenti s vyšším
+vzdelaním a pravidelným prístupom na internet dosahovali lepšie výsledky vo všetkých
+oblastiach DHLI.
+
+Záver: Na základe výsledkov práce môţeme konštatovať, ţe podpora digitálnej zdravotnej
+gramotnosti pacientov je kľúčová pre bezpečné a efektívne vyuţívanie moderných
+informačných technológií v ošetrovateľskej praxi.
+Kľúčové slová: Digitálna gramotnosť pacientov. Informačno-komunikačné technológie.
+Sestra v teleošetrovateľstve. Teleošetrovateľstvo.
+
+ABSTRACT
+
+Štofaniková, Margaréta: (Digital Literacy of Patients in the Use of Modern Information
+Technologies in Nursing) [Master’s Thesis] / Margaréta Štofaniková – Trnava University
+in Trnava, Faculty of Health and Social Work: Department of Nursing – Thesis Supervisor:
+doc. PhDr. Jana Martinková, PhD., MPH, 2026 (80)
+Introduction: This thesis focuses on examining the level of patients’ digital health literacy
+in the use of modern information technologies in nursing practice. The aim of the study
+was to analyze patients abilities to search for, evaluate, and effectively use online health
+information, as well as to assess the protection of their privacy when using digital health
+tools. Through the standardized DHLI questionnaire, we identified areas in which patients
+demonstrate higher or lower levels of digital literacy and determined the factors
+influencing it, including age, education, and frequency of internet use.
+Aim of the Thesis: The aim of this thesis is to determine the level of patients’ digital
+health literacy in the use of modern information technologies in nursing practice through
+the standardized DHLI (Digital Health Literacy Instrument) questionnaire and to analyze
+the factors influencing it.
+Methodology: The research was conducted using the standardized DHLI questionnaire,
+which assessed technical skills, navigation skills, searching for and evaluating health
+information, adding self-generated content, and privacy protection. The questionnaire was
+completed by 120 respondents aged over 18 years, with varying levels of education and
+different places of residence. The results were subsequently analyzed using statistical
+methods.
+Results: The highest levels of competence were identified in technical skills, particularly
+in performing basic digital operations such as copying and pasting text. Lower levels were
+observed in the domains of evaluating the reliability of online health information and
+protecting personal data. Digital health literacy was significantly associated with
+educational level (p = 0.002), age (p = 0.000), and frequency of internet use (p = 0.000).
+Participants with higher education and more frequent internet use achieved significantly
+better scores across all DHLI domains.
+
+Conclusion: Based on the findings of this thesis, it can be concluded that promoting
+patients’ digital health literacy is essential for the safe and effective use of modern
+information technologies in nursing practice.
+Keywords: Information and Communication Technologies. Patients’ digital literacy.
+Telenurse. Telenursing.
+
+OBSAH:
+ABSTRAKT ......................................................................................................................... 6
+ABSTRACT .......................................................................................................................... 8
+Zoznam grafov ................................................................................................................... 11
+Zoznam tabuliek ................................................................................................................ 12
+Zoznam skratiek ................................................................................................................ 13
+Úvod .................................................................................................................................... 14
+1. Súčasný stav riešenej problematiky ............................................................................. 16
+1.1. CHARAKTERISTIKA INFORMAČNO KOMUNIKAČNÝCH TECHNOLÓGIÍ............................... 16
+1.2. HISTÓRIA TELEMEDICÍNY A TELEOŠETROVATEĽSTVA .................................................... 21
+1.3. PRÍNOSY A BARIÉRY TELEOŠETROVATEĽSTVA ............................................................... 23
+1.4. E-HEALTH NA SLOVENSKU ............................................................................................. 26
+1.5. E-HEALTH V ZAHRANIČÍ ................................................................................................. 28
+1.6. TELESESTRA ................................................................................................................... 30
+1.7. ÚLOHY TELESESTRY ....................................................................................................... 32
+2. Výskum ........................................................................................................................... 35
+2.1. CIELE VÝSKUMU ............................................................................................................ 35
+2.2. HYPOTÉZY VÝSKUMU .................................................................................................... 36
+2.3. METODIKA VÝSKUMU .................................................................................................... 37
+3. Analýza a interpretácia výsledkov výskumu ............................................................... 39
+3.1. ŠTATISTICKÉ TESTOVANIE HYPOTÉZ .............................................................................. 55
+4. Diskusia ........................................................................................................................... 61
+Odporúčania pre prax ....................................................................................................... 68
+Záver ................................................................................................................................... 70
+Zoznam bibliografických odkazov ................................................................................... 72
+
+Zoznam grafov
+Graf 1 - Aké je vaše pohlavie?............................................................................................. 39
+Graf 2 – Koľko máte rokov? ................................................................................................ 40
+Graf 3 – Aké je vaše najvyššie dosiahnuté vzdelanie? ........................................................ 41
+Graf 4 – Kde bývate? ........................................................................................................... 41
+Graf 5 – Aký je váš rodinný stav? ....................................................................................... 42
+Graf 6 – Ako často viete overiť zdroje zdravotníckych informácií? ................................... 48
+Graf 7 – Ako často viete posúdiť, či sú informácie aktuálne a dôveryhodné? .................... 48
+Graf 8 – Ako často viete zistiť, či sú informácie relevantné pre Váš zdravotný stav? ........ 49
+Graf 9 – Ako často viete rozlíšiť medzi všeobecnými a špecifickými informáciami? ........ 49
+Graf 10 – Ako často viete určiť, ktoré informácie sú pre Vás najviac uţitočné? ................ 50
+Graf 11 – Ako často viete napísať komentár alebo recenziu o zdravotníckom produkte
+alebo sluţbe? ........................................................................................................................ 51
+Graf 12 – Ako často viete zdieľať svoje skúsenosti na zdravotníckom fóre? ..................... 51
+Graf 13 – Ako často viete vytvoriť alebo prispieť do online diskusie o zdraví? ................. 52
+Graf 14 – Ako často si viete nastaviť súkromie pri pouţívaní zdravotných aplikácií? ....... 52
+Graf 15 – Ako často viete rozpoznať podozrivú webstránku, ktorá môţe zneuţiť Vaše
+údaje? ................................................................................................................................... 53
+Graf 16 – Ako často si viete zabezpečiť svoje osobné údaje pri pouţívaní internetu? ....... 54
+Graf 17 priemerné DG skóre podľa pouţívania internetu ................................................... 56
+Graf 18 priemerného DG skóre podľa veku ........................................................................ 58
+Graf 19 – priemerné skóre DG podľa vzdelania .................................................................. 59
+
+Zoznam tabuliek
+Tabuľka 1 – Ako často pouţívate internet? ......................................................................... 40
+Tabuľka 2 - Ako často si viete otvoriť webstránku zadaním správnej internetovej adresy?
+............................................................................................................................................. 42
+Tabuľka 3 - Ako často si viete stiahnuť a uloţiť zdravotnícky dokument z internetu? ....... 43
+Tabuľka 4 – Ako často viete skopírovať a vloţiť text do internetového prehliadača? ........ 43
+Tabuľka 5 – Ako často viete preklikávať medzi rôznymi stránkami a vrátiť sa späť? ....... 44
+Tabuľka 6 – Ako často viete nájsť cestu späť na predchádzajúcu stránku, ak sa stratíte? .. 44
+Tabuľka 7 - Ako často si viete poradiť s neprehľadnou štruktúrou webovej stránky? ........ 45
+Tabuľka 8 – Ako často viete pouţiť kľúčové slová na vyhľadanie zdravotníckych
+informácií? ........................................................................................................................... 45
+Tabuľka 9 – Ako často viete nájsť informácie o konkrétnych príznakoch alebo chorobách?
+............................................................................................................................................. 46
+Tabuľka 10 – Ako často viete nájsť informácie o liečbe alebo liekoch? ............................. 46
+Tabuľka 11 – Ako často viete rozpoznať, ktoré webstránky poskytujú spoľahlivé
+informácie? .......................................................................................................................... 47
+Tabuľka 12 – Výpočty H1 ................................................................................................... 55
+Tabuľka 13 – upravené odpovede na numerické hodnoty: .................................................. 57
+Tabuľka 14 – Výpočty H2 ................................................................................................... 57
+Tabuľka 15 – Výpočty H3 ................................................................................................... 58
+Tabuľka 16 – priemerné skóre DG ...................................................................................... 60
+Tabuľka 17 – Výpočty H4 ................................................................................................... 60
+
+Zoznam skratiek
+a kol. / et al. – a kolektív
+ATA - American Telemedicine Association
+č. – číslo
+DG – digitálna gramotnosť
+DHLI - Digital Health Literacy Instrument
+IKT - informačno-komunikačné technológie
+WHO - Svetová zdravotnícka organizácia
+
+Úvod
+
+V súčasnosti sa dostupnosť zdravotných informácií prostredníctvom internetu a mobilných
+aplikácií stáva čoraz dôleţitejšou súčasťou kaţdodenného ţivota pacientov. Moderné
+informačné technológie umoţňujú prístup k širokému spektru informácií, od prevencie a
+diagnostiky aţ po liečbu a starostlivosť o chronické ochorenia. Tento trend však prináša aj
+výzvy. Pacienti musia vedieť informácie správne vyhľadávať, hodnotiť ich spoľahlivosť,
+určiť ich relevantnosť pre vlastný zdravotný stav a zároveň chrániť svoje osobné údaje pri
+pouţívaní digitálnych sluţieb. Schopnosť tieto zručnosti ovládať sa označuje ako digitálna
+zdravotná gramotnosť a predstavuje kľúčový faktor pre bezpečné a efektívne rozhodovanie
+pacientov. Pre zdravotníctvo a predovšetkým ošetrovateľskú prax je táto problematika
+mimoriadne významná. Sestry a ďalší zdravotnícki pracovníci často zohrávajú priamu
+úlohu pri podpore pacientov pri vyuţívaní digitálnych zdravotných nástrojov, napríklad pri
+odporúčaní dôveryhodných webových stránok, aplikácií alebo pri poskytovaní základného
+školenia k ich správnemu pouţívaniu. Nízka digitálna gramotnosť pacientov môţe viesť k
+nesprávnemu interpretovaniu informácií, neefektívnej liečbe, ale aj k zraniteľnosti voči
+dezinformáciám a nebezpečným online zdrojom. Cieľom tejto práce je analyzovať úroveň
+digitálnej zdravotnej gramotnosti pacientov pri vyuţívaní moderných informačných
+technológií v ošetrovateľskej praxi a identifikovať faktory, ktoré ju ovplyvňujú. Výskum
+sa zameriava na rôzne dimenzie digitálnej gramotnosti, konkrétne na technické zručnosti,
+navigačné schopnosti, vyhľadávanie informácií, hodnotenie spoľahlivosti, určovanie
+relevancie a ochranu súkromia. Analýza týchto dimenzií umoţňuje nielen zhodnotiť
+súčasný stav znalostí pacientov, ale aj navrhnúť praktické opatrenia, ktoré môţu
+zdravotnícki pracovníci implementovať v kaţdodennej praxi. V práci sa zároveň skúma
+vplyv sociodemografických faktorov, ako sú vek, pohlavie, vzdelanie, miesto bydliska a
+frekvencia pouţívania internetu, na úroveň digitálnej zdravotnej gramotnosti. Tieto
+premenné umoţňujú identifikovať skupiny pacientov, ktoré sú v oblasti digitálnych
+zručností limitovanejšie. Výber tejto témy bol motivovaný aktuálnosťou problematiky. V
+kontexte rastúcej digitalizácie zdravotníckych sluţieb je nevyhnutné, aby pacienti
+disponovali schopnosťou efektívne vyuţívať digitálne zdroje a zároveň chránili svoje
+osobné údaje. Zlepšenie digitálnej zdravotnej gramotnosti pacientov môţe podporiť
+aktívnu účasť na liečebnom procese a zníţiť riziko nesprávnych alebo neoverených
+14
+
+zdravotných informácií. Spracovanie témy je podloţené aktuálnymi literárnymi zdrojmi,
+vrátane medzinárodných štúdií a odborných prieskumov, ktoré poskytujú prehľad o
+súčasnom stave digitálnej zdravotnej gramotnosti.
+
+15
+
+1. Súčasný stav riešenej problematiky
+
+V súčasnosti sa v zdravotníctve čoraz častejšie stretávame s pojmami telemedicína, mhealth či eHealth, ktoré predstavujú moderné formy poskytovania zdravotnej starostlivosti
+s vyuţitím informačných a komunikačných technológií (IKT). Tieto prístupy sa uplatňujú
+v rôznych oblastiach – od diagnostiky, liečby a prevencie ochorení alebo úrazov, aţ po
+výskum, hodnotenie kvality starostlivosti a vzdelávanie zdravotníckych pracovníkov a
+komunít. Tieto pojmy budú ďalej podrobnejšie vysvetlené a vzájomne porovnané s cieľom
+objasniť ich význam, rozsah pôsobnosti a praktické vyuţitie v kontexte súčasného
+zdravotníctva (Moore et al., 2020).
+
+1.1. Charakteristika informačno komunikačných technológií
+Hlavným nástrojom teleošetrovateľstva sú informačno komunikačné technológie. Pojem
+informačné technológie označuje súbor technických zariadení (hardware) a počítačových
+programov (software), ktoré umoţňujú elektronické spracovanie, prístup, vyhľadávanie,
+vkladanie, organizovanie, úpravu a prezentáciu informácií. Medzi hardvérové prostriedky
+patria napríklad osobné počítače, skenery či digitálne kamery, zatiaľ čo softvér zahŕňa
+rôzne databázové, multimediálne a aplikačné programy. Neoddeliteľnou súčasťou
+informačných technológií sú aj komunikačné technológie, ktoré zabezpečujú prenos
+informácií prostredníctvom rôznych médií, ako sú napríklad telefóny alebo počítače.
+Pomocou komunikačných technológií vieme zaistiť komunikáciu, optimálnu spätnú väzbu
+a slúţia ako podporný nástroj pre distribúciu rôznych informácií, dát, obrázkov, videí,
+zvukových nahrávok. Spojením termínov informačné technológie a komunikačné
+technológie vznikol termín informačno-komunikačné technológie (IKT), ktorý predstavuje
+súhrnný názov pre komunikáciu a prácu s informáciami. (Slezáková a kol., 2022)
+Informačné a komunikačné technológie sa v súčasnosti stali neoddeliteľnou súčasťou
+kaţdodenného ţivota a ich význam neustále rastie aj v oblasti zdravotníctva. Ide o
+technologické prostriedky a systémy, ktoré umoţňujú efektívnu výmenu informácií,
+komunikáciu a spracovanie údajov prostredníctvom rôznych nástrojov, ako sú počítače,
+internet, mobilné zariadenia či sociálne médiá. Vďaka nim je moţné rýchlejšie a presnejšie
+zdieľať zdravotnícke informácie, čo vedie k lepšej koordinácii a organizácii práce. V
+ošetrovateľstve majú IKT mimoriadne dôleţitú úlohu. Podporujú samostatnosť a
+autonómiu sestier pri získavaní, vyhľadávaní a vyuţívaní odborných poznatkov, čím
+16
+
+napomáhajú ich odbornému rastu a rozvoju kompetencií. Umoţňujú tieţ lepšie porozumieť
+odbornému obsahu, rýchlejšie reagovať na nové informácie a efektívnejšie ich aplikovať v
+praxi. Okrem toho IKT uľahčujú klinické rozhodovanie, pretoţe poskytujú prístup k
+aktuálnym dátam o pacientoch, liečebným postupom či výskumným poznatkom.
+Významne tak prispievajú k zvyšovaniu kvality, presnosti a bezpečnosti poskytovanej
+ošetrovateľskej starostlivosti. Celkovo moţno povedať, ţe informačné a komunikačné
+technológie predstavujú kľúčový prvok moderného ošetrovateľstva, ktorý zlepšuje
+efektivitu práce, posilňuje odbornú zodpovednosť sestier a podporuje lepšie výsledky v
+starostlivosti o pacienta (Alves et al., 2020).
+Sestry vo svojej kaţdodennej praxi vyuţívajú rôzne typy zdravotníckych informačných
+technológií, ktoré im uľahčujú prácu. Patria sem napríklad elektronické zdravotné
+záznamy, systémy na elektronické zadávanie objednávok či podávanie liekov pomocou
+čiarových kódov. Tieto technológie majú potenciál zvýšiť efektivitu a produktivitu práce
+sestier, pretoţe zniţujú čas venovaný administratívnym a dokumentačným činnostiam
+(Moore et al., 2020).
+Ďalším pojmom s ktorým sa v tejto oblasti môţeme stretnúť je pojem telemedicína.
+European Commission (2008) označuje telemedicínu ako spôsob poskytovania zdravotnej
+starostlivosti prostredníctvom IKT v prípadoch, keď sa zdravotnícky pracovník a pacient
+alebo dvaja zdravotnícki odborníci nenachádzajú na rovnakom mieste. Ide o bezpečný
+prenos lekárskych informácií a dát vo forme textu, zvuku, obrázkov či iných digitálnych
+formátov, ktoré slúţia na prevenciu, diagnostiku, liečbu a sledovanie pacientov.
+Telemedicína zahŕňa rôzne typy sluţieb. Medzi najbeţnejšie patrí telerádiológia,
+teledermatológia, telekonzultácie, telemonitorovanie a teleoftalmológia. Okrem toho môţu
+byť súčasťou telemedicíny aj call centrá alebo online informačné sluţby pre pacientov,
+konzultácie na diaľku či videokonferencie medzi zdravotníckymi pracovníkmi. Na druhej
+strane, zdravotnícke informačné portály, systémy elektronických zdravotných záznamov
+alebo elektronické predpisy a odporúčania sa nepovaţujú za telemedicínske sluţby, pretoţe
+ich účelom nie je priamo poskytovať zdravotnú starostlivosť na diaľku, ale skôr
+podporovať administratívu a informovanosť.
+Telemedicína znamená pouţívanie moderných technológií (napríklad internetu či
+videohovorov) na to, aby bolo moţné poskytovať zdravotnú starostlivosť pacientom aj na
+diaľku – teda bez potreby osobného kontaktu, pričom cieľom je uľahčiť prístup k liečbe,
+zvýšiť jej úroveň a zároveň zníţiť výdavky (Těšinová a kol., 2022).
+
+17
+
+Podľa Svetovej zdravotníckej organizácie (WHO) (2019) je telemedicína veľmi široký
+pojem, ktorý sa netýka len samotnej liečby pacientov na diaľku. WHO ju chápe ako
+komplexný systém poskytovania zdravotníckych sluţieb prostredníctvom informačných a
+komunikačných technológií, ktorý umoţňuje všetkým zdravotníckym pracovníkom
+spolupracovať, komunikovať a zdieľať odborné informácie bez ohľadu na vzdialenosť.
+Telemedicína podľa tejto definície zahŕňa výmennú komunikáciu pri stanovovaní diagnóz,
+liečbe a prevencii ochorení či úrazov, ale aj vykonávanie výskumu, hodnotenie kvality
+poskytovanej starostlivosti a ďalšie odborné vzdelávanie zdravotníckeho personálu. Jej
+hlavným cieľom nie je len zjednodušiť prístup k zdravotnej starostlivosti, ale aj zlepšiť
+celkový zdravotný stav jednotlivcov, komunít a populácie ako celku. Telemedicína teda
+predstavuje moderný spôsob prepojenia medicíny a technológií, ktorý umoţňuje
+efektívnejšie vyuţívanie odborných znalostí, zniţovanie nerovností v prístupe k zdravotnej
+starostlivosti a podporu kvality a udrţateľnosti zdravotných systémov.
+Telemedicína zahŕňa rôzne formy poskytovania zdravotnej starostlivosti na diaľku, ktoré
+vyuţívajú informačné a komunikačné technológie. Medzi najčastejšie pouţívané sluţby
+patria:
+
+
+Telestarostlivosť (telecare) – predstavuje uchovávanie a prenos zdravotných údajov,
+ako sú snímky, záznamy či výsledky vyšetrení. Tieto informácie je moţné zdieľať a
+sprístupňovať aj na veľké vzdialenosti, čím sa zlepšuje dostupnosť zdravotnej
+starostlivosti.
+
+
+
+Telemonitorovanie (remote monitoring) – ide o diaľkové sledovanie zdravotného
+stavu pacienta, ktoré umoţňuje priebeţne získavať údaje o zdravotných parametroch,
+napríklad u pacientov v dlhodobej liečbe, po hospitalizácii, pri nestabilnom stave
+alebo po nasadení novej terapie.
+
+
+
+Telekonzultácie (teleconsultation) – interaktívna forma komunikácie v reálnom čase,
+prostredníctvom ktorej môţe pacient alebo zdravotnícky pracovník získať okamţitú
+odbornú radu cez online platformy.
+
+
+
+Telediagnostika (telediagnosis) – umoţňuje stanovenie diagnózy lekárom na diaľku
+pomocou prenosu zdravotných informácií a zobrazovacích dát cez IKT.
+
+
+
+Telekonzílium (teleconference / teleconsilium) – predstavuje odbornú poradu
+uskutočnenú na diaľku, na ktorej sa môţu zúčastniť špecialisti z rôznych
+zdravotníckych zariadení, a to aj zo zahraničia.
+
+18
+
+
+
+Televzdelávanie (tele-education) – slúţi na vzdelávanie zdravotníckych pracovníkov
+alebo verejnosti na diaľku, prostredníctvom online kurzov, seminárov či webinárov.
+
+
+
+Teleprezentácia (telepresentation) – umoţňuje vzdialenú účasť zdravotníckych
+pracovníkov na prezentáciách, konferenciách alebo odborných diskusiách, bez
+potreby fyzickej prítomnosti.
+
+Takto koncipované formy telemedicíny prispievajú k zefektívneniu poskytovania
+zdravotnej starostlivosti, zlepšujú dostupnosť odborníkov a podporujú kontinuálne
+vzdelávanie v zdravotníctve (Slezáková a kol., 2022).
+Sluţby v rámci telehealth prispievajú k zvyšovaniu kvality poskytovanej starostlivosti, no
+neodstraňujú prekáţky spojené s nadmerným pracovným zaťaţením ani s nedostatkom
+ošetrovateľského personálu. Teleošetrovateľstvo predstavuje moţnosť doplnkovej formy
+podpory, ktorá môţe uľahčiť prácu sestier pri lôţku pacienta, zníţiť tlak na zdravotnícky
+personál a predísť negatívnym dôsledkom nadmerného zaťaţenia. V dostupnej literatúre sa
+pritom uvádzajú rozličné definície teleošetrovateľstva, ktoré odráţajú rozsah jeho vyuţitia
+a rôzne prístupy k jeho praktickému uplatneniu (Mcvey,2023).
+Mun (2025) označuje teleošetrovateľstvo ako vyuţívanie telekomunikačných a
+informačných technológií na poskytovanie ošetrovateľskej starostlivosti na diaľku čo
+prináša nové moţnosti a perspektívy v oblasti zdravotnej starostlivosti. Teleošetrovateľstvo
+môţeme vnímať ako prostriedok, ktorý umoţňuje sestrám väčšiu samostatnosť pri práci v
+digitálnom zdravotníctve a zároveň rozvíja prax ošetrovateľstva na diaľku. Zahŕňa rôzne
+aktivity, ako sú ošetrovateľské konzultácie, medziodborové porady, odborné poradenstvo,
+monitorovanie zdravotného stavu, edukácia pacientov a reagovanie na neplánované
+poţiadavky pacientov. Všetky tieto činnosti sa realizujú prostredníctvom IKT za
+dodrţiavania zásad ochrany osobných údajov (Gimenez et al., 2024). Teleošetrovateľstvo a
+telemonitoring v rámci telehealth sa zameriavajú predovšetkým na poskytovanie
+vzdelávania a emocionálnej podpory pacientom a ich rodinám. Pacienti či ich blízki často
+potrebujú vedieť, ako sa správne starať o seba alebo o chorého člena rodiny bez nutnosti
+návštevy nemocnice. Práve telenursing tieto potreby dokáţe efektívne uspokojiť (Al Afik
+et al., 2021).
+Môţeme povedať, ţe od začiatku 21. storočia sa na celom svete zvýšil záujem o
+vyuţívanie elektronických technológií v zdravotníctve, ktorých cieľom je zlepšiť zdravie a
+ţivotnú pohodu ľudí, posilniť ich aktívnu účasť na starostlivosti o vlastné zdravie a
+skvalitniť fungovanie zdravotníckeho systému. K tomu sú vyuţívané elektronické sluţby v
+19
+
+zdravotníctve, ktoré sa označujú pojmom elektronické zdravotníctvo (e-health) alebo
+mobilné zdravotníctvo (m-health). Základný rozdiel medzi nimi spočíva v tom, ţe mhealth sa viaţe na mobilné a bezdrôtové technológie, ako sú mobilné telefóny či iné
+prenosné zariadenia. Niektoré prístupy však chápu pojem mobilné zdravotníctvo širšie –
+ako vyuţívanie telekomunikačných prostriedkov na prenos zdravotných informácií medzi
+účastníkmi nachádzajúcimi sa na rôznych miestach. Elektronické aj mobilné zdravotníctvo
+môţu zefektívniť komunikáciu a výmenu informácií medzi zdravotníckymi pracovníkmi a
+medzi nimi a pacientmi. Tieto formy starostlivosti môţu dopĺňať osobné konzultácie alebo
+s nimi byť kombinované, čím sa zlepšuje dostupnosť a kontinuita zdravotnej starostlivosti.
+Zároveň majú potenciál podporiť samostatnosť jednotlivcov, keďţe im umoţňujú
+aktívnejšie sa podieľať na starostlivosti o svoje zdravie a prevencii ochorení (Hallberg,
+Salimi, 2020).
+Elektronické zdravotníctvo predstavuje moderný prístup k poskytovaniu zdravotnej
+starostlivosti, ktorý vyuţíva informačné a komunikačné technológie zaloţené na internete.
+Jeho hlavným cieľom je zvýšiť kvalitu ţivota pacientov, zefektívniť procesy v
+zdravotníctve a zlepšiť dostupnosť zdravotníckych sluţieb. V súčasnosti sa elektronické
+zdravotníctvo stalo integrálnou súčasťou systému zdravotnej starostlivosti, keďţe prispieva
+k zníţeniu chybovosti, zlepšeniu presnosti diagnostiky a poskytovaniu efektívnejších
+zdravotníckych sluţieb. Jeho implementácia má potenciál podporovať nielen klinickú prax,
+ale aj administratívne a vzdelávacie procesy v zdravotníctve. Miera úspechu
+elektronického zdravotníctva v jednotlivých krajinách je podmienená viacerými faktormi,
+medzi ktoré patria úroveň akceptácie zo strany pouţívateľov, technická a digitálna
+infraštruktúra, efektívnosť riadiacich mechanizmov a spolupráca zainteresovaných
+subjektov.
+
+Kľúčovú
+
+úlohu
+
+pritom
+
+zohrávajú
+
+zdravotnícki
+
+pracovníci,
+
+pacienti,
+
+podnikateľské subjekty a inštitúcie zodpovedné za zdravotné poistenie a tvorbu zdravotnej
+politiky. Efektívne zavádzanie a vyuţívanie informačných technológií v zdravotníctve si
+vyţaduje komplexný a koordinovaný prístup, ktorý zahŕňa tvorbu legislatívneho rámca,
+technických noriem a regulačných opatrení. Takto koncipované stratégie elektronického
+zdravotníctva by mali byť uplatňované nielen v oblastiach, ako sú telehealth a m-health,
+ale aj pri rozvoji elektronických zdravotných záznamov, zvyšovaní zdravotnej gramotnosti
+a v oblasti elektronického vzdelávania zdravotníckych pracovníkov (e-learning) (Da
+Fonseca et al., 2021).
+
+20
+
+1.2. História telemedicíny a teleošetrovateľstva
+História teleošetrovateľstva úzko súvisí s vývojom telemedicíny a snahou sestier
+poskytovať starostlivosť aj mimo priameho kontaktu s pacientom. Postupom času, s
+rozvojom komunikačných technológií, sa menila aj úloha sestier – od osobnej prítomnosti
+pri lôţku aţ po odbornú podporu na diaľku. Teleošetrovateľstvo sa tak stalo moderným
+pokračovaním tradičnej ošetrovateľskej starostlivosti, prispôsobeným potrebám súčasnej
+digitálnej doby (Shulder et al., 2018).
+Slezáková a kol. (2022) vo svojej publikácii uvádzajú za prvopočiatky telemedicíny
+vysielanie dymových varovných signálov šamanmi. Úlohou týchto signálov bolo
+upozorniť náhodných príchodiacich na výskyt ochorenia či infekcie na danom území.
+Cieľom teda bola prevencia šírenia infekcie a karanténa. Časom však vzrastá potreba
+prekonať vzdialenosť medzi pacientom a zdravotníkom. V minulosti sa informácie o
+zdravotnom stave prenášali výlučne prostredníctvom ľudí, bez pomoci technológií. Ak
+niekto z členov rodiny ochorel, iný člen domácnosti navštívil lekára, opísal príznaky
+ochorenia a následne priniesol späť liek alebo odporúčaný liečebný postup. Tento spôsob
+sprostredkovanej komunikácie sa uplatňoval aj v armádnom prostredí, kde zohrával
+významnú úlohu pri prenose správ. V námorníctve sa na tento účel pouţíva vlajkový
+signálny systém, ktorý sa v istých formách vyuţíva dodnes. Rozvoj telemedicíny sa stal
+moţným aţ po objavení rádiového telefónneho spojenia v 19. storočí, ktoré umoţnilo
+komunikáciu na väčšie vzdialenosti. Počas americkej občianskej vojny (vojna Severu proti
+Juhu) bol napríklad telegraf vyuţívaný na prenos informácií o počte zranených, ţiadostiach
+o zdravotnícke zásoby a podľa niektorých zdrojov aj na uskutočnenie prvých konzultácií,
+ktoré moţno povaţovať za predchodcov telemedicíny.
+Uţ v roku 1874 chirurg v Juţnej Austrálii vyuţil telegraf na zaslanie pokynov týkajúcich
+sa ošetrovania rany pacientovi vzdialenému 2 000 kilometrov, čo predstavuje jeden z
+prvých známych príkladov poskytovania ošetrovateľskej starostlivosti na diaľku. O
+niekoľko rokov neskôr, v roku 1879, časopis The Lancet navrhol, aby lekári vyuţívali
+telefón na zníţenie potreby osobných návštev pacientov, čím sa reflektovala snaha
+zefektívniť komunikáciu a prístup k starostlivosti. S postupným rozšírením telefónu a
+telegrafu sa koncept telemedicíny – teda poskytovania zdravotnej starostlivosti na diaľku –
+začal etablovať a dokonca slúţil ako inšpirácia pre literárne diela sci-fi, ktoré skúmali nové
+spôsoby liečenia pacientov na veľké vzdialenosti (Passey, 2023). V 60. rokoch 20. storočia
+si telemedicína našla svoje vyuţitie aj v rámci zahájenia kozmického výskumu, kde
+21
+
+kozmonautom boli merané vitálne funkcie, EKG, EMG, EEG (Hajdu, 2016). V 70. rokoch
+20. storočia doktor Kenneth T. Bird pravdepodobne po prvý krát pouţil termín
+telemedicíny. V 90. rokoch sa začal masívny rozvoj zdravotnej starostlivosti
+prostredníctvom internetu (Shulder et al., 2018). V roku 1996 Európska komisia určila
+číslo 112 pre neodkladnú pomoc v núdzi (Středa, Hána, 2016). V 70. rokoch 20. storočia
+organizácie zaoberajúce sa zdravotnou starostlivosťou vyuţívali sestry na poskytovanie
+telefonického poradenstva. V Indii začala skupina nemocníc Apollo v roku 1997 vyuţívať
+komunikačné technológie na poskytovanie teleošetrovateľskej starostlivosti na diaľku,
+konkrétne v Aragonde. Dnes sa radí medzi najstarších a najväčších poskytovateľov
+telemedicíny v juhovýchodnej Ázii. V roku 2003 Apollo v spolupráci s Annamalai
+University spustili certifikačný program zameraný na technológie teleošetrovateľskej
+starostlivosti, do ktorého sa kaţdoročne zapájalo 30 študentov. Program bol však po
+šiestich cykloch ukončený kvôli obmedzeným pracovným moţnostiam pre absolventov.
+Okrem toho nemocnice Apollo realizovali pilotný projekt domácej teleošetrovateľskej
+starostlivosti, zatiaľ čo nadácia Action zriadila projekt s názvom Nemocnica na kolesách,
+ktorý poskytoval zdravotnú starostlivosť v odľahlých oblastiach (Theodore, Byrappa,
+2015).
+Telemedicína, ktorá bola pôvodne vytvorená na prekonávanie bariér v prístupe k
+zdravotnej starostlivosti vo vidieckych a zdravotne nedostatočne pokrytých oblastiach, sa v
+súčasnosti stala neoddeliteľnou súčasťou moderného ošetrovateľstva. Jej význam výrazne
+vzrástol najmä v období pandémie ochorenia COVID-19, ktorá poukázala na potrebu
+efektívnych foriem starostlivosti na diaľku. V tomto období zohrávalo teleošetrovateľstvo
+zásadnú úlohu, pretoţe umoţnilo poskytovať starostlivosť bez osobného kontaktu, čím
+chránilo zdravotníkov aj pacientov pred moţnou nákazou a zároveň zabezpečilo plynulosť
+v poskytovaní ošetrovateľských sluţieb (James, 2025). Rôzne krajiny sa v snahe zvládnuť
+pandémiu ochorenia COVID-19 usilovali o vyuţitie inovatívnych prístupov. Zdravotnícke
+systémy pritom čelili viacerým zásadným problémom – vysokému počtu pacientov, ktorí
+mohli byť liečení doma, nedostatku lekárov a sestier, obmedzeným kapacitám jednotiek
+intenzívnej starostlivosti a celkovému nedostatku nemocničných lôţok. V reakcii na tieto
+výzvy sa začali hľadať nové riešenia a jedným z kreatívnych spôsobov zvládania pandémie
+COVID-19 sa stalo teleošetrovateľstvo. Teleošetrovateľstvo sa počas pandémie ukázalo
+ako efektívna forma podpory zdravotnej starostlivosti, ktorá kladie dôraz na vzdelávanie
+pacientov a podporu sebestačnosti v starostlivosti o vlastné zdravie. Pomáha riešiť
+22
+
+nedostatok personálu a lôţkových kapacít, zároveň zniţuje náklady na liečbu a
+minimalizuje riziko prenosu infekcie. Navyše, vzdelávanie pacientov sa ukazuje ako
+kľúčový prvok v prevencii komplikácií a v celkovom procese liečby (Firouzkouhi et al.,
+2021). Teleošetrovateľstvo moţno vnímať ako kľúčový prvok moderného zdravotníctva,
+ktorý ponúka nové moţnosti transformácie systému starostlivosti o pacienta. Vďaka dôrazu
+na nepretrţitú, cenovo efektívnu a bezpečnú formu ošetrovania môţe tento model
+významne prispieť k zlepšeniu kvality ţivota pacientov a zároveň odľahčiť preťaţené
+zdravotné systémy (Ravindranadhan et al., 2025).
+
+1.3. Prínosy a bariéry teleošetrovateľstva
+Telemedicína je účinný a ekonomicky výhodný spôsob poskytovania starostlivosti v
+oblastiach akútnej, chronickej, primárnej aj špecializovanej medicíny. Napriek jej
+prínosom sa však jej vyuţívanie medzi poskytovateľmi zdravotnej starostlivosti vo svete
+rozvíjalo pomaly, pretoţe pred pandémiou COVID-19 v roku 2019 bola skôr doplnkovou
+moţnosťou neţ beţnou súčasťou zdravotnej starostlivosti. Medzi hlavné bariéry jej
+širšieho uplatnenia patria technické nároky na zdravotnícky personál, finančné náklady,
+obmedzený prístup k vysokorýchlostnému internetu, konflikty v prioritách zdravotníckeho
+systému a nedostatočná politická podpora (Sabrina, Defi, 2021).
+Teleošetrovateľstvo prináša viacero prínosov, ktoré sa dajú rozdeliť do štyroch hlavných
+oblastí:
+1. Výhody pre zdravotnícky systém
+Tento spôsob poskytovania starostlivosti pomáha zniţovať preťaţenie zdravotníckeho
+personálu a počet hospitalizácií, čím zároveň prispieva k úspore finančných prostriedkov.
+Okrem toho skracuje čakacie doby, obmedzuje nutnosť cestovania pacientov a umoţňuje
+lepší prístup k mladším ľuďom, ktorí sú zvyknutí na digitálne formy komunikácie.
+2. Zlepšenie prístupnosti zdravotnej starostlivosti
+Teleošetrovateľstvo rozširuje dostupnosť zdravotnej starostlivosti najmä vo vidieckych
+alebo odľahlých oblastiach, kde býva nedostatok zdravotníckeho personálu. Zároveň
+poskytuje moţnosť kontaktu so zdravotníkom aj pre ľudí, ktorí sú pracovne vyťaţení alebo
+sa nemôţu osobne dostaviť do zdravotníckeho zariadenia.
+23
+
+3. Zdravotné prínosy
+V tejto oblasti teleošetrovateľstvo pomáha zlepšiť dodrţiavanie liečby, umoţňuje
+pravidelné sledovanie zdravotného stavu a ponúka efektívnu a motivačnú následnú
+starostlivosť. Veľkým prínosom je aj zdravotná edukácia, ktorá vedie pacientov k lepšiemu
+pochopeniu ich zdravotného stavu a podporuje ich aktívny prístup k vlastnému zdraviu.
+4. Zlepšenie komunikácie
+Teleošetrovateľstvo zjednodušuje komunikáciu medzi pacientmi a zdravotníckym
+personálom. Umoţňuje rýchle riešenie otázok, poskytovanie psychologickej podpory a
+zároveň podporuje spoluprácu medzi členmi zdravotníckeho tímu. Tým prispieva k lepšej
+organizácii práce aj k celkovej kvalite poskytovanej starostlivosti (Navarro-Martínez,
+2024).
+Pozitívnym prínosom moderných technológií je aj ich vyuţitie v starostlivosti o starších
+ľudí. Výskumy ukazujú, ţe dopyt po inteligentných produktoch a sluţbách pre seniorov
+neustále rastie, hoci ponuka na trhu je zatiaľ obmedzená. Najväčší záujem je o
+rehabilitačné pomôcky, ako sú inteligentné invalidné vozíky či načúvacie prístroje, a o
+zariadenia na monitorovanie zdravotného stavu – napríklad tiesňové tlačidlá, lokalizačné
+systémy, snímače spánku alebo nositeľné technológie na meranie krvného tlaku a hladiny
+cukru v krvi. Aj keď je vývoj týchto riešení ešte v počiatočnej fáze, ich potenciál je značný
+– môţu zlepšiť kvalitu ţivota seniorov, podporiť ich samostatnosť a zároveň odľahčiť
+tradičné formy starostlivosti (Zhang et al., 2024).
+Těšinová a kol (2022) poukazujú na to, ţe pandémia COVID-19 významne urýchlila
+rozvoj a vyuţívanie telemedicíny v Českej republike. Počas tohto obdobia sa výrazne
+zvýšil záujem o poskytovanie zdravotnej starostlivosti na diaľku, keďţe pacienti často
+uprednostňovali telefonickú alebo online komunikáciu pred osobným kontaktom s
+lekárom. Tento trend však pre zdravotníkov predstavoval väčšiu záťaţ a organizačné
+výzvy. Jeden z odborníkov uviedol, ţe počas pandémie narástol počet telefonických
+konzultácií a výmeny fotografií medzi pacientmi a lekármi. Autori zároveň upozorňujú, ţe
+rozšírenie telemedicíny prináša aj určité riziká a obmedzenia, ktoré môţu sťaţiť jej
+efektívne vyuţitie v praxi a preto si vyţadujú zodpovedný prístup pri jej integrácii do
+beţnej zdravotníckej starostlivosti.
+
+24
+
+Negatívne aspekty teleošetrovateľstva sa dotýkajú viacerých oblastí jeho praktického
+uplatnenia. Medzi najčastejšie uvádzané patrí neochota a odpor voči zmenám, ktoré sa
+prejavujú nielen u zdravotníckych pracovníkov, ale aj u pacientov. Mnohí pacienti naďalej
+uprednostňujú osobný kontakt pred vzdialenou formou starostlivosti a niekedy dochádza aj
+k nesprávnemu pouţívaniu technológií. Ďalšou významnou prekáţkou je nedostatok
+zdrojov – technické zariadenia nie sú vţdy dostupné, nie všetci pacienti majú prístup k
+internetu a často chýbajú aj finančné prostriedky potrebné na implementáciu
+teleošetrovateľských systémov. Problematická je aj nedostatočná príprava a vzdelávanie, a
+to ako u zdravotníkov, tak aj u samotných pacientov, čo môţe negatívne ovplyvniť kvalitu
+poskytovanej starostlivosti. K sociálnym otázkam patrí najmä vyšší vek pacientov, ktorí
+majú obmedzené digitálne zručnosti, a riziko zväčšovania nerovností v prístupe k
+zdravotnej starostlivosti. V neposlednom rade sú tu aj bezpečnostné a právne riziká –
+chýbajúca legislatívna úprava, nedostatok jasných protokolov a moţné narušenie ochrany
+súkromia, ktoré si vyţadujú osobitnú pozornosť pri ďalšom rozvoji teleošetrovateľskej
+praxe (Navarro-Martínez, 2024).
+Aj keď teleošetrovateľstvo a inteligentné technológie v zdravotníctve prinášajú mnoţstvo
+výhod a zlepšujú kvalitu poskytovanej starostlivosti, staršia generácia môţe pri ich
+pouţívaní naráţať na určité ťaţkosti. Seniori často prejavujú menšiu motiváciu osvojovať
+si nové digitálne zručnosti a celkovo sú menej otvorení technickým inováciám. Okrem
+toho sú mnohé produkty určené na inteligentnú starostlivosť o starších ľudí stále vo fáze
+vývoja. Zariadenia ako smart domáce systémy, pohotovostné volania či automatické
+poplašné mechanizmy zatiaľ nie sú beţne rozšírené, čo vedie k tomu, ţe ich vyuţívanie a
+akceptácia v spoločnosti sú zatiaľ obmedzené (Zhang et al., 2024).
+Pinelli et al., (2022) poukazujú na to, ţe starší ľudia ale aj ľudia s rôznym zdravotným
+znevýhodnením pri pouţívaní moderných technológií často naráţajú na rôzne fyzické
+prekáţky, ako je zhoršený zrak či oslabené hmatové vnímanie, ktoré predstavujú
+významnú výzvu. Seniorom spôsobujú ťaţkosti najmä malé alebo gumové tlačidlá na
+zariadeniach, ktoré povaţujú za nepohodlné a málo presné. Uprednostňujú kovové tlačidlá
+so zvukovou odozvou, pretoţe im pomáhajú lepšie rozpoznať, či bol ich úkon úspešný.
+Rovnako problematické bývajú aj menšie zariadenia a displeje, ktoré sú pre túto skupinu
+pouţívateľov ťaţšie čitateľné a menej praktické na obsluhu. Okrem fyzických obmedzení
+zohrávajú úlohu aj kognitívne faktory. S pribúdajúcim vekom sa prirodzene zniţuje úroveň
+jemnej motoriky, koordinácie pohybov aj niektorých poznávacích schopností, ako je
+25
+
+pozornosť či spracovanie informácií. Pre starších pacientov tak môţe byť náročné
+orientovať sa v zariadeniach, ktoré vyţadujú rýchle reakcie alebo prácu s viacerými
+informáciami súčasne. Ako jedno z moţných riešení môţe byť zavedenie zvukovej a
+hmatovej spätnej väzby do technologických zariadení, čo by mohlo výrazne uľahčiť ich
+pouţívanie a zvýšiť komfort starších pouţívateľov.
+
+1.4. E-health na Slovensku
+Na Slovensku sa e-health realizuje pomocou rôznych projektov. Doteraz boli realizované
+nasledovné projekty:
+Národný projekt Elektronické sluţby zdravotníctva
+Hlavným zámerom projektu bolo modernizovať slovenské zdravotníctvo prostredníctvom
+digitalizácie a zlepšiť prístup k informáciám aj sluţbám v oblasti zdravotnej starostlivosti.
+Medzi kľúčové ciele patrilo:
+
+
+vytvorenie a spustenie Národného portálu zdravia, ktorý slúţi ako dôveryhodný
+zdroj aktuálnych informácií o zdraví, chorobách, liekoch a zdravotníckych
+sluţbách,
+
+
+
+vývoj systému pre elektronickú zdravotnú kniţku občana, ktorý umoţňuje
+bezpečné uchovávanie zdravotnej dokumentácie,
+
+
+
+zavedenie elektronického objednávacieho systému pre laboratórne vyšetrenia
+a očkovania,
+
+
+
+vytvorenie systému elektronickej preskripcie a medikácie, ktorý mal postupne
+nahradiť klasické papierové recepty,
+
+
+
+zabezpečenie prepojenia informačných systémov poskytovateľov zdravotnej
+starostlivosti s národným riešením elektronického zdravotníctva.
+
+Tento projekt bol oficiálne ukončený 21. decembra 2015.
+Na uţ vyššie uvedený projekt nadviazal národný projekt Elektronické sluţby zdravotníctva
+– rozšírenie funkcionality a rozsahu sluţieb.
+Jeho hlavným cieľom bolo vylepšiť a rozšíriť uţ existujúce elektronické systémy. Projekt
+sa zameriaval najmä na:
+26
+
+
+
+zjednotenie a doplnenie údajov v liekovej a znalostnej databáze,
+
+
+
+zabezpečenie ich správy a pravidelnej aktualizácie,
+
+
+
+posilnenie bezpečnostných opatrení na ochranu citlivých osobných údajov,
+
+
+
+rozšírenie funkcionalít elektronických sluţieb zdravotníctva o nové prvky zamerané
+na efektívnejšiu správu zdravotnej starostlivosti.
+
+Aj tento rozšírený projekt bol ukončený dňa 21. decembra 2015 (Národné centrum
+zdravotníckych informácií, 2017). Toto rozšírenie uvedeného projektu ponúka mnoţstvo
+funkcií, ktoré sa stále skvalitňujú a rozširujú. Môţeme sem zaradiť napríklad:
+
+
+elektronickú zdravotnú kniţku, teda dokumentáciu pacienta ktorá je v elektronickej
+podobe,
+
+
+
+e-recept - elektronický predpis liekov, zdravotných pomôcok a potravín,
+
+
+
+e-objednávka - umoţňuje pacientom objednať sa k lekárovi cez internetový portál,
+
+
+
+aplikácia e-alerts - zdravotnícky pracovník tu môţe čerpať informácie o aktuálnych
+ale aj budúcich udalostiach systému e-zdravie,
+
+
+
+aplikácia moje e-zdravie - pacient tu získa aktuálne informácie o opatreniach a
+nariadeniach ako napríklad počas pandémie koronavírusu - informácie o očkovaní.
+Pacient tu teda prehľadným spôsobom získava relevantné informácie ktoré nemusí
+zdĺhavo vyhľadávať na internete,
+
+
+
+e-lab - vytvorenie záznamu o výsledkoch laboratórnych vyšetrení (Národné
+centrum zdravotníckych informácií, 2020).
+
+S novinkou v oblasti telemedicíny na Slovensku prišla zdravotná poisťovňa Dôvera v
+rámci benefitu s názvom - Fyzio vyšetrenie online - pre svojich poistencov. Ide o
+aplikáciu s názvom AIP FYZIO. Aplikácia je určená pre všetkých poistencov Dôvery od
+18 rokov. Vylučuje však pacientov s akútnymi zdravotnými ťaţkosťami ako je napríklad
+horúčka, častá riedka stolica, vracanie, pálenie pri močení. Rovnako vylučuje pacientov s
+čiastočným ochrnutím ľudí s onkologickým ochorením a ľudí do 6 týţdňov po operácii.
+Jedná sa o bezplatné online poradenstvo s rehabilitačným lekárom cez webovú aplikáciu
+AIP FYZIO. Vyšetrenie tu funguje nasledovne. Pacient sa zaregistruje do webovej
+aplikácie AIP fyzio, opíše problém ktorý ho trápi, vyplní dotazníky o príznakoch a
+zdravotnom stave. Dotazníky sú následne individuálne posudzované lekárom a do 3
+pracovných dní má pacient navrhnutú liečbu na mieru. V prípade potreby lekár odporučí
+voľnopredajné lieky alebo vystaví e-recept na lieky alebo zdravotnícke pomôcky. Rovnako
+27
+
+poskytne individuálny cvičebný plán pomocou videonávodov. Odporučiť môţe aj návštevu
+ambulancie. Keď budú nasledovné odporúčania, lieky či cvičebné plány pripravené,
+pacient dostane informačný mail a v aplikácii AIP FYZIO v časti moje prípady nájde
+všetky informácie a odporúčania (DÔVERA zdravotná poisťovňa, 2025). Ďalšou
+aplikáciou ktorá je funkčná na Slovensku je MEDDI app. Je určená pre poistencov
+Všeobecnej zdravotnej poisťovne a funguje pod názvom projektu Dr. Nonstop +. Ide o
+online a telefonické spojenie s lekárom, ktorý poskytuje konzultáciu zdravotného stavu 24
+hodín 7 dní v týţdni prostredníctvom spomínanej aplikácie MEDDI app. Podmienkou k
+pouţívaniu je, ţe pacient musí byť klientom Všeobecnej zdravotnej poisťovne minimálne 1
+rok, klient nesmie mať nedoplatky na poisťovni a musí mať aktívny prístup do aplikácie
+Všeobecnej zdravotnej poisťovne alebo ePobočky. Konzultácie sú poskytované dospelým
+aj deťom prostredníctvom zákonných zástupcov cez ich konto v aplikácii. Rovnako je tu
+moţnosť predpisu lieku pre pacienta ktorý daný liek dlhodobo uţíva a je sledovaný u
+špecialistu. Liek si však v plnej sume hradí pacient. Spomínaná sluţba je však spoplatnená
+(Všeobecná zdravotná poisťovňa).
+
+1.5. E-health v zahraničí
+Americká asociácia pre telemedicínu (American Telemedicine Association – ATA),
+zaloţená v roku 1993 ako nezisková organizácia so sídlom vo Washingtone D.C.,
+predstavuje jednu z kľúčových inštitúcií v oblasti rozvoja a presadzovania telezdravia. V
+súčasnosti zdruţuje viac ako 400 subjektov z radu poskytovateľov zdravotnej starostlivosti,
+akademických inštitúcií, technologických spoločností a ďalších organizácií orientovaných
+na modernizáciu a zefektívňovanie zdravotnej starostlivosti. Politické a strategické
+princípy ATA vychádzajú z jej vízie podporovať taký zdravotnícky systém, ktorý
+umoţňuje ľuďom prístup k bezpečnej, kvalitnej a primeranej starostlivosti bez ohľadu na
+miesto či čas. V kontexte globálnych problémov – akými sú rastúce finančné náklady,
+starnutie populácie, rozdiely v kvalite poskytovaných sluţieb či nedostatok zdravotníckeho
+personálu – zdôrazňuje ATA potrebu vyuţitia digitálnych technológií na preformovanie
+spôsobov poskytovania zdravotnej starostlivosti. Organizácia podporuje prijímanie
+politických opatrení, ktoré zabezpečujú, aby pacienti mohli dostať potrebnú starostlivosť
+flexibilne, efektívne a dostupne. ATA zároveň zdôrazňuje svoju zodpovednosť pri
+zvyšovaní povedomia o výhodách telezdravia medzi odbornou aj laickou verejnosťou,
+pacientmi, zdravotníkmi, poisťovňami a ďalšími zainteresovanými stranami. Jej ambíciou
+28
+
+je tieţ budovať dôkazovú základňu, ktorá podporí správne, bezpečné a efektívne
+vyuţívanie telezdravia naprieč všetkými klinickými odbormi (American telemedicine
+association, 2020). V roku 2014 schválili americké Centers for Medicare & Medicaid
+Services
+
+úhradu
+
+telezdravotných
+
+konzultácií
+
+realizovaných
+
+prostredníctvom
+
+interaktívnych, obojsmerných komunikačných technológií. Tento krok predstavoval
+významný posun v tamojšom zdravotnom systéme, pretoţe oficiálne uznanie aj finančné
+krytie telezdravotných sluţieb podporili ich širšiu implementáciu a akceptáciu v klinickej
+praxi. V štáte Severná Karolína, ale aj v iných častiach juhovýchodných USA, je dlhodobo
+prítomná nerovnomerná dostupnosť primárnej zdravotnej starostlivosti. Mnohé vidiecke,
+geograficky izolované či riedko osídlené oblasti zápasia s nedostatkom poskytovateľov
+zdravotnej starostlivosti. V takomto kontexte má teleošetrovateľstvo osobitný význam –
+umoţňuje prekonávať priestorové obmedzenia a zlepšovať dostupnosť odborných sluţieb.
+Ak je teleošetrovateľská starostlivosť poskytovaná kvalifikovanými odborníkmi, ktorí
+ovládajú moderné komunikačné technológie, dokáţe efektívne rozšíriť ponuku
+zdravotných sluţieb do regiónov, kde by inak bola starostlivosť limitovaná alebo ťaţko
+dostupná (Lister et al., 2018).
+V Číne teleošetrovateľstvo našlo vyuţitie aj naprílad pri manaţmente pacientov s diabetom
+2. typu. Napriek zisteným problémom s technológiami, najmä v odľahlých regiónoch,
+teleošetrovateľstvo hodnotia ako nákladovo efektívny nástroj s potenciálom zlepšiť
+manaţment diabetu, pokiaľ sa odstránia nedostatky v infraštruktúre a digitálnej
+gramotnosti. Zistenia zároveň poukazujú na význam zvyšovania povedomia pacientov o
+teleošetrovateľstve pre jeho efektívne zavedenie v praxi, najmä ako prostriedku na podporu
+edukácie a samostatnej starostlivosti u diabetikov (Zhou et al., 2025). V Číne sa na
+národnej konferencii o zdravotníckom manaţmente diskutovala perspektíva rozvoja
+domácej starostlivosti a teleošetrovateľstva pre seniorov. Vzhľadom na rýchly pokrok v
+oblasti informačných a medicínskych technológií sa teleošetrovateľstvo stáva sľubným
+modelom poskytovania ošetrovateľských sluţieb do budúcnosti. Dlhodobá starostlivosť
+prostredníctvom teleošetrovateľstva je definovaná ako podpora a optimalizácia
+starostlivosti o pacientov pomocou elektronických informačných a komunikačných
+systémov. Medzi hlavné inovácie patrí vyuţitie telekonzultácií, diaľkových odporúčaní,
+systémov tiesňového volania jedným tlačidlom a ďalších nástrojov, ktoré umoţňujú
+poskytovať inteligentnú a efektívnu starostlivosť starším dospelým so zdravotným
+postihnutím aj na diaľku. Výskumy poukazujú na to, ţe teleošetrovateľstvo nepozná
+29
+
+časové ani priestorové obmedzenia a zároveň efektívne prispieva k zniţovaniu nedostatku
+ošetrovateľského personálu (Wu et al., 2021).
+Vo Veľkej Británii majú pacienti moţnosť vyuţitia sluţby National Health Service.
+Prvotným cieľom tejto sluţby je sprostredkovanie volajúcemu zrozumiteľnej a rýchlej
+rady, poskytnutie informácie ohľadom zdravia, ochorenia, aktuálneho či potenciálneho
+ošetrovateľského problému. Sluţba funguje na princípe call centra, kde zdravotnícky
+pracovníci 24 hodín denne reagujú na otázky a poskytujú zdravotnú a ošetrovateľskú
+starostlivosť na diaľku. Aj napriek tomu, ţe dopyt po tejto sluţbe stúpa, je málo vyuţívaná
+sociálne slabšími skupinami, etnickými menšinami a ľuďmi nad 65 rokov (Slezáková
+a kol., 2022).
+Pred pandémiou COVID-19 mala telemedicína v Brazílii len obmedzené vyuţitie, pričom
+regulácie sa vzťahovali iba na výmenu informácií medzi zdravotníckymi pracovníkmi a
+získavania druhých odborných názorov od špecialistov. S nástupom pandémie bolo
+nevyhnutné rozšíriť poskytovanie zdravotnej starostlivosti na diaľku, aby bol zabezpečený
+prístup obyvateľstva k základným zdravotníckym sluţbám. Ministerstvo zdravotníctva
+vydalo 20. marca 2020 vyhlášku, ktorá dočasne upravovala poskytovanie telemedicíny v
+Brazílii, vrátane predklinickej starostlivosti, podpory pri liečbe, konzultácií, monitorovania
+a diagnostiky prostredníctvom informačných a komunikačných technológií v rámci
+Národného zdravotného systému, ako aj v doplnkovom a súkromnom sektore. Hoci
+Brazília nemala predtým praktické skúsenosti s poskytovaním sluţieb cez telemedicínu, v
+štúdii sa ukázalo, ţe pouţívateľská akceptácia bola veľmi vysoká – viac neţ 99 %
+účastníkov bolo spokojných so sluţbou a uviedlo, ţe by ju odporučili svojim priateľom
+a rodine (Barandão et al., 2022). V Brazílii funguje iniciatíva pod názvom Brazil National
+Telehealth Network Program, ktorého cieľom je podpora teleasistencie, teleedukácie a
+zlepšenie kvality zdravotnej starostlivosti. Tento program vyuţíva pomôcky ako 3D
+modelovanie, animácie a videá. Teleošetrovateľstvo v Brazílii je prioritne zamerané na
+primárnu prevenciu (Slezáková a kol., 2022).
+
+1.6. Telesestra
+Technológie a práca na diaľku sa neustále rozvíjajú. Pokroky v digitálnych technológiách
+prinášajú nové moţnosti v rôznych oblastiach. Jednou z profesií, ktorá sa týmto vývojom
+výrazne zmenila je aj ošetrovateľstvo. Hoci sa pojem telesestra v slovenskej legislatíve,
+30
+
+vrátane Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti,
+zdravotníckych pracovníkoch a stavovských organizáciách, oficiálne nevyskytuje,
+zahraničná odborná literatúra ho pozná a reflektuje, preto sme sa rozhodli tento termín
+pouţiť aj v našej práci.
+Telesestry – teda sestry pracujúce v oblasti teleošetrovateľstva – môţu vďaka moderným
+komunikačným nástrojom spájať sa s pacientmi na diaľku, a to prostredníctvom
+videohovorov, mobilných aplikácií, e-mailov či telefonických konzultácií. Telesestry
+vykonávajú svoju prácu na diaľku, pričom pacientom poskytujú odbornú podporu a
+starostlivosť. Ich úlohou je zhodnotiť zdravotný stav pacienta, určiť mieru jeho závaţnosti
+a následne odovzdať relevantné informácie lekárovi či odbornej sestre. Medzi beţné
+pracovné povinnosti telesestry patria napríklad:
+
+
+Realizácia online konzultácií: Telesestry komunikujú s pacientmi rôznymi formami
+– prostredníctvom e-mailov, textových správ, telefonátov či videohovorov, čím
+zabezpečujú nepretrţitý kontakt a podporu.
+
+
+
+Organizovanie následnej starostlivosti: Ak je potrebné, aby pacient absolvoval
+kontrolné vyšetrenie u svojho lekára alebo sestry, telesestra má na starosti jeho
+koordináciu a zabezpečenie.
+
+
+
+Sledovanie ţivotných funkcií: Pacienti, ktorí vyuţívajú telezdravotné sluţby, často
+pouţívajú prenosné zariadenia na meranie tlaku, tepu alebo iných vitálnych
+parametrov. Telesestra má za úlohu zaznamenávať tieto údaje a vyhodnocovať
+prípadné odchýlky.
+
+
+
+Spolupráca s ostatnými zdravotníkmi: Telesestry komunikujú s lekármi a členmi
+zdravotníckeho tímu, aby zabezpečili komplexnú a efektívnu starostlivosť.
+
+Rovnako ako v tradičnej ošetrovateľskej praxi, aj pri teleošetrovateľstve je primárnym
+cieľom poskytovanie kvalitnej a bezpečnej starostlivosti. Skúsené sestry môţu svoje
+praktické znalosti a odborné kompetencie úspešne vyuţiť aj v digitálnom prostredí, čím
+prispievajú k modernizácii zdravotníctva a zlepšeniu prístupu k starostlivosti (Feder,2023).
+Telesestra je sestra, ktorá poskytuje ošetrovateľskú starostlivosť a zdravotnícke sluţby na
+diaľku prostredníctvom telekomunikačných technológií. Jednoducho povedané, telesestry
+sa starajú o pacientov na diaľku – cez telefonické hovory, videohovory, zabezpečené
+správy alebo systémy vzdialeného monitorovania – namiesto osobného stretnutia v
+ambulancii či nemocnici. Vykonávajú mnoho rovnakých činností ako tradičné sestry,
+vrátane hodnotenia príznakov, zodpovedania zdravotných otázok, tvorby plánov
+starostlivosti a edukácie pacientov, avšak všetko realizujú prostredníctvom virtuálnych
+31
+
+platforiem. Inými slovami, telesestra spája odborné ošetrovateľské zručnosti s digitálnymi
+nástrojmi, čím umoţňuje pacientom získať rýchlu, bezpečnú a efektívnu starostlivosť na
+diaľku (Vera, 2025). Definície telesestry sa v odborných zdrojoch väčšinou zhodujú. Podľa
+Slezákovej a kol. (2022) ide o zdravotnú sestru, ktorá poskytuje ošetrovateľskú
+starostlivosť na diaľku prostredníctvom informačných a komunikačných technológií (IKT).
+Autori zároveň uvádzajú, ţe pojem telesestra je odvodený z anglického výrazu telenurse.
+
+1.7. Úlohy telesestry
+Úloha ošetrovateľstva predstavuje neoddeliteľnú súčasť implementácie telemedicíny.
+Teleošetrovateľstvo presahuje rámec jednoduchého telefonického kontaktu a zahŕňa rôzne
+povinnosti – od upokojovania volajúcich aţ po koordináciu výjazdu záchrannej sluţby v
+kritických situáciách. Teleošetrovateľstvo moţno definovať ako vyuţitie telemedicínskych
+technológií na poskytovanie a realizáciu ošetrovateľskej starostlivosti. Patrí sem
+poskytovanie pokynov na diaľku, podpora pri liečbe, monitorovanie uţívania liekov, zber
+zdravotných dát a riadenie bolesti. Vo Švédsku sluţby telesestier rozdeľujú do viacerých
+oblastí, ktoré vystihujú podstatu ich práce na diaľku. Patria sem najmä:
+1. posúdenie zdravotných ťaţkostí, odporučenie vhodného postupu a poskytovanie
+rád na samostatnú starostlivosť;
+2. priebeţná podpora pacienta, pri ktorej sestra udrţiava kontakt aţ do úplného
+vyriešenia problému;
+3. posilňovanie istoty pacienta tým, ţe oceňuje jeho schopnosti pri vlastnej
+starostlivosti a motivuje ho k väčšej samostatnosti;
+4. telefonické usmerňovanie v správnych ošetrovateľských postupoch a poskytovanie
+zdravotnej edukácie;
+5. pomoc pri porozumení zdravotného stavu, zaloţená na tom, čo pacient uţ vie o
+príznakoch a liečbe.
+V
+
+Taiwane
+
+telesestry najčastejšie
+
+zabezpečujú
+
+prepájanie
+
+sluţieb,
+
+koordináciu
+
+starostlivosti a sledovanie pacientov. Údaje z telefonických konzultácií ukazujú, ţe väčšina
+hovorov sa týka problémov v starostlivosti, sledovania vitálnych funkcií a riešenia
+prekáţok pri poskytovaní starostlivosti. Menšia časť kontaktov súvisí s organizačnými
+otázkami, ako aj starostlivosťou o ranu po prepustení, podávaním výţivy sondou či
+manaţmentom bolesti (Chang et al., 2021).
+32
+
+Jedným z hlavných rozdielov medzi teleošetrovateľstvom a tradičnou ošetrovateľskou
+praxou je spôsob kontaktu s pacientom. Telesestry sa pri práci spoliehajú najmä na vysokú
+úroveň komunikačných zručností, keďţe nemajú moţnosť pacienta fyzicky vyšetriť. Pri
+hodnotení stavu pouţívajú cielené otázky, pozorovanie prostredníctvom videa a digitálne
+zdravotné údaje, napríklad údaje z diaľkového monitorovania vitálnych funkcií. Napriek
+priestorovej vzdialenosti si telesestry zachovávajú rovnakú úroveň kvality a profesionality
+ako pri osobnom kontakte. Dodrţiavajú všetky ošetrovateľské štandardy – vytvárajú si s
+pacientmi dôverný vzťah, presadzujú ich potreby a poskytujú im potrebné vzdelávanie aj
+podporu (Vera,2025). Keďţe telesestra realizuje ošetrovateľské úkony na diaľku,
+mimoriadne dôleţitá je schopnosť aktívne počúvať, aby presne porozumela tomu, čo
+pacient opisuje. Aj keď prebieha komunikácia cez telefón či digitálne zariadenia, sestra by
+mala zabezpečiť, aby pacient cítil, ţe je vypočutý a ţe jeho zdravotné ťaţkosti berie váţne.
+Rovnako sú nevyhnutné silné komunikačné zručnosti, vďaka ktorým dokáţe pacientovi
+jasne a zrozumiteľne vysvetliť ďalší postup liečby. Významnú úlohu zohrávajú aj
+medziľudské schopnosti, ktoré pomáhajú posúdiť naliehavosť zdravotného problému,
+správne interpretovať príznaky a podporiť pacienta v stresových či zaťaţujúcich
+situáciách.Okrem počúvania a komunikácie sú pre telesestru kľúčové aj kritické myslenie a
+tvorivé uvaţovanie. V praxi to znamená, ţe musí vedieť analyzovať dostupné informácie,
+vyhodnotiť zdravotné údaje a navrhnúť vhodné, efektívne riešenia pacientových ťaţkostí
+(Feder, 2023) .
+Telesestry sa uplatňujú v rôznych oblastiach zdravotnej starostlivosti. Odbornú pomoc
+poskytujú na diaľku, čím dokáţu účinne sprevádzať pacientov v rozličných situáciách – od
+podpory pri starostlivosti v domácom prostredí, cez telefonickú triáţ a hodnotenie
+zdravotného problému, riadenie a koordináciu individuálnej starostlivosti, aţ po priebeţné
+monitorovanie pacientov s dlhodobými ochoreniami. Dôleţitú úlohu majú aj pri dohľade
+nad tehotnými ţenami a novorodencami, ktorým zabezpečujú kontinuálne poradenstvo,
+oporu a priebeţné zhodnocovanie zdravotného stavu. Digitálne nástroje umoţňujú
+telesestrám získavať aktuálne informácie o zdravotnom stave pacienta, koordinovať
+potrebnú starostlivosť a včas upravovať ošetrovateľský či liečebný plán. Oproti tradičnej
+domácej starostlivosti, v ktorej sestra dokáţe denne navštíviť pribliţne 5–7 pacientov,
+teleošetrovateľstvo výrazne zvyšuje efektivitu – na diaľku je moţné podporiť pribliţne 12–
+16 pacientov za deň (Abdallah et al., 2024). Vyuţívanie sluţieb telesestier umoţňuje
+pacientom a ich rodinám aktívnejšie sa zapájať do zdravotnej starostlivosti, najmä pri
+33
+
+samostatnom zvládaní chronických ochorení. Telesestry poskytujú aktuálne informácie a
+podporu na diaľku prostredníctvom online komunikácie. Kontinuita starostlivosti sa tým
+zlepšuje, keďţe pacienti a ich rodiny majú moţnosť byť v častejšom kontakte so
+zdravotníckymi pracovníkmi. Telesestra predstavuje účinný nástroj pri edukácii pacientov
+a môţe zároveň prispieť k zniţovaniu nákladov na liečbu, skracovaniu hospitalizácií,
+rozširovaniu dostupnosti ošetrovateľských sluţieb a zvyšovaniu kvality domácej
+starostlivosti. Úlohou telesestry nie je stanovovať alebo spresňovať medicínsku diagnózu,
+ale poskytovať informácie, emocionálnu podporu a zvyšovať informovanosť pacientov a
+ich rodín. Cieľom je motivovať pacientov, posilniť ich angaţovanosť v liečebnom procese
+a podporiť ich kompetencie pri samostatnom riadení chronického ochorenia. Telesestra
+neprináša benefity len pacientom ale táto forma starostlivosti podporuje aj samotné
+telesestry, ktoré môţu efektívnejšie napĺňať svoju rolu poskytovateľov starostlivosti a
+prispievať k zvýšeniu kvality ţivota pacientov. Telesestra umoţňuje realizáciu
+preventívnych aj rehabilitačných intervencií a zároveň uľahčuje kontakt medzi
+zdravotníkom a pacientom bez ohľadu na vek či pohlavie (Wirawati et al., 2022).
+Postavenie sestier v modernom ošetrovateľstve je čoraz viac prepojené s vyuţívaním
+súčasných informačných a komunikačných technológií. Implementácia robotiky, umelej
+inteligencie a ďalších inovatívnych technológií nachádza dnes uplatnenie v zdravotníckych
+zariadeniach po celom svete. Umelá inteligencia sa v ošetrovateľskej praxi vyuţíva pri
+tvorbe liečebných plánov, riadení medikácie, spracovaní údajov a automatizácii rutinných
+úloh. Tieto systémy môţu optimalizovať priebeh liečby, zefektívniť pacientovu cestu
+zdravotným systémom a poskytovať relevantné informácie, ktoré podporujú správne
+rozhodovanie zdravotníckych pracovníkov. Zároveň majú potenciál zníţiť chyby pri
+diagnostike a terapii. Autori však upozorňujú, ţe úplná závislosť na umelej inteligencii,
+robotike či automatizácii by mohla ohroziť významnú časť pracovných pozícií sestier.
+Preto je nevyhnutné, aby sestry aktívne participovali na rozhodovaní, ktoré činnosti môţu
+byť delegované na technológie a ktoré by mali zostať v ich kompetencii. Rovnako autori
+zdôrazňujú potrebu zapojenia sestier do technologického rozvoja, čo si vyţaduje
+aktualizáciu a prepracovanie vzdelávacích osnov vrátane tém ako technológia či umelá
+inteligencia aby sa mohli stať kompetentnými pouţívateľmi a spolutvorcami inovácií
+(Pepito et al., 2019).
+
+34
+
+2. Výskum
+
+Digitalizácia zdravotníctva v posledných rokoch zásadne mení spôsob poskytovania
+zdravotnej starostlivosti aj komunikáciu medzi pacientom a zdravotníckym pracovníkom.
+Moderné informačné technológie, ako sú elektronické zdravotné záznamy, mobilné
+zdravotné aplikácie či telemedicínske sluţby, sa stávajú beţnou súčasťou ošetrovateľskej
+praxe a ovplyvňujú kaţdodennú interakciu medzi sestrou a pacientom. Ich efektívne
+vyuţívanie však predpokladá určitú úroveň digitálnej gramotnosti pacientov, ktorá
+ovplyvňuje ich schopnosť orientovať sa v online prostredí, pracovať s informáciami,
+aktívne sa zapájať do ošetrovateľského procesu a spolupracovať so zdravotníckym
+personálom. Digitálna gramotnosť pacientov tak predstavuje dôleţitý faktor kvality
+ošetrovateľskej starostlivosti, bezpečnosti pacienta a podpory jeho samostatnosti v
+starostlivosti o zdravie.
+Po preskúmaní teoretických východísk sme definovali nasledujúci výskumný problém:
+„Ako pacienti ovládajú a využívajú moderné informačné technológie v zdravotníctve?“
+
+2.1. Ciele výskumu
+Na základe definovaného výskumného problému bol stanovený hlavný cieľ práce a k nemu
+prislúchajúce čiastkové ciele, ktoré prispievajú k jeho naplneniu.
+Hlavný cieľ výskumu:
+Zistiť úroveň digitálnej zdravotnej gramotnosti pacientov pri vyuţívaní moderných
+informačných technológií v ošetrovateľstve prostredníctvom štandardizovaného dotazníka
+DHLI ( Digital Health Literacy Instrument ) a analyzovať faktory, ktoré ju ovplyvňujú.
+Čiastkové ciele
+1. Zistiť úroveň digitálnej zdravotnej gramotnosti respondentov v jednotlivých
+oblastiach dotazníka DHLI.
+2. Preskúmať schopnosť respondentov vyhľadávať, hodnotiť a vyuţívať zdravotné
+informácie na internete.
+3. Zhodnotiť, či vedia respondenti chrániť svoje súkromie pri pouţívaní digitálnych
+zdravotníckych sluţieb.
+35
+
+4. Porovnať
+
+úroveň
+
+digitálnej
+
+zdravotnej
+
+gramotnosti
+
+podľa
+
+vybraných
+
+sociodemografických údajov respondentov.
+5. Zistiť súvislosť medzi frekvenciou pouţívania internetu a úrovňou digitálnej
+zdravotnej gramotnosti respondentov.
+2.2. Hypotézy výskumu
+
+H1: Predpokladáme, ţe respondenti, ktorí vyuţívajú internet častejšie, majú vyššiu
+digitálnu gramotnosť.
+H2: Predpokladáme, ţe mladší respondenti majú vyššiu digitálnu gramotnosť ako starší
+respondenti.
+H3: Predpokladáme, ţe respondenti s vysokoškolským vzdelaním majú vyššiu digitálnu
+gramotnosť neţ respondenti so základným a stredoškolským vzdelaním.
+H4: Predpokladáme, ţe respondenti ţijúci v mestách majú vyššiu digitálnu gramotnosť neţ
+respondenti ţijúci na vidieku.
+Charakteristika výskumného súboru
+Výber respondentov bol realizovaný náhodným spôsobom a bol určený pre respondentov
+starších ako 18 rokov a pre tých ktorí súhlasili s dobrovoľnou a anonymnou účasťou vo
+výskume. Z výskumu boli vylúčené osoby, ktoré odmietli účasť na výskume. Technické
+nastavenie dotazníka zabezpečilo úplnosť získaných údajov, keďţe jeho odoslanie nebolo
+moţné bez vyplnenia všetkých poloţiek. Výskumný súbor bol ďalej charakterizovaný
+vybranými sociodemografickými premennými, ktoré zároveň tvorili základ pre
+komparatívnu analýzu úrovne digitálnej zdravotnej gramotnosti. Išlo o vek, pohlavie,
+dosiahnuté vzdelanie, typ bydliska (mesto/vidiek), rodinný stav a frekvenciu pouţívania
+internetu. Do finálnej analýzy bolo zahrnutých 120 respondentov ktorí spĺňali vyššie
+uvedené kritériá.
+
+36
+
+2.3. Metodika výskumu
+V nasledujúcej časti sme sa venovali metodike výskumu, ktorá opisuje postupy a metódy
+pouţité na dosiahnutie stanovených cieľov práce. Zamerali sme sa na pouţitý výskumný
+nástroj, charakteristiku výskumného súboru, spôsob zberu údajov a metódy ich
+spracovania a vyhodnotenia.
+Výskumný nástroj
+Ako výskumný nástroj sme pouţili kvantitatívny štandardizovaný dotazník - Digital health
+literacy instrument (DHLI), ktorý bol vyvinutý autorkami: Sabrina van der Vaart, PhD a
+Constance Drossaert, PhD.. Dotazník je zameraný na meranie digitálnej zdravotnej
+gramotnosti a pozostáva z dimenzií:
+1. Technické zručnosti (Operational skills)
+2. Navigácia (Navigation skills)
+3. Vyhľadávanie informácií (Information searching)
+4. Hodnotenie spoľahlivosti (Evaluating reliability)
+5. Určovanie relevantnosti (Determining relevance)
+6. Pridávanie vlastného obsahu (Adding self-generated content)
+7. Ochrana súkromia (Protecting privacy)
+Celkovo teda dotazník obsahoval 27 uzavretých otázok. Dotazník sme rozdelili na 8 častí.
+Otázky číslo 1-3 sa venovali technickým zručnostiam (operational skills), 4-6 sa venovali
+navigačným zručnostiam (navigation skills), 7-9 sa venovali vyhľadávaniu informácií
+(information searching), 10-12 sa venovali hodnoteniu spoľahlivosti (evaluating
+reliability), 13-15 sa venovali určovaniu relevantnosti (determining relevance), 16-18 sa
+venovali pridávaniu vlastného obsahu (adding self - generated content), 19-21 sa venovali
+ochrana súkromia (protecting privacy) a nakoniec otázky číslo 22-27 sa venovali
+demografickým údajom. Kaţdá poloţka v dotazníku bola hodnotená pomocou Likertovej
+škály s moţnosťami odpovedí: nikdy – zriedkavo – niekedy – často – vţdy, čo umoţnilo
+kvantitatívne vyhodnotenie úrovne digitálnej gramotnosti. Dotazník bol anonymný, určený
+pre širokú verejnosť a v rámci demografických údajov mali respondenti na výber z
+preddefinovaných moţností, ako napríklad vekové kategórie, pohlavie, dosiahnuté
+vzdelanie, typ bydliska a rodinný stav a frekvencia pouţívania internetu. Pouţitý dotazník
+je
+
+dostupný
+
+v
+
+plnom
+
+znení
+
+prostredníctvom
+
+nasledujúceho
+
+odkazu:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdQ5mSHSMbenVbInmrKetVnZta5pNNsIio
+Fwm35ZvcR3Rg8JA/viewform?usp=dialog a nachádza sa aj v prílohe č.1. Na pouţitie
+dotazníka v rámci diplomovej práce bol zaslaný e-mail s oficiálnou ţiadosťou o súhlas
+37
+
+autorke pre korešpondenciu. Odpoveď sme dostali - autorky súhlasia s pouţitím dotazníka
+v našej práci. Ţiadosť o povolenie pouţiť dotazník a súhlas s pouţitím dotazníka DHLI v
+našej práci je v prílohe č.2.
+Organizácia výskumu
+Dotazník bol v elektronickej podobe vypracovaný a zdieľaný prostredníctvom platformy
+Google Forms. Na distribúciu Dotazníka bol pouţitý zámerný výber - teda cielené
+oslovenie ľudí, ktorí spĺňali kritériá uvedené vyššie. Dotazníky boli distribuované
+elektronicky (e-mailom, cez online formulár, facebook, Instagram) a aj osobne rodinným
+príslušníkom a známym pre zabezpečenie respondentov z rôznych sociálnych a vekových
+skupín. Okrem toho bol dotazník distribuovaný na rôzne fakulty našej univerzity
+v elektronickej podobe a zdieľaný bol aj na platforme Share Quest. Dotazník sme
+distribuovali od Novembra 2025 do Februára 2026. Odpovede respondentov na jednotlivé
+poloţky boli zaznamenané v podobe grafov, vyjadrené v počtom respondentov a aj
+percentuálnym zastúpením, z čoho sme získali prehľad o odpovediach a vedomostiach
+u našich respondentov. Získané dáta boli spracované pomocou štatistických analýz, ktoré
+nám umoţnili posúdiť vzťahy medzi sledovanými premennými a odhaliť štatisticky
+významné rozdiely medzi jednotlivými skupinami respondentov. Výsledky sme povaţovali
+za štatisticky významné pri dosiahnutí p-hodnoty niţšej ako 0,05. Uvedený postup
+spracovania dát umoţnil objektívne vyhodnotenie úrovne digitálnej zdravotnej gramotnosti
+respondentov a vytvoril podklad pre interpretáciu výsledkov prezentovaných v
+nasledujúcej kapitole.
+
+38
+
+3. Analýza a interpretácia výsledkov výskumu
+V nasledujúcej časti práce sme analyzovali odpovede respondentov z dotazníka a vykonali
+štatistické testovanie hypotéz. Cieľom bolo zistiť úroveň digitálnej zdravotnej gramotnosti
+pacientov pri vyuţívaní moderných informačných technológií v ošetrovateľstve a posúdiť,
+či sa táto úroveň líšila v závislosti od vybraných faktorov, ako boli vek, pohlavie,
+vzdelanie, frekvencia pouţívania internetu a miesto bydliska. Najskôr sme zozbierané dáta
+upravili a spracovali tak, aby boli pripravené na podrobnejšiu analýzu. Následne sme
+odpovede previedli na číselné hodnoty, čo umoţnilo ich kvantitatívne vyhodnotenie.
+Potom sme vybrali vhodné štatistické testy, pomocou ktorých sme skúmali, vzťahy medzi
+premennými a zároveň overovali formulované hypotézy, pričom bolo uvedené, či sa
+jednotlivé hypotézy prijímajú alebo neprijímajú na základe získaných výsledkov. Pre
+prehľadnosť prezentácie výsledkov boli percentá uvedené v celých číslach, pričom
+prípadné odchýlky v súčtoch boli spôsobené matematickým zaokrúhľovaním. Súčasne boli
+uvedené aj absolútne počty respondentov, čo umoţnilo presnejšiu interpretáciu výsledkov
+v kontexte jednotlivých skupín. Nasledujúce tabuľky a grafy poskytovali prehľad hlavných
+vzorcov a rozdielov medzi skupinami, čím uľahčili lepšie porozumenie získaným údajom.
+Nášho výskumu sa zúčastnilo 120 respondentov. Zo všetkých respondentov bolo 81 ţien,
+čo predstavovalo 67 % vzorky, a 39 muţov, teda 33 %, čím sa získal prehľad o zastúpení
+pohlaví medzi účastníkmi výskumu.
+Aké je vaše pohlavie?
+
+Ţena
+Muţ
+
+33%
+67%
+
+Graf 1 - Aké je vaše pohlavie?
+Ďalej sme sa našich respondentov pýtali na frekvenciu pouţívania internetu. Ţiadny
+z respondentov neuviedol moţnosť nikdy. Menej často neţ raz týţdenne internet pouţívali
+39
+
+2 opýtaný (2%) a rovnako je to aj v prípade moţnosti pouţívania internetu raz týţdenne.
+Moţnosť niekoľkokrát do týţdňa uviedlo 6 respondentov (5%) a najväčšiu kategóriu
+tvorila moţnosť pouţívania internetu denne. Túto moţnosť zvolilo 110 respondentov čo
+tvorí 91% opýtaných.
+Tabuľka 1 – Ako často pouţívate internet?
+Ako často pouţívate internet?
+
+Počty
+
+Percentá
+
+Nikdy / veľmi zriedkavo
+
+0
+
+0%
+
+Menej často neţ raz týţdenne
+
+2
+
+2%
+
+Raz týţdenne
+
+2
+
+2%
+
+Niekoľkokrát do týţdňa
+
+6
+
+5%
+
+Denne
+Spolu
+
+110
+120
+
+91%
+100%
+
+Najväčšiu časť účastníkov výskumu tvorili osoby vo veku 18–29 rokov, ktoré
+predstavovali 54 % vzorky, teda 66 osôb. Skupina osôb vo veku 30–44 rokov bola
+zastúpená menšou časťou, konkrétne 21 účastníkmi, čo zodpovedalo 18 % všetkých
+respondentov. Najmenšiu časť tvorili osoby vo veku 45–59 rokov zahŕňala 14 osôb, teda
+12 % vzorky. Veková kategória 60 a viac rokov predstavovala 16 % účastníkov, teda 19
+osôb. Tento rozpis umoţnil získať prehľad o vekovej štruktúre vzorky a lepšie porozumieť
+zastúpeniu jednotlivých vekových skupín v rámci výskumu.
+Koľko máte rokov?
+18-29
+16%
+30-44
+12%
+45-59
+60 a viac
+
+54%
+18%
+
+Graf 2 – Koľko máte rokov?
+
+40
+
+Z pohľadu vzdelania nás zaujímalo najvyššie dosiahnuté vzdelanie respondentov.
+
+76
+
+jedincov, teda 63% respondentov uviedlo, ţe majú ukončené vysokoškolské (bakalárske,
+inţinierske, magisterské a vyššie) vzdelanie. Stredoškolské vzdelanie uviedlo 35% ( 42
+osôb) a základné vzdelanie uviedlo len 2% opýtaných, teda 2 ľudia.
+Aké je vaše najvyššie dosiahnuté vzdelanie?
+2%
+Vysokoškolské
+(bakalárske, inţinierske
+, magisterské a vyššie)
+35%
+
+Stredoškolské
+63%
+Základné
+
+Graf 3 – Aké je vaše najvyššie dosiahnuté vzdelanie?
+
+Z demografických údajov nás zaujímala aj informácia, kde bývajú respondenti. Mali na
+výber z moţnosti mesto a vidiek. Moţnosť Mesto označilo 72% respondentov (86 osôb)
+a moţnosť vidiek označilo 28% respondentov (34 osôb).
+Kde bývate?
+
+Mesto
+Vidiek
+
+28%
+72%
+
+Graf 4 – Kde bývate?
+
+41
+
+Respondentov sme sa pýtali aj na rodinný stav. Mali na výber z moţností slobodný/á
+a ţenatý/á. Moţnosť slobodný/á uviedlo 64% respondentov teda 77 osôb a moţnosť
+ţenatý/á uviedlo 36% respondentov, teda 43 osôb.
+
+Aký je váš rodinný stav?
+
+Slobodný/á
+
+36%
+
+Ţenatý / Vydatá
+
+64%
+
+Graf 5 – Aký je váš rodinný stav?
+Dotazníková poloţka č. 1 -Ako často si viete otvoriť webstránku zadaním správnej
+internetovej adresy?
+Respondentov sme sa pýtali, či si vedia otvoriť webstránku zadaním správnej internetovej
+adresy. 2% respondentov (2 osoby) uviedli moţnosť nikdy,1% respondentov (1 osoba)
+uviedlo moţnosť zriedkavo, 12% respondentov (14 osôb) uviedlo moţnosť niekedy, 22%
+respondentov (26 osôb) uviedlo moţnosť často a najväčšiu časť tvorilo 77 osôb (63%)
+ktoré uviedli moţnosť vţdy.
+Tabuľka 2 - Ako často si viete otvoriť webstránku zadaním správnej internetovej
+adresy?
+1. Ako často si viete otvoriť Počet
+Percento
+webstránku
+zadaním
+správnej respondentov
+internetovej adresy?
+Nikdy
+2
+2%
+Zriedkavo
+
+1
+
+1%
+
+Niekedy
+
+14
+
+12%
+
+Často
+
+26
+
+22%
+
+Vţdy
+
+77
+
+63%
+
+Spolu
+
+120
+
+100%
+
+42
+
+Dotazníková poloţka č. 2. - Ako často si viete stiahnuť a uloţiť zdravotnícky
+dokument z internetu?
+Moţnosť nikdy uviedlo 5 respondentov (4%), zriedkavo 4 respondenti (3%), moţnosť
+niekedy uviedlo 16 osôb (13%), často uviedlo 30 ľudí (25%) a najpočetnejšia poloţka bola
+moţnosť vţdy ktorú uviedlo 65 osôb (55%).
+Tabuľka 3 - Ako často si viete stiahnuť a uloţiť zdravotnícky dokument z internetu?
+2. Ako často si viete stiahnuť
+zdravotnícky dokument z internetu?
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+Spolu
+
+a
+
+uloţiť Počet
+respondentov
+5
+4
+16
+30
+65
+120
+
+Percento
+4%
+3%
+13%
+25%
+55%
+100%
+
+Dotazníková poloţka č. 3. – Ako často viete skopírovať a vloţiť text do internetového
+prehliadača?
+Na otázku č. 3, zameranú na schopnosť skopírovať a vloţiť text do internetového
+prehliadača, väčšina respondentov uviedla, ţe túto činnosť zvláda bez problémov.
+Moţnosť vţdy označilo 77% účastníkov (94 osôb). Odpoveď často zvolilo 12%
+respondentov (14 osôb) a moţnosť niekedy 6% (7 osôb). Len malý podiel opýtaných
+uviedol, ţe túto činnosť vie vykonať zriedkavo (2%, 2 osoby) alebo nikdy (3%, 3 osoby).
+Tabuľka 4 – Ako často viete skopírovať a vloţiť text do internetového prehliadača?
+3. – Ako často viete skopírovať a vloţiť text do Počet
+Percento
+internetového prehliadača?
+respondentov
+Nikdy
+3
+3%
+Zriedkavo
+
+2
+
+2%
+
+Niekedy
+
+7
+
+6%
+
+Často
+
+14
+
+12%
+
+Vţdy
+
+94
+
+77%
+
+Spolu
+
+120
+
+100%
+
+43
+
+Dotazníková poloţka č.4 – Ako často viete preklikávať medzi rôznymi stránkami a
+vrátiť sa späť?
+Na otázku č. 4, zameranú na schopnosť preklikávať medzi rôznymi stránkami a vrátiť sa
+späť, nikto z respondentov neoznačil moţnosť nikdy. Odpovede zriedkavo a niekedy
+uviedlo zhodne po 4 % opýtaných (po 5 osôb). Moţnosť často zvolilo 15 % respondentov
+(18 osôb) a väčšina, 77 % účastníkov (92 osôb), označila odpoveď vţdy.
+Tabuľka 5 – Ako často viete preklikávať medzi rôznymi stránkami a vrátiť sa späť?
+4. Ako často viete preklikávať medzi rôznymi
+stránkami a vrátiť sa späť?
+
+Percento
+
+Nikdy
+
+Počet
+respondentov
+0
+
+Zriedkavo
+
+5
+
+4%
+
+Niekedy
+
+5
+
+4%
+
+Často
+
+18
+
+15%
+
+Vţdy
+
+92
+
+77%
+
+Spolu
+
+120
+
+100%
+
+0%
+
+Dotazníková poloţka č. 5 – Ako často viete nájsť cestu späť na predchádzajúcu
+stránku, ak sa stratíte?
+Na otázku č. 5, zameranú na schopnosť nájsť cestu späť na predchádzajúcu stránku v
+prípade straty orientácie, 63% respondentov (77 osôb) uviedlo, ţe túto činnosť zvláda
+vţdy. Moţnosť často označilo 26% opýtaných (31 osôb) a odpoveď niekedy 8% (9 osôb).
+Len malý podiel účastníkov uviedol, ţe túto schopnosť zvláda zriedkavo (1%, 1 osoba)
+alebo nikdy (2%, 2 osoby).
+Tabuľka 6 – Ako často viete nájsť cestu späť na predchádzajúcu stránku, ak sa
+stratíte?
+5. Ako často viete nájsť cestu späť na Počet respondentov
+predchádzajúcu stránku, ak sa stratíte?
+
+Percento
+
+Nikdy
+
+2
+
+2%
+
+Zriedkavo
+Niekedy
+
+1
+9
+
+1%
+8%
+
+Často
+Vţdy
+
+31
+77
+
+26%
+63%
+
+Spolu
+
+120
+
+100%
+44
+
+Dotazníková poloţka č. 6 - Ako často si viete poradiť s neprehľadnou štruktúrou
+webovej stránky?
+Na otázku č. 6, zameranú na schopnosť orientovať sa v neprehľadnej štruktúre webovej
+stránky, 38% respondentov (47 osôb) uviedlo, ţe si s ňou poradí často, a 27% (32 osôb)
+označilo moţnosť vţdy. Odpoveď niekedy zvolilo 26% opýtaných (31 osôb). Menšia časť
+účastníkov uviedla, ţe túto situáciu zvláda zriedkavo (7%, 8 osôb) alebo nikdy (2%, 2
+osoby).
+Tabuľka 7 - Ako často si viete poradiť s neprehľadnou štruktúrou webovej stránky?
+6. Ako často si viete poradiť s neprehľadnou Počet
+Percento
+štruktúrou webovej stránky?
+respondentov
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+Spolu
+
+2
+8
+31
+47
+32
+120
+
+2%
+7%
+26%
+38%
+27%
+100%
+
+Dotazníková poloţka č. 7 – Ako často viete pouţiť kľúčové slová na vyhľadanie
+zdravotníckych informácií?
+Na otázku č. 7, zameranú na schopnosť pouţívať kľúčové slová pri vyhľadávaní
+zdravotníckych informácií, 41% respondentov (50 osôb) uviedlo, ţe túto schopnosť zvláda
+vţdy a 37% (44 osôb) označilo moţnosť často. Odpoveď niekedy zvolilo 16% opýtaných
+(19 osôb). Len menší podiel účastníkov uviedol, ţe kľúčové slová pouţíva zriedkavo (4%,
+5 osôb) alebo nikdy (2%, 2 osoby).
+Tabuľka 8 – Ako často viete pouţiť kľúčové slová na vyhľadanie zdravotníckych
+informácií?
+7. Ako často viete pouţiť kľúčové slová na Počet
+vyhľadanie zdravotníckych informácií?
+respondentov
+Nikdy
+2
+Zriedkavo
+5
+Niekedy
+19
+Často
+44
+Vţdy
+50
+Spolu
+120
+
+Percento
+2%
+4%
+16%
+37%
+41%
+100%
+45
+
+Dotazníková poloţka č. 8 – Ako často viete nájsť informácie o konkrétnych
+príznakoch alebo chorobách?
+Na otázku č. 8, zameranú na schopnosť vyhľadať informácie o konkrétnych príznakoch
+alebo chorobách, 44% respondentov (54 osôb) uviedlo, ţe túto činnosť zvláda vţdy, a 36%
+(43 osôb) označilo moţnosť často. Odpoveď niekedy zvolilo 13% opýtaných (15 osôb).
+Menší podiel účastníkov uviedol, ţe informácie vie vyhľadať zriedkavo (5%, 6 osôb) alebo
+nikdy (2%, 2 osoby).
+Tabuľka 9 – Ako často viete nájsť informácie o konkrétnych príznakoch alebo
+chorobách?
+8. Ako často viete nájsť informácie o konkrétnych Počet
+príznakoch alebo chorobách?
+respondentov
+
+Percento
+
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+Spolu
+
+2%
+5%
+13%
+36%
+44%
+100%
+
+2
+6
+15
+43
+54
+120
+
+Dotazníková poloţka č. 9 – Ako často viete nájsť informácie o liečbe alebo liekoch?
+Na otázku č. 9, zameranú na schopnosť vyhľadať informácie o liečbe alebo liekoch, 42 %
+respondentov (50 osôb) uviedlo, ţe túto činnosť zvláda často a 39 % (48 osôb) označilo
+moţnosť vţdy. Odpoveď niekedy zvolilo 13 % opýtaných (15 osôb). Len malý podiel
+účastníkov uviedol, ţe informácie vyhľadáva zriedkavo (5 %, 6 osôb) alebo nikdy (1 %, 1
+osoba).
+Tabuľka 10 – Ako často viete nájsť informácie o liečbe alebo liekoch?
+9. Ako často viete nájsť informácie o liečbe alebo Počet
+liekoch?
+respondentov
+Nikdy
+1
+
+Percento
+
+Zriedkavo
+
+6
+
+5%
+
+Niekedy
+
+15
+
+13%
+
+Často
+
+50
+
+42%
+
+Vţdy
+
+48
+
+39%
+
+Spolu
+
+120
+
+100%
+
+1%
+
+46
+
+Dotazníková poloţka č. 10 – Ako často viete rozpoznať, ktoré webstránky poskytujú
+spoľahlivé informácie?
+Na otázku č. 10, ktorá sa týkala schopnosti rozpoznať webové stránky poskytujúce
+spoľahlivé informácie, takmer polovica respondentov (46 %, 56 osôb) uviedla, ţe túto
+schopnosť má často, a 23 % (28 osôb) označilo moţnosť vţdy. Odpoveď niekedy zvolilo
+21 % opýtaných (25 osôb). Menšia časť účastníkov priznala, ţe spoľahlivosť internetových
+zdrojov dokáţe posúdiť len zriedkavo (7 %, 8 osôb) alebo nikdy (3 %, 3 osoby).
+Tabuľka 11 – Ako často viete rozpoznať, ktoré webstránky poskytujú spoľahlivé
+informácie?
+10. Ako často viete rozpoznať, ktoré webstránky Počet
+poskytujú spoľahlivé informácie?
+respondentov
+
+Percento
+
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+Spolu
+
+3%
+7%
+21%
+46%
+23%
+100%
+
+3
+8
+25
+56
+28
+120
+
+Dotazníková poloţka č. 11 – Ako často viete overiť zdroje zdravotníckych informácií?
+Na otázku č. 11, zameranú na schopnosť overovať zdroje zdravotníckych informácií, 39%
+respondentov (48 osôb) uviedlo, ţe túto činnosť vykonáva často, a 18% (21 osôb) označilo
+moţnosť vţdy. Odpoveď niekedy zvolilo 27% opýtaných (32 osôb). Časť účastníkov
+priznala, ţe zdroje vie overuje len zriedkavo (13%, 16 osôb) alebo nikdy (3%, 3 osoby).
+Ako často viete overiť zdroje zdravotníckych
+informácií?
+
+3%
+Nikdy
+Zriedkavo
+
+18% 13%
+
+Niekedy
+Často
+
+27%
+39%
+
+Vţdy
+
+47
+
+Graf 6 – Ako často viete overiť zdroje zdravotníckych informácií?
+
+Dotazníková poloţka č. 12 – Ako často viete posúdiť, či sú informácie aktuálne a
+dôveryhodné?
+Na otázku č. 12, zameranú na schopnosť posúdiť, či sú zdravotnícke informácie aktuálne a
+dôveryhodné, 43 % respondentov (51 osôb) uviedlo, ţe často vie posúdiť aktuálnosť
+a dôveryhodnosť, a 15 % (18 osôb) označilo moţnosť vţdy. Odpoveď niekedy zvolilo 29%
+opýtaných (35 osôb). Menšia časť účastníkov priznala, ţe informácie vie posúdiť
+zriedkavo (10 %, 12 osôb) alebo nikdy (3 %, 4 osoby).
+Ako často viete posúdiť, či sú informácie aktuálne a
+dôveryhodné?
+3%
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+
+10%
+
+15%
+29%
+43%
+
+Graf 7 – Ako často viete posúdiť, či sú informácie aktuálne a dôveryhodné?
+
+Dotazníková poloţka č. 13 – Ako často viete zistiť, či sú informácie relevantné pre
+Váš zdravotný stav?
+Na otázku č. 13, zameranú na schopnosť zistiť, či sú zdravotnícke informácie relevantné
+pre vlastný zdravotný stav, nikto z respondentov neoznačil moţnosť nikdy. Moţnosť
+zriedkavo uviedlo 9 % opýtaných (11 osôb), niekedy 31 % (37 osôb), často 42 % (50 osôb)
+a vţdy 18 % (22 osôb).
+
+48
+
+Ako často viete zistiť, či sú informácie relevantné pre váš
+zdravotný stav?
+0%
+Nikdy
+
+Zriedkavo
+
+18%
+
+9%
+31%
+
+Niekedy
+Často
+
+42%
+
+Vţdy
+
+Graf 8 – Ako často viete zistiť, či sú informácie relevantné pre Váš zdravotný stav?
+
+Dotazníková poloţka č. 14 – Ako často viete rozlíšiť medzi všeobecnými a
+špecifickými informáciami?
+Na otázku č. 14, ktorá sa týkala schopnosti rozlíšiť medzi všeobecnými a špecifickými
+zdravotníckymi informáciami, nikto z respondentov neoznačil moţnosť nikdy. Moţnosť
+zriedkavo uviedlo 8 % opýtaných (10 osôb), niekedy 20 % (24 osôb), často 42 % (50 osôb)
+a vţdy 30 % (36 osôb).
+Ako často viete rozlíšiť medzi všeobecnými a špecifickými
+informáciami?
+0%
+8%
+
+Nikdy
+Zriedkavo
+
+30%
+
+20%
+
+Niekedy
+Často
+Vţdy
+
+42%
+
+Graf 9 – Ako často viete rozlíšiť medzi všeobecnými a špecifickými informáciami?
+
+Dotazníková poloţka č. 15 – Ako často viete určiť, ktoré informácie sú pre Vás
+najviac uţitočné?
+
+49
+
+Na otázku č. 15, zameranú na schopnosť určiť, ktoré zdravotnícke informácie sú pre
+vlastný stav najviac uţitočné, nikto z respondentov neoznačil moţnosť nikdy. Moţnosť
+zriedkavo uviedlo 5 % opýtaných (6 osôb), niekedy 17 % (20 osôb), často 45 % (54 osôb)
+a vţdy 33 % (40 osôb).
+Ako často viete určiť, ktoré informácie sú pre Vás
+najviac uţitočné?
+0% 5%
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+
+17%
+
+33%
+
+45%
+
+Graf 10 – Ako často viete určiť, ktoré informácie sú pre Vás najviac uţitočné?
+
+Dotazníková poloţka č. 16 – Ako často viete napísať komentár alebo recenziu o
+zdravotníckom produkte alebo sluţbe?
+Na otázku č. 16, zameranú na schopnosť napísať komentár alebo recenziu o zdravotníckom
+produkte či sluţbe, 36% respondentov (44 osôb) uviedlo, ţe túto činnosť zvláda vţdy a
+25% (30 osôb) označilo moţnosť často. Odpoveď niekedy zvolilo 18% opýtaných (21
+osôb), zriedkavo 9% (11 osôb) a nikdy 12% (14 osôb).
+Ako často viete napísať komentár alebo recenziu
+o zdravotníckom produkte alebo sluţbe?
+
+12%
+Nikdy
+Zriedkavo
+
+9%
+36%
+
+Niekedy
+
+18%
+
+Často
+
+Vţdy
+
+25%
+
+50
+
+Graf 11 – Ako často viete napísať komentár alebo recenziu o zdravotníckom
+produkte alebo sluţbe?
+
+Dotazníková poloţka č. 17 – Ako často viete zdieľať svoje skúsenosti na
+zdravotníckom fóre?
+Na otázku č. 17, zameranú na schopnosť zdieľať svoje skúsenosti na zdravotníckom fóre,
+27% respondentov (34 osôb) uviedlo, ţe túto činnosť dokáţe vykonať vţdy, a 18 % (21
+osôb) označilo moţnosť často. Rovnako 18 % (21 osôb) uviedlo moţnosť niekedy a 18 %
+(21 osôb) zriedkavo. Moţnosť nikdy zvolilo 19 % účastníkov (23 osôb).
+Ako často viete zdieľať svoje skúsenosti na
+zdravotníckom fóre?
+Nikdy
+Zriedkavo
+
+27%
+
+Niekedy
+Často
+Vţdy
+
+19%
+
+18%
+18%
+18%
+
+Graf 12 – Ako často viete zdieľať svoje skúsenosti na zdravotníckom fóre?
+
+Dotazníková poloţka č. 18 – Ako často viete vytvoriť alebo prispieť do online diskusie
+o zdraví?
+Na otázku č. 18, zameranú na schopnosť vytvoriť alebo prispieť do online diskusie o
+zdraví, 24% respondentov (30 osôb) uviedlo, ţe túto činnosť zvládne vykonať vţdy a 19%
+(23 osôb) označilo moţnosť často. Rovnako 18 % (21 osôb) zvolilo moţnosť niekedy a
+18% (21 osôb) zriedkavo. Moţnosť nikdy uviedlo 21 % účastníkov (25 osôb).
+
+51
+
+Ako často viete vytvoriť alebo prispieť do online
+diskusie o zdraví?
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+
+21%
+
+24%
+
+18%
+
+19%
+
+18%
+
+Graf 13 – Ako často viete vytvoriť alebo prispieť do online diskusie o zdraví?
+
+Dotazníková poloţka č. 19 – Ako často si viete nastaviť súkromie pri pouţívaní
+zdravotných aplikácií?
+Na otázku č. 19, zameranú na schopnosť nastaviť súkromie pri pouţívaní zdravotných
+aplikácií, 30 % respondentov (36 osôb) uviedlo, ţe túto činnosť dokáţe vykonať často, a
+28 % (34 osôb) označilo moţnosť vţdy. Odpoveď niekedy zvolilo 20 % opýtaných (24
+osôb), zriedkavo 9 % (11 osôb) a nikdy 13 % (15 osôb).
+Ako často si viete nastaviť súkromie pri pouţívaní
+zdravotných aplikácií?
+
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+
+13%
+28%
+
+9%
+20%
+
+30%
+
+Graf 14 – Ako často si viete nastaviť súkromie pri pouţívaní zdravotných aplikácií?
+
+52
+
+Dotazníková poloţka č. 20 – Ako často viete rozpoznať podozrivú webstránku, ktorá
+môţe zneuţiť Vaše údaje?
+Na otázku č. 20, zameranú na schopnosť rozpoznať podozrivú webovú stránku, ktorá by
+mohla zneuţiť osobné údaje, 37% respondentov (45 osôb) uviedlo, ţe takúto stránku vie
+rozpoznať často a 28 % (34 osôb) označilo moţnosť vţdy. Odpoveď niekedy zvolilo 23 %
+opýtaných (27 osôb), zriedkavo 10 % (12 osôb) a nikdy 2 % (2 osoby).
+Ako často viete rozpoznať podozrivú
+webstránku, ktorá môţe zneuţiť Vaše údaje?
+2% 10%
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+
+28%
+23%
+37%
+
+Graf 15 – Ako často viete rozpoznať podozrivú webstránku, ktorá môţe zneuţiť Vaše
+údaje?
+
+Dotazníková poloţka č. 21 – Ako často si viete zabezpečiť svoje osobné údaje pri
+pouţívaní internetu?
+Na otázku č. 21, zameranú na schopnosť zabezpečiť osobné údaje pri pouţívaní internetu,
+34% respondentov (42 osôb) uviedlo, moţnosť často a 28% (33 osôb) označilo moţnosť
+vţdy. Odpoveď niekedy zvolilo 26% opýtaných (31 osôb), zriedkavo 7% (8 osôb) a nikdy
+5% (6 osôb).
+
+53
+
+Ako často viete zabezpečiť svoje osobné údaje pri pouţívaní
+internetu?
+5% 7%
+Nikdy
+Zriedkavo
+Niekedy
+Často
+Vţdy
+
+28%
+26%
+34%
+
+Graf 16 – Ako často si viete zabezpečiť svoje osobné údaje pri pouţívaní internetu?
+
+54
+
+3.1. Štatistické testovanie hypotéz
+V tejto kapitole sa sústreďujeme na prezentáciu výsledkov našej výskumnej štúdie, ktorá
+bola realizovaná s cieľom overiť stanovené hypotézy a získať štatisticky relevantné dáta.
+Zo zhromaţdených informácií sme vykonali štatistické analýzy, ktoré nám umoţnili
+posúdiť súvislosti medzi jednotlivými premennými a formulovať závery o skúmaných
+javoch. S vyuţitím analytických nástrojov, predovšetkým Microsoft Excel a jeho funkcií
+pre spracovanie dát a štatistické vyhodnotenie, sme údaje analyzovali a interpretovali, aby
+sme identifikovali významné rozdiely alebo vzťahy medzi skúmanými skupinami. Táto
+časť poskytuje prehľad výsledkov a ich interpretáciu.
+H1: Predpokladáme, ţe respondenti, ktorí vyuţívajú internet častejšie, majú vyššiu
+digitálnu gramotnosť.
+V tejto hypotéze sa zameriavame na skúmanie vzťahu medzi frekvenciou pouţívania
+internetu a úrovňou digitálnej gramotnosti respondentov. Cieľom bolo zistiť, či častejšie
+pouţívanie internetu koreluje s vyššou schopnosťou efektívne pracovať s digitálnymi
+nástrojmi a informáciami. Pri testovaní tejto hypotézy sme analyzovali odpovede
+účastníkov, aby sme posúdili, či frekvencia online aktivít ovplyvňuje ich digitálne
+zručnosti a gramotnosť.
+Pouţili sme celkové skóre digitálnej gramotnosti (ďalej DG) a poloţku 22 (Ako často
+pouţívate internet). Poloţku 22 sme upravili tak, ţe sme odpovede (1-5) prekódovali
+vzostupne na numerické hodnoty, ktoré pribliţne zodpovedajú uvedenej frekvencií za
+týţdenné obdobie. Následne sme vypočítali Pearsonov korelačný koeficient medzi
+upravenými hodnotami poloţky 22 a celkovým skóre DG. Pouţili sme štatistický test
+významnosti korelačného koeficienta. Hladina signifikancie bola 5% jednostranne v
+predpokladanom smere.
+Tabuľka 12 – Výpočty H1
+Koeficient korelácie=
+
+0,440
+
+Stupne voľnosti=
+
+117
+
+Hladina signifikancie=
+
+0,05
+
+Testová štatistika=
+
+5,114
+
+p-hodnota=
+
+0,000
+
+55
+
+Keďţe p = 0,000...je menšie neţ hladina významnosti, konštatujeme, ţe test je
+signifikantný. Kladné znamienko korelácie znamená, ţe sa preukázala štatisticky
+významná priamo úmerná závislosť. Teda H1 prijímame. Z uvedených výsledkov vyplýva,
+ţe aktívnejšie vyuţívanie internetu podporuje schopnosť efektívne pracovať s digitálnymi
+nástrojmi a zdravotnými informáciami v online prostredí.
+
+Denne
+
+84,2
+
+Niekoľkokrát do týţdňa
+
+66,0
+
+Raz týţdenne
+
+57,0
+
+Menej často neţ raz týţdenne
+
+57,5
+
+Nikdy / veľmi zriedkavo
+20
+
+40
+
+60
+
+80
+
+100
+
+DG skóre
+Graf 17 priemerné DG skóre podľa pouţívania internetu (Poznámka: najniţšie
+dosiahnuteľné skóre je 21 a najvyššie 105, preto sú stĺpce grafu v tomto rozpätí.)
+
+H2: Predpokladáme, ţe mladší respondenti majú vyššiu digitálnu gramotnosť ako
+starší respondenti.
+V tejto hypotéze skúmame vzťah medzi vekom respondentov a úrovňou ich digitálnej
+gramotnosti. Cieľom je zistiť, či mladší účastníci, ktorí sú často viac zvyknutí pracovať s
+modernými informačnými technológiami, vykazujú vyššiu schopnosť efektívne vyuţívať
+digitálne nástroje a informácie v porovnaní so staršími respondentmi. Pri testovaní tejto
+hypotézy budeme analyzovať odpovede účastníkov s dôrazom na vplyv veku na digitálne
+zručnosti a gramotnosť.
+Pouţili sme celkové skóre DG a poloţku 23 (Koľko máte rokov?). Poloţku 23 sme upravili
+tak, ţe sme odpovede (1-4) prekódovali vzostupne ma numerické hodnoty, ktoré pribliţne
+zodpovedali stredom jednotlivých vekových intervalov.
+
+56
+
+Tabuľka 13 – upravené odpovede na numerické hodnoty:
+Koľko máte rokov?
+
+Pôvodná hodnota
+
+Upravená hodnota
+
+18 – 29
+
+1
+
+23,5
+
+30 – 44
+
+2
+
+37
+
+45 – 59
+
+3
+
+52
+
+60 a viac
+
+4
+
+67
+
+Následne sme vypočítali Pearsonov korelačný koeficient medzi upravenými hodnotami
+poloţky 23 a celkovým skóre DG. Pouţili sme štatistický test významnosti korelačného
+koreficienta. Hladina signifikancie bola 5% jednostranne v predpokladanom smere.
+Tabuľka 14 – Výpočty H2
+Koeficient korelácie=
+
+-0,370
+
+Stupne voľnosti=
+
+117
+
+Hladina signifikancie=
+
+0,05
+
+Testová štatistika=
+
+-4,200
+
+p-hodnota=
+
+0,000
+
+Keďţe p=0,000 - je menšie neţ hladina významnosti, konštatujeme, ţe test je
+signifikantný. Záporné znamienko korelácie znamená, ţe sa preukázala štatisticky
+významná nepriamo úmerná závislosť. Teda H2 prijímame. Výsledky potvrdili, ţe s
+rastúcim vekom úroveň DG klesá. Mladší respondenti dosahovali vyššie skóre DG ako
+starší respondenti, čo naznačuje, ţe vek je významným faktorom ovplyvňujúcim digitálne
+zručnosti a schopnosť pracovať s digitálnymi technológiami.
+
+57
+
+60 a viac
+
+72,7
+
+45 – 59
+
+75,6
+
+30 – 44
+
+84,5
+
+18 – 29
+
+85,9
+
+20,0
+
+40,0
+
+60,0
+
+80,0
+
+100,0
+
+DG skóre
+Graf 18 priemerného DG skóre podľa veku
+
+H3: Predpokladáme, ţe respondenti s vysokoškolským vzdelaním majú vyššiu
+digitálnu gramotnosť neţ respondenti so ZŠ a SŠ vzdelaním.
+V tejto hypotéze sa zameriavame na skúmanie vzťahu medzi dosiahnutým vzdelaním
+respondentov a úrovňou ich digitálnej gramotnosti. Cieľom je zistiť, či vyšší stupeň
+vzdelania súvisí s lepšou schopnosťou pracovať s digitálnymi technológiami a
+informáciami. Pri overovaní tejto hypotézy budeme analyzovať odpovede účastníkov s
+dôrazom na rozdiely v digitálnych zručnostiach medzi skupinami podľa úrovne vzdelania.
+Pouţili sme celkové DG skóre a poloţku 25 (Aké je Vaše vzdelanie). Vzhľadom na nízky
+počet kategórie základná škola sme zlúčili túto kategóriu so strednou školou. Následne sme
+porovnali priemerné DG skóre kategórie VŠ so spojenými kategóriami SŠ a ZŠ. Pouţili
+sme t-test štatistickej významnosti rozdielu priemerných hodnôt. Hladina signifikancie
+bola 5% jednostranne v predpokladanom smere.
+Tabuľka 15 – Výpočty H3
+Rozdiel VŠ - SŠ & ZŠ
+
+9,2
+
+Pomocný výpočet 1
+
+18,8
+
+Pomocný výpočet 2
+
+15,7
+
+Hladina signifikancie=
+
+0,05
+
+Testová štatistika=
+
+2,874
+
+p-hodnota=
+
+0,002
+
+58
+
+Keďţe p=0,002 <= 0,05, konštatujeme, ţe test je signifikantný. Záporné znamienko
+rozdielu znamená, ţe sa preukázal štatisticky významný rozdiel v predpokladanom smere.
+Teda H3 prijímame. Z výsledkov vyplýva, ţe respondenti s vysokoškolským vzdelaním
+dosahovali vyššie priemerné skóre digitálnej gramotnosti v porovnaní s respondentmi so
+základným a stredoškolským vzdelaním. Tento výsledok naznačuje, ţe vyšší stupeň
+vzdelania môţe prispievať k lepšiemu rozvoju digitálnych kompetencií.
+
+VŠ
+
+85,7
+
+ZŠ a SŠ
+
+20,0
+
+76,5
+
+40,0
+
+60,0
+
+80,0
+
+100,0
+
+DG skóre
+Graf 19 – priemerné skóre DG podľa vzdelania
+
+H4: Predpokladáme, ţe respondenti v mestách majú vyššiu digitálnu gramotnosť neţ
+respondenti na vidieku.
+V tejto hypotéze sa zameriavame na skúmanie vzťahu medzi miestom bydliska
+respondentov a úrovňou ich digitálnej gramotnosti. Cieľom je zistiť, či prostredie, v
+ktorom respondenti ţijú, ovplyvňuje ich schopnosť vyuţívať digitálne technológie a
+pracovať s informáciami. Pri testovaní tejto hypotézy budeme analyzovať odpovede
+účastníkov s dôrazom na rozdiely v digitálnych zručnostiach medzi mestskou a vidieckou
+populáciou.
+Pouţili sme celkové skóre DG a poloţku 26 (Kde bývate?). Vypočítali sme a porovnali
+priemerné skóre DG kategórie mesto a kategórie vidiek. Pouţili sme t-test štatistickej
+významnosti rozdielu priemerných hodnôt. Hladina signifikancie bola 5% jednostranne v
+predpokladanom smere.
+
+59
+
+Tabuľka 16 – priemerné skóre DG
+Kde bývate?
+
+DG skóre
+
+mesto
+
+83,1
+
+vidiek
+
+80,5
+
+Tabuľka 17 – Výpočty H4
+Rozdiel mesto - vidiek
+
+2,6
+
+Pomocný výpočet 1
+
+16,2
+
+Pomocný výpočet 2
+
+20,4
+
+Hladina signifikancie=
+
+0,05
+
+Testová štatistika=
+
+0,729
+
+p-hodnota=
+
+0,234
+
+Keďţe p=0,234 > 0,05, konštatujeme, ţe test nie je signifikantný. To znamená, ţe rozdiel
+nie je štatisticky významný v predpokladanom smere. Teda H4 neprijímame. Hoci sme
+predpokladali, ţe mestské prostredie môţe poskytovať lepšie podmienky pre rozvoj
+digitálnych zručností, získané údaje tento predpoklad nepotvrdili. Miesto bydliska sa teda
+v našom výskume neukázalo ako významný faktor ovplyvňujúci úroveň digitálnej
+zdravotnej gramotnosti respondentov.
+
+60
+
+4. Diskusia
+
+V oblasti technických zručností sme sledovali schopnosť respondentov vykonávať
+základné operácie pri práci s internetom, konkrétne otváranie webstránok zadaním
+správnej adresy, sťahovanie a ukladanie dokumentov z internetu a kopírovanie a vkladanie
+textu do prehliadača. Výsledky naznačujú, ţe respondenti disponujú pomerne dobrými
+základnými technickými zručnosťami, čo je v súlade s trendmi uvádzanými v odbornej
+literatúre. Schopnosť otvárať webové stránky zadaním adresy deklarovala väčšina
+respondentov ako pravidelne zvládnutú činnosť. Podobne aj zahraničné výskumy uvádzajú
+vysokú úroveň zvládania základných digitálnych operácií. Napríklad Aut Work Research
+Institute (2019) uvádza, ţe viac ako 90 % respondentov zvládalo základné úlohy, ako je
+práca s webovými stránkami či sťahovanie súborov, čo je ešte vyšší podiel v porovnaní s
+našimi zisteniami, avšak stále potvrdzuje všeobecne dobrú úroveň základných digitálnych
+zručností v populácii. Pri práci so súbormi, konkrétne pri sťahovaní a ukladaní
+dokumentov z internetu, sa ukázali niţšie hodnoty v porovnaní s jednoduchšími operáciami
+ako je otváranie webových stránok. Podobné výsledky prezentuje aj Tarannum (2024),
+podľa ktorého len pribliţne pätina respondentov dokázala efektívne pracovať so
+sťahovaním a ukladaním súborov, zatiaľ čo väčšina respondentov túto zručnosť
+neovládala. V našom výskume bol podiel respondentov, ktorí túto činnosť zvládali
+pravidelne (54 % vţdy a 25 % často, spolu 79 %), výrazne vyšší, čo môţe súvisieť s
+odlišným zloţením výskumnej vzorky alebo s rozdielnou úrovňou digitálnej gramotnosti v
+sledovaných populáciách. Najlepšie výsledky boli zaznamenané pri kopírovaní a vkladaní
+textu do prehliadača, kde väčšina respondentov uviedla, ţe túto činnosť zvláda pravidelne.
+Tieto zistenia sú v súlade so štatistickými údajmi Statistični urad Republike Slovenije
+(2025), podľa ktorých pribliţne 59 % respondentov zvládalo základné operácie s dátami,
+napríklad presúvanie alebo kopírovanie súborov medzi zariadeniami. V našom výskume
+dosiahla pravidelné zvládanie tejto činnosti ešte vyššia časť respondentov (77 % vţdy a 12
+% často, spolu 89%), čo opäť poukazuje na relatívne vysokú úroveň týchto základných
+zručností v skúmanej skupine. Celkovo moţno konštatovať, ţe základné technické
+zručnosti sú medzi respondentmi pomerne dobre rozvinuté. Výsledky zároveň naznačujú,
+ţe jednoduchšie operácie sú zvládané lepšie neţ špecifickejšie úlohy, ako je práca so
+súbormi, čo je v súlade s viacerými zahraničnými výskumami. Rozdiely medzi
+jednotlivými štúdiami môţu byť spôsobené odlišnou metodikou, charakteristikami
+61
+
+výskumných vzoriek alebo rozdielnou mierou digitálnej gramotnosti v skúmaných
+populáciách.
+V oblasti navigačných zručností bola sledovaná schopnosť respondentov orientovať sa v
+online prostredí, najmä pri preklikávaní medzi webovými stránkami, návrate na
+predchádzajúce stránky a pri práci s neprehľadnou štruktúrou webových stránok. Získané
+výsledky naznačujú, ţe respondenti dosahujú pomerne dobrú úroveň základných
+navigačných zručností, čo je v súlade s viacerými zahraničnými štúdiami, ktoré poukazujú
+na postupné zlepšovanie digitálnej gramotnosti populácie. Najlepšie výsledky boli
+zaznamenané pri základnej navigácii medzi webovými stránkami a návrate na
+predchádzajúcu stránku. Podobne aj štúdie zamerané na digitálnu a zdravotnú gramotnosť
+uvádzajú, ţe základné operácie v online prostredí patria medzi najlepšie zvládnuté
+zručnosti v populácii. Napríklad Shudayfat et al. (2023) zistili, ţe väčšina respondentov
+dosahovala vysokú úroveň navigačných zručností pri práci so zdravotníckymi webovými
+zdrojmi, čo podporuje aj naše zistenia, keďţe len malá časť respondentov mala s týmito
+operáciami výraznejšie problémy. Určité rozdiely sa objavili pri hodnotení schopnosti
+pracovať s neprehľadnou štruktúrou webových stránok. Táto zručnosť sa ukázala ako
+náročnejšia v porovnaní so základnou navigáciou, čo potvrdzujú aj viaceré predchádzajúce
+výskumy. Dadaczynski et al. (2021) uvádzajú, ţe pribliţne tretina populácie môţe mať
+problémy s vyhľadávaním a spracovaním informácií na internete, čo poukazuje na
+pretrvávajúce výzvy v oblasti komplexnejšej práce s webovým obsahom. Podobne Rosário
+et al. (2025) konštatujú, ţe značná časť respondentov nedosahuje dostatočnú úroveň
+navigačnej zdravotnej gramotnosti, čo sa čiastočne prejavuje aj v našich výsledkoch, kde
+bola táto zručnosť hodnotená o niečo niţšie v porovnaní so základnou navigáciou. Celkovo
+moţno konštatovať, ţe navigačné zručnosti respondentov sú na relatívne dobrej úrovni,
+najmä pri jednoduchších navigačných operáciách. Náročnejšie úlohy, ktoré vyţadujú
+lepšiu orientáciu v štruktúre webových stránok, však môţu predstavovať pre časť
+populácie stále určitú výzvu, čo je v súlade s trendmi popisovanými v odbornej literatúre.
+V oblasti vyhľadávania zdravotníckych informácií bola sledovaná schopnosť respondentov
+vyhľadávať informácie pomocou kľúčových slov a orientovať sa v informáciách týkajúcich
+sa zdravia, príznakov ochorení a moţností liečby. Výsledky naznačujú, ţe respondenti
+disponujú relatívne dobrou úrovňou základných zručností pri vyhľadávaní zdravotníckych
+informácií online, čo je v súlade s trendmi popisovanými v zahraničných štúdiách.
+62
+
+Schopnosť efektívne vyhľadávať informácie pomocou kľúčových slov patrí medzi
+základné digitálne zručnosti, ktoré sú v populácii pomerne dobre rozvinuté. Podobne aj
+štúdia Zhao et al. (2024) poukazuje na to, ţe veľká časť populácie vyuţíva internet na
+rýchle získavanie zdravotných informácií, čo potvrdzuje rastúci význam online prostredia
+ako zdroja zdravotného obsahu. Tieto zistenia podporujú aj výsledky Organisation for
+Economic Co-operation and Development (2024), podľa ktorých väčšina respondentov
+dokáţe bez väčších problémov nájsť informácie na internete, aj keď časť populácie stále
+potrebuje pri vyhľadávaní väčšiu mieru úsilia. Pri vyhľadávaní konkrétnych informácií o
+chorobách, príznakoch alebo moţnostiach liečby sa ukazuje, ţe pouţívatelia sú schopní
+pracovať so základnými zdravotníckymi informáciami, avšak táto zručnosť je často
+limitovaná schopnosťou kriticky hodnotiť nájdené informácie. Podobné závery uvádzajú aj
+Van Der Vaart et al. (2017), ktorí upozorňujú, ţe hoci väčšina respondentov vyhľadáva
+zdravotné informácie online, nie vţdy dokáţe tieto informácie správne interpretovať a
+aplikovať v praxi. Celkovo moţno konštatovať, ţe vyhľadávanie zdravotníckych
+informácií je medzi respondentmi na pomerne dobrej úrovni, najmä pokiaľ ide o základné
+vyhľadávacie
+
+operácie.
+
+Zároveň
+
+však
+
+zostáva
+
+výzvou
+
+schopnosť
+
+pracovať
+
+s
+
+komplexnejšími informáciami a kriticky posudzovať ich spoľahlivosť, čo je dôleţitým
+aspektom zdravotnej a digitálnej gramotnosti.
+V oblasti hodnotenia spoľahlivosti zdravotníckych informácií bola sledovaná schopnosť
+respondentov rozpoznávať dôveryhodné zdroje zdravotných informácií, overovať ich a
+posudzovať aktuálnosť získaných údajov. Výsledky naznačujú, ţe respondenti disponujú
+skôr priemernou aţ dobrou úrovňou kritického hodnotenia online zdravotných informácií,
+avšak táto zručnosť nie je u všetkých respondentov rovnako rozvinutá.
+Schopnosť rozpoznať spoľahlivosť webových stránok bola u respondentov skôr na dobrej
+úrovni, čo naznačuje, ţe časť pouţívateľov internetu uţ dokáţe rozlišovať medzi
+dôveryhodnými a menej dôveryhodnými online zdrojmi. Podobne OECD (2024) uvádza,
+ţe pribliţne polovica populácie dokáţe bez väčších problémov posúdiť kvalitu informácií
+na internete, zatiaľ čo zvyšná časť má s hodnotením spoľahlivosti informácií stále ťaţkosti.
+Tieto zistenia naznačujú, ţe hoci sa úroveň digitálnej gramotnosti postupne zlepšuje,
+schopnosť kriticky hodnotiť online informácie zostáva dôleţitou oblasťou, v ktorej
+pretrvávajú
+
+rozdiely
+
+medzi
+
+jednotlivými
+
+pouţívateľmi.
+
+Pri
+
+overovaní
+
+zdrojov
+
+zdravotníckych informácií sa ukázalo, ţe respondenti síce vyuţívajú určité stratégie
+overovania informácií, no táto zručnosť nie je ešte úplne automatická. Podobné závery
+63
+
+uvádzajú Dadaczynski et al. (2021), ktorí zistili, ţe významná časť populácie má problémy
+s kritickým posúdením pravdivosti online informácií. To naznačuje, ţe samotné
+vyhľadávanie informácií neznamená automaticky aj schopnosť ich správne vyhodnotiť a
+interpretovať. Výsledky zároveň potvrdzujú rozdiely v dôveryhodnosti jednotlivých typov
+zdrojov. Almaazmi et al. (2023) uvádzajú, ţe zdravotnícki odborníci sú povaţovaní za
+najdôveryhodnejší zdroj zdravotných informácií, zatiaľ čo dôveryhodnosť neoficiálnych
+online zdrojov, ako sú sociálne siete alebo blogy, je podstatne niţšia. Tieto zistenia
+poukazujú na potrebu rozvíjania schopnosti rozlišovať medzi odbornými a neodbornými
+zdrojmi zdravotných informácií. Celkovo moţno konštatovať, ţe respondenti vykazujú
+relatívne dobrú orientáciu pri hodnotení spoľahlivosti zdravotníckych informácií, avšak
+táto oblasť zostáva jednou z kľúčových oblastí pre rozvoj zdravotnej a digitálnej
+gramotnosti, najmä vzhľadom na rastúce mnoţstvo informácií dostupných v online
+prostredí.
+V oblasti určovania relevantnosti zdravotníckych informácií bola sledovaná schopnosť
+respondentov vyhodnotiť, či sú nájdené informácie vhodné pre ich zdravotný stav a
+potreby. Výsledky naznačujú, ţe respondenti dokáţu pomerne dobre pracovať s výberom
+relevantných zdravotníckych informácií, najmä pri základnom posudzovaní uţitočnosti
+informácií. Menej istoty sa však prejavovalo pri komplexnejšom hodnotení informácií a
+ich aplikácii na konkrétne zdravotné situácie. Schopnosť posudzovať relevantnosť
+informácií je povaţovaná za jednu z kľúčových zloţiek zdravotnej a digitálnej
+gramotnosti. Bozovic et al. (2025) uvádzajú, ţe väčšina respondentov povaţuje hodnotenie
+relevancie informácií za relatívne jednoduché, čo naznačuje, ţe pouţívatelia internetu sú
+schopní orientovať sa v základných zdravotníckych informáciách. Tieto výsledky čiastočne
+potvrdzujú aj naše zistenia, keďţe respondenti prevaţne dokázali rozlíšiť, ktoré informácie
+sú pre nich uţitočné. Levanti et al. (2022) taktieţ poukazujú na to, ţe väčšina pouţívateľov
+internetu dokáţe základným spôsobom hodnotiť a overovať zdravotnícke informácie,
+avšak náročnejšie zostáva kritické posúdenie ich spoľahlivosti a praktického vyuţitia. To
+naznačuje, ţe problémom uţ nie je samotná dostupnosť informácií, ale skôr ich správna
+interpretácia a vyuţitie v osobnej zdravotnej praxi. Celkovo moţno konštatovať, ţe
+respondenti disponujú pomerne dobrou schopnosťou určovať relevantnosť zdravotníckych
+informácií, najmä pri základnom posudzovaní uţitočnosti informácií. Napriek tomu
+zostáva priestor na zlepšenie v oblasti hlbšieho kritického hodnotenia a aplikácie
+
+64
+
+zdravotníckych informácií v reálnych situáciách, čo je v súlade s trendmi uvádzanými v
+odbornej literatúre.
+V oblasti pridávania vlastného obsahu bola sledovaná schopnosť respondentov aktívne
+prispievať do online prostredia, napríklad písaním recenzií, zdieľaním skúseností na
+zdravotníckych fórach a zapájaním sa do diskusií o zdraví. Výsledky naznačujú, ţe
+respondenti sú skôr pasívnejší pri tvorbe vlastného zdravotníckeho obsahu v porovnaní s
+aktivitami, ako je vyhľadávanie informácií alebo ich hodnotenie. Aktívne prispievanie do
+online prostredia je vo všeobecnosti povaţované za náročnejšiu úroveň digitálnej
+zdravotnej gramotnosti, pretoţe si vyţaduje nielen schopnosť pracovať s informáciami, ale
+aj ochotu zdieľať osobné skúsenosti. Podobne Van Der Vaart et al. (2017) uvádzajú, ţe len
+malá časť pouţívateľov internetu aktívne zverejňuje zdravotnícke recenzie alebo prispieva
+do online diskusií, zatiaľ čo väčšina pouţívateľov skôr iba sleduje obsah bez aktívnej
+participácie. Podobné závery prinášajú aj Wójta-Kempa et al. (2024), ktorí zistili, ţe hoci
+časť pouţívateľov sa zapája do zdravotníckych fór a skupín, len veľmi malé percento
+pouţívateľov pravidelne prispieva vlastnými príspevkami. Tieto zistenia poukazujú na to,
+ţe online zdravotnícke prostredie je charakteristické skôr pasívnym prijímaním informácií
+neţ ich aktívnym vytváraním. V porovnaní s uvedenými štúdiami moţno konštatovať, ţe
+respondenti v našom výskume vykazovali o niečo vyššiu mieru aktívnej participácie na
+tvorbe obsahu, čo môţe súvisieť s rozdielmi vo výskumných vzorkách, vekovej štruktúre
+respondentov alebo ich skúsenostiach s digitálnymi technológiami. Napriek tomu však
+zostáva aktívne zdieľanie zdravotníckych informácií menej častou aktivitou v porovnaní s
+pasívnym vyhľadávaním a čítaním informácií. Celkovo moţno konštatovať, ţe pridávanie
+vlastného obsahu patrí medzi menej rozvinuté oblasti digitálnej zdravotnej gramotnosti,
+pričom výsledky potvrdzujú, ţe pouţívatelia internetu skôr konzumujú zdravotnícky
+obsah, neţ ho aktívne vytvárajú.
+V oblasti ochrany súkromia bola sledovaná schopnosť respondentov chrániť svoje osobné
+údaje pri pouţívaní internetu a zdravotníckych aplikácií, najmä prostredníctvom nastavenia
+súkromia, rozpoznania podozrivých webových stránok a pouţívania základných
+bezpečnostných opatrení. Výsledky naznačujú, ţe respondenti majú základné povedomie o
+ochrane súkromia v online prostredí, avšak táto oblasť patrí medzi menej isté zloţky
+digitálnej
+
+zdravotnej
+
+gramotnosti.
+
+Schopnosť
+
+nastaviť
+
+súkromie
+
+pri
+
+pouţívaní
+
+zdravotníckych aplikácií bola u respondentov skôr priemerne rozvinutá, čo naznačuje, ţe
+65
+
+pouţívatelia si čiastočne uvedomujú význam ochrany osobných údajov, avšak nie vţdy
+aktívne vyuţívajú všetky dostupné bezpečnostné moţnosti. Podobne Causio et al. (2025)
+uvádzajú, ţe väčšina pouţívateľov má obavy zo zneuţitia osobných údajov alebo z
+kybernetických útokov, čo naznačuje vysokú mieru vnímania rizík, ale nie vţdy aj aktívne
+správanie smerujúce k ochrane údajov. Podobné výsledky uvádza aj Joinson et al. (2007),
+ktorí zistili, ţe hoci väčšina pouţívateľov podniká určité kroky na ochranu svojho
+súkromia online, tieto kroky sú často obmedzené na základné bezpečnostné opatrenia, ako
+je pouţívanie antivírusových programov. To naznačuje, ţe pouţívatelia majú základné
+vedomosti o bezpečnosti, no komplexnejšie bezpečnostné stratégie vyuţívajú menej často.
+Napriek tomu, ţe väčšina pouţívateľov má teoreticky moţnosť upraviť si nastavenia,
+veľká časť ich necháva na predvolených hodnotách. Ako uvádzajú Asif et al. (2022), ţe
+väčšina pouţívateľov nemení prednastavené bezpečnostné nastavenia, čo môţe zniţovať
+úroveň reálnej ochrany ich osobných údajov napriek tomu, ţe si uvedomujú potenciálne
+riziká. Celkovo moţno konštatovať, ţe respondenti majú základné zručnosti v oblasti
+ochrany súkromia, avšak medzi vedomosťami o bezpečnosti a reálnym správaním
+pouţívateľov môţe existovať rozdiel. Rozvoj digitálnej zdravotnej gramotnosti by sa preto
+mal zameriavať nielen na vedomosti o ochrane údajov, ale aj na praktické pouţívanie
+bezpečnostných nástrojov v online prostredí.
+Hypotézu H1, v ktorej sme predpokladali, ţe respondenti vyuţívajúci internet častejšie
+dosahujú vyššiu úroveň digitálnej gramotnosti, sme na základe výsledkov prijali. Analýza
+ukázala súvislosť medzi frekvenciou pouţívania internetu a celkovým skóre digitálnej
+gramotnosti. Častejší kontakt s digitálnym prostredím pravdepodobne podporuje rozvoj
+praktických zručností, schopnosť orientovať sa v online informáciách a kriticky ich
+vyhodnocovať. Tento záver korešponduje s odbornými zisteniami, podľa ktorých
+pravidelné pouţívanie digitálnych technológií posilňuje digitálne kompetencie a zvyšuje
+istotu pouţívateľov pri práci s informáciami. Zhao et al. (2024) pri pouţití rovnakého
+výskumného nástroja, teda DHLI dotazníka, rovnako zistili, ţe frekvencia pouţívania
+internetu je pozitívne spojená s vyššou digitálnou zdravotnou gramotnosťou.
+Hypotézu H2 sme taktieţ prijali. Výsledky potvrdili, ţe mladší respondenti dosahujú
+vyššiu úroveň digitálnej gramotnosti neţ starší respondenti. Tento rozdiel si môţeme
+vysvetliť generačnými špecifikami v prístupe k digitálnym technológiám. Mladšie vekové
+skupiny vyrastali v prostredí, kde sú digitálne technológie prirodzenou súčasťou
+66
+
+kaţdodenného ţivota, čo sa odráţa v ich vyššej miere digitálnej zručnosti a sebadôvery pri
+práci s online nástrojmi. Starší respondenti môţu mať menej príleţitostí na systematické
+rozvíjanie digitálnych kompetencií, čo sa prejavuje v niţšom skóre digitálnej gramotnosti.
+Shi et al. (2021) uvádza vo svojom výskume, ţe gramotnosť starších dospelých v oblasti
+elektronického zdravotníctva bola nízka. Na základe sociálno-ekologického modelu patrili
+medzi ovplyvňujúce faktory na individuálnej úrovni vek, pohlavie, dosiahnuté vzdelanie,
+sociálno-ekonomický status, fyzický a psychologický stav, frekvencia pouţívania internetu
+a vnímanie dôveryhodnosti online zdrojov zdravotnej starostlivosti.
+Hypotézu H3, v ktorej sme predpokladali vyššiu digitálnu gramotnosť u respondentov s
+vysokoškolským vzdelaním v porovnaní s osobami so základným a stredoškolským
+vzdelaním, sme na základe výsledkov prijali. Respondenti s vyšším vzdelaním dosiahli
+vyššie skóre digitálnej gramotnosti, čo naznačuje, ţe vzdelanie podporuje rozvoj kritického
+myslenia, analytických schopností a schopnosť efektívne vyhľadávať a hodnotiť
+informácie – všetko dôleţité pre digitálnu gramotnosť. Tento záver súhlasí s výsledkami
+systematického prehľadu a meta-analýzy Estrela et al. (2023), ktorí zistili, ţe vyššie
+vzdelanie je jedným z najdôleţitejších faktorov spojených s vyššou digitálnou zdravotnou
+gramotnosťou. Vyššie vzdelanie teda zlepšuje schopnosť ľudí orientovať sa v digitálnych
+informáciách a pouţívať ich pri rozhodovaní o zdraví. Naše zistenia preto potvrdzujú, ţe
+vzdelanie hrá kľúčovú úlohu pri rozvoji digitálnych kompetencií a ovplyvňuje schopnosť
+respondentov pracovať s digitálnymi informáciami a hodnotiť ich kvalitu.
+Naše výsledky týkajúce sa H4, kde sme nepreukázali vyššiu digitálnu gramotnosť u
+respondentov z mestského prostredia v porovnaní s vidieckym, je moţné konfrontovať s
+výsledkami štúdie Ji et al. (2024). Títo autori poukázali na to, ţe rozdiely v digitálnom
+zdravotnom správaní medzi vidieckymi a mestskými obyvateľmi sú do značnej miery
+determinované úrovňou digitálnej a zdravotnej gramotnosti, nie samotným miestom
+bydliska. Tieto zistenia naznačujú, ţe rozdiely medzi mestským a vidieckym prostredím sa
+môţu zmenšovať, ak sa zvýši digitálna gramotnosť a dostupnosť online zdravotných
+informácií. Naše zistenia tak odráţajú podobný trend – miesto bydliska nemusí byť
+rozhodujúcim faktorom digitálnej gramotnosti, a rozdiely medzi skupinami sú skôr
+otázkou prístupu k digitálnym zručnostiam a vzdelaniu.
+
+67
+
+Odporúčania pre prax
+
+Na základe výsledkov výskumu boli formulované odporúčania zamerané na podporu
+digitálnej zdravotnej gramotnosti pacientov a zvyšovanie bezpečnosti práce s digitálnymi
+zdravotníckymi informáciami.
+Odporúčania pre laickú verejnosť
+
+
+Vyuţívať digitálne nástroje na podporu zdravotnej starostlivosti, napríklad online
+objednávanie k lekárovi, sledovanie zdravotného stavu prostredníctvom aplikácií
+alebo vyuţívanie oficiálnych zdravotníckych portálov (H1).
+
+
+
+Vzdelávacie aktivity pre starších respondentov - vzhľadom na zistený pokles
+digitálnej gramotnosti s rastúcim vekom (H2) odporúčame starším osobám a
+seniorom aktívne sa zapájať do kurzov digitálnych zručností organizovaných
+komunitnými centrami, univerzitami tretieho veku alebo kniţnicami. Aj základné
+školenia môţu výrazne zvýšiť ich istotu pri práci s digitálnymi technológiami.
+
+
+
+Vyuţívať pomoc rodiny alebo zdravotníckych pracovníkov - pri práci s digitálnymi
+zdravotníckymi sluţbami je vhodné poţiadať o pomoc pri nastavovaní aplikácií
+alebo vyhľadávaní informácií.
+
+
+
+Celoţivotné vzdelávanie v oblasti digitálnych kompetencií - keďţe respondenti s
+vyšším vzdelaním dosahovali vyššie skóre digitálnej gramotnosti (H3), je vhodné
+podporovať celoţivotné vzdelávanie aj u osôb so základným alebo stredoškolským
+vzdelaním. Ide najmä o rozvoj schopnosti vyhľadávať, kriticky hodnotiť a
+bezpečne vyuţívať zdravotné informácie v online prostredí.
+
+
+
+Dôraz na bezpečné správanie v online prostredí - bez ohľadu na vek či miesto
+bydliska odporúčame pacientom venovať pozornosť ochrane osobných údajov a
+overovaniu spoľahlivosti zdravotných informácií na internete.
+
+
+
+Vyuţívanie oficiálnych zdravotníckych aplikácií a portálov - pacienti by mali
+uprednostňovať overené digitálne zdravotné sluţby, napríklad štátne zdravotnícke
+portály, ktoré poskytujú spoľahlivé informácie.
+
+68
+
+Odporúčania pre sestry
+Napriek tomu, ţe sestry neboli priamym objektom výskumu, problematika digitálnej
+zdravotnej gramotnosti s ich profesijnou praxou bezprostredne súvisí, pričom výsledky
+poukazujú na potrebu, aby sestry vo svojej praxi:
+
+
+zohľadňovali vek a úroveň digitálnych zručností pacientov pri poskytovaní
+informácií,
+
+
+
+poskytovali
+
+pacientom
+
+základné
+
+usmernenie
+
+pri
+
+vyuţívaní
+
+digitálnych
+
+zdravotníckych sluţieb,
+
+
+odporúčali overené a dôveryhodné online zdroje zdravotných informácií,
+
+
+
+poskytovali informácie o digitálnych nástrojoch - sestry môţu pri ambulantnej
+starostlivosti venovať 5–10 minút pacientom na ukáţku:
+
+
+
+o
+
+ako otvoriť webovú stránku správnou adresou,
+
+o
+
+ako stiahnuť a uloţiť dokument z internetu,
+
+o
+
+ako skopírovať a vloţiť text,
+
+poskytovali jednoduché návody na ochranu súkromia - predviesť pacientom
+základné nastavenia ochrany súkromia pri pouţívaní zdravotných aplikácií:
+o silné heslá,
+o dvojfaktorová autentifikácia,
+o úprava predvolených nastavení.
+
+Tieto odporúčania umoţňujú pacientom získať praktické digitálne zručnosti a zároveň
+podporujú ich samostatnosť pri hľadaní, hodnotení a vyuţívaní zdravotných informácií.
+Systematická podpora zo strany sestier tak prispieva k bezpečnejšiemu a efektívnejšiemu
+vyuţívaniu digitálnych nástrojov v zdravotnej starostlivosti.
+
+69
+
+Záver
+
+Diplomová práca bola zameraná na problematiku digitálnej gramotnosti pacientov pri
+vyuţívaní moderných informačných technológií v ošetrovateľstve. Hlavným cieľom bolo
+zistiť úroveň digitálnej zdravotnej gramotnosti prostredníctvom štandardizovaného nástroja
+DHLI a analyzovať vybrané faktory, ktoré ju ovplyvňujú. Výskum bol realizovaný na
+súbore 120 respondentov z laickej verejnosti. Na základe výsledkov moţno konštatovať, ţe
+digitálna zdravotná gramotnosť respondentov dosahuje celkovo primeranú úroveň, avšak
+nie je rovnomerne rozvinutá vo všetkých sledovaných oblastiach. Respondenti preukázali
+schopnosť vyhľadávať zdravotné informácie v online prostredí a orientovať sa v
+dostupných zdrojoch. Relatívne priaznivé výsledky sa potvrdili aj v oblasti určovania
+relevantnosti informácií pre vlastný zdravotný stav. Slabšie stránky sa prejavili najmä v
+oblasti aktívneho vytvárania obsahu a participácie v online diskusiách o zdraví, ako aj v
+systematickom vyuţívaní nástrojov na ochranu súkromia pri práci s digitálnymi
+zdravotníckymi sluţbami. Významným zistením je potvrdenie súvislosti medzi
+frekvenciou
+
+pouţívania
+
+internetu
+
+a
+
+úrovňou
+
+digitálnej
+
+zdravotnej
+
+gramotnosti.
+
+Respondenti, ktorí internet vyuţívajú častejšie, dosahovali vyššiu úroveň digitálnych
+zručností, čím sa potvrdila hypotéza H1. Rovnako sa potvrdil predpoklad vyššej úrovne
+digitálnej gramotnosti u mladších respondentov (H2) a u respondentov s vyšším stupňom
+vzdelania (H3). Tieto výsledky poukazujú na význam skúseností, veku a vzdelania ako
+determinujúcich faktorov digitálnych kompetencií. Hypotéza H4, predpokladajúca vyššiu
+úroveň digitálnej gramotnosti u respondentov ţijúcich v mestách, sa nepotvrdila, čo môţe
+naznačovať postupné vyrovnávanie rozdielov medzi mestským a vidieckym prostredím v
+oblasti prístupu k digitálnym technológiám. Stanovené ciele práce boli splnené, keďţe
+výskumom bola zistená úroveň digitálnej zdravotnej gramotnosti respondentov,
+analyzované jednotlivé oblasti DHLI a identifikované faktory ovplyvňujúce digitálne
+zručnosti pacientov. Získané výsledky prispievajú k aktuálnemu poznaniu úrovne
+digitálnej zdravotnej gramotnosti pacientov v podmienkach slovenskej populácie. V
+kontexte prebiehajúcej digitalizácie zdravotníctva, rozvoja eHealth sluţieb a elektronickej
+komunikácie medzi pacientom a zdravotníckym pracovníkom nadobúda digitálna
+gramotnosť zásadný význam. Schopnosť pacientov efektívne vyhľadávať, hodnotiť a
+vyuţívať online zdravotné informácie priamo ovplyvňuje ich participáciu na rozhodovaní o
+vlastnom zdraví, adherenciu k liečbe a celkovú kvalitu zdravotnej starostlivosti. Z pohľadu
+70
+
+ošetrovateľstva predstavujú zistenia práce významný podklad pre ďalší rozvoj edukácie
+pacientov. Sestra ako zdravotnícky pracovník prvej línie zohráva kľúčovú úlohu pri
+sprostredkovaní informácií a podpore pacientov pri vyuţívaní digitálnych zdravotníckych
+nástrojov. Súčasným trendom je posun od pasívneho prijímania informácií k aktívnemu
+zapojeniu pacienta do procesu starostlivosti, čo si vyţaduje nielen zdravotnú, ale aj
+digitálnu kompetenciu. Výsledky práce poukazujú na potrebu systematickej podpory
+rozvoja digitálnej zdravotnej gramotnosti, najmä u starších vekových skupín a u osôb s
+niţším stupňom vzdelania. Do budúcnosti moţno očakávať ďalšie prehlbovanie
+digitalizácie zdravotníckych sluţieb, rozširovanie mobilných zdravotníckych aplikácií,
+telemedicíny a elektronickej dokumentácie. V tomto kontexte bude digitálna gramotnosť
+pacientov predstavovať jeden z kľúčových predpokladov efektívneho fungovania
+moderného zdravotníckeho systému. Diplomová práca tak prináša ucelený pohľad na
+aktuálny stav digitálnej zdravotnej gramotnosti pacientov a zdôrazňuje jej význam v
+súčasnom i budúcom vývoji ošetrovateľskej praxe. Získané poznatky môţu slúţiť ako
+východisko pre ďalšie výskumné aktivity i pre praktické intervencie zamerané na podporu
+digitálnych kompetencií pacientov.
+
+71
+
+Zoznam bibliografických odkazov
+
+ABDALLAH, Z. et al. 2024. Telenursing Future in Solving the Nursing Global Workforce
+Gap. In: Nursing – Trends and Developments. [online]. 2024 [14.11.2025]. Dostupné z:
+https://www.intechopen.com/chapters/86769
+
+AL AFIK, A., a PANDIN, M. G. R. 2021. Telenursing as a new nursing paradigm in the
+21st century: A literature review. In: Preprints. [online]. 2021, roč. –, č. – [22.10.2025].
+Dostupné
+
+z:
+
+https://www.preprints.org/frontend/manuscript/5185659de87afcc8511f7dc3adb55431/dow
+nload_pub
+ALMAAZMI, M. A., et al. 2023. The Usage and Trustworthiness of Various Health
+Information Sources in the United Arab Emirates: An Online National Cross-Sectional
+Survey. In: Healthcare. [online]. 2023, roč. 11, č. 5, s. 663 17.02.2026]. Dostupné z:
+https://www.mdpi.com/2227-9032/11/5/663. ISSN 2227-9032.
+ALVES, A. G., et al. 2020. Tecnologia de informação e comunicação no ensino de
+enfermagem = Information and communication technology in nursing education.
+[online].Escola Paulista de Enfermagem, Universidade Federal de São Paulo: Acta
+Paulista de Enfermagem, 2020.
+
+[19.10.2025]. zv. 33, č. 1-8. dostupné na:
+
+https://www.scielo.br/j/ape/a/86MXzxFkBtbMwzpxXq6LGhQ/?lang=en.
+
+AMERICAN TELEMEDICINE ASSOCIATION. ATA Policy Principles [online]. 2020
+[17.11.
+
+2025].
+
+Dostupné
+
+z:
+
+https://www.americantelemed.org/policies/ata-policy-
+
+principles/
+ASIF, H. a VAIDYA, J. 2022. A Study of Users’ Privacy Preferences for Data Sharing on
+Symptoms-Tracking/Health App. In: Proceedings of the ACM Workshop on Privacy in the
+Electronic
+
+Society.
+
+[online].
+
+2022,
+
+s.
+
+109–113
+
+[17.02.2026].
+
+Dostupné
+
+z:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9731474/.
+AUT WORK RESEARCH INSTITUTE. 2019. WIP Core Report – Workforce Innovation
+and Productivity: Core Report. AUT Work Research Institute Pre-release Report. [online].
+72
+
+2019
+
+[18.02.2026].
+
+Dostupné
+
+z:
+
+https://nzpri.aut.ac.nz/__data/assets/pdf_file/0009/174915/WIP-2017.pdf.
+
+BOZOVIC, I., et al. 2025. Exploring the association between digital health literacy and
+burnout and depression among TV journalists during the COVID-19 pandemic in Serbia.
+In: Healthcare. [online]. 2025, roč. 13, č. 14, s. 1688 [17.02.2026]. Dostupné z:
+https://www.mdpi.com/2227-9032/13/14/1688. ISSN 2227-9032.
+BRANDÃO, L. G. P., DA COSTA, M. D. a MARTINS, P. S. 2022. Telemedicine in the
+National Immunization Program (Brazil). In: Vaccine [online]. 2022, roč. –, č. – [cit.
+Dostupné
+
+2025-11-04].
+
+z:
+
+https://www.sciencedirect.com/science/article/pii/S2590136222000481. ISSN 2590-1362.
+
+CAUSIO, F. A., et al. 2025. Public perceptions and engagement in mHealth: a European
+survey on attitudes toward health apps use and data sharing. In: European Journal of
+Public Health. [online]. 2025, roč. 35, č. 3, s. 401–406 [17.02.2026]. Dostupné z:
+https://academic.oup.com/eurpub/article/35/3/401/8116209?utm_source=chatgpt.com.
+ISSN 1101-1262.
+
+DADACZYNSKI,
+
+K.,
+
+et
+
+al.
+
+2021.
+
+Digital
+
+Health
+
+Literacy and
+
+Web-Based
+
+Information-Seeking Behaviors of University Students in Germany During the COVID-19
+Pandemic: Cross-sectional Survey Study. In: Journal of Medical Internet Research.
+[online].
+
+2021,
+
+roč. 23,
+
+č. 1,
+
+s. e24097
+
+[17.02.2026].
+
+Dostupné
+
+z:
+
+https://www.jmir.org/2021/1/e24097/. ISSN 1438-8871
+
+DA FONSECA, M. H., et al. 2021. E-Health Practices and Technologies: A Systematic
+Review from 2014 to 2019. In: Healthcare. [online]. 2021, roč. 9, č. 9 [22.10.2025].
+Dostupné z: https://www.mdpi.com/2227-9032/9/9/1192. ISSN 2227-9032.
+DÔVERA zdravotná poisťovňa, a. s. Fyzio vyšetrenie online a zadarmo [online]. 2025
+[11.11.
+
+2025].
+
+Dostupné
+
+z:
+
+https://www.dovera.sk/poistenec/benefity/vsetky/fyzio-
+
+vysetrenie-online-a-zadarmo
+
+73
+
+ESTRELA, M., et al. 2023. Sociodemographic determinants of digital health literacy: a
+systematic review and meta-analysis. In: International Journal of Medical Informatics.
+[online].
+
+2023,
+
+roč. 177,
+
+s. 105124
+
+[cit. 16.02.2026].
+
+Dostupné
+
+z:
+
+https://pubmed.ncbi.nlm.nih.gov/37329766/ . ISSN 1386-5056.
+
+EUROPEAN COMMISSION. 2008. Communication from the Commission to the
+European Parliament, the Council, the European Economic and Social Committee and the
+Committee of the Regions on telemedicine for the benefit of patients, healthcare systems
+and society. [online]. EUR-Lex. 2008.
+
+[19.10.2025]. dostupné na: https://eur-
+
+lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52008DC0689
+FEDER, M. 2023. What is a Telehealth Nurse? In: University of Phoenix – Articles:
+Nursing.
+
+[online].
+
+2023
+
+[cit.
+
+2025-11-03].
+
+Dostupné
+
+z:
+
+https://www.phoenix.edu/articles/nursing/what-is-a-telehealth-nurse.html
+
+FIROUZKOUHI, M., et al. 2021. Challenges and opportunities of using tele-nursing
+during COVID-19 pandemic: An integrative review. In: Frontiers in Health Informatics.
+[online].
+
+2021,
+
+roč.
+
+10,
+
+čl.
+
+98
+
+[03.11.2025].
+
+Dostupné
+
+z:
+
+https://d1wqtxts1xzle7.cloudfront.net/90609958/521-libre.pdf?1662226983=&responsecontentdisposition=inline%3B+filename%3DChallenges_and_Opportunities_of_Using_Te.pdf&E
+xpires=1761687504&Signature=WUyeST6nvJBlZkuhX67VUJ4UktbvFI8iG8qRaJbIJhxuaSGGLYAVeHRGmFXMLGtS~pNkAX22d4GM6SxnASxw6zBxDt5rt2W0FexZ9J3IVSu-VskUR2S2FKSGqioROnqFrz~4w2XFHfPEsfkhQH2bz9QBXHcAhp29X18AKQDrF1H37kCAEB3FmVzeFlBDU0
+Jt9yljD7ueKA5Ujn4BSfPhj1dcIfNs4oDGrIUdAU77PTOrNT1p76KkmqgLmE68RLTntc6
+EIZZnmWHN55OTlkyFKBs87V1jbWFQhxrvc902kvgCHkLcVBgK~lNWv62rLexdvvjz9
+GXmM0zOfQd34A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA . eISSN 2322-3596.
+
+GIMENEZ, V. C. A., et al. 2024. Telenursing in the postoperative period: a scoping
+review. In: Revista Brasileira de Enfermagem. [online]. 2024, roč. 77, č. 3 [22.10.2025].
+Dostupné
+
+z:
+
+74
+
+https://www.scielo.br/j/reben/a/t4DB53JcPhmWQBzQs5kWpXL/?format=html&lang=en .
+ISSN 0034-7167.
+HAJDU,Z. 2016. Virtuálna realita v medicíne. [online]. 2016 [cit.22.10.2025]. dostupné
+na: https://vedanadosah.cvtisr.sk/zdravie/virtualna -realita-vmedicine-cast-telemedicina/.
+
+HALLBERG, D.,SALIMI N., 2020. Qualitative and Quantitative Analysis of Definitions
+of e-Health. In: Healthcare Informatics Research. [online]. 2020, roč. 26, č. 2 [21.10.2025].
+dostupné na: https://synapse.koreamed.org/articles/1144857?viewtype=pubreader. ISSN
+2093-3681.
+CHANG, M.-Y., et al. 2021. The intention and influence factors of nurses’ participation in
+telenursing. In: Informatics. [online]. 2021, roč. 8, č. 2, čl. 35 [cit. 2025-11-03]. Dostupné
+z:https://www.mdpi.com/2227-9709/8/2/35 . ISSN 2227-9709.
+
+JAMES, A. 2025. Telenursing: Expanding the frontiers of nursing practice in the digital
+era. In: Journal of Nursing Reports in Clinical Practice. [online]. 2025, roč. 4, č. 4, s. 224–
+226
+
+[03.11.2025].
+
+Dostupné
+
+z:
+
+https://www.jnursrcp.com/article_231732_44b12100a792ca9e97fbd40635fe0108.pdf.
+eISSN 2980-9711.
+
+JI, H., et al. 2024. Associations between digital literacy, health literacy, and digital health
+behaviors among rural residents: evidence from Zhejiang, China. In: International Journal
+for Equity in Health. [online]. 2024, roč. 23, č. 1, s. 68 [cit. 16.02.2026]. Dostupné z:
+https://link.springer.com/article/10.1186/s12939-024-02150-2?utm_source=chatgpt.com .
+ISSN 1475-9276.
+JOINSON, A., et al. 2007. Internet users’ perceptions of ‘privacy concerns’ and ‘privacy
+actions’. In: International Journal of Human-Computer Studies. [online]. 2007, roč. 65, č.
+6, s. 526–536 [17.02.2026]. Dostupné z: https://doi.org/10.1016/j.ijhcs.2006.12.001. ISSN
+1071-5819.
+
+LISTER, M., et al. 2018. Telehealth and telenursing using simulation for pre-licensure
+USA students. In: Nurse Education in Practice. [online]. 2018, roč. 29, s. 59–63 [17.11.
+75
+
+2025].
+
+Dostupné
+
+z:
+
+https://www.sciencedirect.com/science/article/abs/pii/S1471595317307588.
+
+ISSN
+
+1471-5953.
+LEVANTI, N. a VODENICHAROVA, A. 2022. Health sciences students’ COVID-19
+digital health literacy – information reliability evaluation. In: European Journal of Public
+Health. [online]. 2022, roč. 32, Suppl. 3, ckac130.161 [17.02.2026]. Dostupné z:
+https://academic.oup.com/eurpub/article/32/Supplement_3/ckac130.161/6766579?utm_sou
+rce=chatgpt.com&login=false . ISSN 1101-1262.
+
+MCVEY, C. 2023. Telenursing: A Concept Analysis. In: CIN: Computers, Informatics,
+Nursing. [online]. 2023, roč. 41, č. 5, s. 275–280 [cit. 22.10.2025]. Dostupné z:
+https://journals.lww.com/cinjournal/abstract/2023/05000/telenursing__a_concept_analysis.
+4.aspx. ISSN 1538-2931.
+
+MOORE, E. C., et al. 2020. A systematic review of the impact of health information
+technology on nurses’ time. [online]. Journal of the American Medical Informatics
+Association,
+
+2020,
+
+zv.
+
+27,
+
+č.
+
+5,
+
+s.
+
+798–807.
+
+[19.10.2025].
+
+dostupné
+
+na:
+
+https://pubmed.ncbi.nlm.nih.gov/32159770/.
+
+MUN, M. 2025. Nursing Students' Perceptions, Attitudes toward Telenursing: A
+Qualitative Study. In: S-Space, Seoul National University. [online]. 2025 [22.10.2025].
+Dostupné z: https://s-space.snu.ac.kr/handle/10371/221191
+NÁRODNÉ CENTRUM ZDRAVOTNÍCKYCH INFORMÁCIÍ. eHealth – elektronické
+zdravotníctvo
+
+[online].
+
+2017
+
+[06.11.2025].
+
+Dostupné
+
+z:
+
+https://www.nczisk.sk/eHealth/Pages/default.aspx
+NÁRODNÉ CENTRUM ZDRAVOTNÍCKYCH INFORMÁCIÍ. E-zdravie [online].2020
+[06.11.2025]. Dostupné z: ezdravotnictvo.sk.
+NAVARRO-MARTÍNEZ, O., et al. 2024. Use of tele-nursing in primary care: A
+qualitative study on its negative and positive aspects. In: Atención Primaria. [online]. 2024,
+
+76
+
+roč.
+
+56,
+
+č.
+
+5,
+
+čl.
+
+102843
+
+[04.11.2025].
+
+Dostupné
+
+z:
+
+https://www.sciencedirect.com/science/article/pii/S0212656723002767. ISSN 0212-6567.
+
+ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT
+(OECD). 2024. PISA 2022 Results (Volume V): Learning Strategies and Attitudes for Life.
+PISA. [online]. Paris: OECD Publishing, 13 November 2024 [17.02.2026]. Dostupné z:
+https://www.oecd.org/en/publications/pisa-2022-results-volume-v_c2e44201-en/full-report
+/component-18.html.
+
+PASSEY, D. 2023. From Science Fiction to Telemedicine - the Surprising 150-Year
+History of Long-Range Medical Treatment [analysis]. In: ProQuest Wire Feeds. [online].
+2023 [22.10.2025]. Dostupné z: https://www.proquest.com/wire-feeds/science-fictiontelemedicine-surprising-150-year/docview/3093561677/se-2
+PEPITO, J. A. a LOCSIN, R. 2018. Can nurses remain relevant in a technologically
+advanced future? In: International Journal of Nursing Sciences. [online]. 2018, roč. 6, č. 1,
+s. 106–110
+
+[14.10.
+
+2025.
+
+Dostupné
+
+z:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6608671/ . ISSN 2352-0132.
+PINELLI, M., et al. 2022. Glucometer Usability for 65+ Type 2 Diabetes Patients: Insights
+on Physical and Cognitive Issues. In: Sensors. [online]. 2022, roč. 22, č. 16, čl. 6202
+[cit. 2025-11-04].
+
+Dostupné
+
+z:
+
+https://www.mdpi.com/1424-8220/22/16/6202.
+
+eISSN 1424-8220.
+
+RAVINDRANADHAN, P., et al. 2025. Tele-nursing: A pathway to continuous, costeffective, and safe care. In: Journal of Nursing Advances in Clinical Sciences. [online].
+2025,
+
+roč.
+
+2,
+
+č.
+
+6,
+
+s.
+
+353–354
+
+[cit.
+
+2025-11-03].
+
+Dostupné
+
+z:
+
+https://www.jnacs.com/article_227783_734d18de7556e9b61997553fc62d4eea.pdf . eISSN
+3041-9336.
+ROSÁRIO, J., et al. 2025. Navigational health literacy and health service use among
+higher education students in Alentejo, Portugal — a cross-sectional study. In: PLoS One.
+[online].
+
+2025,
+
+roč.
+
+20,
+
+č.
+
+5,
+
+s.
+
+e0322181
+
+[17.02.2026].
+
+Dostupné
+
+z:
+
+https://pubmed.ncbi.nlm.nih.gov/40373088/. ISSN 1932-6203.
+77
+
+SABRINA, M. I. a DEFI, I. R. 2021. Telemedicine Guidelines in South East Asia—A
+Scoping Review. [online]. Frontiers in Neurology, 2021, zv. 11, článok 581649.
+[18.10.2025].
+
+dostupné
+
+na:
+
+https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2020.581649/full
+SLEZÁKOVÁ, Z., KRISTOVÁ, J., BACHRATÁ, Z. Teleošetřovatelství. Praha: Grada,
+2022. ISBN 978-80-271-3175-4.
+
+SHI, Y., et al. 2023. In the digital age: a systematic literature review of the e-health literacy
+and
+
+influencing
+
+factors
+
+among
+
+Chinese
+
+older
+
+adults.
+
+In:
+
+Zeitschrift
+
+für
+
+Gesundheitswissenschaften (Journal of Public Health / J Gesundh Wiss). [online]. 2023,
+roč. 31,
+
+č. 5,
+
+s. 679–687
+
+[cit.16.02. 2026].
+
+Dostupné
+
+z:
+
+https://pubmed.ncbi.nlm.nih.gov/34104627/. ISSN 0940-4473.
+
+SHUDAYFAT, T., et al. 2023. Assessing digital health literacy level among nurses in
+Jordanian hospitals. In: Electronic Journal of General Medicine. [online]. 2023, roč. 20, č.
+5, s. em525 [17.02.2026]. Dostupné z: https://www.ejgm.co.uk/download/assessingdigital-health-literacy-level-among-nurses-in-jordanian-hospitals13466.pdf?utm_source=chatgpt.com. ISSN 2516-3507.
+
+SHULDER R.,K., KRUPINKI. E. A. Unstendarting Teleheajth. McGraw - hill education
+2018.
+
+[online].
+
+2018
+
+[28.10.2025].
+
+Dostupné
+
+na:
+
+https://accessmedicine.mhmedical.com/book.aspx?bookid=2217.
+STATISTIČNI URAD REPUBLIKE SLOVENIJE (SURS). Usage of internet in
+households and by individuals, detailed data, 2025. Statistični urad Republike Slovenije –
+StatWeb.
+
+[online].
+
+4.
+
+december
+
+2025
+
+[18.02.2026].
+
+Dostupné
+
+z:
+
+https://www.stat.si/StatWeb/gl/News/Index/14007 .
+STŘEDA, L., HÁNA, K. eHealth a telemedicína.Praha: Grada publishing, 2016.160s.
+ISBN 978-80-271-9043-0.
+
+78
+
+TARANNUM, N. 2024. Integrating 7C’s of Information Literacy and Its Assessment into
+BPL Community of Malda District: An Experiential Perspective. In: New Innovations in
+Research. [online]. 2024. ISBN 978-93-93166-61-6 [18.02.2026]. Dostupné z:
+http://www.socialresearchfoundation.com/books.php#8. DOI: 10.5281/zenodo.10979167.
+TĚŠINOVÁ, J., KOPSA, J., DOBIÁŠOVÁ, K. 2022. Výzvy telemedicíny v Česku
+perspektivou expertů. Časopis Lékařů Českých, 2022, roč. 161, č. 6, s. 247.
+
+THEODORE, D. D., a BYRAPPA, P. L. 2015. Telenursing in contemporary practice. In:
+Indian Journal of Continuing Nursing Education. [online]. 2015, roč. 16, č. 1, s. 11–16 [cit.
+2025-10-22].
+
+z:
+
+Dostupné
+
+https://journals.lww.com/ijcn/fulltext/2015/16010/telenursing_in_contemporary_practice.1
+.aspx. ISSN 0973-7526.
+VAN DER VAART, R. a DROSSAERT, C. 2017. Development of the Digital Health
+Literacy Instrument: Measuring a Broad Spectrum of Health 1.0 and Health 2.0 Skills. In:
+Journal of Medical Internet Research. [online]. 2017, roč. 19, č. 1, s. e27 [17.02.2026].
+Dostupné z: https://www.jmir.org/2017/1/e27/ . ISSN 1438-8871
+VERA, M. 2025. Telehealth Nursing and Becoming a Telehealth Nurse: Career Guide. In:
+NursesLabs
+
+[online].
+
+2025
+
+[cit. 2025-11-03].
+
+Dostupné
+
+z:
+
+https://nurseslabs.com/telenursing/
+VŠEOBECNÁ ZDRAVOTNÁ POISŤOVŇA, a. s. Dr. Nonstop+ . bez uvedenia roku
+vydania. [online]. [11.11.2025]. Dostupné z:https://www.vszp.sk/dr-nonstop.html
+WIRAWATI, M. K. a WIDYANINGSIH, T. S. 2022. The Role of Telenursing in
+Increasing Knowledge and Physical Activity of Breast Cancer Patients. In: Indonesian
+Journal of Global Health Research. [online]. 2022, roč. 4, č. 2, s. [14.11.2025]. Dostupné
+z:
+https://download.garuda.kemdikbud.go.id/article.php?article=3024722&val=18607&title=
+The%20Role%20of%20Telenursing%20in%20Increasing%20Knowledge%20and%20Phy
+sical%20Activity%20of%20Breast%20Cancer%20Patients . ISSN 2715-1972
+
+79
+
+WHO.2019. Recommendations on digital interventions for health system strengthening.
+[online]. Svetová zdravotnícka organizácia, Ţeneva, 2019. [18.10.2025]. Dostupné na:
+www. who.int/publications/i/item/9789241550505 2019
+WÓJTA-KEMPA, M. a JARYNOWSKI, A. 2024. The impact of online information on
+health-related decisions – a review of findings. In: e-Methodology. [online]. 2024, roč. 11,
+s. 29–48 [18.02.2026]. Dostupné z: file:///D:/DIPLOMOVKA%20MATERI%C3%81L/eMethodology_11_S_29_48.pdf.
+
+WU, Y., et al. 2021. Demands for telenursing-based long-term care among disabled older
+adults in Qingdao, China: A cross-sectional study. In: Patient Preference and Adherence.
+[online].
+
+2021,
+
+roč. 15,
+
+s. 1981–1990
+
+[17.11.
+
+2025].
+
+Dostupné
+
+z:
+
+https://www.tandfonline.com/doi/full/10.2147/PPA.S326413. ISSN 1177-889X.
+
+ZHANG, Y., et al., Research on the Development and Countermeasures of Smart Elderly
+Care Demand in Chongqing. SHS Web of Conferences [online]. Les Ulis: EDP Sciences,
+2024, vol. 180, art. no. 02009 [04.11.2025]. Dostupné na: https://www.shsconferences.org/articles/shsconf/pdf/2024/03/shsconf_icpahd2024_02009.pdf.
+
+ZHAO, B.-Y., et al. 2024. Digital health literacy and associated factors among internet
+users from China: a cross-sectional study. In: BMC Public Health. [online]. 2024, roč. 24,
+č. 1, s. 908 [cit. 16.02.2026]. Dostupné z: https://pubmed.ncbi.nlm.nih.gov/38539176/.
+ISSN 1471-2458.
+
+ZHOU, J., et al. 2025. Tele-nursing awareness, needs, and related influences in T2DM
+patients: qualitative descriptive study. In: BMC Nursing. [online]. 2025, roč. 24, čl. 468
+[17.11.2025]. Dostupné z: https://link.springer.com/article/10.1186/s12912-025-03048-2.
+ISSN 1472-6955.
+
+80
+
+

@@ -1,0 +1,4242 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+36420
+
+POSÚDENIE BOLESTI A DEPRESIE U PACIENTOV
+V POKROČILOM ŠTÁDIU DEMENCIE
+Diplomová práca
+
+2025
+Bc. Viera Kováčová
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+POSÚDENIE BOLESTI A DEPRESIE U PACIENTOV
+V POKROČILOM ŠTÁDIU DEMENCIE
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Študijný odbor:
+
+7.4.1 Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva
+
+Vedúci práce / školiteľ:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava 2025
+Bc. Viera Kováčová
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+ZADANIE ZÁVEREČNEJ DIPLOMOVEJ PRÁCE
+
+Meno, priezvisko a tituly študenta:
+
+Bc. Viera Kováčová
+
+Kód študenta:
+
+S1319059737 - 0319T02
+
+Študijný program:
+
+7.4.1 Ošetrovateľstvo
+
+Typ záverečnej práce:
+
+Diplomová práca
+
+Názov záverečnej práce:
+
+Posúdenie bolesti a depresie u pacientov
+v pokročilom štádiu demencie.
+
+Meno, priezvisko a tituly vedúceho práce:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Školiace pracovisko:
+
+FZaSP, Trnavská univerzita v Trnave
+
+Meno, priezvisko a tituly vedúceho pracoviska: doc. PhDr. Andrea Botíková, PhD., MPH
+Anotácia záverečnej práce:
+
+Diplomová práca skúma výskyt bolesti a
+depresie u pacientov v pokročilom štádiu
+demencie. Cieľom práce bolo zistiť
+výskyt bolesti a depresie u pacientov s
+pokročilou demenciou umiestnených v
+špecializovanom sociálnom zariadení
+podľa posudzovacej škály PAINAD pre
+bolesť a Cornellovej škály pre depresiu.
+
+Jazyk, v ktorom sa práca vypracuje:
+
+slovenský jazyk
+
+Dátum schválenia zadania:
+
+26.10.2023
+
+3
+
+ČESTNÉ VYHLÁSENIE
+Čestne vyhlasujem, že diplomovú prácu na tému Posúdenie bolesti a depresie
+u pacientov v pokročilom štádiu demencie som vypracovala samostatne, pod vedením
+školiteľky práce doc. PhDr. Jany Martinkovej, PhD., MPH a všetky použité literárne
+zdroje som uviedla v zozname bibliografických odkazov.
+Bc. Viera Kováčová
+
+4
+
+POĎAKOVANIE
+Vyjadrujem svoju vďaku mojej školiteľke práce pani doc. PhDr. Jane Martinkovej,
+PhD., MPH za odborné usmernenie, podnetné pripomienky, cenné rady a trpezlivosť,
+ktorú mi venovala počas písania diplomovej práce.
+Zároveň by som rada poďakovala svojej rodine, priateľom a kolegom za ich neustálu
+podporu.
+
+5
+
+ABSTRAKT
+KOVÁČOVÁ, V.: Posúdenie bolesti a depresie u pacientov v pokročilom štádiu
+demencie. [Diplomová práca] / Kováčová Viera – Trnavská univerzita v Trnave. Fakulta
+zdravotníctva a sociálnej práce: Katedra ošetrovateľstva – Školiteľ práce: doc. PhDr. Jana
+Martinková, PhD., MPH. Stupeň odbornej kvalifikácie: Magister. Trnava: FZaSP TU,
+2025, 77 strán.
+Úvod: Táto diplomová práca sa venuje problematike bolesti a depresie u pacientov v
+stredne ťažkom až ťažkom štádiu demencie. Pacienti s pokročilou demenciou majú často
+obmedzenú schopnosť komunikácie, preto identifikácia a hodnotenie týchto symptómov
+je náročné, avšak nevyhnutné pre zabezpečenie adekvátnej starostlivosti.
+Cieľ práce: Hlavným cieľom práce bolo identifikovať prítomnosť bolesti a depresie u
+pacientov so stredne ťažkou až ťažkou demenciou, ktorí sú umiestnení v špecializovanom
+sociálnom zariadení. Na hodnotenie týchto symptómov boli použité validované nástroje
+– PAINAD škála na posúdenie bolesti a Cornellova škála na diagnostiku depresie.
+Metodika: Empirická časť výskumu bola realizovaná a spracovaná prostredníctvom
+štandardizovaných posudzovacích škál PAINAD a Cornellovej škály, ktoré sú špeciálne
+navrhnuté na hodnotenie bolesti a depresie u pacientov s pokročilou demenciou.
+Výsledky: Posudzovacie škály nám potvrdili prítomnosť bolesti a depresie u pacientov s
+pokročilou demenciou. Zároveň však demografické faktory nepreukázali vplyv na výskyt
+týchto symptómov. To naznačuje, že depresia a bolesť sú u pacientov s demenciou
+prítomné bez ohľadu na vek, pohlavie či dĺžku pobytu v zariadení.
+Záver: Na základe výsledkov výskumu možno konštatovať, že PAINAD škála a
+Cornellova škála predstavujú efektívne posudzovacie nástroje na hodnotenie bolesti
+a depresie u pacientov so stredne ťažkou až ťažkou formou demencie v inštitucionálnej
+starostlivosti.
+
+Kľúčové slová: Demencia. Depresia. Bolesť. Hodnotiace škály. Senior.
+
+6
+
+ABSTRACT
+KOVÁČOVÁ, V.: Assessment of pain and depression in patients with advanced
+dementia. [Diploma thesis] / Kováčová Viera – Trnava University in Trnava. Faculty of
+Health Sciences and Social Work; Department of Nursing – Supervisor: doc. PhDr. Jana
+Martinková., PhD., MPH. Degree of professional qualification: Magister.Trnava: FZaSP
+TU, 2025, 77 pages.
+
+Introduction: This diploma thesis deals with the issue of pain and depression in patients
+in the moderate to severe stage of dementia. As patients with advanced dementia often
+have limited ability to communicate, identification and assessment of these symptoms is
+challenging, but necessary to ensure adequate care.
+Aim of the thesis: The main goal of the work was to identify the presence of pain and
+depression in patients with moderate to severe dementia who are placed in a specialized
+social facility. Validated tools were used to assess these symptoms – the PAINAD pain
+assessment scale and the Cornell depression diagnosis scale.
+Merhodology: The empirical part of the research was carried out and processed through
+the standardized assessment scales PAINAD and the Cornell scale, which are specially
+designed for the assessment of pain and depression in patients with advanced dementia.
+Results: Assessment scales confirmed the presence of pain and depression in patients
+with advanced dementia. At the same time, however, demographic factors did not show
+an impact on the occurrence of these symptoms. This suggests that depression and pain
+are present in patients with dementia regardless of age, gender or length of stay in a
+facility.
+Conclusion: Based on the results of the research, it can be concluded that the PAINAD
+scale and the Cornell scale are effective assessment tools for the assessment of pain and
+depression in patients with moderate to severe dementia in institutional care.
+
+Key words: Dementia. Depression. Pain. Rating scales. Senior.
+
+7
+
+OBSAH
+
+ZOZNAM TABULIEK ..................................................................................................9
+ZOZMAM GRAFOV ....................................................................................................10
+ZOZNAM SKRATIEK .................................................................................................11
+ÚVOD .............................................................................................................................12
+1 SÚČASNÝ STAV POZNANIA ............................................................................14
+1.1 Depresia ................................................................................................................15
+1.1.2 Príznaky a typy depresie .......................................................................................16
+1.1.3 Diagnostika, liečba a prevencia depresie ..............................................................17
+1.2 Bolesť .....................................................................................................................21
+1.2.1 Vzorce a typy bolesti ............................................................................................21
+1.2.2 Diagnostika a liečba bolesti .................................................................................23
+1.3 Špecifická ošetrovateľská starostlivosť o pacientov so syndrómom depresie a bolesti
+v pokročilom štádiu demencie .........................................................................................28
+2 VÝSKUM .................................................................................................................30
+2.1
+
+Výskumný problém.................................................................................................30
+
+2.2 Charakteristika výskumného súboru.....................................................................32
+2.3 Metodika výskumu..................................................................................................32
+2.4 Organizácia a realizácia výskumu...........................................................................34
+3 ANALÝZA A INTERPRETÁCIA VÝSKUMNÝCH VÝSLEDKOV................36
+3.1 Verifikácia hypotéz .................................................................................................50
+4 DISKUSIA ..................................................................................................................59
+ODPORÚČANIA PRE PRAX .....................................................................................67
+ZÁVER ..........................................................................................................................68
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV.......................................................69
+ZOZNAM PRÍLOH ......................................................................................................78
+
+8
+
+ZOZNAM TABULIEK
+Tabuľka 1
+
+Pohlavie
+
+Tabuľka 2
+
+Vek
+
+Tabuľka 3
+
+Vzdelanie
+
+Tabuľka 4
+
+Rodinný stav
+
+Tabuľka 5
+
+Hodnota MMSE
+
+Tabuľka 6
+
+Typ demencie
+
+Tabuľka 7
+
+Dĺžka umiestnenia v zariadení
+
+Tabuľka 8
+
+Priemer veku a dĺžky umiestnenia respondentov v zariadení v rokoch
+
+Tabuľka 9
+
+Kategória 1 Dýchanie
+
+Tabuľka 10 Kategória 2 Bolestivá vokalizácia
+Tabuľka 11 Kategória 3 Výraz tváre
+Tabuľka 12 Kategória 4 Reč tela
+Tabuľka 13 Kategória 5 Utešovanie
+Tabuľka 14 PAINAD škála – celkové bodové skóre
+Tabuľka 15 Podškála 1 Znaky súvisiace s náladou
+Tabuľka 16 Podškála 2 Poruchy správania
+Tabuľka 17 Podškála 3 Fyzické znaky
+Tabuľka 18 Podškála 4 Cyklické funkcie
+Tabuľka 19 Podškála 5 Poruchy myšlienok
+Tabuľka 20 Cornellova škála – celkové bodové skóre
+Tabuľka 21 Porovnanie výskytu depresie medzi pohlaviami
+Tabuľka 22 Porovnanie výskytu bolesti medzi pohlaviami
+Tabuľka 23 Porovnanie výskytu depresie v 2. a v 3. stupni demencie
+Tabuľka 24 Porovnanie výskytu bolesti v 2. a v 3. stupni demencie
+Tabuľka 25 Porovnanie výskytu depresie pri dĺžke umiestnenia v zariadení
+Tabuľka 26 Porovnanie výskytu bolesti pri dĺžke umiestnenia v zariadení
+Tabuľka 27 Porovnanie výskytu depresie v rôznych vekových kategóriách
+Tabuľka 28 Porovnanie výskytu bolesti v rôznych vekových kategóriách
+
+9
+
+ZOZNAM GRAFOV
+Graf 1 PAINAD škála - pohlavie
+Graf 2 Cornellova škála - pohlavie
+
+10
+
+ZOZNAM SKRATIEK
+
+ACH
+
+- Alzheimerova demencia
+
+CNS
+
+- Centrálny nervový systém
+
+č.
+
+- Číslo
+
+EEG
+
+- Elektroencefalografia
+
+EMG
+
+- Elektromyografia
+
+ETC
+
+- Elektrokonvulzívna terapia
+
+H0
+
+- Hypotéza nulová
+
+HA
+
+- Hypotéza alternatívna
+
+IASP
+
+- Medzinárodná asociácia pre štúdium bolesti
+
+N
+
+- Početnosť
+
+Napr.
+
+- Napríklad
+
+Pod.
+
+- Podobne
+
+Per os
+
+- Podaný ústami
+
+RTG
+
+- Elektromagnetické žiarenie
+
+SAD
+
+- Seasonal affective disorder – sezónna depresia
+
+t.j.
+
+- To jest
+
+USG
+
+- Ultrasonografia
+
+WHO
+
+- World Health Organization - Svetová zdravotnícka organizácia
+
+%
+
+- Percento
+
+11
+
+ÚVOD
+„Všetci môžeme byť ospravedlnení za to, že nemôžeme pacienta vyliečiť, ale nie za
+to, že sme sa nepokúsili zmierniť utrpenie a bolesť.“
+(H. W. Striebel)
+Demencia a depresia sú problémy duševného zdravia, s ktorými sa bežne stretávame
+v neuropsychiatrickej praxi u starších ľudí. Depresívne symptómy u pacientov trpiacich
+demenciou sú spojené s významnou morbiditou a úzkosťou. Približne polovica pacientov
+s neskorým nástupom depresie má kognitívne poruchy. S pribúdajúcim vekom majú
+ľudia častejšie bolestivé komorbidity, ako je osteoartritída, rakovina, rôzne zlomeniny
+alebo môžu mať sekundárnu bolesť v dôsledku zmenenej biomedicínskej funkcie
+alebo neuropatie, Z hľadiska vývojovej histórie je bolesť jedným z prvých, najčastejších
+a najpôsobivejších zážitkov každého človeka. Patrí medzi jeden z prvých vnemov,
+s ktorými sa človek stretáva a ktorý ho sprevádza po celý život. Bolesť je nevyhnutná pre
+prežitie, napriek všetkému utrpeniu, ktoré môže spôsobiť. Z fyzického hľadiska bolesť
+predstavuje život udržiavajúcu biologickú reakciu na škodlivé vplyvy, aj keď ešte nedošlo
+k poškodeniu tkaniva.
+Moja osobná dlhoročná skúsenosť pri práci s ľuďmi s demenciou ma inšpirovala k
+hlbšiemu skúmaniu tejto problematiky. Uvedomila som si, aký veľký význam má nielen
+odborná starostlivosť, ale aj citlivý prístup zameraný na zmiernenie bolesti a podporu
+psychickej pohody. Diplomová práca sa preto zaoberá nielen teoretickým pohľadom na
+demenciu, ale aj analýzou prejavov bolesti a depresie u pacientov a efektívnymi prístupmi
+k ich zvládaniu. Verím, že táto práca môže prispieť k lepšiemu pochopeniu potrieb ľudí
+s demenciou, najmä v kontexte bolesti a depresie, a tým aj k zlepšeniu kvality ich života.
+Ciele diplomovej práce:
+•
+
+priblížiť ochorenie demencie, depresie a bolesti,
+
+•
+
+popísať špecifiká ošetrovateľskej starostlivosti o pacienta s depresiou a bolesťou
+pri demencii,
+
+•
+
+poukázať na výskyt bolesti a depresie u pacientov s demenciou,
+
+•
+
+zistiť, či existuje súvislosť medzi pohlavím pacientov a výskytom depresie
+a bolesti,
+
+12
+
+•
+
+zistiť, či existujú rozdiely vo výskyte depresie a bolesti medzi pacientmi s
+rôznymi stupňami demencie,
+
+•
+
+zistiť, či existuje súvislosť medzi dĺžkou umiestnenia v špecializovanom
+sociálnom zariadení a výskytom depresie a bolesti u pacientov s demenciou,
+
+•
+
+zistiť, či existuje súvislosť medzi vekom pacientov a výskytom depresie
+a bolesti.
+
+13
+
+1 SÚČASNÝ STAV POZNANIA
+Termín demencia pochádza z latinského koreňa ,,demens“ čo znamená stratiť rozum.
+Hoci výraz „demencia“ sa používa už od 13. storočia, jeho zmienka v lekárskej komunite
+bola zaznamenaná v 18. storočí. V 19. storočí boli jedinci s demenciou uznávaní za
+pacientov, ktorí si zaslúžili lekársku starostlivosť od špecialistov nazývaných alienisti a
+starecká demencia sa stala medicínskou chorobou. Následne pokroky v neuropatológii
+umožnili jej fragmentáciu do rôznych neuropatologických stavov (Assal, 2019).
+Demencia je široký pojem pre stratu schopnosti myslenia, ktorá je dostatočne závažná na
+to, aby zasahovala do každodenného života chorého. Charakterizuje pokles kognitívnych
+funkcií, kde patria mentálne zručnosti, ktoré potrebujeme pre plnenie každodenných úloh.
+Čiže vnímanie, pamäť, učenie, myslenie, jazykové schopnosti, riešenie problémov,
+vizuálne vnímanie, sebaovládanie a schopnosť sústrediť sa a udržať pozornosť. Demencia
+je celosvetovo jednou z hlavných príčin invalidity a závislosti medzi staršími ľuďmi.
+Prognózy naznačujú, že počet ľudí s demenciou sa bude zvyšovať s rastúcou starnúcou
+populáciou. Asi 5% - 8% ľudí starších ako 65 rokov má nejakú formu demencie. Toto
+percento sa po 65. roku zdvojnásobuje každých 5 rokov. Až polovica ľudí vo veku 80
+rokov má určitú stratu schopnosti myslieť (Ellis et al., 2024). Existuje mnoho rôznych
+príčin vzniku demencie a mnoho rôznych typov. Demencia je spôsobená poškodením
+alebo stratou nervových buniek a ich spojení v mozgu. Príznaky závisia od oblasti mozgu,
+ktorá je poškodená. Potvrdenie diagnózy demencie môže byť ťažké. Lekári diagnostikujú
+chorobu a iné typy demencie na základe dôkladnej anamnézy, fyzikálneho vyšetrenia,
+laboratórnych testov a charakteristických zmien v myslení, každodenných funkciách a
+správaní spojených s každým typom. Je však ťažšie určiť presný typ demencie, pretože
+symptómy a zmeny mozgu rôznych demencií sa môžu prekrývať. V niektorých prípadoch
+môžu lekári diagnostikovať "demenciu", ale nešpecifikovať jej typ. Dnes je demencia
+považovaná za komplexný neurodegeneratívny syndróm, ktorý môže mať rôzne príčiny.
+Najčastejšie typy demencie sú:
+•
+
+Alzheimerova choroba (60 - 75% prípadov),
+
+•
+
+vaskulárna demencia (v dôsledku porúch krvného obehu v mozgu),
+
+•
+
+demencia s Lewyho telieskami,
+
+•
+
+frontotemporálna demencia (atrofia frontálnych a temporálnych lalokov),
+
+•
+
+zmiešaná demencia (kombinácia dvoch alebo viacerých typov demencie).
+14
+
+Väčšina typov demencie sa však nedá vyliečiť a ani zvrátiť. Liečba je predovšetkým
+zameraná na zmiernenie príznakov a ich závažnosť, zlepšenie kvality života pacienta
+trpiaceho demenciou a spomalenie postupu ochorenia využitím farmakologických a
+nefarmakologických prístupov a aj podpornej substitučnej terapie (Gitlin et al., 2012).
+Našťastie niektoré typy demencie spôsobené napríklad vedľajšími účinkami liekov,
+užívanie alkoholu či ilegálnych drog, alebo nádory na mozgu, ktoré sa dajú odstrániť,
+možno demenciu úspešne zvrátiť. Hoci demencii nemožno zabrániť, život zameraný na
+zdravie a prevenciu môže znížiť rizikové faktory určitých typov demencie.
+
+1.1 Depresia
+V rozvoji modernej medicíny stále pribúda viacej nových poznatkov o depresívnej
+poruche, jej diagnostike, etiológii a liečbe. Depresia je závažný duševný stav, ktorý
+postihuje milióny ľudí po celom svete. Vyznačuje sa intenzívnym pocitom smútku,
+stratou záujmu o bežné aktivity, chronickou únavou a ďalšími príznakmi. Je to dlhodobý
+stav, ktorý môže pretrvávať mesiace až roky. Depresia ovplyvňuje všetky aspekty života
+človeka, vrátane emocionálneho, fyzického a sociálneho zdravia (Seifertová, Praško
+a kol., 2004). Odhaduje sa, že depresívnym syndrómom trpí približne 3,8 % svetovej
+populácie. To zahŕňa 5 % dospelých, pričom u žien je to 6 % a u mužov 4 %. Výskyt
+depresie u dospelých nad 60 rokov je 5,7 %. Celkovo na svete trpí depresiou približne
+280 miliónov ľudí. Depresia sa vyskytuje vo všetkých vekových skupinách a sociálnych
+vrstvách, približne o 50 percent je jej výskyt častejší u žien ako u mužov (WHO, 2023).
+Zvyčajne neexistuje jediná jasná príčina. V skutočnosti je choroba veľmi zložitá a
+vedci ešte nezodpovedali všetky otázky o jej príčinách. Depresia pravdepodobne
+vzniká interakciou genetickej predispozície, fyzických podmienok, veku, pohlavia,
+zlej životosprávy, vzdelania a stresujúcich životných udalostí. Depresia je častým
+problémom ľudí s demenciou. Rozvojom depresie pri demencii sú najviac ohrození
+ľudia žijúci v zariadeniach sociálnych služieb. Niektorí ľudia môžu upadnúť do
+depresie ako reakcia na negatívne udalosti, v dôsledku sociálnej izolácie alebo nemajú
+pozitívne skúsenosti, na ktoré sa môžu tešiť. Iní ľudia môžu upadnúť do depresie v
+dôsledku poškodenia častí mozgu, ktoré sa podieľajú na nálade.
+
+15
+
+1.1.2 Príznaky a typy depresie
+Depresia môže ľudí ovplyvniť viacerými spôsobmi, než len pocitom smútku alebo
+beznádeje. Identifikovať depresiu u pacienta s dementným syndrómom môže byť ťažké,
+pretože demencia môže spôsobiť niektoré rovnaké príznaky. Navyše, kognitívne poruchy,
+s ktorými sa stretávajú ľudia s týmto ochorením, najmä v pokročilom štádiu demencie im
+často sťažuje vyjadrenie ich smútku, beznádeje, viny, strachu a iných pocitov spojených
+s depresiou. Medzi bežné príznaky patria:
+•
+
+strata záujmu alebo potešenia z činností, ktoré boli predtým príjemné,
+
+•
+
+pocit bezcennosti, viny alebo nízke sebavedomie,
+
+•
+
+pocit plaču, strach, úzkosť,
+
+•
+
+ťažkosti so sústredením alebo jasným myslením, čo vedie k zábudlivosti,
+
+•
+
+ľahko sa vzdávať, keď je niečo ťažké,
+
+•
+
+pocit podráždenosti a sklon k výbuchom hnevu,
+
+•
+
+sebazanedbávanie, napríklad nejesť alebo sa neumývať, znížená sebaúcta,
+
+•
+
+únava, bolesti, apatia,
+
+•
+
+problémy so spánkom, ako je prebúdzanie sa veľmi skoro ráno alebo spánok
+počas dňa (Dobmeier, 2022).
+
+Existujú rôzne formy depresívneho syndrómu, ktoré sa líšia okrem iného frekvenciou
+a typom symptómov, príčinou a osobnostne špecifickými charakteristikami. Medzi tri
+základné typy depresie patria:
+•
+
+Klinická depresia: Najbežnejšia forma depresie, charakterizovaná pocitmi
+smútku, straty záujmu a ďalšími príznakmi po dobu 2 týždňov alebo dlhšie. Ide ju
+ďalej deliť na mnoho typov, či už podľa prevažujúcich príznakov, tak podľa
+závažnosti.
+
+•
+
+Dystýmia: Chronická forma depresie s miernejšími príznakmi, ktorá pretrváva
+najmenej dva roky.
+
+•
+
+Bipolárna porucha, ktorá sa tiež nazýva ,,manická depresia,,: Ide o poruchu,
+kedy sa epizódy depresie striedajú s epizódami mánie, či hypománie. Odlíšiť
+bipolárnu poruchu od iných typov depresie je veľmi dôležité aj z hľadiska liečby.
+
+Ďalej môžeme rozlišovať tieto typy depresie: symptomatická a sekundárna depresia,
+chronická a rezistentná depresia, depresívna epizóda a rekuretná depresia, depresia počas
+tehotenstva a po pôrode, endogenná a reaktívna depresia, psychosomatická a larvovaná
+16
+
+depresia, predmenštruačná dysforická porucha (PMDD), sezónna depresia (SAD),
+atypická depresia (Pallarito, 2024).
+
+1.1.3 Diagnostika, liečba a prevencia depresie
+Hoci je depresia bežná, často krát je ignorovaná alebo nesprávne diagnostikovaná
+a neliečená. Depresívna epizóda alebo porucha je diagnostikovaná ako syndróm v
+prítomnosti dvoch z nasledujúcich príznakov: depresívna nálada, strata záujmu a pôžitku
+a znížená energia počas aspoň 2 týždňov. Epizódy sú klasifikované ako mierne, stredné
+alebo ťažké a to na základe počtu vedľajších a somatických symptómov. Diagnóza si
+vyžaduje dôkladné vyhodnotenie lekárom, najmä preto, že vedľajšie účinky liekov i
+niektoré zdravotné stavy môžu vyvolať podobné príznaky. Pri diagnostike depresívneho
+syndrómu sa používajú aj štandardizované posudzovacie škály (Bruce, McPhillips, 2024).
+•
+
+Cornellova škála na hodnotenie depresie u demencie (CSDD) sa používa na
+hodnotenie symptómov depresie zistených u jedinca s demenciou a obsahuje 19
+otázok, pričom každej z nich môže byť pridelené skóre v rozsahu bodov od 0
+(neprítomnosť) po 2 (závažná) alebo skóre „príznaky nie je možné vyhodnotiť“.
+Škála je rozdelená do päť podškál, ktorými sú: 1.- „znaky súvisiace s náladou“
+(úzkosť, smútok, minimálna reakcia na príjemné udalosti a podráždenosť), 2.„poruchy správania“ (nepokoj, psychomotorická retardácia, viacnásobné fyzické
+ťažkosti a strata záujmu), 3.- „fyzické príznaky“ (strata chuti do jedla, strata
+hmotnosti a nedostatok energie), 4.- „cyklické funkcie“ (denné zmeny nálady,
+ťažkosti so zaspávaním, viacnásobné prebúdzanie počas noci a skoré ranné
+prebudenie) a 5.- „poruchy myšlienok“ (pesimizmus, samovražedné sklony, nízke
+sebavedomie a bludy zodpovedajúce nálade). Výhodou je vysoká citlivosť na
+depresiu aj pri stredne ťažkej až ťažkej demencii. (Wongpakaran et al., 2013).
+
+•
+
+Geriatrická škála depresie (GDS) bola pôvodne vyvinutá pre starších ľudí bez
+demencie, no kratšie verzie, ako 15-položková GDS, sa používajú aj u pacientov
+s miernou až stredne ťažkou demenciou. Zameriava sa na hodnotenie nálady a
+emočných prejavov pacienta. Otázky sú kladené s možnosťou odpovede áno / nie.
+Výhodou je jednoduchá a rýchla administrácia (Greenberg, 2007).
+
+•
+
+Zungova sebaposudzovacia škála (Zung Self-Rating Depression Scale - SDS)
+bola vyvinutá psychiatrom Williamom W.K. Zungom a používa sa na hodnotenie
+17
+
+úrovne depresie. Je zameraná na sebaposudzovanie depresívnych symptómov.
+Používa sa v klinickej praxi na skríning depresívneho syndrómu a pri sledovaní
+zmien v psychickom stave. Obsahuje dvadsať otázok, ktoré pokrývajú kognitívne,
+emocionálne a fyzické symptómy depresie. Hodnotí, do akej miery jednotlivec
+pociťuje smútok, beznádej, únavu, spánkové problémy a ďalšie príznaky depresie.
+Každá položka je hodnotená na stupnici od 1 do 4, kde: 1 = nikdy alebo zriedka,
+2 = niekedy, 3 = často, 4 = väčšinu času alebo stále. Súčet bodov určuje mieru
+depresie: Pod 50 bodov – žiadna alebo minimálna depresia, 50 – 59 bodov –
+mierna depresia, 60 – 69 bodov – stredne ťažká depresia, nad 70 bodov – ťažká
+depresia (Václav a kol., 1997).
+•
+
+Škála depresívnych symptómov u demencie (DSD) sa hodnotí pomocou 8
+kritérií, vrátane smútku, úzkosti, iritability a nezáujmu o okolie. Vďaka svojim
+silným psychometrickým vlastnostiam, jednoduchej administrácii a stručnosti
+môže byť DSD užitočná pre rýchle hodnotenie (Carlson, 2018).
+
+•
+
+Behavioral Activity Rating Scale (BARS), známa aj ako Behavioral Agitation
+and Distress Scale (BADS) alebo jednoducho Agitation Scale, je validný nástroj
+používaný v klinickej praxi na hodnotenie úrovne agitácie, úzkosti alebo nepokoja
+pacienta, najmä v prostredí intenzívnej starostlivosti alebo pri liečbe pacientov s
+psychickými poruchami. Tento systém je rozdelený do sedem -stupňovej škály,
+ktorá popisuje rôzne úrovne správania pacienta od veľmi nízkej aktivity až po
+agresívne, kde nebezpečné správanie vyžadujúce okamžitú intervenciu (Sears et
+al., 2020).
+
+•
+
+Neuropsychiatrický dotazník (NPI) je nástroj, ktorý hodnotí u pacientov možnú
+prítomnosť dvanástich symptómov v prípadoch demencie, vrátane halucinácii,
+bludov, úzkosti, podráždenosti / lability, depresie, eufórie/ dysfórie, dezinhibície,
+agitovanosti/ agresie, apatie/ ľahostajnosti, abnormálne motorické správanie,
+nočné poruchy správania a poruchy chuti do jedla. Je však pre zdravotníkov
+časovo náročnejší, čo odrádza od jeho zaradenia do každodennej klinickej praxe
+(Musa et al., 2017).
+
+•
+
+The Dementia Mood Assessment Scale (DMAS) škála zameraná špeciálne na
+hodnotenie nálady u pacientov s demenciou. DMAS hodnotí príznaky depresie,
+úzkosti a všeobecných zmien nálady, pričom sa zameriava na neverbálne prejavy
+a správanie pacienta. Je založená na pozorovaní správania pacienta počas určitého
+
+18
+
+časového obdobia. Sleduje sa napr. agitácia, výraz tváre, apatia a emocionálne
+prejavy. DMAS sa využíva prevažne v zariadeniach dlhodobej starostlivosti a
+domovoch pre seniorov (Kobayashi et al., 2024).
+•
+
+Hamiltonova škála depresie (HAM-D) bola označovaná ako „zlatý štandard“ a
+je jednou z najviac a najdlhšie používaných mier závažnosti depresie vo výskume
+a v klinickej praxi. Pôvodne bola navrhnutá na meranie závažnosti symptómov u
+depresívnych hospitalizovaných pacientov sa 17- položková škála za posledných
+viac ako 50 rokov vyvinula do 11 modifikovaných verzií, ktoré boli podávané
+rôznym populáciám pacientov v celom rade psychiatrických, medicínskych a
+iných výskumných prostredí. Každá položka sa hodnotí na stupnici od 0 do 4
+alebo od 0 do 2 a celkové skóre je od 0 do 23 bodov (Rohan et al., 2016).
+
+•
+
+Montgomeryho-Åsbergova škála depresie (MADRS) je nástroj používaný na
+hodnotenie závažnosti depresívnych symptómov, ktorý bol vyvinutý v roku 1979
+odborníkmi Stuartom Montgomerym a Marie Åsberg. Jej hlavnou prednosťou je
+stručnosť a jednoduchosť, čo umožňuje jej využitie aj mimo špecializovaných
+psychiatrických zariadení, napríklad všeobecnými lekármi alebo zdravotnými
+sestrami. Hodnotí sa desať položiek: smútok objektívny, smútok subjektívny,
+vnútorné napätie, spánok, znížená chuť do jedla, ťažkosti pri sústredení sa,
+vyčerpanosť, neschopnosť cítiť, pesimistické myšlienky, suicidálne myšlienky.
+Každá položka je hodnotená na stupnici od 0 (neprítomné symptómy) do 6 (veľmi
+závažné symptómy) a celkové skóre bodov je v rozmedzí 0 – 60, čím vyššie skóre,
+tým vyšší stupeň depresie (Rabinčák, Tkáčová, 2019).
+
+Existujú účinné spôsoby liečby depresie. Kde zaraďujeme psychologickú liečbu –
+psychoterapiu, tak ako individuálnu, tak aj skupinovú a liečbu liekmi. Medikamentózna
+terapia je určená na liečbu symptómov, u ktorých sa predpokladá, že sú výsledkom
+problémov v mozgových okruhoch, ktoré regulujú náladu, myslenie a správanie. Môže
+trvať až niekoľko týždňov, kým antidepresívum úplne zaberie na zmiernenie symptómov
+depresie (Mohr a kol., 2017). Psychoterapia je často prvou formou a dôležitou súčasťou
+liečby depresie. Pomocou licencovaného odborníka na duševné zdravie pacient postupne
+identifikuje a učí sa spracovať možné príčiny jeho depresívnych pocitov. V prípadoch
+miernej až stredne ťažkej depresii môže byť psychoterapia použitá samostatne na
+zmiernenie symptómov. Častejšie sa používa v spojení s liekmi na zmiernenie depresie.
+Existuje niekoľko druhov psychoterapie, v klinickej praxi bežne používané formy sú
+19
+
+behaviorálne, kognitívne a interpersonálne terapie, niekedy sa kombinujú s relaxačnými
+metódami ako je autogénny tréning a progresívna svalová relaxácia, poprípade hypnóza
+(Raboch, Pavlovský a kol., 2020). V primárnej liečbe depresívnych stavov sa do popredia
+dostáva aj fototerapia - liečba svetlom. Priaznivý účinok svetla na náladu je známy už
+viac ako 2000 rokov, no na liečebné účely sa začala využívať až po vedeckom potvrdení
+jej účinnosti v 80. rokoch minulého storočia. Táto metóda napodobňuje prirodzené denné
+svetlo a ovplyvňuje chemické procesy v mozgu spojené s reguláciou nálady. Svetelný
+box simuluje slnečné žiarenie, ktoré v zimných mesiacoch chýba, a predpokladá sa, že
+pomáha zmierniť príznaky tým, že redukuje tvorbu melatonínu (hormónu spôsobujúceho
+ospalosť) a zároveň zvyšuje hladinu serotonínu, ktorý pozitívne ovplyvňuje náladu
+(Dušek, Večeřová-Procházková, 2022). Medzi ďalšie liečebné metódy pri liečbe depresie
+patrí Elektrokonvulzívna terapia - ETC (ľudovo nazývaná aj elektrošoky), ktorá je vo
+všeobecnosti vyhradená pre pacientov s ťažkými depresívnymi stavmi, ktorí nereagovali
+na inú liečbu, avšak na Slovensku nemáme platné terapeutické odporúčania ani odborné
+usmernenie pre jej aplikáciu. ECT sa používa od 40. rokov 20. storočia a mnoho rokov
+výskumu viedlo k zásadným zlepšeniam a uznaniu jej účinnosti ako bežnej liečby, a nie
+liečby „poslednej možnosti“. ECT je postup vykonávaný v anestézii, počas ktorého je
+mozog elektricky stimulovaný, aby vyvolal krátky záchvat. Pacient zvyčajne dostáva
+ECT dvakrát až trikrát týždenne, celkovo 6 až 12 ošetrení. Zvyčajne ho riadi tím
+zdravotníckych odborníkov vrátane psychiatra, anestéziológa a sestry alebo asistenta
+lekára (Dragašek, 2011). Ďalšou z možností pri liečbe depresie je Transkraniálna
+magnetická stimulácia, ktorá sa posledných 18 rokoch vyvíjala ako potenciálna
+terapeutická metóda pre pacientov s depresívnou poruchou. Liečba využíva izolovanú
+cievku umiestnenú na pokožke hlavy, ktorá generuje krátke, bezbolestné magnetické
+impulzy (ako pri magnetickej rezonancii) so zameraním na oblasť mozgu, o ktorej sa
+predpokladá, že zohráva úlohu pri regulácii nálady (Dragašek a kol., 2013). Hlboká
+mozgová stimulácia (DBS) má niekoľko použití pri liečbe neurologických stavov, ako
+je Parkinsonova choroba, a môže zohrávať úlohu pri riešení ťažkej depresie. DBS zahŕňa
+chirurgickú implantáciu drôtov do mozgu, ktoré sú spojené s veľmi malým stimulačným
+zariadením umiestneným pod kľúčnou kosťou osoby, ako je srdcový kardiostimulátor. V
+prípade úspechu môže DBS prerušiť nepravidelné mozgové signály, ktoré spôsobujú
+symptómy depresie (Williams et al., 2013).
+
+20
+
+Najúspešnejším opatrením proti depresii je v prvom rade zabrániť jej vzniku. Okrem
+toho sa depresívny syndróm zvyčajne rozvíja postupne. Existujú však spôsoby, ako
+zabrániť ochoreniu alebo vážnemu priebehu. Patrí sem dostatok pohybu, pokojný spánok,
+správna životospráva, stabilné sociálne prostredie, podpora rodiny a priateľov, odolnosť
+v ťažkých situáciách, dobré zvládanie stresu, pozitívne skúsenosti a relaxačné techniky
+pomáhajú aktívne pôsobiť proti depresii.
+
+1.2 BOLESŤ
+Svetová organizácia pre štúdium bolesti (International Association for the Study of
+Pain = IASP) definuje bolesť ako nepríjemnú emocionálnu a senzorickú skúsenosť. Tieto
+skúsenosti majú súvis so skutočným alebo potenciálnym poškodením tkaniva, alebo je
+opisovaná výrazom takéhoto poškodenie (Cibulčík, 2008, s. 23). Definícia bolesti podľa
+IASP (Svetová organizácia pre štúdium bolesti) je už dlho platná a zahŕňa rôzne aspekty
+vnímania bolesti. Bolesť je subjektívny a nepríjemný pocit, ktorý prenáša aferentný
+nervový systém a mozgová kôra, a ktorý súvisí s možným alebo skutočným poškodením
+tkaniva. Bolesť signalizuje nebezpečenstvo, kedy môže dôjsť k poškodeniu tkaniva alebo
+môže pomôcť určiť miesto poškodenia. Vznik a prenos signálu bolesti je neurohumorálny
+proces, ktorý zahŕňa podráždenie nociceptorov, vedenie nervovými vláknami do mozgu
+a spracovanie v centrálnom nervovom systéme (CNS). Bolesť je subjektívny vnem po
+spracovaní v CNS a jeden z najčastejších symptómov v medicíne. Dôležitým faktorom je
+trvanie bolesti: akútna bolesť má konkrétnu príčinu a rýchlo odznie, zatiaľ čo chronická
+bolesť pretrváva dlhší čas. (Dydyk, Conermann, 2024).
+
+1.2.1 Vzorce a typy bolesti
+Existujú štyri primárne vzorce bolesti, ktoré sú pomenované podľa toho, ako dlho
+bolesť trvá a aká je jej frekvencia.
+1. Akútna bolesť začína náhle a končí, keď je jej príčina liečená alebo vyliečená.
+Pocit akútnej bolesti je zvyčajne ostrý, pretože má tendenciu pôsobiť ako varovný
+signál o ohrození tela zranením, chorobou, nadmerným používaním alebo iným
+environmentálnym stresom. Akútnu bolesť prvýkrát definoval autor Bonica vo
+svojej učebnici vydanej v roku 1953 ako „komplexnú konšteláciu nepríjemných
+21
+
+zmyslových, percepčných a emocionálnych zážitkov a určitých súvisiacich
+autonómnych, fyziologických, emocionálnych a behaviorálnych reakcií“. Bežné
+príčiny akútnej bolesti sú napäté svaly, zlomené kosti, zubné problémy, operácia,
+pôrod, infekcie alebo popáleniny. Literatúra uvádza, že akútna bolesť je bolesť,
+ktorá je prítomná najmenej 6 týždňov, ale menej ako 3 mesiace (King, 2013).
+2. Subakútna bolesť má menej špecifickú definíciu v porovnaní s akútnou alebo
+chronickou bolesťou a môže existovať prekrývanie najmä v tom, ako ju rôzni
+poskytovatelia zdravotnej starostlivosti kategorizujú. Vo všeobecnosti subakútna
+bolesť trvá dlhšie ako akútna bolesť, ale kratšie ako chronická bolesť, zvyčajne
+viac ako štyri týždne, ale menej ako tri mesiace. Môže byť trvalá alebo občasná a
+môže sa objaviť len pri určitých pohyboch alebo polohách tela. Intenzita
+subakútnej bolesti nemusí byť horšia ako akútna bolesť, ale trvá dlhšie. Môže byť
+spôsobená zápalom, opuchom, zjazveným tkanivom alebo hojacim sa tkanivom.
+Akútna aj subakútna bolesť sa môžu zmeniť na chronickú bolesť, najmä ak sa
+nedostatočne liečia (Sareen, 2024).
+3. Epizodická bolesť sa z času na čas vyskytuje a môže byť v nepravidelných
+intervaloch. Bolestivé obdobia alebo chronická migréna sú typické príklady
+epizodickej bolesti. Môže sa to stať z ničoho nič alebo môže byť spôsobená
+známymi spúšťačmi.
+4. Chronická bolesť trvá dlhšie ako tri mesiace, tento stav zahŕňa širokú škálu
+pretrvávajúceho nepohodlia trvajúceho viac ako 3 až 6 mesiacov a často pochádza
+z rôznych zdrojov. V niektorých prípadoch môže stav akútnej bolesti pretrvávať
+a stať sa chronickou bolesťou. V iných prípadoch sa chronická bolesť vyskytuje
+bez známeho dôvodu. Pacienti môžu súčasne pociťovať jeden alebo viac
+chronických bolestivých stavov alebo súčasne chronickú aj akútnu bolesť
+(Dansie, Turk, 2013).
+Bolesť môže byť tiež rozdelená do kategórií na základe jej najpravdepodobnejšieho
+zdroja. V mnohých prípadoch bolesť patrí do viac ako jednej z týchto kategórií:
+•
+
+Nociceptívna bolesť opisuje bolesť, ktorej príčina je spôsobená zápalom alebo
+poškodením tkaniva. IASP definuje nociceptívnu bolesť ako bolesť, ktorá vzniká
+hroziacim alebo skutočným poškodením neneurálneho tkaniva a je spôsobená
+aktiváciou nociceptorov. Pociťovanie bolesti môže byť ostré, bodavé alebo tupé,
+22
+
+v závislosti od toho, čo spôsobilo poškodenie alebo zápal. Príklady nociceptívnej
+bolesti sú infekcia, bolesť z rezu papierom, zlomenina kosti alebo osteoartritída
+(Andrewsa, 2018).
+•
+
+Neuropatická bolesť sa popisuje ako bolesť, ktorá je spôsobená poškodením
+periférnych nervov alebo centrálneho nervového systému v dôsledku zranenia
+alebo choroby. Neuropatické pocity bolesti sú často opísané ako vystreľovanie,
+pálenie, brnenie alebo ako elektrické šoky. Príklady stavov, ktoré spôsobujú
+neuropatickú bolesť, sú diabetická neuropatia, pásový opar a ischias (Hakl, 2012).
+
+•
+
+Nociplastická bolesť opisuje bolesť, ktorá je spôsobená zmenami v tom, ako
+nervový systém spracováva bolesť. Zmeny, ktoré spôsobujú nociplastickú bolesť,
+nie sú spojené s jasným zranením, poškodením tkaniva, zápalom alebo chorobou.
+Hoci nociplastická bolesť má odlišnú patofyziológiu od nociceptívnej a
+neuropatickej bolesti, tieto mechanizmy bolesti sa u jednotlivcov často zhodujú,
+čo prispieva k nezvládaniu chronickej bolesti. Kľúčové symptómy nociplastickej
+bolesti zahŕňajú bolesť vo viacerých oblastiach tela, poruchy spánku, únavu,
+kognitívnu dysfunkciu, náladovosť, depresiu a úzkosť. Príklady nociplastickej
+bolesti zahŕňajú chronická bolesť dolnej časti chrbta, syndróm dráždivého čreva
+a fibromyalgia (Kaplan et al., 2024).
+
+1.2.2 Diagnostika a liečba bolesti
+Bolesť je čisto subjektívny vnem a preto neexistuje žiadne jej objektívne meranie
+a hodnotenie je závislé od individuálnej výpovede pacienta. Základom je dôkladne
+odobratá anamnéza, zameraná na lokalizáciu bolesti, charakter bolesti, intenzitu, trvania,
+čas a faktory ovplyvňujúce bolesť. Súčasťou diagnostiky je celkové klinické vyšetrenie,
+zahrňujúce aj medziodborovú spoluprácu, prípadne pomocné vyšetrenia (RTG, CT –
+počítačová tomografia, MRI - magnetická rezonancia, EEG, EMG, USG, scintigrafia
+kostí, laboratórne vyšetrenia). Dôležitú úlohu v hodnotení hrá pacientom vedený denník
+bolesti. Významná je informácia o prelomovej bolesti (čiže prechodné vzplanutie
+intenzity bolesti), ktorá je niekedy súčasťou klinického obrazu nádorovej bolesti a
+niekedy aj chronickej nenádorovej bolesti. Pre stanovenie intenzity bolesti sa často
+používajú štandardizované posudzovacie škály. Existuje niekoľko typov škál bolesti,
+ktoré sa využívajú v ošetrovateľskej praxi. Pomáhajú zlepšiť komunikáciu a porozumieť
+bolesti, ktorú môže pacient cítiť. Bolesť je vnímaná odlišne od jednej osoby k druhej, od
+23
+
+miernej po silnú a rôzneho typu. Využitie týchto nástrojov na meranie bolesti pomáha pri
+diagnostike príčin bolesti, sledovanie ako sa stav vyvíja a či daná liečba funguje. Vo
+všeobecnosti spadajú do jednej z troch kategórií:
+1. Numerické hodnotiace stupnice (NRS) : Používa sa číslo na hodnotenie bolesti.
+2. Vizuálne analógové stupnice (VAS) : Pacienta sa požiada o výber obrazu, ktorý
+najlepšie zodpovedá úrovni jeho bolesti.
+3. Kategorické stupnice : Používajú sa predovšetkým slová na vyjadrenie bolesti,
+prípadne spolu s farbami, číslami alebo miestami na tele (Jacques, 2023).
+Kvantitatívne škály odpovedajú na otázku: "Aká zlá je vaša bolesť?" Sú užitočné pri
+hodnotení reakcie na liečbu v priebehu času. Kvalitatívne škály bolesti odpovedajú na
+otázku: "Aký je to pocit?" Poskytujú predstavu o príčine bolesti , či už je spojená s
+akýmikoľvek zdravotnými problémami alebo či je spôsobená samotnou liečbou. Žiadna
+konkrétna stupnica bolesti sa nepovažuje za ideálnu alebo lepšiu ako ostatné pre každú
+situáciu. Niektoré z týchto nástrojov sú najvhodnejšie pre ľudí určitého veku. Iné sú
+užitočnejšie pre ľudí, ktorí sa vo veľkej miere podieľajú na starostlivosti o svoje zdravie.
+Medzi najčastejšie používané škály patria:
+•
+
+Numerická hodnotiaca stupnica bolesti (Numerical Rating Scale - NRS) je
+určená pre každého pacienta, ktorý má viac ako 9 rokov. Je to jedna z najčastejšie
+používaných škál bolesti v zdravotníctve. Stačí povedať číslo, ktoré najlepšie
+zodpovedá úrovni bolesti. Nula znamená, že pacient nemá žiadnu bolesť, 1-3
+miernu bolesť, 4-6 strednú bolesť, 7-9 silnú bolesť, zatiaľ čo 10 predstavuje
+najintenzívnejšiu možnú až neznesiteľnú bolesť (Saad et al., 2021).
+
+•
+
+Wong - Bakerova stupnica bolesti tváre (Wong- Baker FACES) škála bolesti
+kombinuje obrázky a čísla na hodnotenie bolesti. Môže byť použitá u dospelých
+aj u detí starších ako 3 roky. Šesť tvárí zobrazuje rôzne výrazy, od šťastných až
+po extrémne rozrušené. Každému je priradené číselné hodnotenie od 0 (úsmev)
+do 10 (plač). Pacient ukáže na obrázok, ktorý najlepšie vyjadruje stupeň a
+intenzitu jeho bolesti (Gregory et al., 2013).
+
+•
+
+Vizuálna analógová stupnica (VAS - Visual Analogue Scale) je validný nástroj
+používaný na meranie subjektívnych pocitov alebo zážitkov, najčastejšie bolesti
+alebo iných symptómov. Ide o jednoduchú a efektívnu metódu, ktorá umožňuje
+pacientom alebo respondentom vyjadriť intenzitu svojho pocitu na kontinuálnej
+24
+
+škále. VAS je 10 cm horizontálna čiara, kde ľavý koniec priamky predstavuje
+nulovú intenzitu (napr. „žiadna bolesť“) a pravý koniec predstavuje maximálnu
+intenzitu (napr. „najhoršia predstaviteľná bolesť“). Pacient alebo respondent
+označí miesto na čiare, ktoré najlepšie vystihuje intenzitu jeho pocitu (Van Roo
+et al., 2011).
+•
+
+Škála bolesti FLACC. Táto škála bolesti je založená na pozorovaní, pôvodne
+bola vytvorená na hodnotenie malých detí, ale môže byť použitá pre každého, kto
+nevie komunikovať. FLACC znamená: výraz tváre, napätie alebo relaxácia nôh,
+aktivita (zvíja sa od bolesti), plač, útecha (či sa môžete utešiť). Pre každú z piatich
+kategórií sa prideľuje nula až dva body. Potom sa spočíta celkové skóre, ktoré sa
+interpretuje: 0 -uvoľnená a pohodlná, 1 až 3 - mierne nepohodlie, 4 až 6 -stredná
+bolesť, 7 až 10 - silné nepohodlie / bolesť (Vajcíková a kol., 2017).
+
+•
+
+KOMFORT- škála bolesti je ďalšia stupnica bolesti navrhnutá pre ľudí, ktorí
+nevedia opísať alebo dostatočne ohodnotiť svoju bolesť, ako napríklad: deti,
+dospelí s kognitívnymi poruchami, dospelí, ktorí sú dočasne oslabení liekmi alebo
+chorobou, pacienti, ktorí sú sedatívne na jednotkách intenzívnej starostlivosti
+(JIS) alebo na operačnej sále. Stupnica COMFORT poskytuje hodnotenie bolesti
+vo viacerých položkách, každá položka sa hodnotí na škále od 1 do 5, pričom
+vyššie skóre indikuje väčší diskomfort alebo bolesť. Položky sa zameriavajú na
+nasledujúce aspekty::
+
+1. Bdelosť : 1 pre hlboký spánok, 2 pre ľahký spánok, 3 pre ospalosť, 4 pre bdelosť
+a 5 pre vysokú bdelosť.
+2. Pokoj : 1 pre úplný pokoj, vyššie hodnotenie pre zvýšenú úzkosť a nepokoj.
+3. Respiračná tieseň : Ako veľmi vaše dýchanie naznačuje bolesť, vyššie skóre pre
+rozrušené dýchanie.
+4. Plač: 1 za žiadny plač, vyššie skóre za stonanie, vzlykanie alebo krik.
+5. Fyzický pohyb : 0 pre žiadny pohyb (znamenie menšej bolesti), 1 alebo 2 pre
+určitý pohyb a vyššie skóre pre prudké pohyby (napr. búšenie od bolesti).
+6. Svalový tonus : skóre 3 pre normálne, nižšie skóre pre znížený svalový tonus a
+vyššie skóre pre stuhnuté svaly.
+7. Napätie tváre : 1 pre úplne normálnu, uvoľnenú tvár a vyššie bodové hodnotenie
+pre známky namáhania.
+8. Krvný tlak a srdcová frekvencia : Hodnotené podľa základnej línie; 1 znamená,
+že sú pod základnou hodnotou (abnormálne nízke), 2 je základná hodnota a vyššie
+25
+
+skóre je pre zvýšené alebo abnormálne vysoké úrovne. Rozpätie celkového skóre
+je od 0 do 40 bodov (Supravoto et al., 2020).
+•
+
+Farebná analógová stupnica bolesti (CAS) používa rôzne farby na vyjadrenie
+úrovne bolesti: Červená - Silná bolesť, Žltá - Stredná bolesť, Zelená - Pohodlná.
+Farby sú zvyčajne umiestnené v rade so zodpovedajúcimi číslami alebo slovami,
+ktoré popisujú intenzitu bolesti. Farebná analógová stupnica sa často používa pre
+deti a považuje sa za spoľahlivú.
+
+•
+
+McGill Pain Questionnaire, tiež známy aj ako McGill Pain Index, pozostáva zo
+78 slov, ktoré popisujú bolesť. Bolesť je hodnotená tak, že sa označia slová, ktoré
+najlepšie zodpovedajú pocitom pacienta. Po vykonaní sa vypočíta číselné skóre s
+maximálnym hodnotením 78 na základe počtu slov, ktoré pacient označil. Táto
+stupnica bolesti je užitočná pre dospelých a deti, ktoré vedia čítať (Main, 2016).
+
+•
+
+Pain Assessment in Advanced Dementia (PAINAD) Scale. Aby bolo možné
+objektívne zdokumentovať klinické potreby pacienta, PAINAD Scale je nástroj,
+ktorý hodnotí úroveň bolesti u pacientov s kognitívnymi poruchami, ako je
+delírium alebo demencia. Správne používanie posudzovacej škály PAINAD, ako
+súčasť komplexného plánu manažmentu bolesti, môže pomôcť znížiť
+pravdepodobnosť, že pacient pociťuje nerozpoznanú a neliečenú bolesť. Hoci
+stupnica PAINAD bola vyvinutá na pomoc pri hodnotení bolesti u pacientov s
+demenciou, je užitočná aj na hodnotenie bolesti u pacientov trpiacich inými
+chorobami (Bjoro, 2009).
+
+Manažment bolesti pomáha regulovať bolesť pomocou liekov, procedúr, cvičení a
+terapie. Zatiaľ čo akútnu bolesť môžeme považovať za príznak úrazu alebo ochorenia,
+chronická bolesť je špecifickým problémom a v niektorých prípadoch sa považuje až za
+samostatné ochorenie. Komplexná algeziologická starostlivosť (starostlivosť o osoby,
+trpiacich chronickou a neutíšiteľnou bolesťou najrôznejšieho pôvodu), ktorá zahrňuje
+vyšetrenie a zhodnotenie bolesti a návrh účinného analgetického liečebného postupu,
+zabezpečujú ambulancie alebo centrá pre liečbu bolesti. Špecialisti na liečbu bolesti
+v spolupráci s neurológom, rehabilitačným lekárom, psychológom či psychiatrom môžu
+odporučiť pacientovi jeden alebo kombináciu viacerých prístupov na prevenciu, zníženie
+alebo zmiernenie bolesti (Nosková, 2010).
+
+26
+
+Farmakologická liečba bolesti predstavuje používanie liečivých prípravkov proti
+bolesti, ktoré môžu byť podávané v rôznych liekových formách (tablety, kvapky, čapíky,
+transdermálne náplasti, masti, gély alebo injekčné podanie). Základným vodidlom pre
+výber analgetika je intenzita bolesti a jej charakter. Analgetický rebríček stanovený
+Svetovou zdravotníckou organizáciou (WHO) rozdeľuje lieky proti bolesti podľa ich
+účinnosti do troch stupňov:
+•
+
+Stupeň 1 – Zahŕňa neopioidné analgetiká, ako sú paracetamol a metamizol a
+nesteroidné protizápalové lieky, napríklad ibuprofen, diklofenak alebo nimesil.
+
+•
+
+Stupeň 2 – Kombinuje slabé opioidy (napr. tramadol, kodeín) s neopioidnými
+analgetikami.
+
+•
+
+Stupeň 3 – Používa silné opioidy (napr. morfín alebo oxykodón) v kombinácii s
+neopioidnými analgetikami (Hakl et al., 2009).
+
+Výber a podávanie liekov proti bolesti závisí od toho, ako pacient vníma intenzitu a
+charakter svojej bolesti, ako aj od jeho celkového zdravotného stavu. Dôležité je, že nie
+je rozhodujúca príčina bolesti, ale jej intenzita. Pri výbere liekov zo stupnice bolesti sa
+pri akútnej bolesti postupuje od silnejších liekov k slabším, zatiaľ čo pri chronickej bolesti
+sa postupuje od slabších liekov k silnejším. Okrem toho sa na liečbu bolesti používajú aj
+pomocné lieky, ako sú antiepileptiká a antidepresíva (ktoré majú aj účinok proti bolesti),
+kortikosteroidy, myorelaxanciá, lokálne anestetiká a kanabinoidy (účinné látky s konope).
+Lieky sa podávajú v pravidelných intervaloch, aby sa predchádzalo znovuobjaveniu silnej
+bolesti. Per os- cez ústa podávané lieky sa síce vstrebávajú pomalšie, ale sú účinné oveľa
+dlhšie ako tie, ktoré sa podávajú injekčne. Aj preto sú injekcie do svalov používané len
+u akútnej bolesti, ak je to vhodné a skôr výnimočne u chronickej bolesti. Ku komplexnej
+liečbe bolesti patrí popri farmakoterapii aj nefarmakologická liečba, kde zaraďujeme:
+•
+
+rehabilitačné postupy (napr. joga, masáž),
+
+•
+
+fyzikálna liečba (napr. aplikácia rôznych bylinných zábalov, aplikácia tepla alebo
+chladu, vodoliečba a pod.),
+
+•
+
+psychoterapeutické metódy (napr. mindfulness),
+
+•
+
+intervenčné analgetické metódy (nervové blokády, rádiofrekvenčné metódy),
+
+•
+
+postupy alternatívnej medicíny (napr. akupunktúra, akupresúra),
+
+•
+
+homeopatia,
+
+•
+
+sociálna podpora,
+27
+
+•
+
+spiritualita a náboženstvo, ktoré pomáha niektorým ľudom prijať vlastnú chorobu
+a vysvetliť chorobu iným. Náboženstvo môže pacientovi, rodine a zdravotníkom
+dodať pocit sily, bezpečia a viery v čase núdze a choroby (El Geziry et al., 2018).
+
+Hromadiace množstvo dôkazov naznačuje, že nesprávna výživa, ako je podvýživa,
+nedostatok tekutín a nezdravé stravovacie návyky, môžu hrať významnú úlohu pri
+výskyte a prognóze chronickej bolesti, hlavne nízky príjem mikroživín, najmä omega-3
+mastných kyselín, vitamínov B1, B3, B6, B12 a D, horčíka, zinku a β-karoténu. Podľa
+vedcov aj zmena stravovania môže zvrátiť nielen bolesť a zápal, ale aj posilniť imunitu,
+zlepšiť kondíciu, zbaviť sa chronickej únavy či prispieť dokonca k psychickému zdraviu.
+Nutričné intervencie si zaslúžia byť nevyhnutnou súčasťou manažmentu bolesti (Elma et
+al., 2022).
+1.3 Špecifická ošetrovateľská starostlivosť o pacientov so syndrómom depresie a
+bolesti v pokročilom štádiu demencie
+Pri starostlivosti o pacientov, ktorí trpia súčasne demenciou, bolesťou a depresiou, je
+kľúčové komplexné porozumenie ich zdravotnému stavu. Je to preto, že príznaky týchto
+troch stavov sa veľmi často prelínajú a vzájomne ovplyvňujú. Preto je nevyhnutný
+multidisciplinárny prístup, ktorý zahŕňa zdravotnú starostlivosť, psychologickú a
+emocionálnu podporu. To znamená spoluprácu rôznych odborníkov, ako sú zdravotné
+sestry, lekári, psychológovia, fyzioterapeuti a sociálni pracovníci. Starostlivosť o svojho
+blízkeho s demenciou a depresiou je emocionálne náročná, môže viesť k pocitom smútku,
+bezmocnosti a frustrácie. Preto je dôležité podať informácie rodinným príslušníkom o
+stave pacienta, priebehu ochorenia a spôsoboch, ako zvládať príznaky a starostlivosť.
+Dobre informovaná rodina je schopnejšia efektívne pomáhať a lepšie sa vyrovnávať s
+náročnými situáciami. Demencia je syndróm, ktorý sa vyznačuje zhoršením kognitívnych
+funkcií. Pacienti s demenciou často nedokážu vyjadriť svoju bolesť verbálne, čo môže
+viesť k prehliadnutiu týchto symptómov. Depresia môže navyše zosilňovať vnímanie
+bolesti. Starostlivosť zahŕňa:
+•
+
+Bezpečné prostredie: Usporiadanie priestoru tak, aby minimalizovalo riziko
+úrazov (odstránenie prekážok, zabezpečenie elektrických spotrebičov a pod.).
+
+•
+
+Rutina a predvídateľnosť: Pomáha pacientom cítiť sa bezpečne a znižuje pocit
+úzkosti.
+28
+
+•
+
+Podpora pri každodenných činnostiach: Pomoc s obliekaním, stravovaním a
+osobnou hygienou, pričom sa rešpektuje ich dôstojnosť.
+
+•
+
+Komunikácia: Používať jednoduché a zrozumiteľné vety, byť trpezlivý a dávať
+dostatok času na odpoveď.
+
+•
+
+Stimulácia pamäte a kognitívnych funkcií: Hry, hudba, reminiscenčné terapie
+a aktivity, ktoré podporujú zapojenie mozgu.
+
+•
+
+Pozorovanie neverbálnych prejavov bolesti: Zmeny v správaní pacienta, ako sú
+grimasy, agitácia alebo nezvyčajné pohyby, môžu signalizovať bolesť.
+
+•
+
+Pravidelné hodnotenie bolesti: Použitie hodnotiacich nástrojov.
+
+•
+
+Pravidelné monitorovanie nálady: Vyhodnotenie pomocou škál.
+
+•
+
+Psychologická podpora: Terapie, ktoré môžu pomôcť zlepšiť náladu a pohodu.
+
+•
+
+Farmakologická liečba: Použitie medikamentóznej terapie podľa odporúčaní
+lekárov.
+
+•
+
+Nefarmakologické prístupy.
+
+Starostlivosť o týchto pacientov si vyžaduje značnú mieru trpezlivosti, empatie a
+dôkladné sledovanie ich potrieb. Každý pacient je jedinečný a prístup k starostlivosti musí
+byť prispôsobený jeho individuálnym prejavom a potrebám (Kwame, Petrucka, 2021).
+
+29
+
+2 VÝSKUM
+Jedným z dôležitých aspektov života ľudí s demenciou je zvládanie bolesti a depresie,
+ktoré sú častými sprievodnými javmi tohto ochorenia. Bolesť, ktorá môže byť fyzická aj
+psychická, je často nedostatočne rozpoznaná alebo liečená, čo môže zhoršovať celkový
+stav pacienta. Depresia zase ovplyvňuje ich schopnosť zapájať sa do každodenných
+činností a prežívať pozitívne momenty, čo si vyžaduje citlivý a individuálny prístup zo
+strany odborníkov aj blízkych.
+2.1 Výskumný problém
+V diplomovej práci sme si stanovili výskumný problém:
+Aký je vzťah medzi pokročilým štádiom demencie a výskytom bolesti a depresie u
+pacientov umiestnených v špecializovanom sociálnom zariadení ?
+Ciele výskumu:
+1. Zistiť, či existuje súvislosť medzi pohlavím pacienta a výskytom depresie a
+bolesti.
+2. Zistiť, či existujú rozdiely vo výskyte depresie a bolesti medzi pacientmi s
+rôznymi stupňami demencie.
+3. Zistiť, či existuje súvislosť medzi dĺžkou umiestnenia v špecializovanom
+sociálnom zariadení a výskytom depresie a bolesti u pacientov s demenciou.
+4. Zistiť, či existuje súvislosť medzi vekom pacienta a výskytom depresie a
+bolesti.
+Hypotézy výskumu:
+H10: Predpokladáme, že nie je signifikantný rozdiel vo výskyte depresie medzi mužmi a
+ženami.
+H1A: Predpokladáme, že je signifikantný rozdiel vo výskyte depresie medzi mužmi a
+ženami.
+H20: Predpokladáme, že nie je signifikantný rozdiel v prítomnosti bolesti podľa PAINAD
+škály medzi mužmi a ženami.
+30
+
+H2A: Predpokladáme, že je signifikantný rozdiel v prítomnosti bolesti podľa PAINAD
+škály medzi mužmi a ženami.
+H30: Predpokladáme, že nie je signifikantný rozdiel vo výskyte depresie podľa
+Cornellovej škály u pacientov s 2. a 3. stupňom demencie podľa MMSE testu.
+H3A: Predpokladáme, že je signifikantný rozdiel vo výskyte depresie podľa Cornellovej
+škály u pacientov s 2. a 3. stupňom demencie podľa MMSE testu.
+H40: Predpokladáme, že nie je signifikantný rozdiel v prítomnosti bolesti podľa PAINAD
+škály u pacientov s 2. a 3. stupňom demencie podľa MMSE testu.
+H4A: Predpokladáme, že je signifikantný rozdiel v prítomnosti bolesti podľa PAINAD
+škály u pacientov s 2. a 3. stupňom demencie podľa MMSE testu.
+H50: Predpokladáme, nie je signifikantný rozdiel vo výskyte depresie podľa Cornellovej
+škály medzi pacientami s rôznou dĺžkou umiestnenia v centre.
+H5A: Predpokladáme, je signifikantný rozdiel vo výskyte depresie podľa Cornellovej
+škály medzi pacientami s rôznou dĺžkou umiestnenia v centre.
+H60: Predpokladáme, nie je signifikantný rozdiel vo výskyte bolesti podľa PAINAD
+škály medzi pacientami s rôznou dĺžkou umiestnenia v centre.
+H6A: Predpokladáme, je signifikantný rozdiel vo výskyte bolesti podľa PAINAD škály
+medzi pacientami s rôznou dĺžkou umiestnenia v centre.
+H70: Predpokladáme, že nie je signifikantný rozdiel vo výskyte depresie podľa
+Cornellovej škály medzi pacientami v rôznych vekových kategóriách.
+H7A : Predpokladáme, že je signifikantný rozdiel vo výskyte depresie podľa Cornellovej
+škály medzi pacientami v rôznych vekových kategóriách.
+H80:: Predpokladáme, že nie je signifikantný rozdiel vo prítomnosti bolesti podľa
+PAINAD škály medzi pacientami v rôznych vekových kategóriách.
+H8A : Predpokladáme, že je signifikantný rozdiel vo prítomnosti bolesti podľa PAINAD
+škály medzi pacientami v rôznych vekových kategóriách.
+
+31
+
+2.2 Charakteristika výskumného súboru
+Výber respondentov pre výskum bol zameraný na pacientov s diagnostikovaným
+ochorením demencie v pokročilom štádiu, ktorí boli umiestnení v špecializovanom
+sociálnom zariadení s plnou kapacitou 103 klientov. Celkový počet respondentov tvorilo
+98 klientov, z ktorých 82 (83,7 %) bolo žien a 16 (16,3 %) mužov. Prevažnú časť vzorky
+tvorili ženatí alebo vydaté osoby, konkrétne 49 respondentov, čo predstavovalo 50 %.
+Priemerný vek respondentov bol 75,7 rokov, z čoho u žien dosahoval priemerný vek 76,5
+roka a u mužov 71,9 roka. Najmladší účastník výskumu mal 57 rokov a najstarší dosiahol
+vek 97 rokov. Čo sa týka dosiahnutého vzdelania, najväčšiu skupinu tvorili respondenti
+so stredoškolským vzdelaním, ktorých bolo z celkového počtu 42 (43 %), menšie
+zastúpenie mali respondenti s inými stupňami vzdelania. Priemerná dĺžka umiestnenia
+klientov v zariadení bola 3,6 roka, ženy boli umiestnené v zariadení v priemere 3,2 roka
+a muži 2,8 roka. Kritériá na zámerný výber respondentov boli jasne stanovené a z tohto
+dôvodu sme museli piatych respondentov z výskumu vylúčiť. Respondenti museli mať
+diagnostikovanú určitú formu demencie, pričom sa vyžadovalo, aby ochorenie dosiahlo
+aspoň stredne ťažké alebo ťažké štádium. Toto bolo hodnotené pomocou skóre MMSE
+(Mini - Mental State Examination), pričom výsledné skóre muselo byť nižšie ako 18
+bodov. Ďalšími podmienkami pre výber účastníkov výskumu bolo, aby boli umiestnení v
+zariadení sociálnych služieb minimálne 3 mesiace a vykazovali vysokú mieru závislosti
+od ošetrovateľskej starostlivosti. Tieto kritériá zabezpečili výber respondentov, ktorí
+spĺňali predpoklady pre zber relevantných údajov.
+2.3 Metodika výskumu
+Za výskumný nástroj sme si zvolili štandardizovanú posudzovaciu škálu PAINAD
+pre bolesť a Cornellovu škálu pre depresiu.
+Škála PAINAD (Pain Assessment in Advanced Dementia) je nástroj na hodnotenie
+bolesti u pacientov s kognitívnymi poruchami, ako je demencia a zameriava sa na päť
+kategórií:
+1. Dýchanie: Hodnotí sa, či je dýchanie normálne, občas namáhavé, alebo sú
+prítomné iné ťažkosti ako hyperventilácia alebo Cheyne-Stokesovo dýchanie.
+2. Bolestivá vokalizácia: Sleduje sa, či pacient nevydáva zvuky ako je stonanie,
+vzlykanie alebo utrápené volanie.
+32
+
+3. Výraz tváre: Posudzuje sa, či je tvár uvoľnená, smutná, vydesená, zamračená
+alebo vykazuje bolestivé grimasy.
+4. Reč tela: Hodnotí sa, či je pacient uvoľnený, napätý, nepokojný, strnulý alebo
+má zovreté päste, priťahuje kolená k telu, odtláča sa pri dotyku alebo udiera.
+5. Utešovanie: Posudzuje sa, či pacienta možno rozptýliť alebo ukľudniť hlasom
+alebo dotykom, alebo či je nemožné ho upokojiť.
+Každá z týchto kategórií je hodnotená na stupnici od 0 do 2 bodov, pričom 0 znamená
+žiadnu bolesť alebo žiadne príznaky bolesti a 2 body znamenajú závažné príznaky
+bolesti. Celkové skóre sa vypočíta sčítaním bodov z jednotlivých kategórií, pričom:
+o 0 bodov
+
+znamená relaxáciu a komfort,
+
+o 1 – 3 body
+
+znamenajú mierny diskomfort,
+
+o 4 – 6 bodov znamenajú strednú bolesť,
+o 7 – 10 bodov znamenajú silnú bolesť a diskomfort.
+Cornellova škála na hodnotenie depresie u demencie (CSDD) je štandardizovaný
+nástroj používaný na hodnotenie príznakov depresie u jednotlivcov s demenciou. Táto
+škála obsahuje 19 otázok, pričom každá z nich môže získať skóre v rozsahu bodov od 0
+(neprítomnosť) po 2 (závažná) alebo skóre "príznaky nie je možné vyhodnotiť".
+Škála je rozdelená do 5 podškál, ktoré hodnotia rôzne aspekty správania a emócií:
+1. Znaky súvisiace s náladou: Táto podškála zahŕňa otázky zamerané na úzkosť,
+smútok, nedostatok reaktivity na príjemné udalosti a podráždenosť.
+2. Poruchy správania: Táto časť hodnotí nepokoj, psychomotorickú retardáciu,
+viacnásobné fyzické ťažkosti a stratu záujmu o bežné činnosti.
+3. Fyzické príznaky: Táto podškála je zameraná na stratu chuti do jedla, stratou
+hmotnosti a nedostatkom energie.
+4. Cyklické funkcie: Táto časť hodnotí denné zmeny nálady pacienta, ťažkosti so
+zaspávaním, viacnásobné prebúdzanie počas noci a skoré ranné prebudenie.
+5. Poruchy myšlienok: Táto podškála zahŕňa otázky zamerané na samovražedné
+sklony, pesimizmus, nízke sebavedomie a bludy zodpovedajúce nálade.
+Hodnotenie:
+o Skóre < 6 znamená, že pacient nemá depresiu,
+o Skóre > 10 naznačuje pravdepodobnosť veľkej depresívnej epizódy,
+o Skóre > 18 poukazuje na definitívne epizódy veľkej depresie.
+Na zber ďalších údajov k výskumu sme vytvorili dotazník vlastnej konštrukcie, ktorý
+obsahuje 7 položiek. Položky v dotazníku č. 1, 2, 3 a 4 sú demografické otázky. Otázky
+33
+
+číslo 5, 6 a 7 sú zamerané na typ demencie, dĺžku umiestnenie pacienta v sociálnom
+zariadení a hodnoty MMSE (Mini Mental State Examination), ktoré sme získali zo
+zdravotnej dokumentácie pacienta.
+Na vyhodnotenie výsledkov výskumu a analýzy získaných dát sme použili program
+Microsoft Excel. Tabuľky a grafy sme využili na vizualizáciu údajov. Pre štatistické
+spracovanie údajov bol využitý softvér R vo verzii 4.3.3. Na analýzu početností bol
+použitý Fisherov exaktný test v prípadoch, keď očakávané hodnoty nepresahovali 5, a
+Chí- kvadrát test, ak očakávané hodnoty boli vyššie ako táto hranica. V prípade zistenia
+štatisticky významných rozdielov bol na identifikáciu konkrétnych rozdielov medzi
+skupinami aplikovaný Pairwise-Prop test. Hladina štatistickej významnosti bola
+nastavená na p-hodnotu < 0,05, čo zodpovedá 5 % hladine významnosti a 95 % intervalu
+spoľahlivosti. Funkciu AVERAGE sme použili na výpočet aritmetického priemeru.
+2.4 Organizácia a realizácia výskumu
+V prípravnej fáze nášho výskumu sme sa sústredili na podrobnú analýzu aktuálneho
+stavu poznania skúmanej problematiky. Tento krok zahŕňal rozsiahle štúdium odbornej
+vedeckej literatúry a článkov, ako aj dôkladné zmapovanie prostredia, v ktorom mal
+neskôr samotný výskum prebiehať. Pomocou pilotnej štúdie sme si overili vhodnosť
+použitých metód a nástrojov pred realizáciou výskumu. Druhá fáza bola venovaná zberu
+empirických údajov. Ako hlavné výskumné nástroje sme si zvolili posudzovaciu škálu
+PAINAD na meranie bolesti a Cornellovu škálu na hodnotenie depresie pri demencii.
+Výskum sme realizovali v špecializovanom sociálnom zariadení Alzheimercentrum n.o.
+so sídlom v Piešťanoch, a to na základe písomnej žiadosti podanej v mesiaci máj 2024 a
+po získaní súhlasu tejto organizácie. Zariadenie poskytuje pobytové sociálne služby
+klientom s rôznymi typmi demencie. Táto fáza bola mimoriadne časovo náročná, pretože
+administrácia dotazníka a oboch škál prebiehala individuálnou formou. Informátorom bol
+sekundárny zdroj, nie samotní pacienti, vzhľadom na ich kognitívne obmedzenia.
+Vyplnenie jedného dotazníka a oboch škál si vyžadovalo 30 až 50 minút, v závislosti od
+náročnosti konkrétneho prípadu. Zber údajov sme ukončili v decembri 2024. V tretej fáze
+výskumu sme sa venovali analýze a spracovaniu získaného výskumného materiálu,
+pričom sme dôkladne vyhodnotili všetky zhromaždené údaje s cieľom odpovedať na
+stanovené výskumné otázky a hypotézy.
+
+34
+
+Limity výskumu
+Pri zbere údajov pri výskume o prítomnosti depresie a bolesti u pacientov s pokročilou
+demenciou sa stretávame s ťažkosťami pri priamom zapájaní respondentov do výskumu.
+Rozsiahle kognitívne poškodenie u pacientov sťažuje priamu komunikáciu, subjektivitu
+údajov a získavanie informácií prostredníctvom rozhovorov. Použitie sekundárnych
+zdrojov informácií namiesto priameho kontaktu s klientom preto predstavuje slabšiu
+stránku výskumu. Ďalším faktorom, ktorý komplikuje výskum, je špecifickosť prostredia,
+v ktorom sa pacienti nachádzajú. Každé sociálne alebo zdravotnícke zariadenie má svoje
+vlastné podmienky starostlivosti, personálne obsadenie a prístup k terapiám, čo môže
+ovplyvniť prejavy depresie a bolesti. Preto by realizácia štúdie v inom zariadení bola
+nielen organizačne, ale aj metodologicky náročná, z dôvodu potreby detailnej znalosti
+anamnézy klienta, jeho fyzického a psychického stavu, ako aj dlhšieho časového obdobia
+na pozorovanie jeho správania, adaptácie a spolupráce.
+Pilotná štúdia
+Získaním súhlasu od vedenia špecializovaného sociálneho zariadenia na realizáciu
+výskumu a zabezpečenie anonymity a dôvernosti údajov klientov, sme uskutočnili pilotnú
+štúdiu so 7 respondentami, kde sme si overili vhodnosť použitých posudzovacích škál
+a výskumných metód a taktiež časovú náročnosť na administráciu údajov. Pilotná štúdia
+zameraná na posúdenie výskytu bolesti a depresie u pacientov v pokročilom štádiu
+demencie nám overila vhodnosť použitých metód pred realizáciou výskumu.
+
+35
+
+3 ANALÝZA A INTERPRETÁCIA VÝSLEDKOV VÝSKUMU
+Dotazníková položka 1 Pohlavie
+Tabuľka 1 Pohlavie
+Pohlavie
+
+N
+
+%
+
+Ženy
+
+82
+
+83,7%
+
+Muži
+
+16
+
+16,3%
+
+Spolu
+
+98
+
+100%
+
+Zdroj: vlastné spracovanie
+Prvá demografická otázka bola zameraná na pohlavie respondentov. Z celkového počtu
+100% (n = 98) účastníkov, najviac tvorili ženy 83,7 % (n = 82) a zvyšných 16,3 % (n =
+16) tvorili muži.
+Dotazníková položka 2 Vek
+Tabuľka 2 Vek
+Veková kategória
+pacienta
+50-59 rokov
+
+muž
+N=2 (12 %)
+
+žena
+N=2 (2 %)
+
+N=4 (4 %)
+
+60-69 rokov
+
+N=3 (19 %)
+
+N=8 (10 %)
+
+N=11 (11 %)
+
+70-79 rokov
+
+N=4 (25 %)
+
+N=29 (35 %)
+
+N=33 (34 %)
+
+80-89 rokov
+
+N=7 (44 %)
+
+N=40 (49 %)
+
+N=47 (48 %)
+
+90 a viac rokov
+
+-
+
+N=3(4 %)
+
+N=3 (3 %)
+
+Spolu
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+pohlavie
+
+Celý súbor
+
+Zdroj: vlastné spracovanie
+Najpočetnejšou vekovou kategóriou boli 80 - 89 roční respondenti, ktorí tvorili 48 % (n
+= 47), u žien to bolo 49 % (n = 40) a u mužov 44 % (n = 7). Vo veku od 70 - 79 rokov
+bolo 34 % (n = 33) respondentov, z toho žien 35 % (n = 29) a mužov 25 % (n = 4) , 11
+% (n = 11) seniorov bolo vo veku od 60 - 69 rokov, z čoho u žien tvorilo 10 % (n = 8)
+respondentiek a u mužov 19 % (n = 3) pacientov , 4 % (n = 4) respondentov bolo vo veku
+36
+
+50 - 59 rokov, kde ženy tvorili 2 % (n = 2) a muži 12 % (n = 2). Najmenej respondentov
+3 % (n = 3) bolo vo vekovej kategórii nad 90 rokov, kde boli 4% (n = 3) žien a žiaden
+muž.
+Dotazníková položka 3 Vzdelanie
+Tabuľka 3 Vzdelanie
+Vzdelanie
+
+Celý súbor
+
+pohlavie
+
+Základná škola
+
+muž
+N=2 (13 %)
+
+žena
+N=13 (16 %)
+
+N=15 (15 %)
+
+Stredná škola
+
+N=8 (50 %)
+
+N=34 (42 %)
+
+N=42 (43 %)
+
+Stredná škola
+s maturitou
+Vysoká škola
+
+N=3 (18,5 %)
+
+N=20 (24 %)
+
+N=23 (24 %)
+
+N=3 (18,5 %)
+
+N=15 (18 %)
+
+N=18 (18 %)
+
+Spolu
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+Najviac účastníkov výskumu 43 % (n = 42) malo stredoškolské vzdelanie, stredoškolské
+vzdelanie s maturitou malo 24 % (n = 23) respondentov, vysokoškolské vzdelanie malo
+18 % (n = 18) respondentov a najmenej 15 % (n = 15) respondentov malo ukončené len
+základné vzdelanie. U žien malo najväčšie zastúpenie 42 % (n = 34) respondentiek so
+strednou školou, stredoškolské s maturitou malo 24 % (n = 20) senioriek, vysokoškolské
+vzdelanie malo 18 % (n = 15) respondentiek a dosiahnuté základné vzdelanie bolo u 16
+% (n = 13) účastníčok. U mužov dosiahlo stredoškolské vzdelanie 50 % (n = 8),
+stredoškolské s maturitou 18,5 % (n = 3) a rovnako i vysokoškolské vzdelanie malo 18,5
+% (n = 3) respondentov a najnižšie základné vzdelanie malo 13 % (n = 2) pacientov.
+Dotazníková položka 4 Rodinný stav
+Tabuľka 4 Rodinný stav
+Celý súbor
+
+pohlavie
+Rodinný stav
+
+muž
+
+žena
+
+Slobodný/á
+
+N=2 (12,5 %)
+
+-
+
+N=2 (2 %)
+
+Ženatý/vydatá
+
+N=6 (37,5 %)
+
+N=43 (52 %)
+
+N=49 (50 %)
+
+37
+
+Rozvedený/á
+
+N=2 (12,5 %)
+
+N=4 (5 %)
+
+N=6 (6 %)
+
+Vdovec/vdova
+
+N=6 (37,5 %)
+
+N=35 (43 %)
+
+N=41 (42 %)
+
+Spolu
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+Z tabuľky je možné vidieť, že väčšina respondentov 50 % (n = 49) boli v manželskom
+zväzku, 42 % (n = 41) respondentov boli ovdovelí, rozvedených respondentov bolo 6 %
+(n =6 ) a najmenej respondentov 2 % (n = 2) boli slobodní. Podľa pohlavia u žien
+prevládali vydaté 52 % (n = 43) respondentky, vdov bolo 43 % (n = 35), rozvedených 5
+% (n = 4) senioriek, slobodná nebola žiadna respondentka. U mužov väčšinu tvorili ženatí
+respondenti 37,5 % (n = 6) a rovnaký počet účastníkov tvorili vdovci 37,5 % (n = 6),
+rozvedených bolo 12,5 % (n = 2) a slobodných taktiež 12,5 % (n = 2) respondentov.
+Dotazníková položka 5 Hodnota MMSE
+Tabuľka 5 Hodnota MMSE
+Štádium demencie
+podľa MMSE
+testu
+2.štádium
+(10-19 bodov)
+
+Celý súbor
+
+pohlavie
+muž
+
+žena
+
+N=7 (44 %)
+
+N=44 (54 %)
+
+N=51 (52 %)
+
+3.štádium
+(9 a menej bodov)
+
+N=9 (56 %)
+
+N=38 (46 %)
+
+N=47 (48 %)
+
+Spolu
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+Podľa hodnotiacej škály MMSE (test kognitívnych funkcií) bolo najviac respondentov 52
+% (n = 51) so stredne ťažkým stupňom demencie a 48 % (n = 47) s ťažkým stupňom
+demencie. Podľa pohlavia u mužov bolo 56 % (n = 9) respondentov s 2. stupňom
+demencie a 44 % (n = 7) respondentov s 3. stupňom demencie. U žien bolo 54 % (n = 44)
+respondentiek s 2. stupňom demencie a 46 % (n = 38) pacientiek s 3. stupňom demencie.
+
+38
+
+Dotazníková položka 6 Typ demencie
+Tabuľka 6 Typ demencie
+Typ demencie
+Alzheimerova
+demencia
+Vaskulárna
+demencia
+Zmiešaný typ
+demencie (ACH
+s vask.dem.)
+Iný typ demencie
+Spolu
+
+pohlavie
+
+Celý súbor
+
+muž
+N=7 (19 %)
+
+žena
+N=32 (24 %)
+
+N=39 (23 %)
+
+N=5 (44 %)
+
+N=26 (39 %)
+
+N=31 (40 %)
+
+N=3 (6 %)
+
+N=20 (5 %)
+
+N=23 (5 %)
+
+N=1 (31 %)
+
+N=4 (32 %)
+
+N=5 (32 %)
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+
+Pri typoch demencii bolo najviac pacientov 23 % (n = 39) s Alzheimerovou demenciou
+a to 24 % (n = 32) žien a 19 % (n = 7) mužov, s vaskulárnou demenciou bolo 40 % (n =
+31) pacientov, z toho žien 39 % (n = 26) a mužov 44 % (n = 5), zmiešaný typ demencie ACH s vaskulárnou demenciou malo 5 % (n = 23) pacientov, ženy tvorili 5 % (n = 20)
+a muži 6 % (n = 3), najmenej pacientov 32 % (n = 5) malo iný typ demencie, u žien 32
+% (n = 4) a u mužov 31 % (n = 1).
+Dotazníková položka 7 Dĺžka umiestnenia v zariadení
+Tabuľka 7 Dĺžka umiestnenia v zariadení
+Dĺžka umiestnenia
+v centre (roky)
+do 5 rokov
+
+muž
+N=14 (87,5 %)
+
+žena
+N=63 (77 %)
+
+N=77 (79 %)
+
+6-10 rokov
+
+N=2 (12,5 %)
+
+N=16 (19,5 %)
+
+N=18 (18 %)
+
+Nad 10 rokov
+
+-
+
+N=3 (3,5 %)
+
+N=3 (3 %)
+
+Spolu
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+pohlavie
+
+Celý súbor
+
+Zdroj: vlastné spracovanie
+Dĺžka umiestnenia bola rozdelená do troch kategórii. Prevažná väčšina respondentov 79
+% (n = 77) bolo umiestnených v sociálnom zariadení v dĺžke do 5 rokov, od 6 do 10 rokov
+bolo 18 % (n = 18) respondentov a najmenej respondentov 3 % (n = 3) bolo v dĺžke
+39
+
+umiestnenia 10 a viac rokov. Dĺžka umiestnenia v zariadení u žien do 5 rokov bolo 77 %
+(n = 63) senioriek, v rozmedzí 6 – 10 rokov bolo 19,5 % (n = 16) pacientiek a nad 10
+rokov bolo 3,5 % (n = 3) respondentiek. U mužov dĺžka umiestnenia v zariadení do 5
+rokov bola u 87,5 % (n = 14) respondentov, 12,5 % (n = 2) seniorov bolo umiestnených
+v dĺžke 6- 10 rokov a nad 10 rokov žijúci respondent v zariadení nebol žiaden.
+Položka 8 Priemer veku a dĺžky umiestnenia respondentov v zariadení v rokoch
+Tabuľka 8 Priemer veku a dĺžky umiestnenia respondentov v zariadení v rokoch
+Muži: 16
+respondentov
+71,9 roka
+
+Priemer
+Priemerný vek
+Priemerná dĺžka
+umiestnenia
+
+pohlavie
+Ženy: 82
+respondentov
+76,5 roka
+
+2,8 roka
+
+3,2 roka
+
+Celý súbor: 98
+respondentov
+75,7 roka
+3,6 roka
+
+Zdroj: vlastné spracovanie
+Ako je z tabuľky vidieť priemerný vek respondentov bol 75,7 rokov, u žien bol priemerný
+vek 76,5 roka a u mužov 71,9 roka. Priemerná dĺžka umiestnenia klientov v zariadení
+bola 3,6 roka, ženy boli umiestnené v zariadení v priemere 3,2 roka a muži 2,8 roka.
+Z čoho vyplýva, že ženy majú nielen vyšší priemerný vek, ale aj dlhší pobyt v zariadení
+v porovnaní s mužmi.
+PAINAD škála je validovaný nástroj, ktorý slúži na hodnotenie úrovne bolesti u
+pacientov s kognitívnymi poruchami. Škála hodnotí 5 kategórií:
+1. dýchanie (nezávislé na vokalizácii),
+2. bolestivá vokalizácia,
+3. výraz tváre,
+4. reč tela a
+5. utešovanie. Každá kategória má skóre 0 bodov (normálne, žiadne), 1 bod (občasné,
+mierne) alebo 2 body (bolestivé, výrazné). Celkove skóre sa interpretuje nasledovne:
+o 0 bodov
+
+= relaxácia a komfort,
+
+o 1 – 3 body
+
+= mierny diskomfort,
+
+o 4– 6 bodov = stredná bolesť,
+o 7 – 10 bodov = silná bolesť, diskomfort.
+40
+
+Kategória 1 Dýchanie (nezávisle na vokalizácii)
+Tabuľka 9 Kategória 1 Dýchanie (nezávisle na vokalizácii)
+Kategória 1Dýchanie
+0 bodov-normálne
+1 bod-občasné
+namáhavé dýchanie
+2 body-hlučné
+sťažené dýchanie
+Spolu
+
+Celý súbor
+
+pohlavie
+muž
+N=13 (81,2 %)
+
+žena
+N=60 (73,2 %)
+
+N=73 (74,5 %)
+
+N=3 (18,8 %)
+
+N=21 (25,6 %)
+
+N=24 (24,3 %)
+
+N=0 (0 %)
+
+N=1 (1,2 %)
+
+N=1 (1,2 %)
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+V prvej posudzovanej kategórii ,,dýchanie,, prevažná väčšina respondentov 74,5 % (n =
+73) dosiahlo celkové skóre 0, u žien to bolo 73,2 % (n = 60) a 81,2 % (n = 13) u mužov.
+Jeden bod v danej kategórii malo 18,8 % (n =3 ) mužov, 25,6 % (n = 21) žien a celkovo
+24,3 % (n = 24) respondentov. Najmenej respondentov 1,2 % (n = 1) dosiahlo skóre 2
+body, u mužského pohlavia nebol žiaden respondent a u žien 1,2 % (n = 1) .
+Kategória 2 Bolestivá vokalizácia
+Tabuľka 10 Kategória 2 Bolestivá vokalizácia
+Kategória 2Bolestivá
+vokalizácia
+0 bodov-žiadna
+1 bod-občasný
+ston
+2 body-hlasité
+stonanie
+Spolu
+
+Celý súbor
+
+pohlavie
+muž
+
+žena
+
+N=9 (56,3 %)
+
+N=27 (33%)
+
+N=36 (36,7 %)
+
+N=2 (12,5 %)
+
+N=48 (58,5 %)
+
+N=50 (51,1 %)
+
+N=5 (31,2 %)
+
+N=7 (8,5%)
+
+N=12 (12,2 %)
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+V druhej kategórii posudzovacej škály PAINAD ,,bolestivá vokalizácia,, prevažná
+väčšina respondentov 51,1 % (n = 50) dosiahlo celkové skóre 1 bod, u žien to bolo 58,5
+% (n = 48) a 12,5 % (n = 2) u mužov. Nula bodov v danej kategórii malo 56,3 % (n = 9)
+seniorov, senioriek bolo 33 % (n = 27) a celkovo nulové skóre malo spolu 36,7 % (n =
+
+41
+
+36) respondentov. Najmenej respondentov 12,2 % (n = 12) dosiahlo skóre 2 body, mužov
+bolo 31,2 % (n = 5) a žien 8,5 % (n = 7).
+Kategória 3 Výraz tváre
+Tabuľka 11 Kategória 3 Výraz tváre
+Kategória 3Výraz tváre
+0 bodov-úsmev,
+neutral. výraz
+1 bod-zamračený,
+smutný, vydesený
+2 body-bolesť.
+grimasy
+Spolu
+
+pohlavie
+
+Celý súbor
+
+muž
+N=8 (50 %)
+
+žena
+N=29 (35,3 %)
+
+N=37 (37,8 %)
+
+N=3 (18,8 %)
+
+N=34 (41,5 %)
+
+N=37 (37,8 %)
+
+N=5 (31,2 %)
+
+N=19 (23,2 %)
+
+N=24 (24,4 %)
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+V kategórii ,,výraz tváre,, väčšina respondentov 37,8 % (n = 37) dosiahlo skóre nula
+bodov, u žien to bolo 35,3 % (n = 29) a 50 % (n = 8) u mužov. Jeden bod malo taktiež
+37,8 % (n = 37) respondentov, z toho 18,8 % (n = 3) tvorili muži a 41,5 % (n = 34) tvorili
+ženy. Najmenej pacientov 24,4 % (n = 24) dosiahlo skóre 2 body, u mužského pohlavia
+31,2 % (n = 5) a ženského pohlavia 23,2 % (n = 19) účastníkov výskumu.
+Kategória 4 Reč tela
+Tabuľka 12 Kategória 4 Reč tela
+Kategória 4- Reč
+tela
+0 bodovRelaxovanosť
+1 bod-Napätie,
+nekľud
+2 body- Strnulosť,
+udieranie
+Spolu
+
+pohlavie
+
+Celý súbor
+
+muž
+N=10 (62,5 %)
+
+žena
+N=37 (45,2%)
+
+N=47 (48 %)
+
+N=4 (25 %)
+
+N=23 (28 %)
+
+N=27 (27,5 %)
+
+N=2 (12,5 %)
+
+N=22 (26,8 %)
+
+N=24 (24,5 %)
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+V predposlednej kategórii danej škály ,,reč tela,, väčšina respondentov 48 % (n = 47)
+dosiahlo skóre 0 bodov, žien bolo 45,2 % (n = 37) a mužov 62,5 % (n = 10). Jeden bod
+dosiahlo celkovo 27,5 % (n = 27) respondentov, z toho 28 % (n =23) pacientiek a 25 %
+42
+
+(n = 4) pacientov. Skóre 2 body bolo u 24,5 % (n = 24) respondentov, kde bolo 26,8 %
+(n = 22) žien a 12,5 % (n = 2) mužov.
+Kategória 5 Utešovanie
+Tabuľka 13 Kategória 5 Utešovanie
+Kategória 5Utešovanie
+
+Celý súbor
+
+pohlavie
+muž
+
+žena
+
+0 bodov-nie je
+nutné
+
+N=10 (62,5 %)
+
+N=41 (50 %)
+
+N=51 (52 %)
+
+1 bod-je možné
+rozptýliť
+
+N=4 (25 %)
+
+N=35 (43 %)
+
+N=39 (40 %)
+
+2 body-nie je
+možné utešiť
+
+N=2 (12,5 %)
+
+N=6 (7 %)
+
+N=8 (8 %)
+
+Spolu
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+V poslednej hodnotenej kategórii ,,utešovanie,, prevažná väčšina respondentov 52 % (n
+= 51) dosiahlo skóre 0 bodov, žien bolo 50 % (n = 41) a mužov 62,5 % (n = 10). Jeden
+bod dosiahlo 40 % (n = 39) pacientov, z toho 43 % (n =35) senioriek a 25 % (n = 4)
+seniorov. Najmenej respondentov 8 % (n = 8) dosiahlo skóre 2 body, z toho 7 % (n = 6)
+žien a 12,5 % (n = 2) mužov.
+PAINAD škála – celkové bodové skóre
+Tabuľka 14 PAINAD škála – celkové bodové skóre
+PAINAD
+škála
+Relaxácia a komfort
+(0 bodov)
+Mierny diskomfort
+(1-3 body)
+Stredná bolesť (4-6
+bodov)
+Silná bolesť,
+diskomfort (7-10
+bodov)
+
+Spolu
+
+pohlavie
+
+Celý súbor
+
+muž
+N=8 (50 %)
+
+žena
+N=24 (30 %)
+
+N=32 (33 %)
+
+N=2 (12,5 %)
+
+N=17 (21 %)
+
+N=19 (19 %)
+
+N=2 (12,5 %)
+
+N=25 (30,5 %)
+
+N=27 (28 %)
+
+N=4 (25 %)
+
+N=16 (19,5 %)
+
+N=20 (20 %)
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+
+43
+
+Na základe PAINAD škály väčšina respondentov 33 % (n = 32) nevykazovalo žiadnu
+bolesť, mierny diskonfort preukazovalo 19 % (n = 19) respondentov, príznaky strednej
+bolesti boli u 28 % (n = 27) respondentov, silnou bolesťoui a diskomfortom trpelo 20 %
+(n = 20) respondentov. Pri porovnaní podľa pohlavia (Graf 1) 30 % (n = 24) žien
+nevykazovalo žiadnu bolesť, 21 % (n = 17) preukazovalo miernu bolesť, stredná bolesť
+bola prítomná pri 30,5 % (n = 25) respondentiek a 19,5 % (n = 16) pacientiek mala silnú
+bolesť. U mužov prítomnosť silnej bolesti malo 25 % (n = 4), 12,5 % (n = 2) respondentov
+pociťovala strednú bolesť, mierna bolesť bola pozorovaná u 12,5 % (n = 2) pacientov
+a žiadnu bolesť nemalo 50 % (n = 8) respondentov.
+Graf 1 PAINAD škála - pohlavie
+
+Cornellova škála je merací nástroj na hodnotenie symptómov depresie u jedincov
+s pokročilou demenciou. Obsahuje 19 otázok, pričom každá otázka môže získať skóre od
+0 (neprítomnosť) po 2 (závažná), alebo "nemožno hodnotiť". Škála má 5 podškál:
+1. podškála posudzuje znaky súvisiace s náladou (A1- úzkosť, A2- smútok, A3minimálna reakcia na príjemné udalosti a A4- podráždenosť),
+2. podškála posudzuje poruchy správania (B1- nepokoj, B2- psychomotorická retardácia,
+B3- viacnásobné fyzické ťažkosti a B4- strata záujmu),
+3. podškála fyzické príznaky (C1- strata chuti do jedla, C2- strata hmotnosti a C3nedostatok energie),
+44
+
+4. podškála posudzuje cyklické funkcie (D1- denné zmeny nálady, D2- ťažkosti so
+zaspávaním, D3- viacnásobné prebúdzanie počas noci a D4- skoré ranné prebudenie) a
+5. podškála posudzuje poruchy myšlienok (E1- pesimizmus, E2- samovražedné sklony,
+E3- nízke sebavedomie a E4- bludy zodpovedajúce nálade).
+Pri vyhodnocovaní škály platí, že:
+o skóre < 6
+
+značí, že osoba je bez depresie,
+
+o skóre 6- 10 poukazuje na prítomnosť možných miernych príznakov depresie,
+o skóre > 10 indikuje pravdepodobne veľkú depresívnu epizódu a
+o skóre > 18 značí definitívne epizódy veľkej depresie.
+Podškála 1 Znaky súvisiace s náladou
+Tabuľka 15 Podškála 1 Znaky súvisiace s náladou
+Podškála 1-znaky
+súvisiace s náladou
+
+Celý súbor
+
+pohlavie
+muž
+
+žena
+
+0-2 bodov
+
+N=13 (81,25 %)
+
+N= 41(50 %)
+
+N=54 (55 %)
+
+3-4 body
+
+N=2(12,5 %)
+
+N=35 (42,7 %)
+
+N=37 (38 %)
+
+5-6 bodov
+
+N=1 (6,25 %)
+
+N=6 (7,3 %)
+
+N=7 (7 %)
+
+7-8 bodov
+
+-
+
+-
+
+-
+
+Nemožno
+hodnotiť
+Spolu
+
+-
+
+-
+
+-
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+V prvej podškále ,,znaky súvisiace s náladou,, prevažná väčšina účastníkov 55 % (n =
+54) dosiahlo celkové skóre 0-2 bodov, u žien to bolo 50 % (n = 41) a 81,25 % (n = 13) u
+mužov. Skóre 3-4 body v danej kategórii malo 12,5 % (n =2 ) mužov, 42,7 % (n = 35)
+žien a celkovo 38 % (n = 37) respondentov. Najmenej respondentov 7 % (n = 7) dosiahlo
+skóre 5-6 bodov, u mužského pohlavia bolo 6,25 % (n = 1) účastníkov a u ženského
+pohlavia 7,3 % (n = 6) účastníkov. Bodové skóre 7-8 bodov a taktiež položku ,,nemožno
+hodnotiť,, nebolo zistené u žiadnych respondentov.
+
+45
+
+Podškála 2 Poruchy správania
+Tabuľka 16 Podškála 2 Poruchy správania
+Podškála 2poruchy správania
+muž
+0-2 bodov
+N=12 (75 %)
+
+pohlavie
+
+Celý súbor
+
+žena
+N=59 (72 %)
+
+N=71 (72 %)
+
+3-4 body
+
+N=2 (12,5 %)
+
+N=18 (22 %)
+
+N=20 (21 %)
+
+5-6 bodov
+
+N=2 (12,5 %)
+
+N=5 (6 %)
+
+N=7 (7 %)
+
+7-8 bodov
+
+-
+
+-
+
+-
+
+Nemožno
+hodnotiť
+Spolu
+
+-
+
+-
+
+-
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+V podškále ,,poruchy správania,, bodové skóre 0-2 dosiahla nadpočetná väčšina
+respondentov 72 % (n = 71), u žien to bolo 72 % (n = 59) a 75 % (n = 12) u mužov. Skóre
+3-4 body v tejto kategórii malo 12,5 % (n =2 ) mužov, 22 % (n = 18) žien a celkovo 21
+% (n = 20) respondentov. Najmenej pacientov 7 % (n = 7) dosiahlo skóre 5-6 bodov,
+u mužov bolo 12,5 % (n = 2) respondentov a u žien 6 % (n = 5) respondentiek. Položku
+,,nemožno hodnotiť,, a skóre 7-8 bodov nebolo zistené u žiadnych respondentov.
+Podškála 3 Fyzické znaky
+Tabuľka 17 Podškála 3 Fyzické znaky
+Podškála 3-fyzické
+znaky
+muž
+0-2 bodov
+N=11 (69 %)
+
+pohlavie
+
+Celý súbor
+
+žena
+N=48 (58,5 %)
+
+N=59 (60 %)
+
+3-4 body
+
+N=3 (18,5 %)
+
+N=25 (30,5 %)
+
+N=28 (29 %)
+
+5-6 bodov
+
+N=2 (12,5 %)
+
+N=9 (11 %)
+
+N=11 (11 %)
+
+7-8 bodov
+
+-
+
+-
+
+-
+
+Nemožno
+hodnotiť
+Spolu
+
+-
+
+-
+
+-
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+
+46
+
+V tretej posudzovacej stupnici ,,fyzické znaky,, väčšina respondentov 60 % (n = 59)
+dosiahlo skóre 0-2 bodov, u žien to bolo 58,5 % (n = 48) a 69 % (n = 11) mužov. Skóre
+3-4 body malo 29 % (n = 28) respondentov, z toho 18,8 % (n = 3) mužov a 30,5 % (n =
+25) žien. Skóre v rozsahu 3-4 bodov dosiahlo najmenej pacientov 11 % (n = 11), z toho
+bolo 12,5 %(n = 2) pacientov a 11 % (n = 9) pacientiek. Žiaden z respondentov nedosiahol
+skóre 7-8 bodov, ani nebol označený ako "nemožno hodnotiť".
+Podškála 4 Cyklické funkcie
+Tabuľka 18 Podškála 4 Cyklické funkcie
+Podškála 4cyklické funkcie
+
+Celý súbor
+
+pohlavie
+muž
+
+žena
+
+0-2 bodov
+
+N=10 (62,6 %)
+
+N=45 (55 %)
+
+N=55 (56 %)
+
+3-4 body
+
+N=3 (18,7 %)
+
+N=23 (28 %)
+
+N=26 (26,5 %)
+
+5-6 bodov
+
+N=3 (18,7 %)
+
+N=14 (17 %)
+
+N=17 (17,5 %)
+
+7-8 bodov
+
+-
+
+-
+
+-
+
+Nemožno
+hodnotiť
+
+-
+
+-
+
+-
+
+Spolu
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+Skóre v rozmedzí 0-2 bodov v predposlednej pozorovanej podškále ,,cyklické funkcie,,
+dosiahla prevažná väčšina respondentov 56 % (n = 55), žien bolo 55 % (n = 45) a 62,6
+% (n = 10) mužov. Skóre 3-4 body malo 26,5 % (n = 26) respondentov, z toho bolo 28
+% (n = 23) žien a 18,7 % (n = 3) mužov. Namerané skóre 3-4 bodov dosiahlo najmenej
+pozorovaných pacientov 17,5 % (n = 17), 18,7 % (n = 3) bolo mužov a žien bolo 17 % (n
+= 14). Žiadny z respondentov nebol označený v položke "nemožno hodnotiť" a taktiež
+nikto nedosiahol skóre 7-8 bodov.
+
+47
+
+Podškála 5 Poruchy myšlienok
+Tabuľka 19 Podškála 5 Poruchy myšlienok
+Podškála 5poruchy myšlienok
+0-2 bodov
+
+Celý súbor
+
+muž
+N=11 (68,7 %)
+
+žena
+N=55 (67 %)
+
+N=67 (68 %)
+
+3-4 body
+
+N=4 (25 %)
+
+N=22 (27 %)
+
+N=27 (27,5 %)
+
+5-6 bodov
+
+N=1 (6,3 %)
+
+N=5 (6 %)
+
+N=4 (4,5 %)
+
+7-8 bodov
+
+-
+
+-
+
+-
+
+Nemožno
+hodnotiť
+Spolu
+
+-
+
+-
+
+-
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+pohlavie
+
+Zdroj: vlastné spracovanie
+V tabuľke ,,poruchy myšlienok,, v poslednej stupnici Cornellovej škály, žiaden z
+respondentov nedosiahol skóre 7-8 bodov, ani nebol označený ako "nemožno hodnotiť".
+Väčšina respondentov 68 % (n = 67) dosiahlo skóre 0-2 bodov, u ženského pohlavia to
+bolo 67 % (n = 55) a u mužského pohlavia 68,7 % (n = 11). Skóre 3-4 body malo 27,5
+% (n = 27) respondentov, z toho 2 % (n = 22) žien a 25 % (n = 4) mužov. Namerané skóre
+3-4 bodov dosiahlo najmenej pozorovaných respondentov a to 4,5 % (n = 4), muži tvorili
+6,3 % (n = 1) a ženy 6 % (n = 5).
+Cornellova škála – celkové bodové skóre
+Tabuľka 20 Cornelova škála – celkové bodové skóre
+Cornellova škála
+(CSDD)
+
+Celý súbor
+
+pohlavie
+muž
+
+žena
+
+Bez depresie
+( skóre <6)
+
+N=9 (56 %)
+
+N=25 (30 %)
+
+N=34 (35 %)
+
+Možné mierne
+príznaky depresie
+(skóre 6-10)
+Pravdepodobne
+veľká depresívna
+epizóda (skóre>10)
+
+-
+
+N=6 (7 %)
+
+N=6 (6 %)
+
+N=4 (25 %)
+
+N=39 (48 %)
+
+N=43 (44 %)
+
+48
+
+Definitívne epizódy N=3 (19 %)
+veľkej depresie
+(skóre >18)
+Spolu
+N=16 (100 %)
+
+N=12 (15 %)
+
+N=15 (15 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Zdroj: vlastné spracovanie
+Na základe Cornellovej škály väčšina respondentov 35 % (n = 34) nevykazovalo žiadne
+príznaky depresie, mierne príznaky depresie malo 6 % (n = 6) respondentov, príznaky
+veľkej depresívnej epizódy boli u 44 % (n = 43) respondentov, silnou depresiou trpelo 15
+% (n = 15) respondentov. Pri porovnaní podľa pohlavia (Graf 2) 30 % (n = 25) žien
+nevykazovalo príznaky depresívneho syndrómu, 7 % (n = 6) pacientiek preukazovalo
+miernu depresiu, pravdepodobne veľká depresívna epizóda bola prítomná pri 48 % (n =
+39) respondentiek a 15 % (n = 12) pacientiek mala epizódu veľkej depresie. U mužov
+prítomnosť veľkej depresie bolo u 19 % (n = 3), 25 % (n = 4) respondentov malo
+pravdepodobnosť veľkej depresie, mierna depresia nebola pozorovaná u žiadneho
+respondenta a bez depresie bolo 56 % (n = 9) pacientov.
+Graf 2 Cornellova škála - pohlavie
+
+49
+
+3.1 Verifikácia hypotéz
+H10: Predpokladáme, že nie je signifikantný rozdiel vo výskyte depresie medzi mužmi a
+ženami.
+H1A : Predpokladáme, že je signifikantný rozdiel vo výskyte depresie medzi mužmi a
+ženami.
+V hypotéze 1 sme zisťovali, štatisticky významný rozdiel vo výskyte depresie medzi
+mužmi a ženami. Na porovnanie dvoch skupín (mužov a žien) bol použitý Fisherov
+exaktný test. Tento test sa používa na zistenie, či existuje štatisticky významný rozdiel
+medzi dvoma skupinami. Výsledná p-hodnota 0,16, znamená, že neexistuje štatisticky
+významný rozdiel medzi mužmi a ženami vo výskyte depresie. Hladina štatistickej
+významnosti bola stanovená ako p < 0,05. Keďže vypočítaná p-hodnota (0,16) je vyššia
+ako stanovená hranica 0,05, nulová hypotéza (H10), ktorá predpokladá, že neexistuje
+signifikantný rozdiel vo výskyte depresie medzi mužmi a ženami, sa nezamietla.
+Tabuľka 21 Porovnanie výskytu depresie medzi pohlaviami
+Cornellova škála
+(CSDD)
+Bez depresie
+( skóre <6)
+
+muž
+N=9 (56 %)
+
+Pohlavie
+žena
+N=25 (30 %)
+
+Celý súbor
+N=34 (35 %)
+
+Možné mierne
+príznaky depresie
+(skóre 6-10)
+Pravdepodobne
+veľká depresívna
+epizóda (skóre>10)
+Definitívne epizódy
+veľkej depresie
+(skóre >18)
+Celý súbor
+
+-
+
+N=6 (7 %)
+
+N=6 (6 %)
+
+N=4 (25 %)
+
+N=39 (48 %)
+
+N=43 (44 %)
+
+N=3 (19 %)
+
+N=12 (15 %)
+
+N=15 (15 %)
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Fisherov test
+
+p-hodnota = 0,16
+
+Záver H10, H1A: Na základe výsledkov prijímame H10 (nulovú hypotézu), že výskyt
+depresie nesúvisí s pohlavím, H1A (alternatívnu hypotézu) zamietame.
+
+50
+
+H20: Predpokladáme, že nie je signifikantný rozdiel v prítomnosti bolesti podľa PAINAD
+škály medzi mužmi a ženami.
+H2A : Predpokladáme, že je signifikantný rozdiel v prítomnosti bolesti podľa PAINAD
+škály medzi mužmi a ženami.
+V rámci druhej hypotézy sme skúmali, či existuje štatisticky významný rozdiel vo
+výskyte bolesti medzi mužmi a ženami. Na analýzu bol použitý Fisherov exaktný test,
+ktorý sa využíva na testovanie asociácie medzi dvoma kategorickými premennými, najmä
+v prípadoch, keď sú očakávané početnosti v niektorých kategóriách nízke. Výsledná phodnota 0,27 naznačuje, že medzi oboma pohlaviami nebol zistený štatisticky významný
+rozdiel v intenzite bolesti. Inými slovami, muži a ženy v skúmanej vzorke pacientov
+nevykazovali významne rozdielny výskytu bolesti hodnotenej pomocou PAINAD škály.
+Štatistická významnosť bola stanovená na hladine p < 0,05, pričom získaná p-hodnota
+(0,27) túto hranicu presahuje, čo znamená, že nulová hypotéza (H20) sa nezamieta.
+Tabuľka 22 Porovnanie výskytu bolesti medzi pohlaviami
+PAINAD škála
+
+Pohlavie
+
+Celý súbor
+
+muž
+N=8 (50 %)
+
+žena
+N=24 (30 %)
+
+N=32 (33 %)
+
+N=2 (12,5 %)
+
+N=17 (21 %)
+
+N=19 (19 %)
+
+Stredná bolesť (4-6
+bodov)
+
+N=2 (12,5 %)
+
+N=25 (30,5 %)
+
+N=27 (28 %)
+
+Silná bolesť,
+diskomfort (7-10
+bodov)
+Celý súbor
+
+N=4 (25 %)
+
+N=16 (19,5 %)
+
+N=20 (20 %)
+
+N=16 (100 %)
+
+N=82 (100 %)
+
+N=98 (100 %)
+
+Fisherov test
+
+p-hodnota = 0,27
+
+Relaxácia
+a komfort
+(0 bodov)
+Mierny diskomfort
+(1-3 body)
+
+Záver H10, H1A: Nulovú hypotézu (H20) na základe našich výsledkov prijímame, že
+výskyt bolesti nesúvisí s pohlavím, alternatívnu hypotézu (H2A) neprijímame.
+
+51
+
+H30: Predpokladáme, že nie je signifikantný rozdiel vo výskyte depresie podľa
+Cornellovej škály u pacientov s 2. a s 3. stupňom demencie podľa MMSE testu.
+H3A : Predpokladáme, že je signifikantný rozdiel vo výskyte depresie podľa Cornellovej
+škály u pacientov s 2. a s 3. stupňom demencie podľa MMSE testu.
+V hypotéze 3 sme zisťovali štatisticky významný rozdiel vo výskyte depresie podľa
+Cornellovej škály u pacientov v 2. a v 3. štádiu demencie. Na porovnanie bol použitý
+Fisherov exaktný test. Tento test sa používa na zistenie, či existuje štatisticky významný
+rozdiel medzi dvoma skupinami. Výsledná p-hodnota 0,68 znamená, že neexistuje
+štatisticky významný rozdiel medzi 2. a 3. stupňom demencie vo výskyte depresie.
+Hladina štatistickej významnosti bola stanovená ako p < 0,05. Keďže vypočítaná phodnota (0,68) je vyššia ako stanovená hranica 0,05, nulová hypotéza (H30), ktorá
+predpokladá, že neexistuje štatisticky významný rozdiel vo výskyte depresie medzi
+rôznymi stupňami demencie sa prijíma.
+Tabuľka 23 Porovnanie výskytu depresie v 2. a v 3. stupni demencie
+Cornellova škála
+(CSDD)
+Bez depresie
+( skóre <6)
+
+Štádium demencie podľa MMSE testu
+2.stupeň
+3.stupeň
+N=19 (37 %)
+N=15 (32 %)
+
+Celý súbor
+
+Možné mierne
+príznaky depresie
+(skóre 6-10)
+Pravdepodobne
+veľká depresívna
+epizóda (skóre>10)
+Definitívne epizódy
+veľkej depresie
+(skóre >18)
+Celý súbor
+
+N=4 (8 %)
+
+N=2 (4 %)
+
+N=6 (6 %)
+
+N=22 (43 %)
+
+N=21 (45 %)
+
+N=43 (44 %)
+
+N=6 (12 %)
+
+N=9 (19 %)
+
+N=15 (15 %)
+
+N=51 (100 %)
+
+N=47 (100 %)
+
+N=98 (100 %)
+
+Fisherov test
+
+p-hodnota = 0,68
+
+N=34 (35 %)
+
+Záver H30, H3A: Na základe výsledkov prijímame hypotézu H30 (nulovú), že výskyt
+depresie nesúvisí so štádiom demencie, hypotézu H3A (alternatívnu) zamietame.
+
+52
+
+H40: Predpokladáme, že nie je signifikantný rozdiel v prítomnosti bolesti podľa PAINAD
+škály u pacientov s 2. a 3. stupňom demencie podľa MMSE testu.
+H4A : Predpokladáme, že je signifikantný rozdiel v prítomnosti bolesti podľa PAINAD
+škály u pacientov s 2. a 3. stupňom demencie podľa MMSE testu.
+Hypotéza 4 skúmala, či sa výskyt bolesti (hodnotený pomocou PAINAD škály) líši
+medzi pacientmi v 2. a v 3. štádiu demencie. Na analýzu bol použitý Chí-kvadrát test,
+ktorý overuje existenciu štatisticky významnej asociácie medzi dvoma kategorickými
+premennými. Tento test predpokladá náhodný výber údajov a minimálnu očakávanú
+početnosť 5 v každej kategórii. Výsledná p-hodnota 0,33 naznačuje, že medzi týmito
+dvoma skupinami pacientov nebol zistený štatisticky významný rozdiel vo výskyte
+bolesti. To znamená, že závažnosť demencie v 2. a v 3. štádiu nemusí byť priamo spojená
+s rôznou intenzitou bolesti podľa PAINAD škály. Keďže stanovená hladina štatistickej
+významnosti bola p < 0,05 a vypočítaná p-hodnota (0,33) túto hranicu presahuje, nulová
+hypotéza (H40) sa neodmieta.
+Tabuľka 24 Porovnanie výskytu bolesti v 2. a v 3. stupni demencie
+PAINAD škála
+
+Štádium demencie podľa MMSE testu
+2.stupeň
+3.stupeň
+N=19 (37 %)
+N=13 (28 %)
+
+Celý súbor
+
+N=11 (21,5 %)
+
+N=8 (17 %)
+
+N=19 (19 %)
+
+Stredná bolesť (4-6
+bodov)
+
+N=10 (20 %)
+
+N=17 (36 %)
+
+N=27 (28 %)
+
+Silná bolesť,
+diskomfort (7-10
+bodov)
+Celý súbor
+
+N=11 (21,5 %)
+
+N=9 (19 %)
+
+N=20 (20 %)
+
+N=51 (100 %)
+
+N=47 (100 %)
+
+N=98 (100 %)
+
+Chi-kvadrát test
+
+χ2(2)= 3.456
+
+df = 3
+
+p-hodnota = 0,33
+
+Relaxácia
+a komfort
+(0 bodov)
+Mierny diskomfort
+(1-3 body)
+
+N=32 (33 %)
+
+Záver H40, H4A: Na základe výsledkov prijímame H40, že výskyt bolesti nesúvisí so
+štádiom demencie, H4A neprijímame.
+
+53
+
+H50: Predpokladáme, nie je signifikantný rozdiel vo výskyte depresie podľa Cornellovej
+škály medzi pacientami s rôznou dĺžkou umiestnenia v centre.
+H5A : Predpokladáme, je signifikantný rozdiel vo výskyte depresie podľa Cornellovej
+škály medzi pacientami s rôznou dĺžkou umiestnenia v centre.
+Piatou hypotézou sme zisťovali, či existuje štatisticky významný rozdiel vo výskyte
+depresie (meranej pomocou Cornellovej škály) medzi pacientami s rôznou dĺžkou
+umiestnenia v zariadení sociálnych služieb. Bol použitý Chí- kvadrát test. Výsledná phodnota 0,77 znamená, že neexistuje štatisticky významný rozdiel vo výskyte depresie
+medzi pacientami s rôznou dĺžkou umiestnenia. To naznačuje, dĺžka pobytu v centre
+nemusí byť spojená s úrovňou depresie. Štatistická významnosť bola stanovená na
+hladine p < 0,05 a keďže vypočítaná p-hodnota (0,77) je vyššia ako táto hranica, nulová
+hypotéza sa prijíma.
+Tabuľka 25 Porovnanie výskytu depresie pri dĺžke umiestnenia v zariadení
+Dĺžka
+
+Bez depresie
+umiestnenia ( skóre <6)
+v centre
+(roky)
+
+Cornellova škála (CSDD)
+Možné
+Pravdepodob
+mierne
+ne veľká
+príznaky
+depresívna
+depresie
+epizóda
+(skóre 6-10) (skóre>10)
+
+Definitívne
+epizódy
+
+Celý
+súbor
+
+veľkej
+
+depresie
+(skóre >18)
+
+do 5 rokov
+
+N=26 (76 %)
+
+N=6 (100 %)
+
+N=33 (77 %)
+
+N=12(80%)
+
+N=77
+(79 %)
+
+6-10 rokov
+
+N=6 (18 %)
+
+-
+
+N=9 (21 %)
+
+N=3 (20 %)
+
+N=18
+(18 %)
+
+Nad 10
+rokov
+
+N=2 (6 %)
+
+-
+
+N=1 (2 %)
+
+-
+
+N=3
+(3 %)
+
+Celý súbor
+
+N=34
+(100 %)
+
+N=6
+(100 %)
+
+N=43
+(100 %)
+
+N=15
+(100 %)
+
+N=98
+(100 %)
+
+Chikvadrát
+test
+
+χ2(2)=
+3.2819
+
+df=6
+
+p-hodnota =
+0,77
+
+Záver H50, H5A: Na základe výsledkov prijímame nulovú hypotézu H50, že výskyt
+depresie nesúvisí s dĺžkou umiestnenia pacienta v zariadení, alternatívnu hypotézu H5A
+zamietame.
+
+54
+
+H60: Predpokladáme, nie je signifikantný rozdiel vo výskyte bolesti podľa PAINAD
+škály medzi pacientami s rôznou dĺžkou umiestnenia v centre.
+H6A : Predpokladáme, je signifikantný rozdiel vo výskyte bolesti podľa PAINAD škály
+medzi pacientami s rôznou dĺžkou umiestnenia v centre.
+V rámci hypotézy 6 sme sa zaoberali otázkou, či existuje štatisticky významný rozdiel
+vo výskyte bolesti, hodnotenej pomocou PAINAD škály, medzi pacientami s rôznou
+dĺžkou pobytu v zariadení sociálnych služieb. Na analýzu bol použitý Chí- kvadrát test,
+ktorý sa používa na hodnotenie vzťahu medzi kategorickými premennými. Test
+predpokladá náhodný výber údajov a dostatočne vysoké očakávané početnosti v
+jednotlivých kategóriách. Výsledná p-hodnota 0,48 naznačuje, že medzi pacientami s
+kratším a dlhším pobytom v zariadení nebol zistený štatisticky významný rozdiel v
+intenzite bolesti. Inými slovami, dĺžka umiestnenia v centre sociálnych služieb sa
+neprejavila ako faktor ovplyvňujúci vnímanie alebo výskyt bolesti u pacientov s
+demenciou. Tento výsledok môže naznačovať, že faktory ako individuálna zdravotná
+starostlivosť, typ poskytovaných služieb či samotný priebeh ochorenia majú väčší vplyv
+na úroveň bolesti než samotná dĺžka pobytu. Keďže štatistická významnosť bola
+stanovená na hladine p < 0,05 a získaná p-hodnota (0,48) je vyššia, nulová hypotéza sa
+nezamieta.
+Tabuľka 26 Porovnanie výskytu bolesti pri dĺžke umiestnenia v zariadení
+Dĺžka
+umiestnenia Relaxácia
+a komfort
+v centre
+(0 bodov)
+(roky)
+do 5 rokov
+6-10 rokov
+Nad 10
+rokov
+Celý súbor
+Chikvadrát test
+
+N=26
+(81 %)
+N=5
+(16 %)
+N=1
+(3 %)
+N=32
+(100 %)
+χ2(2)=5.5172
+
+PAINAD škála
+Mierny
+diskomfort
+(1-3 body)
+
+Stredná
+bolesť (4-6
+bodov)
+
+Silná bolesť,
+diskomfort
+(7-10
+bodov)
+
+N=15
+(79 %)
+N=4
+(21 %)
+-
+
+N=18
+(67 %)
+N=7
+(26 %)
+N=2
+(7 %)
+N=27
+(100 %)
+p-hodnota
+=0,48
+
+N=18
+( 90%)
+N=2
+(10 %)
+-
+
+N=19
+(100 %)
+df=6
+
+N=20
+(100 %)
+
+Celý
+súbor
+
+N=77
+(79 %)
+N=18
+(18 %)
+N=3
+(3 %)
+N=98
+(100 %)
+
+Záver H60, H6A: Na základe výsledkov prijímame H60 (nulovú), že výskyt bolesti nesúvisí
+s dĺžkou umiestnenia pacienta v zariadení, H6A (alternatívna ) zaniká.
+55
+
+H70: Predpokladáme, že nie je signifikantný rozdiel vo výskyte depresie podľa
+Cornellovej škály medzi pacientami v rôznych vekových kategóriách.
+H7A : Predpokladáme, že je signifikantný rozdiel vo výskyte depresie podľa Cornellovej
+škály medzi pacientami v rôznych vekových kategóriách.
+Hypotéza 7 sa zameriavala na skúmanie, či existuje štatisticky významný rozdiel vo
+výskyte depresie, hodnotenej pomocou Cornellovej škály, medzi pacientami v rôznych
+vekových kategóriách v zariadení sociálnych služieb. Na tento účel bol použitý Chíkvadrát test, ktorý sa využíva na analýzu vzťahu medzi kategorickými premennými. Test
+predpokladá náhodný výber údajov a dostatočné očakávané početnosti v každej kategórii.
+Výsledná p-hodnota 0,73 naznačuje, že medzi rôznymi vekovými skupinami pacientov
+nebol zistený štatisticky významný rozdiel vo výskyte depresie. To znamená, že vek
+pacienta v rámci skúmanej vzorky nebol faktorom, ktorý by významne ovplyvňoval
+pravdepodobnosť výskytu depresie podľa Cornellovej škály. Štatistická významnosť bola
+stanovená na hladine p < 0,05, pričom získaná p-hodnota (0,73) túto hranicu výrazne
+prekračuje. Z tohto dôvodu sa alternatívna hypotéza, ktorá predpokladala existenciu
+rozdielu medzi vekovými skupinami, zamieta.
+Tabuľka 27 Porovnanie výskytu depresie v rôznych vekových kategóriách
+Veková
+kategória
+pacienta
+
+Cornellova škála (CSDD)
+Bez
+depresie
+( skóre <6)
+
+Definitívne
+epizódy
+veľkej
+depresie
+(skóre >18)
+
+Celý
+súbor
+
+depresie
+(skóre 6-10)
+
+Pravdepodob
+ne veľká
+depresívna
+epizóda
+(skóre>10)
+
+Možné
+mierne
+
+príznaky
+
+50-59 rokov
+
+N=1 (3%)
+
+-
+
+N=3 (7%)
+
+-
+
+N=4(4%)
+
+60-69 rokov
+
+N=5 (15%)
+
+-
+
+N=3 (7%)
+
+N=3 (20%)
+
+70-79 rokov
+
+N=10 (29%)
+
+N=3 (50%)
+
+N=13(30%)
+
+N=7 (47%)
+
+80-89 rokov
+
+N=16 (47%)
+
+N=3 (50%)
+
+N=23(54%)
+
+N=5 (33%)
+
+90 a viac r.
+
+N=2 (6%)
+
+-
+
+N=1(2%)
+
+-
+
+N=11
+(11%)
+N=33
+(34%)
+N=47
+(48%)
+N=3(3%)
+
+Celý súbor
+
+N=34
+(100%)
+χ2(2)=8.7279
+
+N=6
+(100%)
+df=12
+
+N=43
+(100%)
+p-hodnota
+=0,73
+
+N=15
+(100%)
+
+N=98
+(100%)
+
+Chi-kvadrát
+test
+
+Záver H70, H7A: Na základe výsledkov prijímame H70, že výskyt depresie nesúvisí
+s vekom pacienta,, H7A neprijímame.
+56
+
+H80:: Predpokladáme, že nie je signifikantný rozdiel vo prítomnosti bolesti podľa
+PAINAD škály medzi pacientami v rôznych vekových kategóriách.
+H8A : Predpokladáme, že je signifikantný rozdiel vo prítomnosti bolesti podľa PAINAD
+škály medzi pacientami v rôznych vekových kategóriách.
+Hypotéza 8 skúmala, či existuje štatisticky významný rozdiel vo výskyte bolesti,
+hodnotenej pomocou PAINAD škály, medzi pacientmi patriacimi do rôznych vekových
+kategórií. Na analýzu sme použili Chí-kvadrát test, ktorý sa využíva na určenie vzťahu
+medzi kategorickými premennými. Výsledná p-hodnota 0,04 naznačuje, že medzi
+jednotlivými vekovými skupinami pacientov bol identifikovaný štatisticky významný
+rozdiel vo výskyte bolesti. Tento výsledok naznačuje, že vek môže byť faktorom
+ovplyvňujúcim intenzitu bolesti u pacientov. Navyše, výsledky doplnkového Pairwise
+prop testu odhalili štatisticky významný rozdiel p = 0,014 medzi pacientami, ktorí
+pociťovali mierny diskomfort, a tými, ktorí trpeli silnou intenzitou bolesti. To znamená,
+že distribúcia bolesti medzi rôznymi vekovými skupinami sa v týchto dvoch kategóriách
+podľa PAINAD škály výrazne líši. Štatistická významnosť bola stanovená na hladine p <
+0,05, pričom vypočítaná p-hodnota (0,04) je nižšia než táto hranica, čo nás vedie k
+nezamietnutiu alternatívnej hypotézy.
+Tabuľka 28 Porovnanie výskytu bolesti v rôznych vekových kategóriách
+Veková
+kategória
+pacienta
+
+Relaxácia
+a komfort
+(0 bodov)
+
+PAINAD škála
+Mierny
+Stredná
+diskomfort
+bolesť (4-6
+(1-3 body)
+bodov)
+
+Silná bolesť,
+diskomfort
+(7-10 bodov)
+
+50-59 r.
+
+-
+
+-
+
+N=2 (7,5%)
+
+N=2 (10%)
+
+N=4
+(4%)
+
+60-69 r.
+
+N=3 (9,5%)
+
+N=2 (10,5%)
+
+-
+
+N=6 (30%)
+
+N=11
+(11%)
+
+70-79 r.
+
+N=11 (34,5%)
+
+N=7 (37%)
+
+N=7 (26%)
+
+N=8 (40%)
+
+N=33
+(34%)
+
+80-89 r.
+
+N=17 (53%)
+
+N=10(52,5%) N=16 (59%)
+
+N=4 (20%)
+
+N=47
+(48%)
+
+90 a viac
+rokov
+
+N=1 (3%)
+
+-
+
+-
+
+N=3
+(3%)
+
+N=2 (7,5%)
+
+57
+
+Celý
+súbor
+
+Celý súbor N=32 (100%)
+
+N=19 (100%) N=27 (100%) N=20 (100%) N=98
+(100%)
+
+Chíkvadrát
+test
+
+χ2(2)=21.831
+
+df=12
+
+Pairwise
+prop test
+
+A
+B
+C
+A
+1.000
+B
+0.936 0,936
+C
+0,173
+0,389
+0,014
+
+p-hodnota
+=0,014
+
+p-hodnota
+=0,04
+
+Záver H80, H8A: Na základe výsledkov prijímame H8A (alternatívnu hypotézu), že výskyt
+bolesti súvisí s vekom pacienta, H80 (nulovú hypotézu) zamietame.
+
+58
+
+4 DISKUSIA
+Demencia a depresia sú bežné duševné problémy u starších ľudí, ktoré spolu úzko
+súvisia a negatívne ovplyvňujú kvalitu života pacienta, kognitívne funkcie a tiež zvyšujú
+morbiditu a pravdepodobnosť úmrtia. Bolesť u pacientov s dementným syndrómom je
+veľmi často podceňovaná a nedostatočne liečená, pretože demencia sťažuje hodnotenie
+bolesti z dôvodu zhoršenia pamäte, myslenia, vnímania, poruchami správania a verbálnej
+komunikácie. Neliečená bolesť vedie k behaviorálnym a psychologickým symptómom
+demencie, ako sú agresivita či úzkosť. Preto sa v posledných rokoch venuje zvýšená
+pozornosť vývoju nástrojov na hodnotenie symptómov depresie a bolesti u pacientov
+trpiacich demenciou (Malara, Garo et.al., 2016).
+V diplomovej práci sme sa zamerali na prítomnosť bolesti a depresie u pacientov so
+stredne ťažkou až ťažkou formou demencie, ktorým je poskytovaná inštitucionalizovaná
+starostlivosť, pomocou posudzovacej škály PAINAD pre bolesť a Cornellovej škály pre
+depresiu.
+Prvou hypotézou sme zisťovali rozdiel vo výskyte depresie medzi mužmi a ženami
+pomocou Cornellovej škály (CSDD), ktorá obsahovala 5 podškál s 19 otázkami (Tabuľka
+21). Celkový súbor žien tvorilo n= 82, bez depresie bolo n= 25 respondentiek a s rôznym
+stupňom depresívneho syndrómu bolo n= 57 pacientiek. Mužov celkový súbor tvorilo n=
+16, bez depresie bolo n= 9 seniorov a s rôznym stupňom depresívneho syndrómu bolo n=
+7 pacientov. Čo potvrdzuje prítomnosť depresie u oboch pohlaví. Na porovnanie dvoch
+skupín (žien a mužov) bol použitý Fisherov exaktný test, kde bola výsledná p-hodnota
+0,16. Výsledky našej analýzy ukázali, že neexistuje štatisticky významný rozdiel vo
+výskyte depresie medzi mužmi a ženami. Hoci niektoré štúdie naznačujú, že ženy môžu
+mať vyššiu mieru depresívnych symptómov v porovnaní s mužmi, tento rozdiel sa v
+našom súbore neprejavil ako štatisticky významný. Ženy častejšie uvádzajú pocity
+smútku, beznádeje a zmeny nálad, zatiaľ čo muži môžu vykazovať externalizované
+symptómy ako podráždenosť alebo agresivitu, ktoré nemusia byť zachytené tradičnými
+škálami depresie. Tieto rozdiely môžu viesť k podhodnoteniu depresie u mužského
+pohlavia pri použití štandardných diagnostických nástrojov (Lee, 2014). Depresia u
+starších dospelých je výzvou pre verejné zdravie, ktorá si vyžaduje rýchlu prevenciu.
+Výsledky analýzy (Park et al., 2022), založené na 20 navrhnutých štúdiách, ukazujú, že
+CSDD možno použiť ako nástroj na skríning depresie u všetkých starších dospelých.
+59
+
+Autori uvádzajú, že u starších dospelých s demenciou vykazovala súhrnná citlivosť sROC
+AUC ≥ 0,9 vysokú diagnostickú presnosť. Preto CSDD predstavuje robustný skríningový
+nástroj prvej línie na hodnotenie depresie u staršej populácie dospelých s demenciou.
+Wongpakaran et al. (2013) vo svojej prierezovej štúdii s výskumnou vzorkou n= 84
+respondentov v domove domácej ošetrovateľskej starostlivosti v Thajsku uvádza, že
+Cornellovej škála je platným validovaným nástrojom na meranie depresívnych porúch
+medzi obyvateľmi v prostredí dlhodobej starostlivosti a štatisticky nebol zistený žiadny
+rozdiel z hľadiska pohlavia, rodinného stavu, veku, vzdelania či kognitívneho stavu
+rezidentov. Výsledky štúdie docentky Kořínkovej a kol. (2001), kde výskumnú vzorku
+tvorilo n= 200 respondentov sa taktiež potvrdilo, že pohlavie nebolo štatisticky
+signifikatným faktorom pri výskyte depresie. Analýza Martina a kol. (2013) s použitím
+škály, ktorá zahŕňala alternatívne a tradičné symptómy depresie, zistila, že muži a ženy
+spĺňali kritériá depresie v rovnakom pomere (30,6 % mužov a 33,3 % žien), ale neboli
+štatisticky významné rozdiely medzi pohlaviami v prevalencii depresie.
+
+Druhou hypotézou sme skúmali rozdiel vo výskyte bolesti medzi mužmi a ženami
+pomocou PAINAD škály, ktorá obsahovala päť subškál (Tabuľka 22). Celkový počet
+tvorilo n= 82 žien, bez bolesti bolo n= 24 respondentiek a s rôznou intenzitou bolesti bolo
+n= 58 pacientiek. Muži tvorili celkový počet n= 16, kde bez príznakov bolesti bolo n= 8
+respondentov a s rôznou intenzitou bolesti bolo taktiež n= 8 pacientov. Čo potvrdzuje
+prítomnosť bolesti u oboch pohlaví. Na porovnanie oboch pohlaví bol použitý Fisherov
+exaktný test, kde bola výsledná p-hodnota 0,27. Z našej analýzy výsledkov vyplýva, že
+neexistuje signifikantný rozdiel vo výskyte bolesti medzi mužmi a ženami. Väčšina štúdii
+naznačuje, že bolesť je nedostatočne rozpoznaná a nedostatočne liečená u ľudí s ťažkou
+demenciou. Identifikácia bolesti je prvým krokom v jej efektívnom zvládaní. Jordan et al.
+(2011) uskutočnila štúdiu so n= 79 účastníkmi domova dôchodcov, kde citlivosť
+PAINAD škály bola 92 % bez ohľadu na pohlavie a je vhodným nástrojom na zisťovanie
+bolesti u ľudí s pokročilou demenciou. Nascimento (2020) poukazuje na to, že napriek
+rastúcej literatúre na túto tému, stále existuje len obmedzené množstvo štúdií zameraných
+na vplyv pohlavia na vnímanie bolesti. Lepšie porozumenie mechanizmom, ktoré tieto
+rozdiely ovplyvňujú, by mohlo v budúcnosti prispieť k presnejším epidemiologickým
+údajom a zároveň usmerniť vývoj cielenejšej liečby. Zhang a kol. (2021) pri analýze
+výsledkov vo svojej štúdii uvádza, že pacienti ženského a mužského pohlavia neboli
+
+60
+
+vnímaní tak, že by pociťovali rozdielnu intenzitu bolesti (priemer u žien = 34,10 a priemer
+u mužov = 33,39) predtým, ako sa kontrolovala expresivita tváre pacientov a bolesť
+vyjadrená vlastným vyjadrením. Čo nepodporuje hypotézu o väčšej vnímanej bolesti
+u žien celkovo. Možné vysvetlenie môže spočívať v podobnom prístupe k manažmentu
+bolesti a jej liečbe u mužov aj u žien, ako aj v ďalších faktoroch, ako sú individuálne
+rozdiely v prahovej hodnote bolesti, komorbidity alebo kognitívne schopnosti, ktoré
+ovplyvňujúce prejavy bolesti. Budúce výskumy by mohli podrobnejšie preskúmať, či
+existujú rozdiely v subjektívnom vnímaní bolesti medzi pohlaviami, prípadne aké ďalšie
+premenné (napríklad psychologické aspekty, rozdielne reakcie na analgetiká, hormonálne
+faktory a iné) môžu zohrávať úlohu pri vnímaní a vyjadrovaní bolesti u žien a u mužov.
+Analýza tretej hypotézy pomocou Fisherovho exaktného testu (p-hodnota 0,68)
+nepreukázala štatisticky významný rozdiel vo výskyte depresie medzi pacientmi s 2. a 3.
+stupňom demencie na základe MMSE testu a hodnotenia Cornellovej škály (CSDD)
+(Tabuľka 23). Aj keď depresia patrí medzi časté psychiatrické komorbidity u pacientov s
+demenciou, jej výskyt sa v našej výskumnej vzorke nelíši medzi rôznymi stupňami
+demencie. Niektoré štúdie naznačujú, že depresívne symptómy môžu byť prítomné v
+rôznych štádiách demencie. Iné výskumy však poukazujú na vyššiu frekvenciu depresie
+v skorších fázach demencie, kedy si pacienti ešte v značnej miere uvedomujú svoj
+kognitívny deficit. V pokročilejších štádiách môžu byť depresívne symptómy maskované
+alebo nesprávne interpretované. Diagnostika depresie u pacientov trpiacich demenciou je
+komplikovaná kvôli prekrývaniu symptómov, čo môže viesť k podhodnoteniu alebo
+nadhodnoteniu výskytu depresie. Yu et al. (2014) vo svojej kórejskej prierezovej štúdii
+na výskyt depresie so stredným a neskorým nástupom dementného syndrómu, ktorá
+zahŕňala n = 1 824 pacientov, vyplynulo, že dementný syndróm bol významne spojený s
+prítomnosťou depresie. Z výsledkov štúdie Dorenlot et al. (2005) so n = 348 pacientami
+s demenciou (priemerný vek respondentov bol 81 rokov, z celkového počtu bolo 69,8 %
+žien, v 65,5 % bola diagnostikovaná demencia Alzheimerovho typu, priemerné
+východiskové skóre MMSE 20,5 bodov), vyplýva, že kritériá ťažkej depresie dosiahlo na
+začiatku 25 % pacientov a iba 30,3 % z nich dostávalo antidepresívnu liečbu. Veľká
+depresia na začiatku bola nezávisle spojená s prijatím do domova dôchodcov do jedného
+roka od počiatočného hodnotenia. Antidepresívna liečba mala tendenciu chrániť pred
+týmto výsledkom, ale nie v štatisticky významnom rozsahu.
+
+61
+
+V štvrtej výskumnej hypotéze sme skúmali rozdiel v prítomnosti bolesti u pacientov
+s 2. a 3. stupňom demencie podľa MMSE testu a PAINAD škály (Tabuľka 24). Pomocou
+Chí-kvadrát testu, kde p-hodnota 0,33 preukázala, že medzi pacientmi s 2. a 3. stupňom
+demencie neexistuje štatisticky významný rozdiel vo výskyte bolesti. To znamená, že v
+rámci našej vzorky sa výskyt bolesti nelíšil v závislosti od stupňa demencie. Absencia
+štatisticky významného rozdielu môže naznačovať, že bolesť je u pacienta s demenciou
+prítomná bez ohľadu na stupeň kognitívneho deficitu. Niektoré výskumy ukazujú, že
+pacienti s ťažšou formou demencie majú zníženú schopnosť verbálne sa vyjadrovať, čo
+môže viesť k rôznej identifikácii a hodnoteniu bolesti. PAINAD škála je určená na
+hodnotenie bolesti u pacientov s narušenou komunikáciou, avšak aj napriek tomu môžu
+existovať rôzne rozdiely v prejavoch bolesti, ktoré ovplyvňujú jej hodnotenie. Bolesť u
+pacientov s demenciou môže byť ovplyvnená viacerými faktormi, ako sú komorbidita,
+farmakologická liečba alebo individuálne rozdiely v prahu bolesti. Existujú určité dôkazy,
+že bolesť pri demencii súvisí s rôznymi behaviorálnymi symptómami, ako je depresia,
+úzkosť, verbálne zneužívanie, blúdenie, nepokoj či agresivita. Vzťah bolesti s funkčným
+poškodením nebol v populácii s demenciou tak dobre študovaný, alebo štúdie mali nízku
+metodologickú kvalitu (Achterberg, 2019). Atee et al. (2021) sa zamerali na skúmanie
+prevalencie a intenzity bolesti u ľudí žijúcich v domovoch pre seniorov podľa podtypov
+demencie a súvislosť medzi intenzitou bolesti u n = 479 respondentov. Dve tretiny (65,6
+%) mali identifikovanú bolesť, pričom takmer polovica z účastníkov (48,4 %) malo
+kategorizovanú stredne ťažkú až silnú bolesť. Bolesť bola vysoko prevládajúca (rozsah
+54,6 – 78,6 %) vo všetkých podtypoch demencie, najmä pri zmiešanej demencii. Wang
+et al. (2023) vo svojej štúdii uvádzajú, že ľudia, ktorí trpeli chronickou bolesťou, sú
+vystavení zvýšenému riziku vzniku demencie, bez ohľadu na pohlavie, vek, typ alebo
+štádium demencie a podtypy chronickej bolesti.
+Piatou hypotézou sme zisťovali rozdiel vo výskyte depresie medzi pacientami
+s rôznou dĺžkou umiestnenia v centre (Tabuľka 25). Pri analýze sme použili Chí- kvadrát
+test, kde bola výsledná p-hodnota 0,77, z čoho vyplýva, že neexistuje signifikantný
+rozdiel vo výskyte depresívnych syndrómov (hodnoty pomocou Cornellovej škály) medzi
+pacientmi s rôznou dĺžkou pobytu v špecializovanom zariadení. Hoci sme predpokladali,
+že pobyt v centre ovplyvňuje psychický stav pacientov, výsledky tejto štúdie nenaznačujú
+jasnú nesúvislosť. V literatúre existujú dôkazy o významnej prevalencii depresie u staršej
+populácie žijúcej v zariadeniach a taktiež výskumy v tejto oblasti poukazujú na to, že
+62
+
+depresia u seniorov v inštitucionálnej dlhodobej starostlivosti môže súvisieť skôr s
+individuálnymi faktormi, ako sú sociálna izolácia, strata blízkych, zdravotný stav či
+kognitívny pokles, než je samotná dĺžka umiestnenia v zariadení. Na druhej strane,
+kvalitná starostlivosť, dostupnosť sociálnych aktivít a podpora ošetrujúceho personálu
+môžu prispievať k stabilizácii psychického stavu pacientov bez ohľadu na dĺžku
+umiestnenia. Cornellova škála je založená na subjektívnom hodnotení depresie, ktoré je
+ovplyvnené nielen aktuálnym psychickým stavom pacienta, ale aj hodnotiteľom
+(Almomani, Bani-Issa, 2017). Tan et al. (2023) sa vo svojej štúdii zamerali na prehľad
+literatúry, kde do záverečnej syntézy bolo zahrnutých 9 prác publikovaných v rokoch
+1991 až 2022. Na hodnotenie depresie sa použili viaceré kategorizácie frekvencie návštev
+a rôzne škály. Výsledky preukázali, že depresia medzi obyvateľmi zariadení starostlivosti
+o seniorov sa pohybovala od 20 % do 58,7 %, pričom 40 % štúdií preukázalo pozitívnu
+súvislosť medzi frekvenciou rodinných návštev a nižšou mierou depresie. Návštevy v
+rodine zmierňovali osamelosť a depresiu medzi rezidentami v starobe, no na depresiu
+vplývali aj iné faktory ako kultúra, komorbidity a funkčné poruchy, príležitosti na
+socializáciu a tiež sociálne zapojenie personálu zariadenia. Prehľad zdôraznil širšiu a
+kľúčovú úlohu zdravotníckeho personálu pri uľahčovaní socializácie a podpore duševnej
+pohody klientov, najmä tých, ktorých nenavštevujú rodiny. Watson et al. (2003) vo
+výskume s počtom respondentov n= 2 078 vo veku 65 rokov a starších, umiestnených v
+193 zariadeniach asistovaného bývania v štyroch štátoch (Florida, Maryland, New Jersey
+a Severná Karolína) a boli klasifikovaní ako depresívni a ich skóre na Cornellovej škále
+depresie pri demencii (CSDD) prekročilo hodnotu 7 uvádzajú, že 13 % pacientov malo
+depresiu a len 18 % z nich užívalo antidepresíva. Viac ako jedna tretina obyvateľov mala
+príznaky depresie, ako sú úzkostné výrazy, prežúvanie alebo obavy, a 25 % malo smutný
+hlas, smutný výraz alebo plačlivosť. Depresia bola signifikantne spojená s medicínskou
+komorbiditou, psychózou a agitáciou, dĺžka pobytu v zariadení nebola rozhodujúca.
+Analýza šiestej hypotézy nepreukázala štatisticky významný rozdiel vo výskyte
+bolesti medzi pacientmi s rôznou dĺžkou umiestnenia v sociálnom zariadení. Výsledky
+analýzy pomocou Chí- kvadrát testu s p-hodnotou 0,48, naznačujú, že dĺžka pobytu v
+zariadení významne neovplyvňuje výskyt bolesti u pacientov s demenciou (Tabuľka 26).
+Absencia štatistického významného rozdielu môže byť spôsobená viacerými faktormi. Je
+možné, že bolesť je u seniorov v zariadeniach dlhodobej starostlivosti bežným javom,
+ktorý je častejšie ovplyvnený individuálnym zdravotným stavom a komorbiditami, než
+63
+
+celkovou dĺžkou pobytu. Kvalitná zdravotná starostlivosť, adekvátna analgetická liečba
+a pravidelné monitorovanie bolesti môžu zabezpečiť relatívne stabilnú úroveň zvládania
+bolesti bez ohľadu na to, ako dlho sú klienti umiestnení. Hodnotenie bolesti u pacientov
+s kognitívnym deficitom je náročné, pretože títo pacienti majú často narušenú verbálnu
+komunikáciu, príznaky a prejavy bolesti môžu byť nesprávne interpretované. PAINAD
+škála poskytuje štandardizovaný spôsob hodnotenia bolesti, avšak jej výsledky môžu byť
+ovplyvnené subjektívnym hodnotením sekundárneho zdroja a nie samotného pacienta.
+V štúdii Husebo et al. (2011) s počtom n= 352 respondentov so stredne ťažkou až ťažkou
+demenciou a klinicky významnými poruchami správania, popisujú, že včasné zistenie
+prítomnosti bolesti a jej správna liečba bola významne prospešná pre celkovú závažnosť
+neuropsychiatrických symptómov. Systematický prístup k zvládaniu bolesti významne
+znížil agitovanosť u obyvateľov domovov dôchodcov so stredne ťažkou až ťažkou
+demenciou. Účinné zvládanie bolesti môže hrať dôležitú úlohu pri liečbe agitovanosti a
+mohlo by znížiť aj počet zbytočných predpisov na psychofarmaká v tejto populácii.
+Autori (Achterberg et al., 2021) vo svojej štúdii urobili rešerš literatúry pomocou
+hľadaných výrazov bolesť, demencia, manažment, medikácia a nedostatočná liečba
+medzi rokmi 2015 - 2020. Táto aktualizácia nedávnej literatúry podporuje pretrvávajúce
+obavy týkajúce sa správneho zvládania bolesti u osôb s demenciou. Zdá sa, že stále
+pretrvávajú ťažkosti s hodnotením prejavov a intenzity bolesti a ťažkosti s monitorovaním
+účinkov analgetickej medikácie u pacientov s demenciou. Preto by sa malo lepšie využiť
+súčasné chápanie mechanizmov vyjadrenia bolesti a dostupné nástroje klinického
+pozorovania by sa mohli lepšie implementovať. Použitie prepracovanejších technických
+systémov na snímanie bolesti je sľubné, ale bohužiaľ stále zostáva v oblasti sci-fi. Ďalšie
+výzvy predstavuje aj implementácia nefarmakologických prístupov, ktoré sa preukázali
+ako účinné v klinickej praxi u ľudí s demenciou a s príznakmi bolesti.
+Siedmou hypotézou sme skúmali rozdiel vo výskyte depresie medzi pacientami
+v rôznych vekových kategóriách (Tabuľka 27). Výsledky analýzy ukázali, že medzi
+pacientmi v rôznych vekových skupinách neexistuje štatisticky významný rozdiel vo
+výskyte depresie hodnotenej pomocou Cornellovej škály, čo potvrdzuje aj získaná phodnotu (0,73) z Chí- kvadrát testu. Tento výsledok naznačuje, že vek pacientov v našej
+vzorke nezohráva významnú úlohu v prevalencii depresívnych symptómov. Depresia
+u seniorov, resp. staršej populácie je multifaktoriálny jav, ktorý môže byť ovplyvnený
+nielen vekom, ale aj zdravotným stavom, sociálnou izoláciou, stratou blízkych či kvalitou
+64
+
+starostlivosti. Aj keď niektoré výskumy naznačujú, že depresívny syndróm môže byť
+častejší v určitých vekových obdobiach – napríklad v prechodných fázach, keď pacienti
+prežívajú výrazné životné zmeny. Autori z Kalifornie vo svojej štúdii o symptómoch
+veľkých depresívnych epizód skúmali vek, pohlavie, rodinný stav, vzdelanie, finančnú
+záťaž, chronické zdravotné ťažkosti, funkčné poruchy, kognitívne problémy, životné
+udalosti, sociálnu izoláciu a sociálnu podporu. Depresia sa merala pomocou 12 položiek
+pokrývajúcich diagnostické kritériá DSM-IV pre epizódy veľkej depresie. Analýzou
+výsledkov sa im potvrdilo, že starší dospelí nie sú vystavení väčšiemu riziku depresie ako
+mladší dospelí. Zdá sa, že účinky na depresiu súvisiace s vekom možno pripísať fyzickým
+zdravotným problémom a súvisiacemu postihnutiu (Roberts et al., 1997). CamachoConde a Galán-López (2020) v deskriptívnej korelačnej štúdii zbierali údaje z dvoch
+opatrovateľských domovov v provincii Jaen (Španielsko) z náhodnej vzorky n= 140
+starších dospelých. Vyhodnotením výsledkov sa preukázalo, že depresia korelovala s
+kognitívnou úrovňou v nezávislej vzorke starších dospelých. Vek bol nepriamo spojený
+so skóre získaným v nezávislej vzorke starších dospelých a taktiež nebola pozorovaná
+žiadna súvislosť medzi dĺžkou umiestnenia.
+Analýza ôsmej výskumnej hypotézy preukázala, že medzi pacientmi v rôznych
+vekových kategóriách existuje štatisticky signifikantný rozdiel vo výskyte bolesti, ktorá
+bola hodnotená pomocou PAINAD škály a rozboru údajov pomocou Chí- kvadrát testu
+s výslednou p-hodnotou 0,04. Dodatočná analýza pomocou Pairwise prop testu odhalila
+štatisticky významný rozdiel (p = 0,014) medzi pacientmi, ktorí pociťovali mierny
+diskomfort, a tými, ktorí trpeli silnou bolesťou (Tabuľka 28). S narastajúcim vekom sa
+mení spôsob vnímania a prejavovania bolesti, čo môže byť ovplyvnené fyziologickými
+zmenami súvisiacimi so starnutím, komorbiditami alebo rozdielnym prahom bolesti.
+Starší pacienti môžu vnímať bolesť odlišne, u niektorých sa citlivosť na bolesť zvyšuje v
+dôsledku chronických ochorení a degeneratívnych zmien, u iných môže byť vnímanie
+bolesti oslabené v dôsledku neurologických zmien. U pacientov trpiacich dementným
+syndrómom môže byť bolesť často nedostatočne diagnostikovaná, pretože ju môžu menej
+často vyjadrovať, alebo sa môže prejavovať inak (napr. agitovanosťou či apatiou). Zhi et
+al. (2024) vo svojom výskume pomocou tepelných a tlakových stimulov na malých a
+veľkých vláknach oddelene na mladších aj starších dospelých skúmali zmeny vo vnímaní
+bolesti súvisiace s vekom, meraním citlivosti na bolesť, prahu bolesti a rozlišovacej
+schopnosti bolesti. Prah tepelnej bolesti významne pozitívne koreloval s vekom, ale nie s
+65
+
+prahom tlakovej bolesti. Prah bolesti sa zvýšil a rozlišovacia schopnosť bolesti sa znížila
+v reakcii na tepelné stimuly u starších účastníkov v porovnaní s mladšími. Hoci sa uznáva,
+že bolesť je extrémne bežná u starších dospelých, podstatné rozdiely v skúmaných
+populáciách a metódach a definíciách použitých v publikovaných výskumov sťažujú
+porovnanie medzi štúdiami a určenie definitívnej prevalencie bolesti u starších ľudí.
+Neustále sa zistilo, že inštitucionalizovaní dospelí majú vyššiu úroveň bolesti ako dospelí
+žijúci v komunite a že zvýšený index telesnej hmotnosti, nižšia úroveň vzdelania a
+socioekonomická deprivácia sú spojené so zvýšenou mierou bolesti. Hodnotenie bolesti
+a jej zvládanie je potrebné individualizovať, keďže u staršej populácie dospelých existuje
+rôznorodosť zmien súvisiacich s vekom a reakcie na liečbu (Mullins et al., 2022).
+
+Život s demenciou a inými duševnými poruchami si vyžaduje rozsiahlu a dlhodobú
+starostlivosť, ktorá ovplyvňuje pacientov, ich rodinných príslušníkov, opatrovateľov a
+zdravotnícky personál. Okrem psychických ťažkostí môže demencia prinášať aj fyzickú
+bolesť, ktorá zhoršuje kvalitu života. Tieto ochorenia ovplyvňujú fyzické i psychické
+zdravie, sociálne vzťahy a emocionálnu pohodu. Správna starostlivosť, individuálny a
+citlivý prístup, podpora rodiny a príjemné prostredie môžu výrazne prispieť k dôstojnému
+a plnohodnotnému životu pacientov umiestnených v zariadeniach sociálnych služieb.
+Na záver je potrebné poznamenať, že uvedené závery sú platné pre skúmanú vzorku
+pacientov v súkromnom špecializovanom sociálnom zariadení a nemusia byť všeobecne
+aplikovateľné na celú populáciu pacientov s demenciou.
+.
+
+66
+
+ODPORÚČANIA PRE PRAX
+Z našich zistení, ako aj z dostupných vedeckých prameňov a relevantných štúdií iných
+odborníkov, formulujeme nasledujúce odporúčania pre prax. Tieto návrhy sú založené na
+porovnávanej analýze získaných údajov s už existujúcimi poznatkami v danej oblasti.
+Veríme, že ich implementácia môže prispieť k zlepšeniu situácie, optimalizácii procesov
+a ďalšiemu rozvoju v príslušnej problematike.
+Pre ošetrovateľský a zdravotnícky personál:
+➢ Zdokonalenie komunikačných zručností - Rozvíjať komunikačné schopnosti so
+zameraním na neverbálnu komunikáciu, ako sú gestá, mimika, očný kontakt a
+dotyk, ktoré u chorých s demenciou napomáhajú k lepšiemu porozumeniu a
+vytvárajú pocit dôvery, čím prispievajú k zníženiu agitovanosti, redukcii stresu a
+podpore efektívnej interakcie medzi pacientom a zdravotníckym personálom.
+➢ Aktívna účasť na vzdelávacích aktivitách - Zamerať sa na moderné prístupy v
+starostlivosti o pacientov s demenciou, s dôrazom na efektívny manažment
+bolesti, prevenciu a liečbu depresie, vrátane seminárov, workshopov a odborných
+školení, ktoré poskytujú nové poznatky a praktické skúsenosti.
+➢ Systematické využívanie hodnotiacich nástrojov - Vo väčšej miere používať v
+klinickej praxi validované posudzovacie nástroje na presnejšiu diagnostiku a
+monitorovanie priebehu ochorenia, pravidelný skríning bolesti a depresie u
+pacientov s dementným syndrómom, čo umožňuje objektivizovať stav pacienta
+a tak prispôsobiť starostlivosť jeho individuálnym potrebám.
+➢ Zvýšenie multidisciplinárnej spolupráce - Aktívne kooperovať so psychológmi,
+fyzioterapeutmi, sociálnymi pracovníkmi a ďalšími špecialistami v danej oblasti
+s cieľom vytvoriť komplexný plán starostlivosti.
+➢ Využívanie nefarmakologických prístupov - Aplikovať overené metódy na
+zmiernenie príznakov depresie a bolesti, ako sú relaxačné techniky, fyzikálne
+terapie, senzorická stimulácia a iné.
+
+67
+
+ZÁVER
+Hlavným cieľom diplomovej práce bolo zistiť aký je vzťah medzi pokročilým štádiom
+demencie a výskytom bolesti a depresie u pacientov umiestnených v špecializovanom
+sociálnom zariadení.
+Na základe našej analýzy sme zistili, že hodnotenie depresie pomocou Cornellovej
+škály (CSDD) a bolesti pomocou PAINAD škály potvrdilo prítomnosť týchto symptómov
+u pacientov s demenciou. Toto zistenie je v súlade s predchádzajúcimi výskumami, ktoré
+poukazujú na vysoký výskyt depresie a bolesti u osôb s kognitívnym deficitom. U týchto
+pacientov môže byť depresia často prehliadaná alebo nesprávne diagnostikovaná v
+dôsledku zhoršenej verbálnej komunikácie a progresie demencie, pričom bolesť býva
+taktiež nedostatočne identifikovaná a manažovaná. Preto je nevyhnutné venovať osobitnú
+pozornosť včasnému rozpoznaniu a liečbe týchto stavov.
+Zároveň sme zistili, že faktory ako pohlavie, dĺžka pobytu v zariadení a pokročilé
+štádium demencie sa v našom výskume nepreukázali ako štatisticky významné premenné
+ovplyvňujúce výskyt depresie a bolesti u pacientov s demenciou. To môže naznačovať,
+že tieto symptómy sú v tejto populácii prítomné bez ohľadu na demografické faktory a
+môžu byť ovplyvnené aj inými, komplexnejšími biologickými a psychologickými
+mechanizmami. Na druhej strane, pri analýze vekových kategórií sme zistili štatisticky
+významný rozdiel medzi pacientmi, ktorí pociťovali mierny diskomfort, a tými, ktorí
+trpeli silnou bolesťou. Tento výsledok poukazuje na to, že intenzita bolesti môže byť
+variabilná a že aj mierny diskomfort môže postupne prerásť do výraznejšej bolesti, ak nie
+je včas adekvátne rozpoznaný a manažovaný.. Pokiaľ ide o výskyt depresie u pacientov s
+demenciou, naša analýza nepreukázala štatisticky významný vplyv veku. To znamená, že
+depresívne symptómy sa vyskytovali u pacientov bez ohľadu na ich vek, čo naznačuje,
+že depresia môže byť viac ovplyvnená inými faktormi, ako sú biologické predispozície,
+sociálna podpora, či miera kognitívneho a funkčného postihnutia.
+Napriek týmto výzvam je ďalší výskum depresie a bolesti u pacientov s demenciou
+nevyhnutný, keďže ide o skupinu, ktorá je mimoriadne zraniteľná a často nedokáže sama
+vyjadriť svoje pocity či potreby. Hľadanie spoľahlivých metód hodnotenia a zlepšovania
+kvality starostlivosti je preto kľúčovým cieľom v rámci geriatrického a paliatívneho
+výskumu.
+
+68
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV:
+
+ACHTERBERG, W., et al., 2021. Are Chronic Pain Patients with Dementia Being
+Undermedicated? [on-line]. Publisert PubMed, 15.02.2021. [citované 2024-10-13].
+Dostupné na internete:
+https://www.tandfonline.com/doi/full/10.2147/JPR.S29321#d1e473
+
+ACHTEMBERG, W., et al., 2019. Pain in dementia. [on-line]. Publisert PubMed,
+12/2019. [citované 2025-01-13]. Dostupné na internete:
+https://www.webmd.com/depression/depression-types
+
+ALMOMANI, F., M., BANI-ISSA, W., 2017. The incidence of depression among
+residents of assisted living: prevalence and related risk factors. [on-line]. Publisert
+10 /2017. [citované 2025-01-13]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/?term=%22Almomani%20FM%22%5BAuthor%5D
+ANDREWS, N., 2018. Nociplastic pain officially adopted by IASP as third mechanistic
+descriptor of chronic pain. [on-line]. Publisert 05.02.2018. [citované 2024-10-09].
+Dostupné na internete: https://www.iasp-pain.org/publications/pain-research-forum/prfnews/92059-whats-name-chronic-pain/
+ASSAL, F. 2019. History of dementia.[on-line]. Publisert 30.04.2019. [citované 2024-0901]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/31220848/
+ATEE, M., et al., 2021. Pain in Dementia: Prevalence and Association With
+Neuropsychiatric Behaviors. [on-line]. Publisert Science Direct, jun/2021. [citované
+2025-02-13]. Dostupné na internete:
+https://www.sciencedirect.com/science/article/pii/S088539242030806X
+BJORO, K., HERR, K., 2009. Assessment of pain in the nonverbal and or cognitively
+impaired older adult. [on-line]. Publisert 2009, pages 24-37. [citované 2024-11-06].
+Dostupné na internete: https://www.sciencedirect.com/topics/medicine-anddentistry/pain-assessment-in-advanced-dementia-scale
+
+69
+
+BRUCE, D., F., McPHILLIPS, A., 2024. Types of Depression and How to Recognize
+Them. [on-line]. Publisert 11.07.2024. [citované 2024-10-13]. Dostupné na internete:
+https://www.webmd.com/depression/depression-types
+CAMACHO-CONDE, J., A., GALÁN-LÓPEZ, J., M, 2020. Depression and Cognitive
+Impairment in Institutionalized Older Adults. [on-line]. Publisert PubMed, 07/2020.
+[citované 2025-01-13]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/3263487/
+CARLSON, E., B., WAELDE, L., C., PALMIERI, P., A., MACIA, K, et al., 2018.
+Development and validation of the Dissociative Symptoms Scale. Assessment, 25(1), 8498 paages. [on-line]. Publisert 13.05.2018. [citované 2024-11-14]. Dostupné na internete:
+https://journals.sagepub.com/doi/10.1177/107319111664590
+CIBULČÍK, F., 2008. Problematika bolesti pri neurologických ochoreniach a praktický
+lekár. In: Ambulantná terapia, 2008, roč. 4, č. 7-8, 23-26 s., ISSN 1336-6750.
+DANSIE, E., J., TURK, D., C., 2013. Assessment of patients with chronic pain. [on-line].
+Publisert 01.07.2013, BJA, Volume 111, Pages 19–25. [citované 2024-11-03]. Dostupné
+na internete: https://academic.oup.com/bja/article/111/1/19/330656
+DOBMEIER, J., FUX, Ch., 2022. Depression. [on-line]. Publisert 22.03.2022. [citované
+2024-11-13]. Dostupné na internete: https://www.netdoktor.de/krankheiten/depression/
+
+DORENLOT, P., et al., 2005. Major depression as a risk factor for early
+institutionalization of dementia patients living in the community. [on-line]. Publisert
+Inernational Journal of Geriatric psychiatry, 25.4.2005. [citované 2025-01-13]. Dostupné
+na internete: https://onlinelibrary.wiley.com/doi/abs/10.1002/gps.1238
+DRAGAŠEK, J., 2011. Elektrokonvulzívna terapia v kontexte vybraných terapeutických
+odporúčaní. [on-line]. Publikované 2011, s. 9-12. [citované 2024-10-13]. Dostupné na
+internete:https://www.solen.sk/storage/file/article/bccbca3f65bf11251d537e7e0e2c24c3
+.pdf
+
+70
+
+DRAGAŠEK, J., CHYLOVÁ, M., 2013. Postavenie repetitívnej transkraniálnej
+magnetickej stimulácie v liečbe depresie vo svetle súčasných poznatkov. [on-line].
+Publikované 2013, strany 94 - 98. [citované 2024-10-13]. Dostupné na internete:
+https://www.solen.sk/storage/file/article/97cfd788e11451fd479a220f8bc3fab3.pdf
+DUŠEK, K., VEČEŘOVÁ- PROCHÁDZKOVÁ, A., 2022. Diagnostika a terapie
+duševných poruch. Vyd.Grada Publikované Praha, 2.prepracované vydání, 624 s., 2022.
+ISBN 978-80-247-9855-4.
+DYDYK, A., M., CONERMANN, T., 2024. Chronic Pain. [on-line]. Publisert National
+libraly of Medicine, 06.05.2024. [citované 2024-12-11]. Dostupné na internete:
+https://www.ncbi.nlm.nih.gov/books/NBK553030
+EL GEZIRY, A., YASSER, T., et al., 2018. Non-Pharmacological Pain Managment. [online].
+
+Publisert
+
+05.11.2018.
+
+[citované
+
+2024-12-01].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.intechopen.com/chapters/62969
+ELLIS, R., R., NEWELL, T., KING, L., M., 2024. Dementia. [on-line]. Publisert
+WebMD, 04.07.2024. [citované 2024-11-13]. Dostupné na internete:
+https://www.webmd.com/alzheimers/types-dementia
+ELMA, O., BRAIN, K., DONG, H., J., 2022. The Importance of Nutrition as a Lifestyle
+Factor in Chronic Pain Management: A Narrative Review. [on-line]. Publisert WebMD,
+09.10.2022. [citované 2024-12-01]. Dostupné na internete:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9571356/
+GITLIN, L., N., KALES, H., C., LYKETSON, C., G., 2012. Nonpharmacologic
+Management of Behavioral Symptoms in Dementia [on-line]. Publisert 21.11.2012.
+[citované 2024-11-13]. Dostupné na internete:
+https://jamanetwork.com/journals/jama/article-abstract/1392543
+GREGORY, G., SINGER, A., et al., 2013. The Wong-Baker Pain FACES Scale Measures
+Pain, Not Fear. [on-line]. Publisert january 2013. [citované 2024-11-01]. Dostupné na
+internete:https://journals.lww.com/peconline/abstract/2013/01000/the_wong_baker_pai
+n_faces_scale_measures_
+
+71
+
+GREENBERG, S., A., 2007. How To Try This: The Geriatric Depression Scale: Short
+Form. [on-line]. Publisert october 2007. [citované 2025-01-05]. Dostupné na internete:
+https://www.nursingcenter.com/journalarticle?Article_ID=744981&Journal_ID=54030
+&Issue_ID=743761&expiredce=1
+HAKL, M., 2012. Chronická bolest v ordinci praktického lékaře. [on-line]. Publikované
+15.4.2012, strany 474 - 476. [citované 2024-10-13]. Dostupné na internete:
+https://solen.cz/pdfs/med/2012/12/03.pdf
+HAKL, M., ŠEVČÍK, P., 2009. Farmakoterapia bolesti. [on-line]. Publikované 2009,
+strany 171-173. [citované 2024-11-13]. Dostupné na internete:
+https://www.klinickafarmakologie.cz/pdfs/far/2009/04/05.p
+HUSEBO, B., S., et al., 2011. Efficacy of treating pain to reduce behavioural
+disturbances in residents of nursing homes with dementia: cluster randomised clinical
+trial. [on-line]. Publisert 14.05.2011. [citované 2025-01-13]. Dostupné na internete:
+https://www.bmj.com/content/343/bmj.d4065
+JACQUES, E., 2023. Pain Scales: Types of Ccales and Using Them to Explain Pain. [online].
+
+Publisert
+
+30.08.2023.
+
+[citované
+
+2024-11-06].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.verywellhealth.com/pain-scales-assessment-tools-4020329
+JORDAN, A., et al., 2011. The utility of PAINAD in assessing pain in a UK population
+with severe dementia. [on-line]. Publisert 12.01.2011. [citované 2025-02-13]. Dostupné
+na internete: https://onlinelibrary.wiley.com/doi/abs/10.1002/gps.2489
+KABAYASHI, T., IGUSA, T., AKIBA, T., OKADA, Ch., et al., 2024. Reliability of the
+Two-dimensional Mood Scale for self-reported mood assessment by older adults with
+dementia. [on-line]. Publisert 8/2024, pages 459-465. [citované 2024-09-01].Dostupné na
+internete: https://www.sciencedirect.com/science/article/abs/pii/S019745722400154X
+KAPLAN, Ch., M., KELLERHER, E., et al., 2024. Deciphering nociplastic pain: clinical
+features, risk factors and potential mechanisms. [on-line]. Publisert 16.05.2024. [citované
+2024-11-01]. Dostupné na internete: https://www.nature.com/articles/s41582-02400966-8
+
+72
+
+KING, W., 2013. Acute Pain, Subacute Pain, and Chronic Pain. In: Gebhart, G.F.,
+Schmidt, R.F. (eds) Encyclopedia of Pain. Springer, Berlin, Heidelberg. [on-line].
+Publisert
+
+14.03.2013.
+
+[citované
+
+2024-11-01].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1007/978-3-642-28753-4_75
+KOŘÍNKOVÁ, V., a kolektív, 2001. Rodové rozdiely v klinickom obraze depresie
+hospitalizovaných pacientov. [on-line]. Publikované 05/ 2001, Psychiatrie pro praxi, s.
+225-226, Psychiatrická klinika LFUK a FN Bratislava, SR , [citované 2025-01-12].
+Dostupné na internete: https://www.psychiatriepropraxi.cz/pdfs/psy/2001/05/09.pdf
+KWAME, A., PETRUCKA, P., M., 2021. A literature-based study of patient-centered
+care and communication in nurse-patient interactions: barriers, facilitators, and the way
+forward. [on-line]. Publisert 03.09.2021. [citované 2024-12-01]. Dostupné na internete:
+https://bmcnurs.biomedcentral.com/articles/10.1186/s12912-021-00684-2
+LEE, J., 2014. Do men experience depression differently to women? [on-line]. Publisert
+07/2014 Medically reviewed journaly . [citované 2025-02-03]. Dostupné na internete:
+https://www.numan.com/mens-heath/men-women-depresion
+MAIN, Ch., 2016. Pain assessment in context: a state of the science review of the
+McGill pain questionnaire 40 years on. [on-line]. Publisert July 2016. [citované 202410-15]. Dostupné na internete:
+https://journals.lww.com/pain/abstract/2016/07000/pain_assessment_in_context__a_stat
+e_of_the_science.4.aspx
+MALARA, A., GARO, M., et al., 2016. Pain Assessment in Elderly with Behavioral and
+Psychological Symptoms of Dementia. [on-line]. Publisert 22.02.2016, Journal of
+Alzheimer's Disease, vol. 50, no. 4, pp. 1217-1225. [citované 2025-01-03]. Dostupné na
+internete: https://content.iospress.com/articles/journal-of-alzheimers-disease/jad150808
+MARTIN, L., A., et al., 2013. The experience of symptoms of depression in men vs
+women: analysis of the National Comorbidity Survey Replication. JAMA Psychiatry 70:
+1100-1106 [on-line]. Publisert 08/2013 PubMed. [citované 2025-02-03]. Dostupné na
+internete: https://pubmed.ncbi.nlm.nih.gov/2398638/
+
+73
+
+MOHR, P., a kol., 2017. Klinická psychofarmakologie. Vydal Maxdorf, Praha, 2017, 1214 s., ISSN 978-80-7345-546-0.
+MULLINS, S., et al., 2022. Physiological changes from ageing regarding pain
+perception and its impact on pain management for older adults. [on-line]. Publisert
+PubMed,
+
+july/2022.
+
+[citované
+
+2025-01-13].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9345212/
+MUSA, G., DELGADO, K., et al., 2017. Utility of the Neuropsychiatric Inventory
+Questionnaire (NPI-Q) in the assessment of a sample of patients with Alzheimer's disease
+in Chile. [on-line]. Publisert 11.06.2017. [citované 2024-11-14]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/29213504/
+NASCIMENTO, M., G., 2020. Gender role in pain perception and expression: an
+integrative review [on-line]. Publisert 03/2020, Brazilian journal of Pain. [citované
+2025-02-06]. Dostupné na internete:
+https://www.scielo.br/j/brjp/a/cdJZ94XKsVGZQd8n9JCDf7B/
+NOSKOVÁ, P., 2010. Chronická bolest, diagostika,, terapie. In.Med, s. 200- 204. [on-line].
+Publikované
+
+27.10.2010.
+
+[citované
+
+2024-12-13].
+
+Dostupné
+
+na
+
+internete:
+
+file:///C:/Users/veron/Downloads/Solen_int-201004-0007.pdf
+
+PALLARITO, K., 2024. What are the different types of depression? [on-line]. Publisert
+Health, 02.06.2024. [citované 2024-11-06]. Dostupné na internete:
+https://www.health.com/condition/depression/types-of-depression
+RABINČÁK, M., TKÁČOVÁ, L., 2019. Vužívanie psychometrických konštruktov pre
+hodnotenie porúch nálady v ošetrovateľskej praxi. [on-line]. Publikované 2019, ISNN
+2644-490. [citované 2024-10-13]. Dostupné na internete:
+https://zl.tnuni.sk/fileadmin/Archiv/2019/2019-7.c.2/ZL_2019_7_2_04_Rabincak.pdf
+RABOCH, J., PAVLOVSKÝ, P., a kolektív, 2020. Psychiatrie. Univerzita Karlova,
+Nakladatelství Karolinum, 2020, 409-412 s., ISBN 978-80-246-4604-6.
+
+74
+
+ROBERTS, R., E., et al., 1997. Does growing old increase the risk for depression? [online]. Publisert PubMed October 1997. [citované 2024-10-13]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/926820/
+ROHAN, K.,J., ROUGH, J., N., EVANS, M., VACEK, P., M., et al,, 2016. A protocol
+for the Hamilton Rating Scale for Depression: Item scoring rules, Rater training, and
+outcome accuracy with data on its application in a clinical trial. [on-line]. Publisert
+Science direct, 8/2016, pages 111-118. [citované 2024-09-09]. Dostupné na internete:
+https://www.sciencedirect.com/science/article/abs/pii/S0165032715307540
+SAAD, S.,T., REHAB, E., 2021. The Visual Analogue Scale Versus Numerical Rating
+Scale in Measuring Pain Severity and Predicting Disability in Low Back Pain. [on-line].
+Publisert JCR, october, 2021. [citované 2024-11-01]. Dostupné na internete:
+https://journals.lww.com/jclinrheum/abstract/2021/10000/the_visual_analogue_scale_v
+ersus_numerical_rating.5.aspx
+SEARS, L., MYERS, J., V., 2020. Associations of the Behavioral Assessment and
+Research System (BARS) neurobehavioral outcomes with attention problems in children
+living near coal ash storage sites. [on-line]. Publisert 12/2020, pages 11-17. [citované
+2024-11-10]. Dostupné na internete:
+https://www.sciencedirect.com/science/article/abs/pii/S0161813X20301200
+PARK, S., H., et al., 2022. Predictive validity of the Cornell Scale for depression in
+dementia among older adults with and without dementia: A systematic review and metaanalysis. [on-line]. Publisert ScienceDirectt, 04/2022. [citované 2024-10-13]. Dostupné
+na internete: https://www.sciencedirect.com/science/article/abs/pii/S0165178122000592
+
+SAREEN, G., S., 2024. Acute, Chronic, and Subacute Pain Differences. [on-line].
+Publisert 12.03.2024, Verywell Health. [citované 2024-11-03]. Dostupné na internete:
+https://www.verywellhealth.com/acute-and-subacute-2615141
+SEIFEROVÁ, D., PRAŠKO, J.,HOSCHL, C., 2004. Postupy v léčbě psychických poruch.
+Academia Medica tribune Pragensis, Praha, 2004, 1.vydanie, 93-109 s., ISBN 80-8669406-2.
+
+75
+
+SUPRAWOTO, D., N., NURHAENI, N., WALUYANTI, F.,T., 2020. Comfort Behavior
+Scale instrument: validity and reliability test for critically ill pediatric patients in
+Indonesia. [on-line]. Publisert 25.06.2020. [citované 2024-09-01]. Dostupné na internete:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7463139/
+TAN, J., D., et al., 2023. Family visits and depression among residential aged care
+residents: An integrative review. [on-line]. Publisert ScienceDirect 10/2023. [citované
+2025-02-03]. Dostupné na internete:
+https://www.sciencedirect.com/science/article/pii/S002048923001335
+VÁCLAV, F., a kol., 1997. Praktický manuál psychiatrických posudzovacích stupnic.
+Vyd. Psychiatrické centrum Praha, 1.vydanie, 1997, 214 s., ISBN 80-85121-06-9
+VAJCÍKOVÁ, M., ZOUBKOVÁ, R., 2017. Hodnocení bolesti v intenzivní péči. [online]. Publikované 01.04.2017. [citované 2024-09-01]. Dostupné na internete:
+https://www.florence.cz/odborne-clanky/recenzovane-clanky/hodnoceni-bolesti-vintenzivni-peci/
+VAN ROO, J.,D., LAZZIO, M., P., COURTNEY, D., M., 2011. Visual Analog Scale
+(VAS) for Assessment of Acute Mountain Sickness (AMS) on Aconcagua.[on-line].
+Publisert 01.03.2011. [citované 2024-11-10]. Dostupné na internete:
+https://journals.sagepub.com/doi/full/10.1016/j.wem.2010.10.002
+WANG, J., et al., 2023. Pain and the Alzheimer's Disease and Related Dementia
+Spectrum in Community-Dwelling Older Americans: A Nationally Representative Study.
+[on-line]. Publisert 11.01.2023, PubMed [citované 2025-01-10]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/3508142/
+WATSON, L., C., et al., 2023. Depression in assisted living: results from a four-state
+study. [on-line]. Publisert PubMed 09/2023. [citované 2025-01-13]. Dostupné na
+internete: https://pubmed.ncbi.nlm.nih.gov/1406087/
+WHO, 2023. Depressive disorder (depression). [on-line]. Publisert Word Health
+organization, 31.03.2023. [citované 2024-10-13].Word Health organization. Dostupné
+na internete: https://www.who.int/news-room/fact-sheets/detail/depression
+
+76
+
+WILLIAMS, N., R., OKUN, M.,S., 2013. Deep brain stimulation (DBS) at the interface
+of neurology and psychiatry. [on-line]. Publisert 01.11.2013. [citované 2024-11-01].
+Dostupné na internete: https://www.jci.org/articles/view/68341
+WONGPAKARAN, N., WONGPAKARAN, T., 2013. Cornell Scale for Depression in
+Dementia: Study of Residents in a Northern Thai Long-Term Care Home. [on-line].
+Publisert december 2013. [citované 2025-01-01]. Dostupné na internete:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3902153/
+YU, O., Ch., et al., 2017. Association between dementia and depression: a retrospective
+study using the Korean National Health Insurance Service-National Sample Cohort
+database. [on-line]. Publisert BMJ Jouurnals, 11.07.2017. [citované 2024-10-13].
+Dostupné na internete: https://bmjopen.bmj.com/content/10/10/e0424
+ZHANG, L., et al., 2021. Gender Biases in Estimation of Others’ Pain.[on-line].
+Publisert: 30.01.2021, The Journal of
+
+Pain. [citované 2025-02-06]. Dostupné na
+
+internete: https://www.jpain.org/article/S1526-5900(21)00035-3/fulltext
+
+77
+
+ZOZNAM PRÍLOH
+Príloha 1
+
+Žiadosť o realizáciu prieskumu v Alzheimercentre n.o. Piešťany
+
+Príloha 2
+
+Súhlas o realizáciu prieskumu v Alzheimercentre n.o. Piešťany
+
+Príloha 3
+
+Dotazník
+
+Príloha 4
+
+PAINAD škála
+
+Príloha 5
+
+Cornellova škála
+
+Príloha 6
+
+MMSE test
+
+78
+
+Príloha 1
+
+Žiadosť o realizáciu výskumu v Alzheimercentre n.o. Piešťany
+
+79
+
+Príloha 2
+
+Súhlas o realizáciu výskumu v Alzheimercentre n.o. Piešťany
+
+80
+
+Príloha 3
+
+Dotazník
+
+1. Pohlavie:
+•
+
+Muž
+
+•
+
+Žena
+
+2. Vek:
+•
+
+Od 50 - 59 rokov
+
+•
+
+Od 60 - 69 rokov
+
+•
+
+Od 70 - 79 rokov
+
+•
+
+Od 80 - 89 rokov
+
+•
+
+Nad 90 rokov
+
+3. Vzdelanie:
+•
+
+ZŠ
+
+•
+
+SŠ
+
+•
+
+SŠ s maturitou
+
+•
+
+VŠ
+
+4. Rodinný stav:
+•
+
+Slobodný / á
+
+•
+
+Ženatý / vydatá
+
+•
+
+Rozvedený / á
+
+•
+
+Vdovec / vdova
+
+5. MMSE hodnota podľa zdravotnej dokumentácie
+..........................
+
+6. Typ demencie:
+•
+
+Alzheimerova demencia
+
+•
+
+Vaskulárna demencia
+
+•
+
+Zmiešaný typ - ACH s vaskulárnou demenciou
+
+•
+
+Iný typ demencie
+81
+
+7. Dĺžka umiestnenia v špecializovanom sociálnom zariadení:
+•
+
+Do 5 rokov
+
+•
+
+6 - 10 rokov
+
+•
+
+10 a viac rokov
+
+82
+
+Príloha 4
+
+PAINAD škála
+
+Stupnica na meranie bolesti pri pokročilej demencii (PAINAD)
+0
+
+1
+
+Dýchanie
+(nezávislé na
+vokalizácii)
+Normálne
+
+Bolestivá
+vokalizácia
+
+Výraz tváre
+
+Reč tela
+
+Utešovanie
+
+Súčet
+Hodnotenie:
+
+Žiadna
+
+2
+
+Občasné
+namáhavé Hlučné
+dýchanie
+sťažené
+Krátke
+obdobie dýchanie
+hyperventilácie
+Dlhodobé
+obdobie
+hyperventilácie
+Cheyne- Stokesovo
+dýchanie
+Občasný ston
+alebo Opakované utrápené
+volanie
+vzlykanie
+Normálna
+negatívna Hlasité
+stonanie
+alebo vzlyk Plač
+alebo odmietavá reč
+
+Úsmev
+alebo Smutný
+neutrálny výraz Vydesený
+Zamračený
+Relaxovanosť Napätie
+Nekľudné prechádzanie
+Nekľud
+
+Nie je nutné
+
+Bolestivé grimasy
+
+Strnulosť
+Zovreté päste
+Kolená
+pritiahnuté
+k telu
+Priťahovanie alebo
+odtláčanie pri
+dotyku
+Udieranie
+Je možné rozptýliť alebo Nie je možné utešiť,
+ukľudniť hlasom alebo rozptýliť alebo
+dotykom
+ukľudniť
+
+0 = relaxácia a komfort
+1 – 3 = mierny diskomfort
+4 – 6 = stredná bolesť
+7 – 10 = silná bolesť, diskomfort
+
+Zdroj: (Podľa:Vorlíček L. Rozpoznání a mĕření bolesti u pacientů s pokročilou
+demencí. In.Bolest. 2006, roč.9, č. 1.)
+
+83
+
+Počet
+bodov
+
+Príloha 5
+
+Cornellova škála (CSDD)
+
+Systém bodovania:
+a = nemožno hodnotiť
+0 = chýba, neprítomnosť
+1 = mierne alebo prerušované
+2 = ťažké
+A. Znaky súvisiace s náladou
+1. Úzkosť
+úzkostný výraz, premýšľanie, znepokojenie
+2. Smútok
+smutný výraz, smutný hlas, plačlivosť
+3. Nedostatok reaktivity na príjemné udalosti
+4. Podráždenosť
+ľahko mrzutý, prchký
+B. Poruchy správania
+1. Agitácia
+nepokoj, žmýkanie, ťahanie za vlasy
+2. Retardácia
+pomalé pohyby, pomalá reč, pomalé reakcie
+3. Viaceré fyzické ťažkosti
+(skóre 0, ak sú symptómy GI)
+4. Strata úrokov
+menej zapojený do bežných činností
+(skóre len vtedy, ak sa zmena vyskytla akútne, t.j. za menej ako 1 mesiac)
+C. Fyzické znaky
+1. Strata chuti do jedla
+je menej ako zvyčajne
+2. Chudnutie
+(skóre 2, ak je viac ako 5 lb= 2,26 kg za jeden mesiac)
+
+84
+
+3. Nedostatok energie
+ľahko sa unaví, nedokáže udržať aktivity
+(skóre iba vtedy, ak sa zmena vyskytla akútne, t. j. za menej ako 1 mesiac)
+pokračovanie v opačnom poradí
+D. Cyklické funkcie
+1. Denné kolísanie nálady
+príznaky sa zhoršujú ráno
+2. Ťažkosti so zaspávaním
+neskôr ako zvyčajne pre túto osobu
+3. Viacnásobné prebudenia počas spánku
+4. Skoré ranné prebudenie
+skôr ako zvyčajne pre túto osobu
+E. Ideálna porucha
+1. Samovražda
+má pocit, že život nestojí za to žiť, má samovražedné želania alebo zámery
+pokus o samovraždu
+2. Nízka sebaúcta
+sebaobviňovanie, sebapodceňovanie, pocity zlyhania
+3. Pesimizmus
+očakávanie najhoršieho
+4. Náladovo-kongruentné bludy
+bludy chudoby, choroby alebo straty
+
+Bodovanie:
+Skóre < 6 bez depresie
+Skóre > 10 pravdepodobne veľká depresívna epizóda
+Skóre > 18 definitívne epizódy veľkej depresie
+
+85
+
+Príloha 6
+
+MMSE test
+
+Maximálny počet bodov, ktoré je možné v teste získať, je 30 bodov.
+•
+•
+•
+•
+•
+
+27 - 30 správny výsledok
+24 -2 6 kognitívne poruchy bez demencie
+19 - 23 mierna demencia
+11 - 18 stredná demencia
+0 - 10 ťažká demencia
+
+86
+
+

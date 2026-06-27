@@ -1,0 +1,4173 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+Fakulta zdravotníctva a sociálnej práce
+
+36712
+
+HODNOTENIE ÚZKOSTI U ONKOLOGICKÝCH
+PACIENTOV NA MAXILO-FACIÁLNEJ CHIRURGII
+Diplomová práca
+
+Bc. Lucia Dobiášová
+2025
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+Fakulta zdravotníctva a sociálnej práce
+
+HODNOTENIE ÚZKOSTI U ONKOLOGICKÝCH
+PACIENTOV NA MAXILO-FACIÁLNEJ CHIRURGII
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Študijný odbor:
+
+7.4.1 Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva
+
+Vedúci práce/školiteľ:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava 2025
+Bc. Lucia Dobiášová
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+ZADANIE ZÁVEREČNEJ DIPLOMOVEJ PRÁCE
+
+Meno, priezvisko a tituly študenta: Bc. Lucia Dobiášová
+Kód študenta: S1323075506
+Študijný program: 7.4.1 Ošetrovateľstvo
+Typ záverečnej práce: diplomová
+Názov záverečnej práce: Hodnotenie úzkosti u onkologických pacientov na maxilofaciálnej chirurgii
+Meno, priezvisko a tituly vedúceho práce: doc. PhDr. Jana Martinková, PhD., MPH
+Školiace pracovisko: Katedra ošetrovateľstva Fakulty zdravotníctva a sociálnej práce
+Trnavskej univerzity v Trnave
+Meno, Priezvisko a tituly vedúceho pracoviska: doc. PhDr. Andrea Botíková, PhD.
+Anotácia záverečnej práce: Diplomová práca sa zaoberá problematikou úzkosti
+u onkologických pacientov na maxilo-faciálnej chirurgii. Cieľom práce je analyzovať
+prítomnosť úzkosti a úzkostlivosti u maxilofaciálnych pacientov pred podstúpením
+chirurgického zákroku rekonštrukčnou náhradou pomocou voľného mikrovaskulárneho
+laloka, ktorí sú hospitalizovaní vo FNsP F. D. Roosevelta v Banskej Bystrici.
+Jazyk, v ktorom sa práca vypracuje: slovenský
+Dátum schválenia zadania: 26. 10. 2023
+
+Trnava, 2025
+
+.....................................
+podpis vedúceho práce
+
+Poďakovanie
+Touto cestou by som sa chcela poďakovať mojej školiteľke doc. PhDr. Jane Martinkovej,
+PhD., MPH, za cenné rady, ľudský prístup a pomoc pri písaní diplomovej práce. Chcem
+sa poďakovať vedeniu Kliniky maxilofaciálnej chirurgie FNsP FDR BB, za možnosť
+realizácie výskumu k diplomovej práci, ako aj Mgr. Anne Melichovej za pomoc
+pri spracovávaní štatistických údajov.
+
+ABSTRAKT
+Dobiášová Lucia. Hodnotenie úzkosti u onkologických pacientov na maxilo-faciálnej
+chirurgii [Diplomová práca]. Trnavská univerzita v Trnave. Fakulta zdravotníctva
+a sociálnej práce, Katedra ošetrovateľstva. Školiteľ: doc. PhDr. Jana Martinková, PhD.,
+MPH. Stupeň odbornej kvalifikácie: magister. Trnava. FZaSP TU, 2025. 69 s.
+Úvod: Úzkosť u onkologických maxilofaciálnych pacientov môže negatívne ovplyvniť
+periooperačný priebeh, a tým sťažiť poskytovanie zdravotnej starostlivosti a následnú
+rekonvalescenciu.
+Cieľ: Analyzovať prítomnosť úzkosti a úzkostlivosti u maxilofaciálnych pacientov
+pred podstúpením chirurgického zákroku rekonštrukčnou náhradou pomocou voľného
+mikrovaskulárneho laloka.
+Metodika: Súčasťou diplomovej práce je výskum, ktorý bol realizovaný pomocou
+štandardizovaného dotazníka na meranie úzkosti a úzkostlivosti STAI X-1/X-2, ktorý
+má dve dvadsať položkové škály, ktoré zisťujú, ako sa jednotlivec cíti práve teraz, v danom
+čase, resp. ako sa zvyčajne cíti. Výberový súbor tvorili respondenti, pacienti s onkologickým
+ochorením dutiny ústnej a krku, ktorí podstúpili chirurgický zákrok rekonštrukčnou
+náhradou pomocou voľného mikrovaskulárneho laloka. Dotazník bol anonymný
+a distribuovaný osobne pacientom pri prijíme na príslušnú kliniku. Výskum prebiehal
+vo FNsP F. D. Roosevelta v Banskej Bystrici na Klinike maxilofaciálnej chirurgie, jeho
+návratnosť bola 100 %. Výber zdravotníckeho zariadenia, ako aj výber respondentov
+pre účely výskumu bol zámerný. Zber údajov pomocou dotazníka sme realizovali
+v časovom horizonte od mája 2024 do decembra 2024. Výskum bol zámerný a limitovaný.
+Výsledky: Respondenti starší ako 50 rokov vykazovali štatisticky významne vyššiu mieru
+úzkosti v porovnaní s mladšími respondentmi. Zistili sme, že úzkosť bola štatisticky
+významná a líšila sa podľa pohlavia respondentov. Naopak, medzi respondentmi s rôznym
+vzdelaním sme nezaznamenali žiadne významné rozdiely v miere úzkosti.
+Záver: Identifikácia úzkosti a úzkostlivosti u onkologických maxilofaciálnych pacientov
+pred chirurgickým zákrokom je kľúčová. Úzkosť môže ovplyvniť celkový zdravotný stav
+pacienta, jeho schopnosť spolupracovať pri liečbe a môže viesť k nežiaducim účinkom
+liečby. Psychologická podpora a intervencia, ako je psychoterapia a psychofarmakoterapia,
+môžu výrazne zlepšiť psychický stav pacienta a jeho pripravenosť na chirurgický zákrok.
+Kľúčové slová: Úzkosť, pacient, maxilofaciálna chirurgia, výskum.
+
+ABSTRACT
+Dobiášová Lucia. Assessment of anxiety in oncological patients undergoing maxillofacial
+surgery [Diploma thesis]. Trnava University in Trnava. Faculty of Health and Social Work,
+Department of Nursing. Supervisor: doc. PhDr. Jana Martinková, PhD., MPH. Degree
+of professional qualification: master. Trnava. FZaSP TU, 2025. 69 p.
+Introduction: Anxiety in oncological maxillofacial patients can negatively affect the
+perioperative course and thus complicate the provision of health care and subsequent
+recovery.
+Objective: To analyze the presence of anxiety and anxiousness in maxillofacial patients
+before undergoing surgical intervention with reconstructive replacement using a free
+microvascular flap.
+Methodology: The thesis includes research conducted using a standardized questionnaire
+for measuring anxiety and worry STAI X-1/X-2, which has two twenty-item scales that
+determine how an individual feels right now, at a given time, or how they usually feel. The
+sample consisted of respondents, patients with oncological diseases of the oral cavity and
+neck, who underwent surgical intervention with reconstructive replacement using a free
+microvascular flap. The questionnaire was anonymous and distributed personally to patients
+upon admission to the relevant clinic. The research took place at the F. D. Roosevelt National
+University Hospital in Banská Bystrica at the Department of Maxillofacial Surgery, its return
+rate was 100%. The selection of the medical facility, as well as the selection of respondents
+for research purposes, was intentional. We collected data using the questionnaire in the time
+frame from May 2024 to December 2024. The research was intentional and limited.
+Results: Respondents older than 50 years showed statistically significantly higher levels of
+anxiety compared to younger respondents. We found that anxiety was statistically significant
+and varied by gender. On the contrary, we did not observe any significant differences in
+anxiety levels between respondents with different educational levels.
+Conclusion: Identification of anxiety and worry in maxillofacial cancer patients before
+surgery is crucial. Anxiety can affect the patient's overall health, their ability to cooperate
+with treatment, and can lead to adverse effects of treatment. Psychological support and
+intervention, such as psychotherapy and psychopharmacotherapy, can significantly improve
+the patient's psychological state and their readiness for surgery.
+Keywords: Anxiety, patient, maxillofacial surgery, research.
+
+OBSAH
+ABSTRAKT .......................................................................................................................... 5
+ABSTRACT........................................................................................................................... 6
+OBSAH .................................................................................................................................. 7
+ZOZNAM SKRATIEK.......................................................................................................... 8
+ZOZNAM TABULIEK A GRAFOV .................................................................................... 9
+ÚVOD .................................................................................................................................. 10
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY ......................................................... 12
+1.1 Charakteristika pacientov na oddelení maxilofaciálnej chirurgie.................................. 13
+1.2 Onkologickí pacienti na klinike maxilofaciálnej chirurgie............................................ 14
+1.3 Úzkosť ako ošetrovateľský problém .............................................................................. 19
+1.3.1 Meracie škály úzkosti ................................................................................................. 20
+1.3.2 Perioperačná úzkosť.................................................................................................... 22
+1.4 Sestra v procese psychologickej podpory pacienta........................................................ 25
+2 VÝSKUM ......................................................................................................................... 27
+2.1 Výskumný problém........................................................................................................ 27
+2.2 Ciele výskumu ............................................................................................................... 27
+2.3
+
+Výskumné hypotézy ................................................................................................. 28
+
+2.4 Organizácia a metodika výskumu .................................................................................. 28
+2.5 Charakteristika výskumného súboru .............................................................................. 28
+3
+
+ANALÝZA VÝSLEDKOV VÝSKUMU .................................................................... 29
+
+3.1 Štatistické vyhodnotenie výskumu a testovanie hypotéz ............................................... 38
+4
+
+DISKUSIA ................................................................................................................... 52
+
+4.1 Odporúčania pre prax..................................................................................................... 57
+ZÁVER ................................................................................................................................ 58
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV ............................................................... 59
+PRÍLOHY ............................................................................................................................ 70
+
+ZOZNAM SKRATIEK
+AJCC
+
+American Joint Committee on Cancer
+
+APAIS
+
+Amsterdam Preoperative Anxiety and Information Scale
+
+BDI
+
+Beck depression inventory
+
+CCRT
+
+Concurrent chemoradiotherapy
+
+DMO
+
+detská mozgová obrna
+
+DOI
+
+dept of infasion
+
+EBV
+
+Epstein-Barrovej vírus
+
+GAD
+
+Generalized anxiety disorder
+
+HNC
+
+Head and neck cancer
+
+HPV
+
+ľudský papilomavírus
+
+IKT
+
+Inhibikase therapeutics
+
+IMRT
+
+Intensity modulated radiation therapy
+
+MCMQ
+
+Medical Coping Modes Questionnaire
+
+MKCH
+
+Medzinárodná klasifikácia chorôb
+
+NOR SR
+
+Národný onkologický register Slovenskej republiky
+
+OCD
+
+Obsessive-compulsive disorder
+
+OSCC
+
+Oral squamous cell carcinoma
+
+PET-CT
+
+Positron Emission Tomography - Computer Tomography
+
+PTSD
+
+Post-traumatic stress disorder
+
+SAS
+
+Self-Rating Anxiety Scale
+
+SCC
+
+Squamous cell carcinoma
+
+SCCHN
+
+Squamous cell carcinoma of head and neck
+
+STAI
+
+State-Trait Anxiety Inventory
+
+TLM
+
+transoral laser microsurgery
+
+TORS
+
+trans oral robotics surgery
+
+UICC
+
+Union for International Cancer Control
+
+ZOZNAM TABULIEK A GRAFOV
+Tabuľka 1 Deskripcia veku respondentov ........................................................................... 29
+Tabuľka 2 Vzdelanie respondentov ..................................................................................... 30
+Tabuľka 3 Položková analýza, korelácie položiek s celkovým skóre v oboch škálach STAI
+............................................................................................................................................. 30
+Tabuľka 4 Priemerné hodnoty, smerodajné odchýlky a mediány skóre respondentov
+v položkách oboch premenných ......................................................................................... 31
+Tabuľka 5 Bodové skóre respondentov ............................................................................... 32
+Tabuľka 6 Tabuľka, percentily skóre respondentov a percentilové normy X - 1 ................ 35
+Tabuľka 7 Normalita údajov, skóre STAI ........................................................................... 36
+Tabuľka 8 Jednovýberový t – test X - 1, respondenti .......................................................... 36
+Tabuľka 9 Tabuľka, percentily skóre respondentov a percentilové normy X - 2 ................ 37
+Tabuľka 10 Jednovýberový t – test v X - 2, respondenti ..................................................... 38
+Tabuľka 11 Deskripcia skóre respondentov v škále X – 1, vek .......................................... 39
+Tabuľka 12 Normalita údajov v škále X – 1, vek ................................................................ 40
+Tabuľka 13 Jednovýberový t – test v X - 1, vek .................................................................. 40
+Tabuľka 14 Dvojvýberový t – test X - 1, vek ...................................................................... 40
+Tabuľka 15 Deskripcia skóre respondentov v škále X – 2, vek .......................................... 41
+Tabuľka 16 Normalita údajov v škále X – 2, vek ................................................................ 41
+Tabuľka 17 Dvojvýberový t – test X - 2, vek ...................................................................... 41
+Tabuľka 18 Deskripcia skóre respondentov v STAI X – 1, pohlavie ................................. 42
+Tabuľka 19 Normalita údajov v škále X – 1, pohlavie ........................................................ 42
+Tabuľka 20 Jednovýberový t – test v X - 1, pohlavie .......................................................... 43
+Tabuľka 21 Jednovýberový t – test, škála X -1 muži .......................................................... 43
+Tabuľka 22 Test zhody korelačných koeficientov, X - 1, pohlavie.................................... 44
+Tabuľka 23 Deskripcia skóre respondentov v STAI X – 2, pohlavie ................................. 45
+Tabuľka 24 Normalita údajov v škále X – 2, pohlavie ........................................................ 45
+Tabuľka 25 Jednovýberový t – test v X - 2, pohlavie .......................................................... 45
+Tabuľka 26 Test zhody korelačných koeficientov, X - 2, pohlavie.................................... 46
+Tabuľka 27 Deskripcia skóre respondentov v STAI X – 1, vzdelanie ............................... 48
+Tabuľka 28 Normalita údajov v škále X – 1, Shapiro – Wilkov test, vzdelanie ................. 48
+Tabuľka 29 Jednovýberový t – test v X - 1, vzdelanie ........................................................ 48
+Tabuľka 30 Testy v X - 1, vzdelanie, ženy .......................................................................... 48
+Tabuľka 31 Testy v X - 1, vzdelanie, muži ......................................................................... 49
+Tabuľka 32 Deskripcia skóre respondentov v STAI X - 2, vzdelanie ................................ 49
+Tabuľka 33 Normalita údajov v škále X – 2, Shapiro – Wilkov test, vzdelanie ................. 49
+Tabuľka 34 Jednovýberový t – test v X - 2, vzdelanie ........................................................ 49
+Tabuľka 35 Testy v X - 2, vzdelanie, ženy .......................................................................... 50
+Tabuľka 36 Testy v X - 2, vzdelanie, muži ......................................................................... 50
+Graf 1 Frekvencia výskytu hodnôt skóre STAI X – 1
+33
+Graf 2 Frekvencia výskytu hodnôt skóre STAI X – 2 ........................................................ 33
+Graf 3 Deskripcia skóre respondentov v premenných X – 1 a X – 2 .................................. 34
+
+ÚVOD
+Úzkosť je jedným z najčastejších psychologických problémov, ktoré postihujú
+onkologických pacientov. Tento stav môže byť obzvlášť výrazný u pacientov
+podstupujúcich maxilofaciálnu operáciu, ktorá zahŕňa komplexné a často invazívne zákroky
+v oblasti tváre a krku. Úzkosť môže negatívne ovplyvniť kvalitu života pacientov, ich
+schopnosť zvládať liečbu a celkový proces zotavovania.
+Hodnotenie úzkosti u onkologických pacientov je kľúčové pre poskytovanie efektívnej
+a
+
+empatickej
+
+zdravotnej
+
+starostlivosti.
+
+Identifikácia
+
+úrovne
+
+úzkosti
+
+umožňuje
+
+zdravotníckym pracovníkom prispôsobiť intervencie a podporu, čím sa zlepšuje psychický
+stav pacientov a ich celková pohoda. Na hodnotenie úzkosti sa používajú rôzne nástroje
+a metódy, ktoré zahŕňajú dotazníky, rozhovory a pozorovanie.
+Maxilofaciálna chirurgia predstavuje špecifické výzvy, ktoré môžu zvyšovať úzkosť
+u pacientov. Tieto výzvy zahŕňajú obavy z estetických zmien, bolesti, komplikácií
+a
+
+dlhodobých následkov zákroku. Estetické zmeny môžu mať významný vplyv
+
+na sebavedomie a sociálne interakcie pacientov, čo môže viesť k zvýšenej úzkosti a depresii.
+Preto je dôležité, aby zdravotnícky personál bol citlivý na tieto aspekty a poskytoval
+pacientom potrebnú psychologickú podporu. V neposlednom rade zohráva dôležitú úlohu
+rešpektovanie individuality pacienta, ktorá v sebe zahŕňa nielen psychický základ potrebný
+pre zvládanie záťažových situácií, akým onkologické ochorenie určite je, ale nesie v sebe
+súhru mnohých faktorov, ako je napríklad rodinné zázemie, či duchovná podpora, prípadne
+podpora zo strany priateľov a kolegov z práce. Úloha ošetrovateľstva v celom procese
+starostlivosti o onkologického pacienta zohráva nesmierne dôležitú úlohu. Sestru môžeme
+považovať za základný pilier v chápaní dôvery, ale aj poskytnutia kvalitnej ošetrovateľskej
+starostlivosti. V oblasti psychiky môže byť práve sestra tou osobou, ktorá identifikuje
+u pacienta problém v oblasti psychického prežívania a v spolupráci s odborníkmi danú
+situáciu začnú riešiť. V nemalej miere musí sestra neustále pacienta pozorovať
+a vyhodnocovať jeho vývoj psychického stavu, aby sa predišlo možným komplikáciám,
+ktoré by mohli výrazne skomplikovať celý priebeh diagnostiky, či liečby samotnej.
+Zdravotnícki pracovníci, ktorí sa vo svojej práci stretávajú s onkologickými pacientmi, často
+spolupracujú so psychológmi, ktorých hlavnou úlohou je vhodným spôsobom „pracovať“
+s pacientom na odstránení, prípadne zmiernení jeho problému a správne ho pripraviť
+na pooperačné obdobie a život v domácom prostredí. Takáto spolupráca je na vysokej
+úrovni v zahraničných krajinách, u nás, na Slovensku, sa celý proces spolupráce začína
+10
+
+kreovať a postupne sa dostáva na primeranú úroveň nielen z pohľadu pacienta, ale aj
+z pohľadu zdravotníckych pracovníkov, ktorí prichádzajú do priameho kontaktu
+s pacientom.
+Cieľom diplomovej práce je preskúmať faktory, ktoré prispievajú k úzkosti u onkologických
+pacientov na maxilofaciálnej chirurgii a navrhnúť efektívne stratégie na jej zmiernenie.
+Výsledky nášho výskumu môžu prispieť k zlepšeniu kvality starostlivosti a zvýšeniu
+spokojnosti pacientov. Medzi navrhované stratégie patrí poskytovanie predoperačnej
+psychologickej intervencie, ktorá môže zahŕňať edukáciu pacientov, nastavenie
+realistických očakávaní a zlepšenie ich schopnosti zvládať stres.
+
+11
+
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY
+Zhubné nádory hlavy a krku (C00-C14, podľa MKCH-10) tvoria heterogénnu skupinu
+ochorení s blízkou anatomickou lokalizáciou. Incidencia celosvetovo narastá a je dvoj
+až trojnásobne vyššia u mužov ako u žien. V Slovenskej republike v r. 2012 bolo
+na Slovensku podľa údajov NOR SR diagnostikovaných sumárne 1057 nových zhubných
+nádorov hlavy a krku, čím sa tieto malignity zaradili na 9. priečku v rebríčku výskytu
+všetkých zhubných nádorov u mužov a žien spolu. Predikcia novovzniknutých zhubných
+nádorov hlavy a krku pre rok 2020 predstavuje v SR pre obe pohlavia n 1121 prípadov.
+Mortalita v r. 2012 na zhubný nádor hlavy a krku bola spolu n 656 chorých. V publikácii
+pre rok 2020 to bolo n 556 chorých, čo predstavuje 8. priečku v úmrtnosti na všetky zhubné
+nádory v Slovenskej republike. Zhubné nádory hlavy a krku patria k ochoreniam s relatívne
+nepriaznivou prognózou, čo je často zapríčinené pokročilosťou ochorenia v čase stanovenia
+diagnózy. Odhad absolútnej prevalencie ochorenia v Slovenskej republike pre obe pohlavia
+pre rok 2020 n 9144 prípadov (Ondrušová et al., 2023).
+Každý rok je v Austrálii diagnostikovaných viac ako 4000 nových prípadov rakoviny hlavy
+a krku. Viac ako 600 z týchto druhov rakoviny sú rakoviny ústnej dutiny. Rakovina ústnej
+dutiny je vysoko smrteľné ochorenie s úmrtnosťou, ktorá sa blíži k 50 %. Prevažná väčšina
+rakoviny ústnej dutiny sú spinocelulárne karcinómy, iné typy rakoviny ústnej dutiny, ako sú
+menšie malignity slinných žliaz, sarkómy, malígne odontogénne nádory, melanóm
+a lymfóm, tvoria menej ako 10 % rakoviny ústnej dutiny. Zubní lekári a zubní špecialisti sú
+bežnými odporúčajúcimi lekármi pre pacientov s rakovinou ústnej dutiny (Australian
+Institute of Health and Welfare, 2017).
+Národný onkologický ústav (2018) udáva, že rakovina hlavy a krku, pery, ústnej dutiny,
+orofaryngu, hypohltanu a hrtana začína prevažne v dlaždicových bunkách (90 %), ktoré
+lemujú povrchy slizníc. Približne 30 % – 40 % pacientov s HNC má skoré štádium ochorenia
+a pri liečbe má 5-ročné prežitie 70 % – 90 % .
+Väčšina prípadov HNC je diagnostikovaná v pokročilých štádiách, keď je liečba menej
+účinná a chirurgická liečba mrzačí orgány potrebné na reč a prehĺtanie. U jednotlivcov
+v krajinách s obmedzeným prístupom k strediskám terciárnej zdravotnej starostlivosti je
+miera prežitia 30 % – 40 % v porovnaní s približne dvoma tretinami prežívajúcich HNC
+v Spojených štátoch (Nandakumar, 2016).
+Okrem rakoviny jazyka a orofaryngeálnej/krčnej mandle sa 5-ročné prežitie v Spojených
+štátoch za posledné dve desaťročia mierne zvýšilo. Celková 5-ročná relatívna miera prežitia
+12
+
+sa zvýšila o 20 % z 54,7 % v rokoch 1992 – 1996, na 65,9 % v rokoch 2002 – 2006. Nízka
+miera prežitia HNC je poháňaná neskorým diagnostickým štádiom a správaním spojeným
+s rizikom s dlhodobými zdravotnými následkami. U pacientov s prediktívnymi markermi
+metastatického ochorenia, postihnutia uzlín a šírenia extrakapsulárneho nádoru klesá miera
+prežitia o 10 % – 25 % (Polesel et al., 2017).
+Dokonca aj po liečbe sa u 30 % – 60 % diagnostikovaných v neskorom štádiu s úspešnou
+remisiou vyvinie recidivujúci lokoregionálny karcinóm alebo druhý primárny karcinóm.
+Vzhľadom na predchádzajúce účinky liečby na nádorové bunky má recidivujúci sa karcinóm
+vyššiu pravdepodobnosť infiltrácie tkaniva nádorovými bunkami a multifokálnosť (Ho et
+al.,2014).
+V Českej republike bol v roku 2018 zaznamenaný výskyt nádorov oblasti hlavy a krku 1 237
+diagnostikovaných mužov a 539 diagnostikovaných žien. Ročne umiera na nádory hlavy
+a krku okolo 800 ľudí v priemernom veku 59,72 let. Českej republike patrí celosvetovo 26.
+miesto vo výskyte nádorov tejto lokality (Dušek, 2009).
+Rakovina ústnej dutiny je významným zdravotným problémom a v mnohých krajinách
+sa považuje za hlavnú príčinu úmrtí na ochorenia dutiny ústnej. Nedávne globálne odhady
+odhalili 354 864 nových prípadov a 177 384 úmrtí v roku 2018 (Bray et al., 2018).
+1.1 Charakteristika pacientov na oddelení maxilofaciálnej chirurgie
+Maxilofaciálna chirurgia sa zaoberá ochoreniami, anomáliami, dysmorfizmami, úrazovou
+chirurgiou ústnej, čeľustnej a tvárovej oblasti s priľahlými régiami, ich prevenciou,
+diagnostikou, terapiou a rehabilitáciou.
+K najčastejším diagnózam u maxilofaciálnych pacientov patria:
+ Zlomeniny/úrazy – maxilly a mandibuly, nosových kostí, zygomatikomaxilárneho
+komplexu, jarmového oblúka, luxácie temporomandibulárneho kĺbu.
+ Zápalové ochorenia – extirpácia cýst, incízia mäkkých tkanív, intraorálna
+a extraorálna incízia a drenáž rozsiahleho okoločeľustného zápalu, sekvestrotómia, nekrózy.
+ Chirurgické extrakcie v maxille a mandibule, chirurgické revízie čeľustnej dutiny
+(radix v antre), plastika oroantrálnej komunikácie, ortognátne operačné výkony, lokalizácia
+a odstránenie cudzieho telesa z mäkkých tkanív alebo kostí.
+ Protetická chirurgia - egalizácia alveolárneho výbežku po predchádzajúcich
+extrakciách zubov alebo odstránenie kostných výrastkov, excízia fisurálnych granulómov,
+operácia exostóz (torus palatinus), plantácia biologických materiálov do kostných defektov
+(augmentácia), aplikácia zubných implantátov.
+13
+
+
+
+Nespolupracujúci pacienti - detská mozgová obrna (DMO), mentálne postihnutie.
+
+ Onkologickí pacienti - extirpácia benígneho nádoru - mäkkých tkanív, kostí, príušnej
+slinnej žľazy, submandibulárnej slinnej žľazy, excízia (resekcia) mäkkých tkanív
+pri sekundárnych malígnych nádoroch, resekcia kosti pre malígny nádor, extirpácia krčných
+lymfatických uzlín, rekonštrukcia resekčného alebo traumatického defektu mäkkých tkanív
+lalokovým posunom, odber a aplikácia dermoidného štepu, odber autogénneho kostného
+štepu (napríklad z hrebeňa panvovej kosti)
+
+1.2 Onkologickí pacienti na klinike maxilofaciálnej chirurgie
+Zhubné nádory hlavy a krku patria medzi menej známe, no nie sú v rámci Slovenska
+zriedkavým ochorením.
+Diagnostika
+Pojem rakovina hlavy a krku zahŕňa malígne nádory horných dýchacích a hltacích orgánov,
+slinných žliaz, kože, mäkkých tkanív, kostí, nervovo-cievnych štruktúr hlavy a krku, ďalej
+nádory parafaryngeálneho priestoru, štítnej žľazy a prištítnych žliaz. Približne 90 %
+všetkých malígnych nádorov tvoria skvamocelulárne karcinómy. Najčastejšie sem patria
+svamocelulárne karcinómy dutiny ústnej, hltana a hrtana (Kumar et al., 2021).
+Primárne rizikové faktory bežne spojené s rakovinou hlavy a krku zahŕňajú tabak,
+konzumáciu alkoholu, užívanie arekových orechov, infekciu ľudským papilomavírusom
+(HPV) (najmä pri rakovine orofaryngu) a infekciu vírusom Epstein-Barrovej (EBV)
+(obzvlášť rozšírenú v Ázii, najmä pri rakovine nosohltanu) (Du et al., 2019).
+Diagnostický proces je nevyhnutné začať s dobrou klinickou anamnézou vrátane toxických
+a sexuálnych návykov a metodického fyzikálneho vyšetrenia s osobitným dôrazom na oblasť
+hlavy a krku (prehliadka, nepriame zrkadlové vyšetrenie alebo priama endoskopia a palpácia
+primárnych miest a krku). Na preskúmanie rozšírenia nádoru je potrebné diagnostické
+zobrazovanie. Zobrazovacia diagnostika pred veľkou biopsiou zabráni falošnej diagnóze
+z narušenia anatómie.
+ Cervikálna počítačová tomografia (CT) alebo magnetická rezonancia (MR).
+Zobrazovacia MRI je lepšia ako CT na hodnotenie jazyka, perineurálneho šírenia, invázie
+lebečnej základne a intrakraniálneho rozšírenia. Pokiaľ ide o šírenie lymfy, definícia
+extrakapsulárneho uzlinového rozšírenia má prognostickú hodnotu.
+
+
+CT hrudníka, alebo röntgen v počiatočných štádiách.
+
+14
+
+ Pozitrónová emisná tomografia - (PET-CT) je veľmi užitočná pri diagnostike uzlín
+(N) a metastáz (M) a synchrónnych primárnych nádorov. Odporúča sa u pacientov
+s ochorením v štádiu III–IV, ak je indikovaná definitívna liečba, alebo u pacientov
+s nejednoznačným nálezom na CT alebo MRI vyšetrení (Mehanna et al., 2016).
+
+
+Kontrastná štúdia pažeráka a žalúdka alebo ezofagoskopia v prípade dysfágie.
+
+ Histologická diagnóza je povinná pri primárnej biopsii nádoru alebo aspirácii
+lymfatických uzlín tenkou ihlou. Ak je potrebná biopsia uzliny, je vhodnejšia úplná resekcia
+uzlín, aby sa zabránilo extrakapsulárnemu metastatickému šíreniu (Chow, 2020).
+ Hodnotenie funkcionalizmu: žuvanie, prehĺtanie, fonácia, dýchanie, odontológia
+a stav výživy.
+ V prípade potreby - osobitné hodnotenia: psychologická a sociálna situácia,
+odvykanie od fajčenia alebo závislosť od alkoholu.
+ Presné nastavenie štádia je kľúčové pre koordináciu a prispôsobenie terapie každému
+jednotlivému pacientovi (8. vydanie TNM klasifikácie, 2017).
+
+TNM klasifikácia, diagnózy
+TNM systém stagingu rakoviny odráža rozsah rastu nádoru v celom tele a je založený
+na hodnotení veľkosti primárneho nádoru (T), postihnutia lokoregionálnych lymfatických
+uzlín (N) a vzdialených metastáz (M). Táto klasifikácia je dôležitá pre plánovanie liečby,
+odhad rizika recidívy a hodnotenie celkového prežitia. Táto klasifikácia však zohľadňuje iba
+anatomické rozšírenie ochorenia a nie iné prognostické faktory, ako je komorbidita alebo
+liečba. Rozoznávame:
+Štádium T I T1 N0 M0,
+Stupeň II T2 N0 M0,
+Stupeň III T3 N0 M0 a T 1-3 s N1s,
+Fáza IV T4 N0 – N2,N3,
+N regionálnych uzlov NX nie je možné určiť,
+N0 bez známok regionálnych uzlín,
+N1 metastáza do jednej ipsilaterálnej lymfatickej uzliny, menej ako 6 cm,
+N2 N2 a jednoduchý ipsilaterálny uzol, 3 až 6 cm,
+N2b viacnásobné ipsilaterálne lymfatické uzliny menšie ako 6 cm,
+N2c obojstranné alebo kontralaterálne lymfatické uzliny menšie ako 6 cm,
+B3 lymfatické uzliny väčšie ako 6 cm,
+15
+
+M M0 absencia vzdialených metastáz,
+M1 prítomnosť vzdialených metastáz.
+Medzinárodná únia proti rakovine (UICC) vydala prvé vydanie hodnotenia štádia TNM
+v roku 1968, zatiaľ čo Americký spoločný výbor pre rakovinu (AJCC) vydal svoj prvý
+manuál štádia v roku 1977. Neskoršie vydania boli synchronizované a aktualizované.
+V roku 2017 bolo vydané 8. vydanie inscenačného manuálu UICC a AJCC (AJCC 8)
+(Brieleyt et al., 2017). Zaviedli dve hlavné zmeny pre OSCC, a to začlenenie hĺbky invázie
+nádoru (DOI) do štádia T a začlenenie extrakapsulárneho šírenia do štádia N. Niekoľko
+štúdií skúmalo výkonnosť AJCC 8 v nezávislých kohortách OSCC a uznáva sa potreba
+ďalšieho rozvoja (Weimar et al., 2018).
+DOI, tiež známy ako rekonštruovaná hrúbka nádoru, sa líši od klinickej hrúbky nádoru,
+najmä pri exofytických a ulcerovaných léziách. DOI bol pôvodne predpokladaný ako
+vzdialenosť od teoreticky rekonštruovanej normálnej povrchovej línie sliznice k najhlbšiemu
+rozsahu rastu (De Koning et al., 2019).
+Nedávno Müller et al., (2019) uprednostnili úroveň zóny epitelovej bazálnej membrány
+namiesto normálneho povrchu sliznice , aj keď hodnota tohto je diskutabilná. Manuál AJCC
+8 a atlas UICC naznačujú, že DOI sa dá spoľahlivo definovať klinicky, ale zdá sa, že DOI
+je ťažké odhadnúť iba palpáciou. Alternatívou na prekonanie týchto ťažkostí by bolo
+použitie predoperačného zobrazovania (napr. MRI, alebo USG) na posúdenie hĺbky invázie
+a hrúbky nádoru.
+V retrospektívnej štúdii Dirven et al. (2017) zistili, že kategória T a prognostický výkon
+štádia TNM pri štádiu rakoviny ústnej dutiny AJCC 8 je podobný bez ohľadu na to, či sa ako
+modifikátor kategórie T použil DOI alebo hrúbku nádoru. Najdôležitejším úvodom
+je nezávislá klasifikácia pre p16-pozitívne orofaryngeálne nádory: v kategórii T boli T4a
+a T4b združené ako T4 a kategória N bola preklasifikovaná. V dôsledku toho dochádza
+k zníženiu. T kategória (T1–T3) pier a ústnej dutiny zahŕňa rozsah hĺbkovej invázie.
+Kategória N3 pre nádory nesúvisiace s HPV bola rozdelená na N3a a N3b podľa
+extranodálnej extenzie (v kategóriách N1 a N2 je špecifikovaný nedostatok extranodálnej
+extenzie). Perineurálna invázia alebo hlboká invázia je súčasťou spinocelulárnych
+karcinómov kože.
+Liečba
+Akonáhle bola histologicky overená diagnóza a určený rozsah nádoru, výber optimálnej
+liečby závisí od mnohých faktorov, vrátane jeho lokalizácie, telesného stavu, zváženie
+
+16
+
+možných vedľajších prejavov plánovanej liečby a tiež aj na prianie chorého. Liečebné
+možnosti sú:
+Štandardné liečebné postupy:
+
+
+Chirurgia (+ predoperačná alebo pooperačná rádioterapia alebo chemoradioterapia).
+
+
+
+Rádioterapia (+ chemoterapia).
+
+
+
+Paliatívna rádioterapia alebo chemoterapia.
+
+
+
+Biologická terapia.
+
+
+
+Immunoterapia.
+
+Ďalšie možnosti:
+
+
+úvodná chemoterapia, podaná pred chirurgickým zákrokom a rádioterapiou,
+
+
+
+chemoprevencia.
+
+Chirurgia, 3D konformná rádioterapia (RT) a brachyterapia poskytujú podobné výsledky
+lokoregionálnej kontroly a prežitia, ale neboli porovnávané v randomizovaných štúdiách
+(Chow, 2020).
+Multidisciplinárny tím by mal zvoliť podľa charakteristík a želaní pacienta a potenciálnych
+funkčných výsledkov jednotnú modalitu, aby sa zabránilo chorobnosti. Transorálna resekcia
+je uprednostňovaná pred RT v ústnej dutine kvôli zníženej dlhodobej morbidite (Ellis et al.,
+2018).
+Pri orofaryngeálnom karcinóme by mala byť u vybraných pacientov uprednostnená
+minimálne invazívna transorálna chirurgia, ako je robot (TORS) alebo laser (TLM),
+pred otvorenou chirurgiou (Moore et al., 2013).
+Zdá sa, že alternatívna RT má menšiu tendenciu k dlhodobej dysfágii (Nichols et al., 2019).
+Na oboch miestach by mali byť cervikálne lymfatické uzliny liečené profylaktickým
+ožarovaním alebo elektívnou disekciou krku (obojstranne pri nádoroch, ktoré vznikajú
+v stredovej línii alebo v jej blízkosti a vedené umiestnením a hĺbkou pri orálnom
+karcinóme). Nedávne údaje odporúčajú liečbu založenú na biopsii sentinelovej uzliny
+pre nádory ústnej dutiny a orofarynxu (T1–2 N0), pretože dosahuje rovnaké prežitie bez
+relapsu krku po 2 rokoch ako disekcia krku s menšou morbiditou počas prvého roka
+po operácii (Garrel et al., 2020).
+Ak je indikovaná krčná disekcia, je odporúčaná elektívna disekcia krku pred terapeutickou
+disekciou krku kvôli podobnej účinnosti s menšou morbiditou. Pri výbere liečby karcinómov
+hypofaryxu a hrtana sa okrem prežitia budú brať do úvahy aj funkčné výsledky hrtana.
+Konzervatívna operácia hrtana (TLM alebo supraglotická alebo supracrikoidná
+17
+
+laryngektómia) bude uprednostnená pred otvorenou operáciou a zváži RT liečbu v prípade
+potreby rozsiahlej chirurgickej resekcie . Odporúča sa elektívna liečba krku pri hypopahrtane
+a supraglottickom karcinóme, ale nie pri glotických novotvaroch. Ak je patologické štádium
+lepšie ako klinické štádium alebo existujú zlé prognózové faktory, má sa použiť doplnková
+liečba vrátane reresekcie. Vo všetkých prípadoch musí existovať multidisciplinárne
+hodnotenie, aby sa rozhodlo o najlepšej možnosti kombinovanej liečby pre každého
+pacienta, a to buď na základe chirurgického zákroku alebo RT ako kľúčovej liečby (Refaat
+et al., 2015).
+V SCCHN neexistuje všeobecne akceptovaná definícia neresekovateľnosti, ale niektoré
+anatomické kritériá sa považujú za jednoznačné a klasifikujú sa ako nádory T4b (postihnutie
+lebkovej
+
+bázy,
+
+krčných
+
+stavcov,
+
+prevertebrálnych
+
+svalov,
+
+brachiálneho
+
+plexu,
+
+mediastinálneho šírenia, postihnutia nosohltanu, fixovaného nádoru na kľúčnu kosť,
+vaskulárneho obalu). Multidisciplinárne nádorové rady môžu vylúčiť pacientov na operáciu:
+malá šanca na dosiahnutie primeraných okrajov, neprijateľné funkčné a/alebo estetické
+následky, malé očakávanie vyliečenia alebo komorbidity pacientov. Pre pacientov s nádormi
+T3-4aN0 je možnosťou ipsilaterálna alebo obojstranná disekcia krku (okrem ústnej dutiny,
+kde je povinná). Keď sú krčné uzliny hmatateľné, mali by sa odstrániť všetky úrovne uzlov.
+Pri adjuventnej liečbe je referovaná radiačná technika: Rádioterapia s modulovanou
+intenzitou (IMRT) 60–66 Gy.
+Samotná rádioterapia: môže sa zvážiť, ak existuje viacero pozitívnych krčných uzlín (bez
+extranodálnej extenzie), perineurálna invázia, vaskulárna invázia, lymfatická invázia,
+primárny karcinóm pT3 alebo pT4, ústnej dutiny alebo orofaryngeálnej komory
+s pozitívnymi uzlami úrovne IV alebo V.
+Súbežná chemorrádioterapia (CCRT): trojtýždňová intravenózna cisplatina 100 mg/m2
+v dňoch 1, 22, 43) pri vysoko rizikových patologických znakoch: extrakapsulárne rozšírenie
+lymfatických uzlín a/alebo postihnuté okraje.
+Týždenná 40 mg/m2 cisplatina môže byť non-inferiornou alternatívou s lepším
+bezpečnostným profilom (Kiyota et al., 2022).
+CCRT sa uprednostňuje u pacientov, ktorí nie sú kandidátmi na radikálnu operáciu alebo
+ju odmietajú.
+Možnosti liečby v lokálne pokročilom SCCHN - Sekvenčná liečba indukčnou
+chemoterapiou, po ktorej nasleduje samotná CCRT alebo RT, je možnosťou pre lokálne
+pokročilé nádory. Faktory ako komorbidity pacientov, vysoký objem nádoru a rýchly rast
+nádoru ovplyvnia jeho indikáciu multidisciplinárnym tímom. IKT nepreukázali celkové
+18
+
+zlepšenie v porovnaní so súbežnou CRT, ale zvýšili mieru odozvy. Jeho obmedzením
+je potenciálna toxicita, ktorá by mohla ohroziť posteriórnu zhodu CRT (Mesia et al., 2020).
+1.3 Úzkosť ako ošetrovateľský problém
+Pojem úzkosť zaviedol do psychológie Sigmund Freud, ktorý navrhol rozlíšiť strach
+do dvoch rôznych kategórií, špecifického strachu (Furcht v nemčine) a neurčitého
+a nevysvetliteľného strachu, ktorý má hlboký, iracionálny, vnútorný charakter (Angst
+v nemčine). Podobné rozlíšenie vo filozofii navrhol Søren Kierkegaard, jeho koncept
+úzkosti a strachu je v dnešnom filozofickom a psychologickom systéme existencializmu
+stále mimoriadne aktuálny (May, 2015).
+Rozdiel medzi úzkosťou a strachom podľa princípu navrhnutého S. Freudom podporujú
+aj mnohí moderní výskumníci. Predpokladá sa, že na rozdiel od strachu je úzkosť
+ako reakcia na konkrétnu hrozbu všeobecný, rozptýlený alebo bezúčelný strach.
+V najvšeobecnejšom zmysle je podľa Stručného slovníka psychológie úzkosť definovaná
+ako emocionálny stav, ktorý sa vyskytuje v situácii neistého nebezpečenstva a prejavuje sa
+v očakávaní nepriaznivého vývoja udalostí. Konkretizácia tejto definície nám umožňuje
+uvažovať o úzkosti ako o nepriaznivom emocionálnom stave alebo vnútornom stave
+charakterizovanom subjektívnymi pocitmi napätia a pochmúrnymi predtuchami (Spielberg,
+1972).
+Vo všeobecnosti považujeme úzkosť za primárnu reakciu potrebnú na rozpoznanie
+a vyhodnotenie bezpečnosti alebo nebezpečenstva konkrétnej situácie. Strach má rovnakú
+signalizačnú funkciu (Dušek – Večeřová - Procházková, 2015).
+Úzkosť je negatívna, nepríjemná emócia pre jednotlivca, ktorá vzniká na základe predtuchy
+hrozby. Je viazaná na nevedomie a smeruje do budúcnosti. Líši sa teda od strachu, ktorý
+je tiež negatívnou emóciou, ale súvisí s konkrétnym objektom, takže je vedomý
+a orientovaný na prítomnosť. Najčastejšie sa úzkosť chápe ako dvojrozmerná, t. j. pozostáva
+z kognitívnej zložky – strachu a fyziologickej zložky – vzrušenia (Moran, 2016).
+Typy úzkosti:
+1.
+
+Generalizovaná úzkostná porucha (GAD): charakterizovaná pretrvávajúcou a
+
+nadmernou úzkosťou a obavami o rôzne aspekty života, ktoré trvajú najmenej šesť mesiacov.
+2.
+
+Panická porucha: zahŕňa opakované panické záchvaty, ktoré sa objavujú náhle
+
+a bez zjavnej príčiny, sprevádzané intenzívnym strachom a fyzickými symptómami, ako sú
+búšenie srdca, potenie a dýchavičnosť.
+
+19
+
+3.
+
+Sociálna úzkostná porucha (sociálna fóbia): prejavuje sa intenzívnym strachom
+
+z negatívneho hodnotenia alebo poníženia v sociálnych situáciách.
+4.
+
+Separačná úzkostná porucha: najčastejšie sa vyskytuje u detí a prejavuje sa
+
+nadmerným strachom z odlúčenia od rodičov alebo opatrovateľov.
+5.
+
+Špecifické fóbie: intenzívny strach z konkrétnych objektov alebo situácií, ako sú
+
+výšky, pavúky alebo lietanie.
+6.
+
+Obsedantno-kompulzívna porucha (OCD): zahŕňa opakujúce sa, nechcené myšlienky
+
+(obsesie) a/alebo opakujúce sa správanie (kompulzie), ktoré majú zmierniť úzkosť.
+7.
+
+Posttraumatická stresová porucha (PTSD): vyvíja sa po prežití alebo svedectve
+
+traumatickej udalosti a zahŕňa pretrvávajúce, rušivé myšlienky a spomienky na udalosť
+(Tyrer, 1984).
+1.3.1 Meracie škály úzkosti
+Výber najvhodnejších nástrojov na skríning ťažkej depresie môže byť náročný vzhľadom
+na rozmanitosť dostupných psychologických škál. Je tiež dôležité určiť hraničné hodnoty,
+ktoré spoľahlivo odlíšia ťažkú depresiu od miernejších foriem. Nesprávna klasifikácia môže
+mať vážne následky: nedostatočná diagnóza môže oddialiť správnu liečbu a zhoršiť stav
+pacienta, zatiaľ čo „nadmerná“ diagnóza môže viesť k zbytočnej liečbe a potenciálnemu
+poškodeniu.
+Meracie škály úzkosti:
+ Hamiltonova škála úzkosti (HAM-A) je nástroj na hodnotenie úzkosti, ktorý
+sa zameriava na psychické aj somatické prejavy úzkosti. Testovanie prebieha ústnou formou
+a zahŕňa otázky týkajúce sa stupňa psychického napätia, stresu a depresie, ako aj fyzických
+problémov spojených s úzkosťou. Na základe odpovedí na otázky, hodnotí testujúci pacienta
+v 14 položkách, pričom každá položka je hodnotená číselnou hodnotou od nuly do štyroch,
+kde nula znamená žiadnu úzkosť a štyri extrémnu úzkosť. Škála je rozdelená do dvoch
+hlavných oblastí:
+Psychická úzkosť: zahŕňa otázky týkajúce sa úzkostnej nálady, stresu, strachu, nespavosti,
+intelektu, depresívnej nálady a správania počas rozhovoru. Somatická úzkosť: zahŕňa otázky
+týkajúce sa svalových a somatických problémov, senzorických a kardiovaskulárnych
+symptómov, gastrointestinálnych symptómov, autonómnych symptómov, respiračných
+symptómov a genitourinárnych symptómov. Tento nástroj podrobne pokrýva príznaky
+úzkosti, ktoré sa prejavujú v rôznych častiach tela a mysle (Hamilton, 1960).
+
+20
+
+
+
+Beckov inventár depresie (BDI) je široko používaný nástroj na meranie závažnosti
+
+depresie. Vyvinul ho Aaron T. Beck v roku 1961 a obsahuje 21 otázok, ktoré hodnotia rôzne
+symptómy depresie, ako sú smútok, pocit zlyhania, strata záujmu, pocit viny, samovražedné
+myšlienky, zmeny v spánku a chuti do jedla. Každá otázka je hodnotená na štvorbodovej
+škále od 0 do 3, kde vyššie skóre naznačuje vyššiu závažnosť symptómov. Celkové skóre
+sa pohybuje od 0 do 63, pričom vyššie skóre naznačuje závažnejšiu depresiu. BDI
+je dostupný v rôznych verziách, vrátane revidovanej verzie BDI-II, ktorá bola aktualizovaná
+v roku 1996 (Beck et al., 1996).
+
+
+Zungova sebahodnotiaca škála úzkosti (SAS) je široko používaný štandardný
+
+porovnávací nástroj, ktorý sa často používa na skríning úzkostných porúch. Skladá sa z 20
+položiek a pohybuje sa v hrubom skóre od 20 do 80 na 4-bodovej stupnici (Dunstan et al.,
+2020).
+ Amsterdamská predoperačná úzkostná a informačná škála (APAIS) je 6
+položkový dotazník, ktorý možno rozdeliť na 2 hlavné zložky. Na stupnici úzkosti položky
+1 a 2 hodnotia úzkosť súvisiacu s anestéziou a položky 4 a 5 hodnotia úzkosť súvisiacu
+s chirurgickým zákrokom. Na stupnici potreby informácií položky 3 a 6 hodnotia túžbu
+po informáciách o anestézii a chirurgickom zákroku. Všetky otázky sa pohybujú od 1
+("vôbec") do 5 ("extrémne"). Skóre škály celkovej úzkosti sa pohybuje od 4 do 20 a 2 až 10
+pre skóre túžby po informáciách (Moerman et al., 1996).
+ Dotazník zvládania medicínskych režimov (MCMQ) je psychologický nástroj
+vyvinutý na hodnotenie spôsobov, akými pacienti zvládajú svoje ochorenia. Tento dotazník
+bol vyvinutý S. M. Fitzpatrickom a jeho kolegami v roku 1988. Obsahuje 20-položkový
+dotazník, ktorý hodnotí na 4-bodovej stupnici Likertovho typu ("nikdy" až "veľmi málo";
+"stále" až po "veľmi"). Skóre položiek sa sčítava tak, aby sa vytvorili úrovne konfrontácie,
+vyhýbania sa a rezignácie, ktoré sa pohybujú od 0 do 27, 0 až 21 a 0 až 1 (Xiaohong et al,
+2000).
+
+
+Spielbergerova
+
+škála
+
+úzkosti
+
+(State-Trait
+
+Anxiety
+
+Inventory,
+
+STAI)
+
+je informatívny spôsob ako sebehodnotiť úroveň úzkosti v danom momente (reaktívna
+úzkosť ako stav) a osobné úzkosti (ako stabilná charakteristika človeka/alebo črta). Dotazník
+bol vytvorený v roku 1970 (STAI, Spielberg, 1983). STAI sa skladá zo 40 položiek a
+zahrňuje v sebe dve subškály. Prvná subškála situačnej úzkosti hodnotí aktuálny stav úzkosti
+tak, že meria, ako sa respondenti cítia „práve teraz“ pomocou subjektívnych pocitov strachu,
+napätia, nervozity, nekľudu a vzrušení autonómneho nervového systému. Inak povedané,
+21
+
+hodnotia emocionálnu reakciu na stresovú situáciu, ktorá se môže v priebehu času meniť
+svojou intenzitou a dynamikou. Druhá subškála osobnej úzkosti hodnotí relatívne stabilné
+aspekty osobnosti, jej sklon k obavám, hodnotí pocit/stav pokoja, dôvery a bezpečia. Obe
+časti obsahujú 20 otázok, ktoré sú hodnotené na štvorstupňovej škále od 1 do 4 (Spielberger
+et al., 1983). Dotazník STAI bol peložený a prispôsobený i pre české a slovenské účely
+(Müller, Ruisel, & Farkaš, 1980).
+1.3.2 Perioperačná úzkosť
+Depresia a úzkosť sú dve z najčastejších psychologických ochorení, ktoré zažívajú pacienti
+s rakovinou ( Pasquini, Biondi, 2007).
+Štúdie ukázali, že pacienti s rakovinou, ktorí majú klinickú depresiu a úzkosť, majú nižšie
+dodržiavanie liečby, horšie výsledky liečby, nižšiu kvalitu života (QoL), dlhšiu
+hospitalizáciu a horšiu 5-ročnú mieru prežitia ako náprotivky bez depresie a úzkosti (Watts
+et al., 2015).
+U pacientov s depresiou došlo k 40 % poklesu prijatia chemoterapie. Predchádzajúce štúdie
+ukázali, že tieto príznaky sú prítomné v štádiách diagnostiky, liečby a často môžu
+pretrvávať aj po ukončení liečby rakoviny (Frangou et al.,2021).
+Vzhľadom na svoju následnú povahu môže sledovacie zobrazovanie vyvolať úzkosť
+a úzkostlivosť u mnohých ľudí, ktorí prežili rakovinu. Táto úzkosť spojená so sledovaním,
+známejšia ako "úzkosť", zahŕňa symptómy spojené s akoukoľvek zložkou starostlivosti
+o dohľad, ako je zobrazovanie, laboratóriá alebo klinické hodnotenie (Feiler, 2011).
+Viaceré štúdie preukázali, že úzkosť je zložitá a viacrozmerná, pričom symptómy sa tiahnu
+od obdobia pred sledovaním, až po diskusiu o výsledkoch a ďalej. Tieto skúsenosti môžu
+mať významný vplyv na pohodu a kvalitu života pacientov (Bauml et al., 2016).
+Chirurgická resekcia je nevyhnutnou súčasťou väčšiny rakoviny solídnych orgánov.
+Po resekcii pacienti zvyčajne vyžadujú najmenej 5 rokov špecializovaného dohľadu
+nad rakovinou, ale mnohí jednotlivci musia mať celoživotné sledovanie. Kľúčovým zdrojom
+úzkosti je strach z recidívy rakoviny, ale medzi ďalšie faktory patrí nepohodlie z testovania,
+stres z plánovania, opätovné prežívanie počiatočnej diagnózy rakoviny a náklady spojené
+s takýmito vyšetreniami. Pri každom sledovaní môžu pacienti pociťovať kognitívne,
+behaviorálne, emocionálne alebo dokonca fyzické utrpenie (Simard, Savard, 2015).
+Predoperačná úzkosť je nepríjemný stav napätia a celosvetový problém v perioperačnom
+období. Nadmerná úzkosť môže viesť k fyziologickým a psychologickým reakciám vrátane
+hypertenzie, arytmií, silnejšej pooperačnej bolesti, depresie, ktorá môže ovplyvniť prognózu
+22
+
+pacientov a pooperačnú spokojnosť. Správna psychologická intervencia môže zmierniť
+úzkosť a zlepšiť výsledky pacientov, pacienti s vysokým stupňom úzkosti by mali byť
+rutinne identifikovaní počas predoperačného rozhovoru anestéziológa. Úzkosť spojená
+s chirurgickým zákrokom a anestéziou je už dlho stredobodom klinickej praxe a výskumu
+v anestéziológii. Dalo by sa preukázať, že rozsah strachu aj obsah strachu sa významne líšia
+v rôznych perioperačných fázach v kontexte operácie (David et al., 2020) .
+Z literatúry vyplýva, že pacienti, ktorí musia podstúpiť plánovaný chirurgický zákrok, často
+pociťujú predoperačnú aj pooperačnú úzkosť. Predoperačná úzkosť sa zdá byť veľmi
+dobrým prediktorom výskytu a rozsahu pooperačnej úzkosti. Okrem toho početné štúdie
+zistili, že zvýšená predoperačná úzkosť má negatívny vplyv na intra a pooperačný priebeh.
+To je sprevádzané častejším výskytom intra a pooperačných komplikácií, ako je aspirácia,
+nevoľnosť, vracanie (Stamenkovic et al., 2018).
+Ukázalo sa tiež, že vysoká predoperačná úzkosť je spojená so zvýšenou pooperačnou
+bolesťou, ktorú je ťažké kontrolovať (Alvarez et al., 2020).
+Yang et al. (2019) boli schopní v metaanalýze 33 štúdií s viac ako 53 000 pacientmi
+identifikovať ďalšie dôležité prediktory spojené s horším zvládaním pooperačnej bolesti,
+okrem predoperačnej úzkosti. Napríklad mladší vek, ženské pohlavie, spotreba nikotínu,
+predoperačné depresívne symptómy, poruchy spánku, vysoký BMI a predoperačná bolesť
+nepriaznivo ovplyvňujú pooperačný priebeh symptómov bolesti.
+Je zaujímavé, že typ chirurgického zákroku a jeho základný dôvod zohrávajú menšiu úlohu,
+ako uzavreli Costelloe et al. (2020) vo svojej metaanalýze viac ako 20 štúdií o pretrvávajúcej
+pooperačnej bolesti. Zistilo sa, že úzkosť a depresia v predoperačnom období sú tiež
+významnými faktormi prispievajúcimi k predĺženej pooperačnej bolesti.
+Zdá sa však, že pri rozvoji predoperačnej úzkosti zohrávajú úlohu aj individuálne faktory,
+ako je vek, pohlavie a úroveň vzdelania (Eberhart et al., 2020).
+Štúdie, ktoré sa zaoberali perioperačnou úzkosťou a formou anestézie, zistili, že úzkosť
+sa vyskytuje pri celkovej aj lokálnej anestézii. Na jednej strane sa uvádza, že pacienti
+s vyššou predoperačnou anestéziou si s väčšou pravdepodobnosťou vyberú celkovú
+anestéziu pre seba, na druhej strane pacienti, ktorí sa rozhodnú pre lokálnu anestéziu,
+vykazujú vyššiu predoperačnú hladinu kortizolu a úzkosti ako tí, ktorí podstupujú celkovú
+anestéziu (Ozturk et al., 2020).
+Okrem toho existujú aj správy, ktoré neuvádzajú žiadny rozdiel a žiadny priamy vzťah medzi
+predoperačnou úzkosťou a typom anestézie (Neal-Smith et al., 2021).
+
+23
+
+Možno teda len špekulovať, či veľmi úzkostliví pacienti inklinujú k celkovej anestézii
+v zmysle psychologickej obrany, zatiaľ čo menej úzkostliví ľudia uprednostňujú lokálnu
+anestéziu. V tomto prípade by sa pred chirurgickým zákrokom vyskytla fyziologická
+stresovo - úzkostná reakcia. Pre podložené tvrdenia o tejto téme je potrebný ďalší
+interdisciplinárny výskum, najmä preto, že študijný kolektív je heterogénny v závislosti
+od základného ochorenia a chirurgického zákroku (Stolberg et al., 2021).
+Vzhľadom na podstatné rozlíšenie medzi strachom a rôznymi perioperačnými fázami
+je pochopiteľné, že predoperačná fáza je spojená s väčšou úzkosťou u väčšiny pacientov,
+ktorí nemali žiadne predchádzajúce skúsenosti s chirurgickými zákrokmi, ako u pacientov
+s predchádzajúcimi skúsenosťami (Schaal et al., 2020) .
+Strach z "neznámeho" po prežití operácie je výrazne nižší a pooperačný priebeh
+charakterizujú ďalšie starosti. Bola by hypotéza, že úzkosť v predoperačnej fáze súvisí viac
+s anestéziou ako úzkosť v pooperačnej fáze, ktorá je charakterizovaná skôr chirurgickými
+aspektmi, napr. hojením rán. Často sa kontroverzne diskutuje o rozlišovaní medzi obavami
+vo vzťahu k anestézii, oddelene od všeobecnej úzkosti z chirurgického zákroku (Eberhart et
+al., 2020).
+Predoperačná úzkosť je posilnená najmä pocitom bezmocnosti vydanej na milosť a nemilosť
+situácii, v zmysle straty kontroly alebo kontrolovateľnosti nemocničnej situácie. Okrem toho
+je tu pocit hanby z nekontrolovateľného odhaľovania seba a vlastného tela ostatným
+("nahota") (Matthey et al., 2001).
+Nevyhnutný je aj strach z anestézie v súvislosti s obavami z udusenia počas anestézie,
+získania vedomia počas chirurgického zákroku ("uvedomenie") alebo neprebudenia
+z anestézie (Eberhart et al., 2020).
+Dôvodom na obavy je aj pooperačné delírium, ktoré postihuje najmä starších pacientov.
+To je spojené nielen s niekedy závažnými pooperačnými kognitívnymi dysfunkciami
+a psychosociálnymi obmedzeniami až u 50 % postihnutých pacientov, ale aj s dočasným
+zvýšením úmrtnosti až 20-násobne (Stolberg et al., 2021).
+Dôležitú úlohu však pre postihnutých pacientov zohrávajú aj predoperačné obavy z operácie,
+ako je rozsah operačného zákroku, neistota priebehu operácie a výsledku operácie, strach
+z pooperačných komplikácií a predovšetkým pooperačná bolesť (Doan et al., 2020).
+
+24
+
+1.4 Sestra v procese psychologickej podpory pacienta
+Sestry zohrávajú kľúčovú úlohu pri podpore pacientov tým, že efektívne komunikujú
+a rozumejú ich potrebám počas liečby. Ich podpora je obzvlášť dôležitá pri budovaní
+vzťahov s pacientmi s chronickými ochoreniami, ako aj pri rozvíjaní vzťahov s ich rodinami.
+Tento prístup môže výrazne ovplyvniť priebeh a výsledky liečby (Botti et al., 2006).
+Týmto sa sestrám otvára príležitosť na budovanie komunikácie, získanie dôvery
+a poskytovanie podpory. Každý pacient potrebuje špecifickú "fyzicko-symptomatickopsychosociálnu" starostlivosť, preto sestry pristupujú k liečbe individuálne. Poskytovanie
+kvalitnej psychologickej podpory prináša pozitívne výsledky, ako je zníženie fyzických
+symptómov a psychického utrpenia. To vedie k výraznému zlepšeniu kvality života,
+lepšiemu manažmentu, zníženiu bolesti a následne aj k menšiemu zaťaženiu nemocničných
+zdrojov (Ellis et al., 2006).
+Poskytovanie kvalitnej psychosociálnej starostlivosti je založené na efektívnej komunikácii
+a budovaní vzťahov s pacientmi. Pre ťažko chronicky chorých pacientov je zásadné, aby
+sestry prejavovali empatiu, poskytovali podporu a poskytovali informácie. Vzťah medzi
+poskytovateľom zdravotnej starostlivosti a pacientom je založený na dôvere, čestnosti,
+porozumení a prítomnosti. Stanovovanie cieľov a poskytovanie sociálnej podpory
+sú kľúčové pre zlepšenie kvality života ťažko chorých pacientov (Regnard, 2004).
+Efektívna
+
+psychologická
+
+podpora
+
+a
+
+poskytovanie
+
+závisí
+
+od
+
+dvoch
+
+faktorov,
+
+a to "rozpoznania utrpenia a dostupných duševných zdrojov. Psychologická starostlivosť
+zahŕňa zavedenie "psychologickej a duchovnej starostlivosti" (Moody 2003, Sussman –
+Baldwin, 2010).
+Poskytovanie sociálnej podpory môže byť užitočné pre pacientov s chronickými
+ochoreniami, ktorí zažívajú úzkosť a úzkostlivosť (Rodin, 2008).
+Budovanie vzťahov medzi sestrami a pacientmi sa líši v závislosti od jednotlivca, pričom
+faktory ako vek a pohlavie tento vzťah ovplyvňujú. Psychosociálna starostlivosť zahŕňa
+aj úlohu sestier pri poskytovaní informácií a vzdelávania, ktoré sú prispôsobené
+individuálnym potrebám pacientov. Nádej sa považuje za kľúčovú zložku účinnej
+psychosociálnej starostlivosti. Nádej zahŕňa prehodnotenie a stanovenie nových cieľov
+(Reb, 2007). Objavenie rovnováhy medzi hovorením pravdy a "pestovaním nádeje" sestrami
+je kľúčovým faktorom pri budovaní dôvery. V mnohých situáciách si sestry môžu byť isté,
+že podpora negatívneho očakávania liečby, keď liečba nakoniec nie je možná, môže viesť
+
+25
+
+k smútku, pretože môže brániť pacientom a ich rodinám robiť rozhodnutia (Schofield et al.,
+2006).
+Okrem toho existujú bariéry ako "nedostatok času, prepracovanosť, pocity nedostatočnosti
+a jazykové bariéry", ktoré bránia sestrám v poskytovaní zdravotnej starostlivosti najmä
+v zariadeniach intenzívnej starostlivosti (Legg, 2011).
+Sestry zohrávajú dôležitú úlohu pri podpore chronicky chorých pacientov. Sú svedkami
+psychologických problémov pacientov, ako napríklad:
+
+
+náklady na liečbu sú príliš vysoké; cítia veľkú záťaž pre rodinu a majú pocit viny,
+
+
+
+bolesť spôsobuje úzkosť,
+
+
+
+cítia sa zbytoční a myslia si, že žijú bezcenne.
+
+Sestry považujú za najdôležitejšiu trpezlivosť, nápravu chýb a odstraňovanie nedorozumení,
+pomoc pacientom, identifikáciu a riešenie stresujúcich psychologických alebo sociálnych
+problémov a podporu. To znamená, že sestra sa musí najprv vzdelávať (Kozier et al., 2010).
+sestry sú primárnym a základným zdrojom poskytovania bezpečnej a efektívnej starostlivosti
+na celom svete. Efektívne zdravotné sestry znižujú stres, utrpenie a komplikácie pacientov,
+ktorí čelia smrti. Okrem toho sestry rozširujú fyzickú, sociálnu, psychologickú pomoc
+pacientom s ťažkými chorobami. Uvádza sa, že približne štyri milióny zdravotných sestier
+prispievajú k poskytovaniu holistickej starostlivosti zameranej na človeka len v USA
+(Zamanzadeh et al.,2015).
+Sestry sú primárnym a základným zdrojom poskytovania bezpečnej a efektívnej
+starostlivosti na celom svete. Podieľajú sa nielen na zaistení bezpečnej a kvalitnej
+starostlivosti, ale v porovnaní s inými zdravotníckymi pracovníkmi trávia aj primeraný čas
+s pacientmi (s ťažkým ochorením) a ich rodinami. Je všeobecne uznávaným faktom,
+že efektívne sestry znižujú stres, utrpenie a komplikácie pacientov, ktorí čelia smrti (Morgan
+et al., 2012).
+Sestry ponúkajú poradenstvo a adekvátne vzdelávanie o preventívnych a kontrolných
+opatreniach, zabezpečujú emocionálnu pomoc pacientom a členom rodiny. Medzi ďalšie
+povinnosti patrí monitorovanie zdravotného stavu, fyzické hodnotenie, sledovanie
+zdravotnej anamnézy, vzdelávanie o podpore zdravotných aktivít, farmakoterapia,
+starostlivosť o rany, personalizované intervencie a manažment liečby. Sestry aktívne
+spolupracujú s odborníkmi v oblasti zdravotnej starostlivosti pri poskytovaní efektívnej
+a kvalitnej starostlivosti o pacientov pre lepšiu prax a výsledky pacientov, ktoré podporujú
+zdravie a kvalitu života a maximalizujú výhody (Sharmila et al., 2021).
+26
+
+2 VÝSKUM
+V predchádzajúcom texte diplomovej práce sme popísali teoretické východiská, ktoré nám
+poslúžili ako základ pre výskumnú časť práce. Onkologickí pacienti, ktorí sú hospitalizovaní
+na oddelení maxillo faciálnej chirurgii si vyžadujú od zdravotníckeho personálu
+profesionálne správanie, nielen z pohľadu poskytovania zdravotnej a ošetrovateľskej
+starostlivosti, ale aj zo strany psychologickej podpory, ktorá môže vo význemnej miere
+ovplyvniť ich priebeh liečby, ako aj následnú rekonvalescenciu.
+2.1 Výskumný problém
+Identifikovať úzkosť a úzkostlivosť u onkologických maxilofaciálnych pacientov
+pred podstúpením chirurgického zákroku rekonštrukčnou náhradou pomocou voľného
+mikrovaskulárneho laloka.
+2.2 Ciele výskumu
+Hlavný cieľ
+Analyzovať
+
+prítomnosť
+
+úzkosti
+
+a
+
+úzkostlivosti
+
+u
+
+maxilofaciálnych
+
+pacientov
+
+pred podstúpením chirurgického zákroku rekonštrukčnou náhradou pomocou voľného
+mikrovaskulárneho laloka.
+Čiastkové ciele
+1. Zistiť vzájomný vzťah medzi vekom maxilofaciálnych pacientov pred podstúpením
+chirurgického zákroku rekonštrukčnou náhradou pomocou voľného mikrovaskulárneho
+laloka a výskytom úzkosti a úzkostlivosti.
+2. Zistiť vzájomný vzťah medzi pohlavím maxilofaciálnych pacientov pred podstúpením
+chirurgického zákroku rekonštrukčnou náhradou pomocou voľného mikrovaskulárneho
+laloka a výskytom úzkosti a úzkostlivosti.
+3. Zistiť vzájomný vzťah medzi dosiahnutým vzdelaním maxilofaciálnych pacientov pred
+podstúpením chirurgického zákroku rekonštrukčnou náhradou pomocou voľného
+mikrovaskulárneho laloka a výskytom úzkosti a úzkostlivosti.
+
+27
+
+2.3 Výskumné hypotézy
+H1 Existuje vzájomná závislosť medzi vekom a výskytom úzkosti a úzkostlivosti
+u maxilofaciálnych pacientov pred podstúpením chirurgického zákroku rekonštrukčnou
+náhradou pomocou voľného mikrovaskulárneho laloka.
+H2 Existuje vzájomná závislosť medzi pohlavím a výskytom úzkosti a úzkostlivosti
+u maxilofaciálnych pacientov pred podstúpením chirurgického zákroku rekonštrukčnou
+náhradou pomocou voľného mikrovaskulárneho laloka.
+H3 Existuje vzájomná závislosť medzi dosiahnutým vzdelaním a výskytom úzkosti
+a úzkostlivosti u maxilofaciálnych pacientov pred podstúpením chirurgického zákroku
+rekonštrukčnou náhradou pomocou voľného mikrovaskulárneho laloka.
+2.4 Organizácia a metodika výskumu
+K získaniu informácií, potrebných k realizácii nášho výskumu, sme použili dotazník
+na
+
+meranie úzkosti a úzkostlivosti STAI, vrátane príručky k tomuto dotazníku
+
+a vyhodnotenia (Príloha 1), ktorý sme osobne distribuovali vybraným respondentom –
+pacientom (charakteristika výskumného súboru je uvedená v podkapitole 2.5). Dotazník
+obsahoval 30 položiek, v ktorých si mali respondenti možnosť vybrať zo 4 odpovedí, ktorým
+bola pridelená číselná hodnota. Prvých 20 položiek bolo zameraných na oblasť „ako sa práve
+teraz pacient cíti“ a 10 položiek bolo zameraných na to, „ako sa pacient cíti zvyčajne“.
+V počiatočnej fáze sme požiadali Etickú komisiu FNsP FDR B. Bystrica o schválenie nášho
+výskumu a po jeho schválení sme na Klinike maxilofaciálnej chirurgie vo FN FDR
+B. Bystrica, v časovom horizonte máj 2024 až december 2024, realizovali samotný výskum.
+2.5 Charakteristika výskumného súboru
+Výskumný súbor tvorilo 55 pacientov s onkologickým ochorením dutiny ústnej a krku
+pred absolvovaním chirurgického zákroku rekonštrukčnou náhradou pomocou voľného
+mikrovaskulárneho laloka hospitalizovaných vo FNsP F.D.Roosevelta v Banskej Bystrici na
+Klinike maxilofaciálnej chirurgie. Výber respondentov bol zámerný a limitovaný. Kritériom
+pre zaradenie do výskumu bola požadovaná onkologická diagnóza pacienta s následným
+operačným riešením a ochota pacienta vyplniť dotazník. Z celkového počtu 55 pacientov
+bolo 20 (36,36%) z nich ženského a štatisticky významne väčšia početnosť, 35 (63,64%),
+mužského pohlavia.
+28
+
+3 ANALÝZA VÝSLEDKOV VÝSKUMU
+Výberový súbor bol tvorený 55 pacientmi s onkologickým ochorením dutiny ústnej a krku,
+pred absolvovaním chirurgického zákroku rekonštrukčnou náhradou pomocou voľného
+mikrovaskulárneho laloka. 20 (36,36%) z nich bolo ženského a štatisticky významne väčšia
+početnosť, 35 (63,64%), mužského pohlavia (binomický test: p = 0,02903). Návratnosť bola
+100 %, nakoľko všetci (55) oslovení pacienti boli dotazník ochotní vypísať a po našej
+kontrole spĺňal požiadavky pre zaradenie do nášho výskumu (kompletne vyplnený
+dotazník). V rámci údajov o respondentoch, boli použité údaje o ich pohlaví, veku, vzdelaní
+a povolaní. Dotazníkom získané údaje sme najprv analyzovali v programe MS Excel 2021.
+Údaje sme utriedili a spracovali do frekvenčných a kontingenčných tabuliek a grafov.
+Vek respondentov
+Tabuľka 1 Deskripcia veku respondentov
+Vek respondentov
+muži
+ženy
+celkom
+
+M
+61,43
+65,70
+62,98
+
+SD
+10,92
+16,54
+13,25
+
+Mdn
+64
+69
+64
+
+Mode
+64
+46;70;73
+64
+
+min
+40
+31
+31
+
+max
+78
+92
+92
+
+Najmladšou, vo výberovom súbore, bola žena vo veku 31 rokov, najstaršou bola tiež žena,
+mala 92 rokov. Najmladší muž mal 40 rokov, najstarší 78 rokov. Priemerným vekom
+respondentov výberového súboru bol vek 62,98 roka, mediánom i modusom ich veku bol
+vek 64 rokov. Tento vek bol zároveň aj mediánom a modusom veku mužov.
+Priemerným vekom mužov výberového súboru bol vek 61,43 roka, žien vek 65,70 roka,
+mediánom veku žien bol vek 69 rokov. Vo veku mužov a žien sme štatisticky významný
+rozdiel nezistili, muži boli len štatisticky nevýznamne mladší (Mann – Whitney test:
+z = - 1,4978; zkrit = -1,6449; p = 0,0671).
+Povolanie respondentov
+Najväčšia početnosť respondentov výberového súboru, 35 (63,64%) bola tvorená
+dôchodcami, 29 (52,73%) starobnými a 6 (10,91%) invalidnými dôchodcami. 2 (3,64%)
+respondenti boli nezamestnaní a zvyšných 18 (32,73%) respondentov vykonávalo rôzne
+povolania. Bol medzi nimi 1 lekár, 2 manažéri, 2 informatici, 3 pedagógovia, 1 štátny
+zamestnanec, 2 SZČO, 2 vodiči, 1 zvárač, 1 zásobovač, 1 pokladník, 1 elektrikár a 1
+robotník, ktorý svoje povolanie bližšie nešpecifikoval.
+29
+
+Vzdelanie respondentov
+19 (34,55%) respondentov malo ukončené vysokoškolské vzdelanie, 31 (56,36%)
+respondentov stredoškolské a 5 (9,09%) respondentov základné vzdelanie.
+Tabuľka 2 Vzdelanie respondentov
+Vzdelanie respondentov
+základné
+stredoškolské
+vysokoškolské
+Spolu
+
+n
+5
+31
+19
+55
+
+%
+9,09
+56,36
+34,55
+100,00
+
+Položková analýza
+Tabuľka 3 Položková analýza, korelácie položiek s celkovým skóre v oboch škálach STAI
+STAI X - 1
+položka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+rs
+0,579
+0,429
+0,515
+0,559
+0,648
+0,136
+0,383
+0,392
+0,654
+0,597
+0,505
+0,603
+0,511
+0,496
+0,516
+0,738
+0,616
+0,573
+0,629
+0,559
+
+p
+< 0,0001
+0,0011
+0,0001
+< 0,0001
+< 0,0001
+0,3233
+0,0039
+0,0031
+< 0,0001
+< 0,0001
+0,0001
+< 0,0001
+0,0001
+0,0001
+0,0001
+<0,0001
+<0,0001
+<0,0001
+<0,0001
+<0,0001
+
+STAI X - 2
+položka
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+
+rs
+0,553
+0,375
+0,413
+0,311
+0,224
+0,567
+0,767
+0,517
+0,489
+0,598
+0,405
+0,440
+0,076
+0,685
+0,508
+0,601
+0,693
+0,424
+0,690
+0,378
+
+p
+< 0,0001
+0,0048
+0,0017
+0,0208
+0,0997
+< 0,0001
+< 0,0001
+0,0001
+0,0002
+< 0,0001
+0,0022
+0,0008
+0,5838
+< 0,0001
+0,0001
+<0,0001
+<0,0001
+0,0013
+<0,0001
+0,0044
+
+V meraní v STAI X – 1 bola preukázaná pomerne veľká, štatisticky významná korelácia
+skóre položiek s celkovým skóre tejto škály. Výnimkou bola len položka 6 (som vzrušený),
+ktorej vzťah s celkovým skóre bol slabý, štatisticky nevýznamný (rs = 0,136; p = 0,3233).
+
+30
+
+Aj v meraní STAI X – 2 bola preukázaná pomerne veľká, štatisticky významná korelácia
+skóre položiek s celkovým skóre tejto škály, výnimkou boli len dve položky. Korelácia skóre
+položky 25 (prichádzam o veľa, keď sa neviem včas rozhodnúť) s celkovým skóre, bola
+slabá a štatisticky nevýznamná (rs = 0,224; p = 0,0997). Druhou bola položka 33 (som
+bezstarostný). V tomto prípade išlo o triviálny vzťah daných veličín (rs = 0,076; p = 0,5838).
+O významnej konzistencii skóre položiek dotazníka v oboch meraných parametroch
+vypovedá hodnota Cronbachovho α koeficientu, ktorý v prípade škály STAI X - 1 nadobudol
+hodnotu 0,8779 a v prípade škály STAI X – 2, hodnotu 0,8393.
+Vyhodnotenie údajov dotazníka STAI X – 1 a STAI X – 2
+Vyhodnotenie údajov v položkách dotazníkov
+Priemerné skóre a mediány skóre respondentov v položkách dotazníkov STAI X – 1 a STAI
+X – 2 sú obsahom tabuľky 4.
+Tabuľka 4 Priemerné hodnoty, smerodajné odchýlky a mediány skóre respondentov
+v položkách oboch premenných
+STAI X - 1
+Položka M
+1
+2,15
+2
+2,93
+3
+2,13
+4
+2,27
+5
+2,27
+6
+1,25
+7
+1,78
+8
+2,13
+9
+1,84
+10
+3,09
+11
+2,09
+12
+1,89
+13
+1,76
+14
+1,56
+15
+3,22
+16
+2,78
+17
+2,69
+18
+1,44
+19
+2,78
+20
+3,25
+
+SD
+0,93
+0,79
+0,75
+0,78
+0,89
+0,52
+0,81
+0,67
+0,76
+0,78
+0,75
+0,76
+0,79
+0,74
+0,81
+0,81
+0,69
+0,66
+0,88
+0,75
+
+Mdn
+2
+3
+2
+2
+2
+1
+2
+2
+2
+3
+2
+2
+2
+1
+3
+3
+3
+1
+3
+3
+
+STAI X - 2
+Položka M
+21
+2,07
+22
+2,15
+23
+1,51
+24
+1,91
+25
+1,53
+26
+2,29
+27
+2,16
+28
+1,65
+29
+1,60
+30
+2,35
+31
+1,95
+32
+1,65
+33
+3,31
+34
+1,84
+35
+1,73
+36
+2,40
+37
+1,71
+38
+2,05
+39
+2,25
+40
+1,96
+
+SD
+0,74
+0,62
+0,54
+0,65
+0,63
+0,69
+0,83
+0,64
+0,66
+0,70
+0,65
+0,67
+0,50
+0,76
+0,56
+0,60
+0,71
+0,76
+0,73
+0,64
+
+Mdn
+2
+2
+1
+2
+1
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+31
+
+V dotazníku STAI X – 1 sme najväčšie priemerné skóre (3,25 ± 0,75; Mdn: 3) zistili
+v položke 20, pacienti sa v uvedenom momente necítili príjemne. Len nepatrne menšie
+priemerné skóre (3,22 ± 0,81; Mdn: 3) sme zistili v položke 15, pacienti sa cítia len málo
+uvoľnení. Prostredníctvom svojej odpovede v položke 10 pacienti deklarovali, že sa
+momentálne necítia dostatočne pohodlne, ich priemerné skóre v tejto položke malo hodnotu
+3,09 ± 0,78; Mdn: 3. Ich momentálne vzrušenie, popísané v položke 6 (1,25 ± 0,52; Mdn:
+1), bolo veľmi malé.
+Priemerné skóre v položkách dotazníka STAI X – 2, vystihujúce ich zvyčajné pocity, malo
+najväčšiu priemernú hodnotu (3,31 ± 0,50; Mdn: 3) v položke 33, respondenti sa cítia
+bezstarostní len niekedy.
+Hodnoty skóre respondentov dotazníku STAI X – 1 a STAI X – 2
+Početnosti hodnôt skóre respondentov v dotazníkovej časti STAI X – 1 i v dotazníkovej
+časti STAI X – 2 prezentujeme vo frekvenčnej tabuľke, v oboch prípadoch v intervalovom
+triedení so šírkou intervalu 5.
+Tabuľka 5 Bodové skóre respondentov
+Skóre respondentov
+ 20; 25)
+ 25; 30)
+ 30; 35)
+ 35; 40)
+ 40; 45)
+ 45; 50)
+ 50; 55)
+ 55; 60)
+ 60; 65)
+ 65; 70)
+ 70; 75)
+ 75; 80˃
+spolu
+
+STAI X - 1
+n
+1
+1
+4
+6
+11
+14
+11
+6
+0
+1
+0
+0
+55
+
+%
+1,82
+1,82
+7,27
+10,91
+20,00
+25,45
+20,00
+10,91
+0,00
+1,82
+0,00
+0,00
+100
+
+STAI X - 2
+n
+0
+3
+8
+14
+17
+10
+3
+0
+0
+0
+0
+0
+55
+
+%
+0,00
+5,45
+14,55
+25,45
+30,91
+18,18
+5,45
+0,00
+0,00
+0,00
+0,00
+0,00
+100,00
+
+V premennej X – 1 mala najväčšia početnosť respondentov, 14 (25,45%), skóre patriace
+do intervalu  55; 60) bodov. V poradí druhá najväčšia početnosť respondentov, 11 (20%),
+nadobudla bodové skóre z intervalu  45; 50) a rovnaká početnosť respondentov aj skóre,
+32
+
+patriace do intervalu  60; 65). V premennej X – 2 mala najväčšia početnosť respondentov,
+17 (30,91%), skóre patriace do intervalu  45; 50) bodov. V poradí druhá najväčšia
+početnosť respondentov, 14 (25,45%) respondentov, nadobudla skóre z intervalu  40; 45)
+a tretím najfrekventovanejším intervalom bol bodový interval  55; 60).
+
+Graf 1 Frekvencia výskytu hodnôt skóre STAI X – 1
+
+Graf 2 Frekvencia výskytu hodnôt skóre STAI X – 2
+
+33
+
+Distribúcia údajov, získaných obomi meracích nástrojmi je prezentovaná aj graficky,
+histogramom a Gaussovou krivkou (graf 1 a graf 2).
+Deskripcia skóre respondentov výberového súboru
+Najnižšie možné skóre (20 bodov) a ani najvyššie možné skóre (80 bodov) nebolo
+u respondentov výberového súboru ani v jenom sledovanom parametri namerané.
+
+Graf 3 Deskripcia skóre respondentov v premenných X – 1 a X – 2
+
+V premennej X – 1, v meraní úzkosti, malo minimálne skóre respondentov hodnotu 24
+bodov, maximom bola hodnota 66 bodov. Priemerné skóre malo hodnotu 45,31 bodu
+so smerodajnou odchýlkou 8,46, mediánom bolo skóre 46 bodov, modusom boli štyri
+hodnoty, 45; 47; 52 a 56, každá s početnosťou 4.
+V premennej X – 2, v zisťovaní miery úzkostlivosti respondentov, bolo minimom skóre 26
+bodov, maximom skóre 54 bodov. Priemernou hodnotou bolo skóre 40,07 bodu
+so smerodajnou odchýlkou 6,64, mediánom skóre 40 bodov. Modusom boli dve hodnoty, 39
+a 40 bodov, každá z nich bola zistená u 5 respondentov.
+
+34
+
+Miera úzkosti a úzkostlivosti respondentov výberového súboru
+STAI X – 1
+Vieme, že stav úzkosti závisí od aktuálnej situácie a pod vplyvom rôznych faktorov sa mení,
+a odborník musí vedieť posúdiť mieru momentálnej úzkosti respondenta. Autori dotazníka
+STAI uvádzajú hodnoty noriem, ktorými sa posudzovateľ môže riadiť pri jej určení. Jednými
+z odporúčaných noriem sú percentilové normy. K nim sme vypočítali percentily skóre
+mužov a žien výberového súboru a v tabuľke 6 uvádzame ich hodnoty i odpovedajúce
+percentilové normy.
+Tabuľka 6 Tabuľka, percentily skóre respondentov a percentilové normy X - 1
+STAI X – 1, percentily skóre a percentilová norma
+muži
+percentil
+1
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+99
+
+norma
+22
+27
+29
+31
+32
+33
+34
+35
+36
+37
+38
+40
+41
+42
+44
+46
+48
+51
+54
+59
+66
+
+respondenti
+26,04
+30,70
+34,40
+35,10
+36,80
+40,00
+40,40
+42,90
+43,60
+44,30
+45,00
+46,00
+46,40
+48,30
+51,80
+52,00
+53,00
+55,70
+56,00
+57,60
+63,62
+
+ženy
+percentil
+1
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+99
+
+norma
+24
+28
+31
+32
+33
+35
+36
+37
+38
+39
+40
+42
+43
+46
+47
+50
+51
+53
+56
+59
+64
+
+respondenti
+28,33
+33,65
+35,80
+38,55
+41,40
+42,75
+43,70
+44,65
+45,00
+46,10
+47,00
+47,00
+47,40
+48,35
+49,30
+50,00
+50,40
+52,15
+53,10
+54,10
+55,62
+
+U mužov výberového súboru boli takmer všetky percentilové normy, s výnimkou 95. a 99.
+percentilu, prekročené odpovedajúcimi percentilovými hodnotami ich skóre. Podobne aj
+u žien, až po 75. percentil, keď 75. percentil ich skóre bol identický s hodnotou normy
+35
+
+a vo vyšších percentilových hodnotách už bolo ich skóre menšie ako odpovedajúce
+normatívne hodnoty.
+Bolo teda zrejmé, že miera momentálnej úzkosti respondentov bude významná. Miere
+úzkosti mužov a žien sme sa podrobnejšie venovali vo verifikácii hypotéz.
+Za hranicu, keď môžeme hovoriť o významných symptómoch úzkosti u dospelých osôb, je
+považovaná hranica 39 - 40 bodov (Julián, 2011, s.468) a o patologickej úrovni úzkosti,
+ktorá si už vyžaduje intervenciu odborníkov, môžeme hovoriť v prípade, že ich skóre v danej
+škále dosiahne alebo presiahne hranicu 50 bodov (Gurková, 2009, s.157).
+Pretože priemerné skóre respondentov výberového súboru nadobudlo v škále X – 1 hodnotu
+45,31 ± 8,46, ktorá už prekročila hranicu 40 bodov, môžeme hovoriť o ich významnej
+úzkosti. Štatistickú významnosť tohto konštatovania sme overili testom (tabuľka 8). Pretože
+bola normalita údajov respondentov v prípade STAI X - 1 D´Agostino – Pearsonovým
+testom normality preukázaná (tabuľka 7), použili sme v testovaní jednovýberový t – test.
+Tabuľka 7 Normalita údajov, skóre STAI
+Normalita
+výberový súbor
+STAI X – 1
+STAI X – 2
+
+Koeficient
+𝛾
+-0,2789
+0,0303
+
+Koeficient
+𝛾
+0,0997
+-0,2749
+
+P hodnota
+p
+0,6224
+0,9504
+
+Normalita
+áno/nie
+áno
+áno
+
+Tabuľka 8 Jednovýberový t – test X - 1, respondenti
+Jednovýberový t – test, X – 1
+X – 1, výberový súbor
+skóre respondentov vs 40
+
+Testovacia štatistika
+t
+4,6535
+
+Kritický obor
+W
+ 2,3974; ∞)
+
+P hodnota
+p
+1,078.10-5
+
+Výsledok t - testu bol štatisticky významný, p hodnota testu (p = 1,078.10-5) bola menšia
+ako hladina významnosti 0,0001. Priemerné skóre respondentov výberového súboru bolo
+štatisticky významne väčšie ako hranica 40 bodov. Štatistická významnosť miery úzkosti
+respondentov nášho výberového súboru bola testovaním verifikovaná.
+Podľa Ferreiru (Ferreira a kol., 2016), ak skóre v škále X – 1 nadobudne hodnotu ≥ 30 bodov,
+už hovoríme o miernej úzkosti, a ak hodnotu ≥ 45 bodov, je úzkosť považovaná za závažnú.
+U 21 (38,18%) respondentov nášho výberového súboru bola podľa tohto hodnotenia
+identifikovaná mierna úzkosť a u ďalších 32 (58,18%) respondentov závažná úzkosť a len
+u 2 (3,64%) respondentov bola preukázaná nevýznamná miera úzkosti.
+
+36
+
+STAI X - 2
+Výskyt úzkosti ako vlastnosti, teda úzkostlivosti, bol meraný škálou X – 2 dotazníka STAI.
+Aj v tomto meraní sme vypočítali percentily bodového skóre mužov a žien výberového
+súboru a spolu s odpovedajúcimi percentilovými normami ich prezentujeme v tabuľke 9.
+Tabuľka 9 Tabuľka, percentily skóre respondentov a percentilové normy X - 2
+STAI X – 2, percentily skóre a percentilová norma
+muži
+percentil
+1
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+99
+
+norma
+25
+32
+35
+36
+37
+38
+39
+40
+41
+41
+42
+43
+44
+46
+47
+48
+50
+52
+54
+57
+63
+
+respondenti
+26,34
+28,40
+30,40
+33,00
+33,00
+35,50
+38,00
+38,90
+39,00
+40,00
+41,00
+41,70
+43,00
+44,00
+45,60
+46,00
+47,20
+48,00
+48,60
+54,00
+54,00
+
+ženy
+percentil
+1
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+99
+
+norma
+30
+37
+38
+40
+41
+42
+43
+44
+45
+46
+46
+47
+47
+49
+50
+51
+52
+53
+55
+58
+64
+
+respondenti
+30,19
+30,95
+33,70
+34,85
+35,00
+35,75
+36,70
+37,00
+38,20
+39,00
+39,50
+40,00
+40,00
+40,35
+41,30
+42,25
+43,00
+43,15
+44,20
+46,10
+47,62
+
+Jednotlivé percentilové hodnoty skóre mužov ani žien neprekročili hodnoty im
+odpovedajúcich noriem. Priemerné skóre respondentov výberového súboru malo v škále
+X - 2 priemernú hodnotu 40,07 ± 6,67. V roku 2009 však boli uvedené nové, upravené
+normy škály STAI X – 2 (Heretik a kol., 2009). Populačným priemerom pre mužov je
+hodnota 39,2, pre ženy 42,5 a celkovo 40,9. Priemerné skóre úzkostlivosti respondentov,
+40,07, bolo štatisticky nevýznamne menšie ako referenčná hodnota, p hodnota
+
+37
+
+odpovedajúceho t – testu (p = 0,1798) bola väčšia ako hladina významnosti 0,05 (tabuľka
+10).
+Tabuľka 10 Jednovýberový t – test v X - 2, respondenti
+Jednovýberový t – test, X – 2
+X – 2, výberový súbor
+skóre respondentov vs 40,9
+
+Testovacia štatistika
+t
+-0,9238
+
+Kritický obor
+W
+(-∞; -1,6736 
+
+P hodnota
+p
+0,1798
+
+Skóre 25 (45,45%) respondentov, menej ako polovice ich početnosti, bolo väčšie ako
+hodnota populačnej normy 40,9. Priemerná miera úzkostlivosti respondentov odpovedá
+miere úzkostlivosti uvedenej v tejto norme (p = 0,1798).
+Korelácia úzkosti a úzkostlivosti respondentov
+Úzkosť a úzkostlivosť sú závislými premennými, preto sme zistili, do akej miery sú
+navzájom závislé u respondentov výberového súboru.
+Úzkosť a úzkostlivosť respondentov nášho výberového súboru štatisticky významne
+korelovali. Pretože bola splnená podmienka dvojitej normality údajov (tabuľka 7), sme silu
+ich vzťahu overili Pearsonovým korelačným koeficientom. Jeho hodnota, r = 0,6225,
+vypovedá (v klasifikácii podľa Cohena) o veľkej, štatisticky významnej (p  0,0001) sile ich
+vzťahu.
+
+3.1 Štatistické vyhodnotenie výskumu a testovanie hypotéz
+V rámci základnej deskripcie údajov sme vypočítali ich priemer, smerodajnú odchýlku,
+medián, modus, minimum a maximum a prezentovali sme ich vo forme tabuliek a v prípade
+hodnôt skóre v premenných X – 1 a X – 2 aj graficky, prostredníctvom krabicových grafov
+a histogramov s doplnenou Gaussovou krivkou. Štatistickú významnosť rozdielu
+dosiahnutého skóre respondentov v premenných dotazníka STAI a hodnôt populačných
+noriem sme overili jednovýberovým t – testom. Významnosť korelácie úzkosti a
+úzkostlivosti, ako závislých premenných, bola vzhľadom na preukázanú dvojitú normalitu
+týchto údajov, overená Pearsonovým koeficientom korelácie. Vo verifikácii hypotéz sme
+použili triedenie týchto údajov podľa veku, pohlavia a vzdelania respondentov a existenciu
+štatisticky významných rozdielov v miere úzkosti a úzkostlivosti v medzitriednych
+porovnaniach sme overili dvojvýberovým t – testom alebo Mann – Whitneovým testom.
+Normálna distribúcia údajov skóre rôznych tried respondentov bola overená Shapiro –
+38
+
+Wilkovým testom a v prípade údajov respondentov výberového súboru ako celku
+D´Agostino – Pearsonovým testom. Verifikácia hypotéz a analýza niektorých údajov bola
+realizovaná v štatistickom programe MedCalc 20.218.
+Ako závisle premenné tu vystupujú škály BDI-II, STAI X-l a X-2, medzi nezávisle premenné
+patrí vek a pohlavie.
+V tretej hypotéze bol pre porovnanie korelácie rysu úzkostnosti a rozdielom aktuálnej
+úzkosti medzi prvým a druhým meraním vyhodnotený Spearmanov korelačný koeficient.
+H1 Existuje vzájomná závislosť medzi vekom a výskytom úzkosti a úzkostlivosti
+u maxilofaciálnych
+
+pacientov
+
+pred
+
+podstúpením
+
+chirurgického
+
+zákroku
+
+rekonštrukčnou náhradou pomocou voľného mikrovaskulárneho laloka.
+Pocity úzkosti sú počas stresovej situácie, akou bolo aj oznámenie onkologickej diagnózy
+respondentom nášho výberového súboru, normálne. Informácia o vážnej diagnóze býva
+pre pacienta obyčajne šokom, sprevádzaným vírom premenlivých emócií a myšlienok,
+striedajú sa u neho pocity bezradnosti, strachu, smútku, ale aj hnevu. Miera úzkosti býva
+v takomto prípade ovplyvnená rôznymi faktormi a zaujímalo nás, či je aj vek pacientov
+jedným z významným faktorom. Aj napriek tomu, že je moderná medicína v diagnostike
+a liečbe rakoviny stále úspešnejšia a celosvetovo na ňu umiera menej ľudí, prípady
+onkologických ochorení aj napriek tomu pribúdajú, a to aj medzi ľuďmi mladšími ako 50
+rokov (Salman, 2024).
+Respondentov sme preto rozdelili do dvoch vekových tried, respondentov vo veku do 50
+rokov (priemerný vek 43,83) a vo veku viac 50 rokov (priemerný vek 68,33) a analyzovali
+sme mieru ich úzkosti i úzkostlivosti.
+Deskripcia údajov v škále X-1, úzkosť, je obsahom tabuľky 11, deskripcia v škále X – 2
+v tabuľke 15.
+STAI X – 1
+Tabuľka 11 Deskripcia skóre respondentov v škále X – 1, vek
+STAI X-1, vek
+vek ≤ 50 rokov
+vek  50 rokov
+
+n
+12
+43
+
+M
+42,33
+46,14
+
+SD
+6,41
+8,83
+
+Mdn
+43,50
+47,00
+
+min
+34
+24
+
+max
+57
+66
+
+Priemerné skóre respondentov oboch vekových tried vypovedalo o významnej miere ich
+úzkosti. Predpokladali sme, že u starších respondentov bude miera úzkosti i úzkostlivosti
+väčšia.
+39
+
+Bodové skóre 39 – 40 bodov v STAI X – I je u dospelých jedincov považované za hranicu
+klinicky významných symptómov úzkosti. Overili sme, či bodové skóre respondentov oboch
+vekových tried štatisticky významne prekročilo túto hranicu, hranicu 40 bodov. Normálne
+rozdelenie údajov respondentov bolo Shapiro – Wilkovým testom preukázané (tabuľka 12),
+preto sme v oboch prípadoch v testovaní použili jednovýberový t – test (tabuľka 13).
+Tabuľka 12 Normalita údajov v škále X – 1, vek
+Normalita, X - 1
+vek respondentov
+vek ≤ 50 rokov
+vek  50 rokov
+
+Testovacia
+W
+0,9156
+0,9673
+
+Kritická
+Wkrit
+0,859
+0,943
+
+P hodnota
+p
+0,2513
+0,2540
+
+normalita
+áno/nie
+áno
+áno
+
+Tabuľka 13 Jednovýberový t – test v X - 1, vek
+Jednovýberový t – test, vek
+Skóre STAI X – 1 vs 40
+vek ≤ 50 rokov
+vek  50 rokov
+
+Testovacia
+t
+1,8220
+4,5577
+
+Kritický obor
+W
+ 1,7959; ∞)
+ 2,4185; ∞)
+
+P hodnota
+p
+0,0407
+2,207.10-5
+
+Výsledok jednovýberového t – testu potvrdil štatisticky významnú mieru úzkosti
+respondentov oboch vekových tried, ich priemerné skóre v škále X – 1 bolo významne
+väčšie ako uvedená hranica 40 bodov. P hodnota testu (p = 0,0407) u respondentov vekovej
+kategórie ≤ 50 rokov bola menšia ako hladina významnosti 0,05, ale p hodnota testu
+(p = 2,207.10-5) u respondentov vekovej kategórie  50 rokov bola menšia ako hladina
+významnosti 0,0001, čo svedčí pre vyššiu mieru úzkosti respondentov staršej vekovej
+kategórie. A potvrdil to aj hodnotám skóre respondentov odpovedajúci dvojvýberový t -test
+(tabuľka 14).
+Tabuľka 14 Dvojvýberový t – test X - 1, vek
+Dvojvýberový t – test, vek
+Testovacia štatistika
+STAI X – 1, vek
+t
+vek:  50 rokov vs ≤ 50 1,9838
+
+Kritický obor
+W
+ 1,6741; ∞)
+
+P hodnota
+p
+0,0249
+
+P hodnota testu (p = 0,0249), menšia ako hladina významnosti 0,05, potvrdila
+signifikantnosť rozdielu priemerného skóre respondentov daných vekových tried v škále
+STAI X – 1. Miera úzkosti respondentov vo veku  50 rokov bola štatisticky významne
+väčšia ako miera úzkosti respondentov vo veku ≤ 50 rokov.
+40
+
+STAI X – 2
+Tabuľka 15 Deskripcia skóre respondentov v škále X – 2, vek
+STAI X-2, vek
+vek ≤ 50 rokov
+vek  50 rokov
+
+n
+12
+43
+
+M
+37,67
+40,74
+
+SD
+6,02
+6,72
+
+Mdn
+36,50
+40,00
+
+min
+29
+26
+
+max
+48
+54
+
+V roku 2009 boli uvedené nové slovenské normatívne hodnoty pre škálu X – 2 a referenčnou
+hodnotou skóre pre dospelých jedincov je hodnota 40,9 bodu (Heretik a kol., 2009). Je
+zrejmé, že priemerné skóre respondentov vekovej triedy ≤ 50 rokov je menšie ako táto
+hodnota, skóre respondentov vekovej triedy  50 rokov bolo tiež menšie, aj keď nie
+štatisticky významne (jednovýberový t – test: t = -0,2164; tkrit = -1,6820; p = 0,4148). Náš
+predpoklad, že i miera úzkostlivosti respondentov staršej z vekových kategórií bude
+významne väčšia, bol správny, čo potvrdil výsledok dvojvýberového t – testu, uvedeného
+v tabuľke 17. Údaje škály X -2 respondentov oboch vekových tried boli normálne
+distribuované (Shapiro – Wilkov test v tabuľke 16).
+Tabuľka 16 Normalita údajov v škále X – 2, vek
+Normalita, X – 2, vek
+vek respondentov
+vek ≤ 50 rokov
+vek  50 rokov
+
+Testovacia
+W
+0,9596
+0,9794
+
+Kritická
+Wkrit
+0,859
+0,943
+
+P hodnota
+p
+0,7784
+0,6246
+
+normalita
+áno/nie
+áno
+áno
+
+Tabuľka 17 Dvojvýberový t – test X - 2, vek
+Dvojvýberový t – test, X - 2, vek Testovacia
+STAI X – 2, vek
+t
+vek:  50 rokov vs ≤ 50 rokov 2,0458
+
+Kritický obor
+W
+ 1,6741; ∞)
+
+P hodnota
+p
+0,0216
+
+P hodnota testu v škále X – 2 (p = 0,0216) bola menšia ako hladina významnosti 0,05. Miera
+úzkostlivosti respondentov vo veku  50 rokov bola štatisticky významne väčšia ako bola
+jej miera u respondentov vo veku ≤ 50 rokov a to je tvrdenie, ktoré vypovedá v prospech
+hypotézy 1.
+Testovaním v hypotéze 1 sme dokázali existenciu vzájomnej súvislosti medzi vekom
+a výskytom úzkosti a úzkostlivosti u respondentov výberového súboru, maxilofaciálnych
+pacientov pred podstúpením chirurgického zákroku rekonštrukčnou náhradou pomocou
+voľného mikrovaskulárneho laloka.
+Hypotéza 1 bola potvrdená.
+41
+
+H2 Existuje vzájomná súvislosť medzi pohlavím a výskytom úzkosti a úzkostlivosti u
+maxilofaciálnych pacientov pred podstúpením chirurgického zákroku rekonštrukčnou
+náhradou pomocou voľného mikrovaskulárneho laloka.
+V hypotéze 2 sme analyzovali mieru výskytu úzkosti a úzkostlivosti u respondentov
+výberového súboru v súvislosti s ich pohlavím.
+Všeobecne sa predpokladá, že ženy sú úzkostnejšie ako muži, ale rozdiely medzi mužmi
+a ženami v emocionalite preukázané neboli. Rozdiel medzi nimi je hlavne v tom, že ženy
+vedia svoje emócie prejaviť navonok viac, muži sú v tomto smere zdržanlivejší (Čerešník,
+2011).
+Vypočítané popisné štatistiky mužov a žien v oboch sledovaných parametroch prezentujeme
+v tabuľke 18.
+
+Tabuľka 18 Deskripcia skóre respondentov v STAI X – 1, pohlavie
+STAI
+X-1,
+X – 1 muži
+X – 1 ženy
+
+X – 2, n
+35
+20
+
+M
+45,26
+45,40
+
+SD
+9,22
+7,16
+
+Mdn
+45,00
+47,00
+
+min
+24
+27
+
+max
+66
+56
+
+STAI X – 1
+Už v analýze údajov sme konštatovali, že u mužov i žien boli percentilové hodnoty skóre
+vo väčšine hodnôt väčšie ako im odpovedajúce percentilové normy. Napríklad hodnota
+normy 50. percentilu (mediánu) mužov je 38, odpovedajúca hodnota respondentov
+výberového súboru bola 45. A podobne to bolo u žien, normatívna hodnota tohto percentilu
+je 40, ale u žien nášho výberového mu odpovedala hodnota 47.
+My sme však podobne ako v hypotéze 1, najprv overili významnosť rozdielu skóre mužov
+i žien a klinicky významnej hodnoty 40 bodov. Normalita údajov respondentov oboch
+pohlaví v tejto škále bola potvrdená (tabuľka 19), preto sme v testovaní opäť použili
+jednovýberový t - test (tabuľka 20).
+Tabuľka 19 Normalita údajov v škále X – 1, pohlavie
+Normalita, X - 1
+pohlavie respondentov
+muži
+ženy
+
+Testovacia
+W
+0,9894
+0,9422
+
+Kritická
+Wkrit
+0,934
+0,905
+
+P hodnota
+p
+0,9789
+0,2643
+
+normalita
+áno/nie
+áno
+áno
+42
+
+Tabuľka 20 Jednovýberový t – test v X - 1, pohlavie
+Jednovýberový
+t – test,
+Skóre STAI X – 1 vs 40
+muži
+ženy
+
+Testovacia
+t
+3,3731
+3,3715
+
+Kritický obor
+W
+ 2,4411; ∞)
+ 2,5395; ∞)
+
+P hodnota
+p
+0,00093
+0,0016
+
+Priemerné skóre mužov i žien bolo štatisticky významne väčšie ako hodnota 40 bodov, ktorá
+je už považovaná za hodnotu, ktorá je už dôvodom pre detegovanie klinicky významných
+symptómov úzkosti u dospelých osôb (Julian, 2011). P hodnota testu u mužov (p = 0,00093)
+bola menšia ako hladina významnosti 0,001 a v prípade žien bola menšia ako hladina
+významnosti 0,01. U žien je hodnota 40 zároveň normatívnou hodnotou 50. percentilu.
+Percentilové normy, určené pre mužov, sú však nižšie ako percentilové normy pre ženy.
+Normatívnou hodnotou 50. percentilu (mediánu) u mužov je už uvedená hodnota 38. A túto
+hodnotu skóre mužov výberového súboru prekročilo ešte vo významnejšej miere, p hodnota
+odpovedajúceho jednovýberového t – testu (p = 2,386.10-5) bola menšia ako hladina
+významnosti 0,0001 (tabuľka 21).
+Tabuľka 21 Jednovýberový t – test, škála X -1 muži
+Jednovýberový t – test, muži
+Skóre STAI X – 1 vs 38
+muži
+
+Testovacia
+t
+4,6563
+
+Kritický obor
+W
+ 2,4411; ∞)
+
+P hodnota
+p
+2,386.10-5
+
+O rozdielnej miere úzkosti mužov a žien nášho výberového súboru vypovedá aj to, že
+priemerná odchýlka skóre mužov od ich referenčnej hodnoty (38) mala hodnotu 7,26 ± 9,22
+a priemerná odchýlka žien od ich referenčnej hodnoty (40) mala nižšiu hodnotu, 5,40 ± 7,16.
+Testy potvrdili, že miera úzkosti mužov i žien nášho výberového súboru bola štatisticky
+významná, ale vypovedali aj v prospech výskytu jej väčšej miery u mužov. Preto sme zistené
+hodnoty skóre respondentov oboch pohlaví podrobili ďalšej analýze.
+V nasledujúcom prehľade uvádzame hodnoty percentilových noriem respondentov oboch
+pohlaví v škále úzkosti a im odpovedajúce percentilové hodnoty skóre respondentov
+a doplnený rozdiel týchto hodnôt. Použijeme ich k zisteniu štatistickej významnosti rozdielu
+v miere výskytu úzkosti mužov a žien.
+
+43
+
+muži STAI X -1
+percentil norma
+1
+22
+5
+27
+10
+29
+15
+31
+20
+32
+25
+33
+30
+34
+35
+35
+40
+36
+45
+37
+50
+38
+55
+40
+60
+41
+65
+42
+70
+44
+75
+46
+80
+48
+85
+51
+90
+54
+95
+59
+99
+66
+
+respondenti
+26,04
+30,70
+34,40
+35,10
+36,80
+40,00
+40,40
+42,90
+43,60
+44,30
+45,00
+46,00
+46,40
+48,30
+51,80
+52,00
+53,00
+55,70
+56,00
+57,60
+63,62
+
+rozdiel
+4,04
+3,70
+5,40
+4,10
+4,80
+7,00
+6,40
+7,90
+7,60
+7,30
+7,00
+6,00
+5,40
+6,30
+7,80
+6,00
+5,00
+4,70
+2,00
+-1,40
+-2,38
+
+ženy STAI X - 1
+percentil norma
+1
+24
+5
+28
+10
+31
+15
+32
+20
+33
+25
+35
+30
+36
+35
+37
+40
+38
+45
+39
+50
+40
+55
+42
+60
+43
+65
+46
+70
+47
+75
+50
+80
+51
+85
+53
+90
+56
+95
+59
+99
+64
+
+respondenti
+28,33
+33,65
+35,80
+38,55
+41,40
+42,75
+43,70
+44,65
+45,00
+46,10
+47,00
+47,00
+47,40
+48,35
+49,30
+50,00
+50,40
+52,15
+53,10
+54,10
+55,62
+
+rozdiel
+4,33
+5,65
+4,80
+6,55
+8,40
+7,75
+7,70
+7,65
+7,00
+7,10
+7,00
+5,00
+4,40
+2,35
+2,30
+0,00
+-0,60
+-0,85
+-2,90
+-4,90
+-8,38
+
+Vypočítali sme koeficient korelácie normatívnych hodnôt mužov a žien, aj korelácie
+odchýlok skóre mužov a skóre žien od ich noriem.
+Percentilové normy mužov a žien navzájom štatisticky významne korelovali. Pearsonov
+korelačný koeficient nadobudol hodnotu r = 0,993 a hovoril o takmer dokonalej tesnosti ich
+vzťahu. Vzťah vypočítaných odchýlok mužov a žien bol tiež štatisticky významný, ale
+korelačný koeficient mal v tomto prípade už menšiu hodnotu, r = 0,778. Testom zhody
+korelačných koeficientov sme overili štatistickú významnosť ich rozdielu (tabuľka 22).
+Tabuľka 22 Test zhody korelačných koeficientov, X - 1, pohlavie
+Zhoda
+korelačných Testovacia štatistika P hodnota
+STAI X – 1, pohlavie
+z
+p
+r = 0,778 vs r = 0,993
+-5,3564
+4,245.10-8
+
+Interval
+95% CI
+(-0,9849;-0,8177)
+
+Rozdiel hodnôt daných korelačných koeficientov bol štatisticky významný, p hodnota testu
+bola menšia ako hladina významnosti 0,0001. Úzkosť sa teda u mužov a žien nášho
+výberového súboru vyskytla v navzájom odlišnej miere.
+Preukázali sme teda, že úzkosť respondentov oboch pohlaví bola štatisticky významná a bola
+v súvislosti s pohlavím respondentov štatisticky významne odlišná.
+
+44
+
+STAI X - 2
+Podobnú analýzu sme vykonali aj v škále X – 2, úzkostlivosť. Priemerné hodnoty skóre
+u respondentov oboch pohlaví sme aj v tomto prípade porovnali s reštandardizovanými
+normatívnymi hodnotami. A preto, že boli údaje škály X – 2 u respondentov oboch pohlaví
+normálne distribuované (tabuľka 24), sme v testovaní opäť použili jednovýberový t – test
+(tabuľka 25). Referenčnou hodnotou STAI X - 2 pre mužov je hodnota 39,2, pre ženy
+hodnota 42,5.
+Tabuľka 23 Deskripcia skóre respondentov v STAI X – 2, pohlavie
+STAI X – 2, pohlavie
+X – 2 muži
+X – 2 ženy
+
+n
+35
+20
+
+M
+40,69
+39,00
+
+SD
+7,52
+4,71
+
+Mdn
+41,00
+39,50
+
+min
+26
+30
+
+max
+54
+48
+
+P hodnota
+p
+0,5605
+0,9861
+
+normalita
+áno/nie
+áno
+áno
+
+Tabuľka 24 Normalita údajov v škále X – 2, pohlavie
+Normalita, X - 2
+pohlavie respondentov
+muži
+ženy
+
+Testovacia
+W
+0,9740
+0,9858
+
+Kritická
+Wkrit
+0,934
+0,905
+
+Tabuľka 25 Jednovýberový t – test v X - 2, pohlavie
+Jednovýberový t – test, pohlavie
+Skóre STAI
+X – 2 vs ref.
+muži (vs 39,2)
+ženy (vs 42,5)
+
+Testovacia
+t
+1,1686
+-3,3213
+
+Kritický obor
+W
+ 1,6909; ∞)
+(-∞; -2,5395
+
+P hodnota
+p
+0,1254
+0,0018
+
+Priemerné skóre mužov (40,69) nebolo štatisticky významne väčšie ako uvedená referenčná
+hodnota, p hodnota ich skóre odpovedajúceho testu (p = 0,1254) bola väčšia ako hladina
+významnosti 0,05. V prípade žien bol štatisticky významný rozdiel zaznamenaný, avšak
+priemerné skóre žien bolo štatisticky významne menšie ako referenčná hodnota 42,5, p
+hodnota odpovedajúceho t - testu (p = 0,0018) bola menšia ako hladina významnosti 0,01.
+Miera ich úzkostlivosti nebola významná.
+Dané dokazovanie poukazuje na rozdiely v miere úzkostlivosti mužov a žien. Štatistickú
+významnosť týchto rozdielov sme overili aj rovnakým spôsobom ako v škále X – 1.
+
+45
+
+Muži STAI X - 2
+percentil
+norma
+1
+25
+5
+32
+10
+35
+15
+36
+20
+37
+25
+38
+30
+39
+35
+40
+40
+41
+45
+41
+50
+42
+55
+43
+60
+44
+65
+46
+70
+47
+75
+48
+80
+50
+85
+52
+90
+54
+95
+57
+99
+63
+
+respondenti
+26,34
+28,40
+30,40
+33,00
+33,00
+35,50
+38,00
+38,90
+39,00
+40,00
+41,00
+41,70
+43,00
+44,00
+45,60
+46,00
+47,20
+48,00
+48,60
+54,00
+54,00
+
+rozdiel
+1,34
+-3,60
+-4,60
+-3,00
+-4,00
+-2,50
+-1,00
+-1,10
+-2,00
+-1,00
+-1,00
+-1,30
+-1,00
+-2,00
+-1,40
+-2,00
+-2,80
+-4,00
+-5,40
+-3,00
+-9,00
+
+Ženy STAI X - 2
+percentil
+norma
+1
+30
+5
+37
+10
+38
+15
+40
+20
+41
+25
+42
+30
+43
+35
+44
+40
+45
+45
+46
+50
+46
+55
+47
+60
+47
+65
+49
+70
+50
+75
+51
+80
+52
+85
+53
+90
+55
+95
+58
+99
+64
+
+respondenti
+30,19
+30,95
+33,70
+34,85
+35,00
+35,75
+36,70
+37,00
+38,20
+39,00
+39,50
+40,00
+40,00
+40,35
+41,30
+42,25
+43,00
+43,15
+44,20
+46,10
+47,62
+
+rozdiel
+0,19
+-6,05
+-4,30
+-5,15
+-6,00
+-6,25
+-6,30
+-7,00
+-6,80
+-7,00
+-6,50
+-7,00
+-7,00
+-8,65
+-8,70
+-8,75
+-9,00
+-9,85
+-10,80
+-11,90
+-16,38
+
+Percentilové normy škály X - 2 mužov a žien tiež navzájom štatisticky významne korelovali.
+Pearsonov korelačný koeficient mal hodnotu r = 0,996 (p  0,0001) a tiež potvrdil
+existenciu takmer dokonalej tesnosti ich vzťahu. Odchýlky od normy boli v prípade žien,
+vo väčšine porovnaní, väčšie ako odchýlky u mužov, čo sa odrazilo na hodnote koeficientu
+ich korelácie. Koeficient bol tiež štatisticky významný, r = 0,697 (p = 0,0004), mal však
+štatisticky významne menšiu hodnotu ako koeficient korelácie uvedených noriem. Výsledok
+testu zhody korelačných koeficientov štatistickú významnosť ich rozdielu potvrdil (tabuľka
+26).
+Tabuľka 26 Test zhody korelačných koeficientov, X - 2, pohlavie
+Zhoda
+korelačných Testovacia štatistika P hodnota
+STAI X – 2, (rozdiel -0,299) z
+p
+r = 0,697 vs r = 0,996
+-6,7346
+8,219.10-
+
+Interval
+95% CI
+(-0,9939;-0,9204)
+
+P hodnota daného testu bola výrazne menšia ako hladina významnosti 0,0001 a poukázala
+na štatistickú významnosť rozdielu v miere úzkostlivosti mužov a žien.
+Už sme deklarovali, že úzkosť a úzkostlivosť sú závislé veličiny. Aj v tejto závislosti
+u mužov a žien bol zistený rozdiel, u mužov bola ich súvislosť štatisticky významnejšia ako
+u žien (test zhody korelačných koeficientov: z = 1,8091; p = 0,0352).
+46
+
+Korelácia STAI X – 1 a X – 2:
+
+
+muži r = 0,684 (p  0,0001)
+
+
+
+ženy r = 0,435 (p = 0,0553)
+
+Naše dokazovanie v hypotéze 2 viedlo k záveru, že výskyt a miera úzkosti ako
+momentálneho stavu i úzkosti ako črty, boli u respondentov nášho výberového súboru
+v súvislosti s ich pohlavím odlišné.
+Existencia vzájomnej súvislosti medzi pohlavím a výskytom úzkosti a úzkostlivosti
+u respondentov výberového súboru bola potvrdená.
+Hypotéza 2 bola potvrdená.
+
+H3 Existuje vzájomná závislosť medzi dosiahnutým vzdelaním a výskytom úzkosti
+a úzkostlivosti u maxilofaciálnych pacientov pred podstúpením chirurgického zákroku
+rekonštrukčnou náhradou pomocou voľného mikrovaskulárneho laloka.
+19 (34,55%) respondentov malo ukončené vysokoškolské vzdelanie, 31 (56,36%)
+respondentov stredoškolské a len malá početnosť, 5 (9,09%) respondentov, malo ukončené
+základné vzdelanie, preto sme ich priradili ku skupine respondentov so stredoškolským
+vzdelaním. Pracovali sme teda s údajmi respondentov dvoch tried vzdelania, respondentov
+triedy s VŠ vzdelaním a triedy s iným ako VŠ vzdelaním.
+Overili sme, či je miera úzkosti a úzkostlivosti respondentov rôzneho vzdelania významne
+odlišná.
+STAI X - 1
+Deskripcia skóre respondentov s ukončeným VŠ vzdelaním i iným, ako VŠ vzdelaním,
+poukazovala na významnú mieru ich úzkosti, priemerné skóre respondentov oboch tried
+vzdelania štatisticky významne prekročilo hranicu 40 bodov, hranicu, ktorá signalizuje, že
+sú u dospelých už prítomné klinicky významné symptómy úzkosti. P hodnota
+odpovedajúceho jednovýberového t – testu bola v oboch prípadoch menšia ako nami
+zvolená hladina významnosti 0,01 (tabuľka 29). Údaje oboch súborov boli normálne
+rozdelené (tabuľka 28).
+
+47
+
+Tabuľka 27 Deskripcia skóre respondentov v STAI X – 1, vzdelanie
+STAI X-1, vzdelanie
+X – 1 VŠ áno
+X – 1 VŠ nie
+
+n
+19
+36
+
+M
+46,26
+44,81
+
+SD
+8,55
+8,49
+
+Mdn
+47,00
+45,50
+
+min
+27
+24
+
+max
+59
+66
+
+Tabuľka 28 Normalita údajov v škále X – 1, Shapiro – Wilkov test, vzdelanie
+Normalita, X - 1
+vzdelanie
+VŠ áno
+iné ako VŠ
+
+Testovacia
+W
+0,9652
+0,9812
+
+Kritická
+Wkrit
+0,901
+0,935
+
+P hodnota
+p
+0,6781
+0,7853
+
+normalita
+áno/nie
+áno
+áno
+
+Tabuľka 29 Jednovýberový t – test v X - 1, vzdelanie
+Jednovýberový
+t – test,
+Skóre STAI X – 1 vs 40
+VŠ áno
+iné ako VŠ
+
+Testovacia
+t
+3,1932
+3,3956
+
+Kritický obor
+W
+ 2,5524; ∞)
+ 2,4377; ∞)
+
+P hodnota
+p
+0,0025
+0,00086
+
+Priemerné skóre úzkosti žien s ukončeným VŠ vzdelaním (n = 12) malo hodnotu
+45,25 ± 8,29 bodu (Mdn: 46), priemerné skóre žien s iným, ako VŠ vzdelaním (n = 8) malo
+priemernú hodnotu 45,63 ± 5,58 bodu (Mdn: 47). Rozdiel hodnôt ich skóre nebol štatisticky
+významný. Údaje žien oboch tried vzdelania síce boli normálne rozdelené (VŠ áno:
+W = 0,9483; p = 0,6130; VŠ nie: W = 0,8928; p = 0,2483), ale vzhľadom na ich malé
+početnosti sme v testovaní použili aj Mann – Whitney test. P hodnoty oboch testov
+(p = 0,4692 a p = 0,4561) boli väčšie ako hladina významnosti 0,05 (tabuľka 30).
+Tabuľka 30 Testy v X - 1, vzdelanie, ženy
+Testy v H3, STAI X -1, ženy
+Skóre VŠ vs iné vzdelanie
+ženy Mann - Whitney
+ženy dvojvýberový t - test
+
+Testovacia
+z/t
+-0,0773
+-0,1117
+
+Kritický obor
+W
+(-∞;-1,6449 
+(-∞;-1,7341 
+
+P hodnota
+p
+0,4692
+0,4561
+
+Ani u mužov sme v hodnotách skóre úzkosti vzhľadom na ich vzdelanie nezistili štatisticky
+významný rozdiel. Priemerné skóre úzkosti mužov s ukončeným VŠ vzdelaním (n = 7) malo
+hodnotu 48,00 ± 9,36 bodu (Mdn: 51), priemerné skóre mužov s iným, ako VŠ vzdelaním
+(n = 28), malo priemernú hodnotu 44,57 ± 9,23 bodu (Mdn: 44,5).
+
+48
+
+Aj údaje oboch súborov mužov boli normálne rozdelené (VŠ áno: W = 0,9204; p = 0,4724;
+VŠ nie: W = 0,9846; p = 0,9424), ale vzhľadom na to, že mužov s VŠ vzdelaním bolo len 7,
+sme v testovaní tiež použili Mann – Whitney test (tabuľka 31). P hodnoty oboch testov
+(p = 0,1818 a p = 0,1934) boli väčšie ako hladina významnosti 0,05.
+Tabuľka 31 Testy v X - 1, vzdelanie, muži
+Testy v H3, STAI X -1, muži
+Skóre VŠ vs iné vzdelanie
+muži Mann - Whitney
+muži dvojvýberový t - test
+
+Testovacia štatistika
+z/t
+0,9095
+0,8769
+
+Kritický obor
+W
+ 1,6449; ∞)
+ 1,6924; ∞)
+
+P hodnota
+p
+0,1818
+0,1934
+
+V skúmaní existencie a miery úzkosti respondentov nebolo vzdelanie faktorom, ktorý by
+štatisticky významne ovplyvnil jej mieru.
+STAI X - 2
+Priemerné skóre respondentov s VŠ vzdelaním i s iným, ako VŠ vzdelaním, nedosiahlo
+v škále X – 2 hranicu referenčnej hodnoty. Priemerné v oboch prípadoch bolo štatisticky
+nevýznamne menšie ako referenčná hodnota 40,9. P hodnoty oboch testov (p = 0,0873
+i p = 0,4208) boli väčšie ako 0,05 (tabuľka 34).
+Tabuľka 32 Deskripcia skóre respondentov v STAI X - 2, vzdelanie
+STAI
+X-1,
+X – 2 VŠ áno
+X – 2 VŠ nie
+
+X – 2, n
+19
+36
+
+M
+38,95
+40,67
+
+SD
+6,02
+6,95
+
+Mdn
+40,00
+40,00
+
+min
+27
+26
+
+max
+48
+54
+
+Tabuľka 33 Normalita údajov v škále X – 2, Shapiro – Wilkov test, vzdelanie
+Normalita, X - 2
+vzdelanie
+VŠ áno
+iné ako VŠ
+
+Testovacia
+W
+0,9602
+0,9758
+
+Kritická
+Wkrit
+0,901
+0,935
+
+P hodnota
+p
+0,5762
+0,6038
+
+normalita
+áno/nie
+áno
+áno
+
+Tabuľka 34 Jednovýberový t – test v X - 2, vzdelanie
+Jednovýberový
+t – test,
+Skóre STAI X – 2 vs 40,9
+VŠ áno
+iné ako VŠ
+
+Testovacia
+t
+-1,4132
+-0,2014
+
+Kritický obor
+W
+(-∞; -1,7341˃
+(-∞; -1,6896˃
+
+P hodnota
+p
+0,0873
+0,4208
+
+49
+
+Priemerné skóre úzkostlivosti žien s ukončeným VŠ vzdelaním (n = 12) malo hodnotu
+39,00 ± 4,41 (Mdn: 40), priemerné skóre žien, ktoré nemali VŠ vzdelanie (n = 8) malo v tejto
+škále rovnakú priemernú hodnotu 39,00 ± 5,45 bodu (Mdn: 39). Rozdiel hodnôt ich skóre
+preto nemohol byť štatisticky významný. Údaje žien oboch tried vzdelania síce boli
+normálne rozdelené (VŠ áno: W = 0,9695; p = 0,9054; VŠ nie: W = 0,9781; p = 0,9527), ale
+vzhľadom na ich malé početnosti sme v testovaní opäť použili aj Mann – Whitney test.
+P hodnoty oboch testov (p = 0,4385 i p = 0,5000) boli väčšie ako hladina významnosti 0,05
+(tabuľka 35).
+Tabuľka 35 Testy v X - 2, vzdelanie, ženy
+Testy v H3 STAI X -2, ženy
+Skóre VŠ vs iné vzdelanie
+ženy Mann - Whitney
+ženy dvojvýberový t - test
+
+Testovacia
+z/t
+0,1548
+0,0000
+
+Kritický obor
+W
+ 1,6449; ∞)
+ 1,7341; ∞)
+
+P hodnota
+p
+0,4385
+0,5000
+
+Priemerné skóre mužov s ukončeným VŠ vzdelaním malo v škále X – 2 hodnotu
+38,86 ± 8,55 bodu (Mdn: 42), priemerné skóre mužov s iným, ako VŠ vzdelaním, priemernú
+hodnotu 41,14 ± 7,34 bodu (Mdn: 40,5). Údaje oboch súborov mužov boli aj napriek malým
+početnostiam normálne rozdelené (VŠ áno: W = 0,8942; p = 0,2973; VŠ nie: W = 0,9739;
+p = 0,6890), ale vzhľadom na malú početnosť mužov s VŠ vzdelaním, sme v testovaní tiež
+použili aj Mann – Whitney test (tabuľka 36). P hodnoty oboch (p = 0,3323 a p = 0,2402)
+testov boli väčšie ako hladina významnosti 0,05.
+Tabuľka 36 Testy v X - 2, vzdelanie, muži
+Testy v H3 STAI X -2, muži
+Skóre VŠ vs iné vzdelanie
+muži Mann - Whitney
+muži dvojvýberový t - test
+
+Testovacia
+z/t
+-0,4337
+-0,7139
+
+Kritický obor
+W
+(-∞;-1,6449 
+(-∞;-1,6924 
+
+P hodnota
+p
+0,3323
+0,2402
+
+Ani v miere úzkostlivosti respondentov rôzneho vzdelania sme významný rozdiel nezistili.
+Korelácia škál X – 1 a X – 2 si u respondentov daných druhov dosiahnutého vzdelania
+vzájomne odpovedala:
+korelácia STAI X – 1 a STAI X – 2:
+
+
+respondenti s VŠ vzdelaním
+
+r = 0,670 (p = 0,0017)
+
+
+
+respondenti s iným vzdelaním
+
+r = 0,628 (p  0,0001)
+
+50
+
+U respondentov oboch typov vzdelania bola korelácia úzkosti a úzkostlivosti významná, ale
+medzi triedami navzájom štatisticky významne odlišná nebola (test zhody korelačných
+koeficientov: z = 0,2384; p = 0,4058).
+Hypotézu o existencii vzájomnej závislosti medzi dosiahnutým vzdelaním a výskytom
+úzkosti a úzkostlivosti respondentov výberového súboru nemôžeme prijať.
+Hypotéza 3 nebola potvrdená.
+
+51
+
+4 DISKUSIA
+Pocity úzkosti sú bežné počas stresových situácií, ako je oznámenie onkologickej diagnózy
+respondentom nášho výberového súboru. Informácia o vážnej diagnóze často spôsobuje šok,
+ktorý je sprevádzaný vírom rôznych emócií a myšlienok. Pacienti zažívajú pocity
+bezradnosti, strachu, smútku, ale aj hnevu. Miera úzkosti v takýchto prípadoch môže byť
+ovplyvnená rôznymi faktormi, a preto nás zaujímalo, či vek pacientov patrí medzi významné
+faktory. Napriek tomu, že moderná medicína dosahuje stále väčšie úspechy v diagnostike
+a liečbe rakoviny a celosvetovo na ňu zomiera menej ľudí, počet onkologických ochorení
+stále rastie, a to aj medzi ľuďmi mladšími ako 50 rokov (Salman, 2024).
+Respondentov sme preto rozdelili do dvoch vekových skupín: do 50 rokov a nad 50 rokov a
+analyzovali sme mieru ich úzkosti a úzkostlivosti. Testovaním hypotézy 1 sme preukázali
+existenciu vzťahu medzi vekom a výskytom úzkosti a úzkostlivosti u respondentov nášho
+výberového súboru, ktorí sú maxilofaciálni pacienti pred podstúpením chirurgického
+zákroku s rekonštrukčnou náhradou pomocou voľného mikrovaskulárneho laloka.
+V hypotéze 2 sme skúmali mieru výskytu úzkosti a úzkostlivosti u respondentov nášho
+výberového súboru v závislosti od ich pohlavia. Všeobecne sa predpokladá, že ženy sú
+náchylnejšie na úzkosť ako muži, avšak rozdiely v emocionalite medzi pohlaviami neboli
+preukázané. Hlavný rozdiel spočíva v tom, že ženy dokážu svoje emócie prejaviť navonok
+výraznejšie, zatiaľ čo muži sú v tomto smere zdržanlivejší (Čerešník, 2011). Naše testovanie
+hypotézy 2 ukázalo, že výskyt a intenzita úzkosti ako aktuálneho stavu aj ako osobnostnej
+črty sa u respondentov nášho výberového súboru líšili v závislosti od ich pohlavia. 19
+respondentov (34,55%) malo ukončené vysokoškolské vzdelanie, 31 respondentov (56,36%)
+stredoškolské vzdelanie a 5 respondentov (9,09%) základné vzdelanie. Respondentov
+so základným vzdelaním sme priradili ku skupine so stredoškolským vzdelaním. Pracovali
+sme teda s údajmi respondentov dvoch vzdelanostných skupín: s vysokoškolským vzdelaním
+a s iným ako vysokoškolským vzdelaním. Overili sme, či sa miera úzkosti a úzkostlivosti
+respondentov rôzneho vzdelania významne líši. Pri skúmaní existencie a intenzity úzkosti
+respondentov sa ukázalo, že vzdelanie nebolo faktorom, ktorý by štatisticky významne
+ovplyvnil jej úroveň.
+Rakovina je jednou z hlavných príčin úmrtí na celom svete. Podľa WHO bolo v roku 2017
+z 56 miliónov úmrtí 10,08 milióna spôsobených rakovinou, čo ju radí na druhé miesto
+po
+
+kardiovaskulárnych ochoreniach. Španielsky register rakoviny (Red Española
+
+de Registro de Cáncer) uvádza, že v roku 2022 bolo diagnostikovaných 280 100 prípadov
+52
+
+rakoviny, z toho 7 779 prípadov rakoviny hlavy a krku. Výrazné narušenie života, ktoré
+zažívajú ľudia s rakovinou hlavy a krku, je porovnateľné s tým, ktoré zažívajú ľudia trpiaci
+inými závažnými chronickými ochoreniami (Lang et al., 2013).
+Rakovina hlavy a krku je často považovaná za jednu z emocionálne najtraumatizujúcejších
+druhov rakoviny, pretože deformácia tváre a dysfunkcia spojená s jej liečbou výrazne
+ovplyvňujú kvalitu života pacientov.(Hammermüller et al.,2021).
+Pacienti s rakovinou hlavy a krku boli vystavení zvýšenému riziku vzniku depresie a úzkosti
+s výskytom 15–50 % v porovnaní s pacientmi s inými formami rakoviny (Lydiatt et al.,
+2009).
+Literatúra uvádza, že prevalencia úzkosti pred akoukoľvek operáciou sa pohybuje od 11
+do 80 % u dospelých (Jlala et al.,2010).
+U pacientov s dlhodobým prežitím stigma významne koreluje s úzkosťou a depresiou
+u pacientov s HNC (Leydon, et al.,2000).
+Predoperačná úzkosť u chirurgických pacientov sa bežne nezohľadňuje ako súčasť
+predoperačného hodnotenia a prípravy na anestéziu a operáciu. Množstvo dôkazov však
+ukazuje, že predoperačná úzkosť má výrazný vplyv na perioperačné nežiaduce výsledky,
+vrátane zvýšených dávok indukčných látok, hemodynamickej nestability, srdcovej
+morbidity a mortality u vysoko rizikových pacientov, pooperačných bolestí a zvýšenej
+spotreby analgetík, pooperačného delíria, nespokojnosti pacientov , predĺženia dĺžky pobytu
+v nemocnici, čo môže viesť k značným nákladom na zdravotnú starostlivosť (Abate et al.,
+2020).
+Samotné psychologické intervencie nemusia byť dostatočné na zmiernenie stresových a
+zápalových reakcií, ktoré vznikajú z fyziologických faktorov počas perioperačného obdobia,
+ako je poškodenie tkaniva a iné fyziologické poruchy. Preto je potrebné zvážiť ďalšie
+intervencie, ako sú lieky, aby sa posúdil vplyv kombinácie psychologických a lekárskych
+intervencií na dlhodobé výsledky. Nedávne farmakologické štúdie biomarkerov naznačili
+zníženie prometastatického malígneho potenciálu prostredníctvom predoperačných
+antistresových liekových intervencií. Farmakologická liečba počas chirurgického zákroku
+(Shaashua et al., 2017; Haldar et al., 2020; Hiller et al., 2019; Knight et al., 2020) môže byť
+potrebná na prekonanie vplyvu poškodenia tkaniva a iných intraoperačných postupov, ktoré
+môžu zamaskovať priaznivé účinky psychologických intervencií na zníženie stresu. Preto by
+sa mala skúmať oddelená a kombinovaná účinnosť psychologických a farmakologických
+prístupov počas perioperačného obdobia.
+
+53
+
+Prehľad sa zameriava na predoperačné obdobie. Existujú však dôkazy, že intervencie by
+mali byť zahrnuté počas celého perioperačného obdobia. Niekoľko translačných a klinických
+štúdií naznačilo, že predoperačné obdobie, chirurgický zákrok a bezprostredné pooperačné
+obdobie majú odlišný vplyv na dlhodobé výsledky rakoviny. Napríklad štúdie na zvieratách
+jasne ukázali kumulatívne účinky stresu a chirurgického zákroku (vrátane anestézie,
+poškodenia tkaniva, bolesti atď.) na progresiu rakoviny (Cole et al., 2015; Horowitz et al.,
+2015; Ricon et al., 2019).
+Nedávne klinické štúdie poskytli podobné dôkazy založené na dočasných biomarkeroch a
+korelačných dôkazoch. V dôsledku toho je zrejmé, že perioperačné obdobie ako celok
+prináša zvýšené riziko progresie rakoviny, ale ponúka aj nevyužité terapeutické ciele
+na zlepšenie odolnosti voči rakovinovým metastázam (Matzner et al., 2019) – hlavná príčina
+úmrtnosti na rakovinu. Preto navrhovali, aby sa ďalší výskum na ľuďoch zameral na vplyv
+intervencií vykonávaných počas celého perioperačného obdobia. Zistilo sa, že onkologické
+operácie (napr. operácie rakoviny prsníka, prostaty a endometria) vyvolávajú významne
+vyššie predoperačné stresové reakcie ako väčšina ostatných operácií, čo sa pripisuje ďalším
+obavám z recidívy nádoru, neplodnosti, funkčných modifikácií, deformácie tela a úmrtnosti.
+Okrem toho niektoré štúdie ukázali, že úzkosť a úzkostlivosť sa môžu objaviť aj počas
+značného obdobia pred operáciou, počas fázy biopsie, diagnostického procesu, rozhodovacej
+fázy a pokračovať dlhší čas, pričom sa podstupujú rôzne pooperačné adjuvantné terapie.
+Pri diskusii o onkologických operáciách je mimoriadne dôležité posúdiť vplyv chirurgickej
+záťaže na imunitný systém a na dlhodobé výsledky, ktoré sa prejavujú progresiou nádoru a
+metastázami – hlavnou príčinou smrti (Maggi et al., 2019).
+Geriatrická medicína v onkológii predstavuje tému s rôznymi perspektívami. Na jednej
+strane je známa mnohým praktickým lekárom, no na druhej strane chýbajú vysokokvalitné
+dôkazy, ktoré by usmerňovali rozhodnutia o liečbe tejto skupiny pacientov. Hoci sa
+hromadia údaje naznačujúce, že prínos liečby môže byť zachovaný aj u starších, fyzicky
+zdatných pacientov, často sa pri stretnutí so starším dospelým, aj v dobrom zdravotnom
+stave, uprednostňuje menej intenzívny prístup, aby sa predišlo nadmernej toxicite (Feliu et
+al., 2021).
+Napriek tomu, že je dôležité zvyšovať povedomie a vytvárať prospektívne klinické dôkazy
+týkajúce sa týchto aspektov, za posledné desaťročia sa zmenilo len málo. Starší pacienti sú
+stále nedostatočne zastúpení v klinických štúdiách a často dostávajú suboptimálnu liečbu len
+na základe veku. Nedávny prieskum medzi takmer 400 americkými komunitnými
+onkológmi ukázal, že väčšina z nich nepoužíva geriatrické hodnotiace nástroje. Dôvody sú
+54
+
+zrejmé: starší dospelí často trpia viacerými komorbiditami, čo ich robí zraniteľnými alebo
+krehkými, a tým zvyšuje ich pravdepodobnosť úmrtí nesúvisiacich s rakovinou. Zaradenie
+takejto populácie do klinických skúšaní je náročné a zvyšuje tlak na kvalitu návrhu skúšania
+a potenciálne aj na náklady. Geriatrické hodnotiace nástroje sú
+
+vnímané ako ťažko
+
+implementovateľné v klinickej praxi a/alebo ako nástroje s obmedzenou pridanou hodnotou
+pre manažment pacientov (Gajra et al., 2022).
+Tieto nedostatky sú ešte výraznejšie u pacientov s rakovinou hlavy a krku (HNC). Špecifické
+anatomické vlastnosti v tejto oblasti prispievajú k zložitosti plánovania rádioterapie, čo môže
+byť spojené s ďalšími výzvami týkajúcimi sa toxicity u starších osôb. Okrem toho známe
+karcinogénne rizikové faktory, ako sú konzumácia alkoholu a užívanie tabaku, vedú
+k vedľajším škodám z hľadiska mnohostranných komorbidít, najmä po dlhodobej expozícii,
+ktorá je typická pre starších ľudí. Deformity vo vizuálne exponovanej oblasti, ako je hlava a
+krk, môžu mať ďalekosiahly vplyv na kvalitu života tejto populácie pacientov, najmä
+u starších dospelých. Toto pozadie motivovalo vytvorenie tejto zbierky článkov, ktorá sa
+zameriava na rôzne aspekty protirakovinovej starostlivosti u starších pacientov s HNC a
+diskutuje aj o vyvíjajúcom sa epidemiologickom prostredí. Absolútny a relatívny počet
+prípadov HNC u starších ľudí neustále rastie, najmä v krajinách s vysokými príjmami, kde
+je takmer 50 % novodiagnostikovaných pacientov s HNC starších ako 65 rokov. Napriek
+tomu ich 5-ročná celková miera prežitia stále zaostáva za výsledkami pozorovanými u
+mladších pacientov v európskych krajinách, pohybujúc sa od 60 % pri rakovine slinných
+žliaz a hrtana až po 22 % pri rakovine hypofaryngu. Hoci podstatná časť úmrtí v staršej
+populácii je spôsobená konkurenčnou úmrtnosťou nesúvisiacou s rakovinou, sú potrebné
+rozsiahle zlepšenia v protirakovinovom manažmente starších ľudí (Ludmir et al., 2019).
+Najčastejšími dvoma rizikovými faktormi rakoviny hlavy a krku sliznice sú užívanie tabaku
+a alkoholu, ktoré sú prítomné približne u 70 % pacientov. Tieto látky majú vzťah medzi
+dávkou a odpoveďou, so zvýšeným výskytom rakoviny pri vyššej intenzite alebo trvaní
+užívania látky. Kombinované užívanie tabaku a alkoholu má synergický účinok na riziko
+rakoviny v porovnaní s individuálnym užívaním ktorejkoľvek z týchto látok. Užívanie
+tabaku a alkoholu má pretrvávajúce účinky počas prežitia a užívanie je spojené s horšími
+meraniami prežitia a kvality života po liečbe. Údaje z Národného zdravotného prieskumu
+naznačujú, že problémové užívanie alkoholu a tabaku je prítomné u 15 % až 40 % ľudí, ktorí
+prežili rakovinu hlavy a krku. Užívanie týchto látok má prekrývajúce sa účinky
+s psychickými stavmi. Lekárom sa odporúča, aby do svojich plánov starostlivosti
+o preživších začlenili programy odvykania od fajčenia a abstinencie od alkoholu. Štúdie
+55
+
+skúmajúce zníženie užívania alkoholu a tabaku preukázali súvislosť so zlepšením prežitia
+a psychosociálnymi výsledkami (Lane et al., 2022).
+Rakovina môže narušiť pacientov pocit cieľa a predstavuje výzvu pre ich predchádzajúci
+koherentný koncept seba a sveta. Mnohí pacienti uvádzajú existenciálne alebo duchovné
+utrpenie. V súčasnosti sa čoraz viac pozornosti venuje dôležitej úlohe zmyslu života
+pri
+
+zlepšovaní psychickej pohody a znižovaní psychického utrpenia u pacientov
+
+s rakovinou. Pacienti, ktorí zažívajú väčší zmysel života, majú po diagnóze rakoviny vyššiu
+psychickú pohodu, úspešnejšie sa prispôsobujú, majú lepšiu kvalitu života a menej
+psychických ťažkostí ako pacienti, ktorí zažívajú malý zmysel života. Za posledných 10
+až 15 rokov boli vyvinuté a testované špecifické psychoterapeutické intervencie zamerané
+na význam pre rôzne štádiá ochorenia s povzbudivými výsledkami. Psychoterapia zameraná
+na význam napríklad preukázala pozitívne účinky na ľudí, ktorí prežili rakovinu, ako
+aj na tých s pokročilým ochorením, so zlepšením nielen v aspektoch súvisiacich
+so zmyslom, ale aj vo všeobecnom skóre utrpenia, depresie a úzkosti. Prebiehajú ďalšie
+štúdie prispôsobené paliatívnemu prostrediu. Podobne aj program Zvládnuť rakovinu a žiť
+zmysluplne (CALM) preukázal významné výsledky v štúdii fázy 2 so zlepšením duchovnej
+pohody, ako aj úzkosti a depresie, a teraz sa ďalej testuje (Lang-Rollin, Berberich 2018).
+
+56
+
+4.1 Odporúčania pre prax
+
+
+Implementácia validovaných nástrojov: Používať psychometrické nástroje,
+ako sú dotazníky a škály, ktoré sú overené pre hodnotenie úzkosti u onkologických
+pacientov.
+
+
+
+Pravidelné hodnotenie: Zabezpečiť pravidelné hodnotenie úzkosti počas celého
+liečebného procesu, pretože úzkosť sa môže meniť v závislosti od fázy liečby.
+
+
+
+Multidisciplinárny prístup: Vytvoriť tímy zložené z onkológov, psychológov,
+psychiatrov, sestier a sociálnych pracovníkov, ktorí budú spolupracovať
+na poskytovaní komplexnej starostlivosti, zahŕňajúcej fyzické aj psychické aspekty
+liečby.
+
+
+
+Vzdelávanie
+
+zdravotníckeho
+
+personálu:
+
+Poskytovať
+
+pravidelné
+
+školenia
+
+pre zdravotnícky personál o rozpoznávaní a manažmente úzkosti a depresie
+u onkologických pacientov, vrátane techník komunikácie a empatického prístupu.
+
+
+Psychologická podpora: Poskytovať psychologickú podporu a poradenstvo
+pacientom a ich rodinám prostredníctvom skupinových terapií, individuálnych
+konzultácií a podporných skupín.
+
+
+
+Relaxácia a stres manažment: Zahrnúť relaxačné techniky, ako sú meditácia,
+dychové cvičenia a progresívna svalová relaxácia do liečebného plánu na pomoc
+pacientom zvládať stres a úzkosť.
+
+
+
+Podpora rodiny: Zapájať rodinných príslušníkov do procesu liečby a poskytovanie
+potrebných informácií a podpory, čo môže výrazne prispieť k zníženiu úzkosti
+pacienta.
+
+
+
+Individuálny prístup: Prispôsobiť intervencie individuálnym potrebám pacienta,
+pretože každý pacient je jedinečný a môže vyžadovať rôzne prístupy k manažmentu
+úzkosti.
+
+57
+
+ZÁVER
+Hodnotenie úzkosti u onkologických pacientov na maxilofaciálnej chirurgii je zásadným
+prvkom komplexnej starostlivosti o pacienta. Úzkosť, ktorá často sprevádza onkologické
+ochorenia, môže výrazne ovplyvniť kvalitu života pacientov a ich schopnosť zvládať liečbu.
+Používanie psychometrických nástrojov na identifikáciu úrovne úzkosti umožňuje
+zdravotníckym pracovníkom poskytovať cielenú a efektívnu podporu, čím sa zlepšuje
+celkový terapeutický výsledok.
+Hlavným cieľom diplomovej práce bolo analyzovať prítomnosť úzkosti a úzkostlivosti
+u maxilofaciálnych pacientov pred podstúpením chirurgického zákroku rekonštrukčnou
+náhradou pomocou voľného mikrovaskulárneho laloka. Nami stanovené čiastkové ciele boli
+zamerané na zistenie, či existuje vzájomná závislosť veku, vzdelania, či pohlavia našich
+respondentov a výskytom úzkosti a úzkostlivosti. Testovaním v hypotéze 1 sme dokázali
+existenciu vzájomnej súvislosti medzi vekom a výskytom úzkosti a úzkostlivosti
+u respondentov výberového súboru, rovnako bola potvrdená aj existencia vzájomnej
+súvislosti medzi pohlavím a výskytom úzkosti a úzkostlivosti u respondentov výberového
+súboru, avšak vzájomná súvislosť dosiahnutého vzdelania respondentov - maxilofaciálnych
+pacientov pred podstúpením chirurgického zákroku rekonštrukčnou náhradou pomocou
+voľného mikrovaskulárneho laloka a výskytom úzkosti a úzkostlivosti potvrdená nebola.
+Môžeme konštatovať, že sme naše ciele v diplomovej práci splnili.
+Je dôležité, aby zdravotníci boli vyškolení v rozpoznávaní a riešení psychických ťažkostí,
+ktoré môžu pacienti zažívať. Týmto spôsobom môžu prispieť k zníženiu úzkosti a zlepšeniu
+psychického stavu pacientov, čo je nevyhnutné pre ich celkovú pohodu a úspešnosť liečby.
+Výskumy ukazujú, že až 20 % až 50 % onkologických pacientov trpí vážnejšími
+psychickými ťažkosťami, ako sú depresia a úzkosť. Tieto problémy často zostávajú
+nediagnostikované
+
+a
+
+neliečené,
+
+pretože
+
+ich
+
+príznaky
+
+môžu
+
+byť
+
+nesprávne
+
+interpretované ako sprievodné prejavy liečby.
+Ďalší výskum v tejto oblasti by mal byť zameraný na vývoj a implementáciu nových
+intervencií, ktoré by ešte viac podporili psychickú pohodu onkologických pacientov.
+Zároveň je dôležité, aby sa zvyšovala informovanosť a vzdelávanie zdravotníckych
+pracovníkov o psychických aspektoch onkologických ochorení, čo by mohlo prispieť
+k lepšiemu rozpoznávaniu a liečbe týchto problémov.
+
+58
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+ABATE et al. 2020. Globálna prevalencia a determinanty predoperačnej úzkosti medzi
+chirurgickými pacientmi: Systematický prehľad a metaanalýza. IJS Open 25():p 6-16, |[cit.
+2025-02-02]. Dostupné na: DOI: 10.1016/j.ijso.2020.05.010
+Australian Institute of Health and Welfare 2017. Australian Cancer Incidence and Mortality
+(ACIM) books: head and neck including lip. Canberra: AIHW. [cit. 2025-02-10]. Dostupné
+na: http://www.aihw.gov.au/acim-books. Accessed July 2017.
+ÁLVAREZ-GARCIA, C. et al. 2020. The effects of preoperative guided imagery
+interventions
+
+on
+
+preoperative
+
+anxiety
+
+and
+
+postoperative
+
+pain:
+
+A
+
+meta-
+
+analysis. Complementary therapies in clinical practice, 38, 101077. [cit. 2025-02-08].
+Dostupné na internete: https://doi.org/10.1016/j.ctcp.2019.101077
+BAUML, J. M., et al.,2016). Scan-associated distress in lung cancer: Quantifying the impact
+of "scanxiety". Lung cancer (Amsterdam, Netherlands), 100, 110–113. [cit. 2025-01-23].
+Dostupné na internete: https://doi.org/10.1016/j.lungcan.2016.08.002
+BOTTI, M., Endacott, R., Watts, R., Cairns, J., Lewis, K., & Kenny, A. (2006). Barriers in
+providing psychosocial support for patients with cancer. Cancer nursing, 29(4), 309–316.
+[cit. 2025-01-08]. Dostupné na internete: https://doi.org/10.1097/00002820-20060700000010
+BRAY, F. et al. 2018. Global cancer statistics 2018: GLOBOCAN estimates of incidence
+and mortality worldwide for 36 cancers in 185 countries. CA: a cancer journal for
+clinicians, 68(6),
+
+394–424.
+
+[cit.
+
+2025-01-23].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.3322/caac.21492
+BRIERLEY, J. et al. 2017. TNM Classification of Malignant Tumours. 8th Edition, John
+Wiley
+
+&
+
+Sons,
+
+Inc.,
+
+Oxford.
+
+[cit.
+
+2025-01-23].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1002/9780471420194.tnmc26.pub3
+BROUWER DE KONING, S. G. et al. 2019. The oral cavity tumor thickness: Measurement
+accuracy and consequences for tumor staging. European journal of surgical oncology : the
+journal of the European Society of Surgical Oncology and the British Association of Surgical
+
+59
+
+Oncology, 45(11),
+
+2131–2136.
+
+[cit.
+
+2025-01-27].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1016/j.ejso.2019.06.005
+COLE, S. W. et al. 2015. Sympathetic nervous system regulation of the tumour
+microenvironment. Nature
+
+reviews.
+
+Cancer, 15(9),
+
+563–572.
+
+https://doi.org/10.1038/nrc3978COSTELLOE, C. et al. 2020. An Analysis of Predictors of
+Persistent Postoperative Pain in Spine Surgery. Current pain and headache reports, 24(4),
+11. [cit. 2025-01-24]. Dostupné na internete: https://doi.org/10.1007/s11916-020-0842-5
+ČEREŠNÍK, M. 2011. O mužoch a o ženách. Psychologický pohľad na problematiku rodu.
+Nitra, Pedagogická fakulta UKF. 122 s. ISBN 978-80-8094-874-0. Dostupné aj na:
+https://www.kpsp.pf.ukf.sk/files/pdf/o_muzoch_a_zenach.pdf
+DAVID, L. A. et al. 2020. Preoperative and post-operative psychosocial interventions for
+bariatric surgery patients: A systematic review. Obesity reviews : an official journal of the
+International Association for the Study of Obesity, 21(4), e12926. [cit. 2025-01-05].
+Dostupné na internete: https://doi.org/10.1111/obr.12926
+DIRVEN, R. et al. 2017. Tumor thickness versus depth of invasion - Analysis of the 8th
+edition American Joint Committee on Cancer Staging for oral cancer. Oral oncology, 74,
+30–33.
+
+[cit.
+
+2025-01-25].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1016/j.oraloncology.2017.09.007
+DOAN, L. V., & Blitz, J. 2020. Preoperative Assessment and Management of Patients with
+Pain and Anxiety Disorders. Current anesthesiology reports, 10(1), 28–34. [cit. 2025-0127]. Dostupné na internete: https://doi.org/10.1007/s40140-020-00367-9
+DU, M. et al. 2020. Incidence Trends of Lip, Oral Cavity, and Pharyngeal Cancers: Global
+Burden of Disease 1990-2017. Journal of dental research, 99(2), 143–151. [cit. 2025-0127]. Dostupné na internete: https://doi.org/10.1177/0022034519894963
+DUNSTAN, D. A., & Scott, N. 2020. Norms for Zung's Self-rating Anxiety Scale. BMC
+psychiatry, 20(1),
+
+90.
+
+[cit.
+
+2025-01-27].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1186/s12888-019-2427-6
+DUŠEK, K., & VEČEŘOVÁ-PROCHÁZKOVÁ, A. (2015). Diagnostika a terapie
+duševních poruch. Grada. ISBN: 978-80-247-4826-9
+60
+
+DUŠEK, L. 2009. Czech Cancer Care in Numbers 2008-2009. Praha: Grada Publishing, a.s.,
+2009, 496 s. 1. ISBN 978-80-247-3244-2.
+EBERHART, L.et al 2020. Preoperative anxiety in adults - a cross-sectional study on
+specific fears and risk factors. BMC Psychiatry 20, 140. [cit. 2025-01-27]. Dostupné na
+internete: https://doi.org/10.1186/s12888-020-02552-w
+ELLIS, M., Woodcock, C., Rawlings, E. and Bywater, L. 2006. Psychological Issues in
+Grundy, M Nursing In Haematological Oncology, Chapter 23, p457-474, Elsevier, Sydney.
+ELLIS, M. A. et al. 2018. Primary Surgery vs Radiotherapy for Early Stage Oral Cavity
+Cancer. Otolaryngology--head and neck surgery : official journal of American Academy of
+Otolaryngology-Head and Neck Surgery, 158(4), 649–659. [cit. 2025-02-01]. Dostupné na
+internete: https://doi.org/10.1177/0194599817746909
+FEILER B. (2011). Scanxiety. Fear of a postcancer ritual. Time, 177(24), 56.
+FELIU, J., et al 2021. Undertreatment and overtreatment in older patients treated with
+chemotherapy. Journal of geriatric oncology, 12(3), 381–387. [cit. 2025-02-01]. Dostupné
+na internete: https://doi.org/10.1016/j.jgo.2020.10.010
+FERREIRA, C. R., Silva, R. R. (2016). The Spielberger inventory like a tool for assess the
+trait and state anxiety. In Bradley, A. (Eds.). Trait and State Anxiety: Assessment,
+Predictors and Outcomes. Nova Science Publishers, Inc.
+FRANGOU, et al., (2021). OVPSYCH2: A randomized controlled trial of psychological
+support versus standard of care following chemotherapy for ovarian cancer. Gynecologic
+oncology, 162(2),
+
+431–439.
+
+[cit.
+
+2025-02-01].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1016/j.ygyno.2021.05.024
+GAJRA, A., et al 2022. The Use and Knowledge of Validated Geriatric Assessment
+Instruments Among US Community Oncologists. JCO oncology practice, 18(7), e1081–
+e1090. [cit. 2025-02-04]. Dostupné na internete: https://doi.org/10.1200/OP.21.00743
+GARREL, R. et al. 2020. Equivalence Randomized Trial to Compare Treatment on the Basis
+of Sentinel Node Biopsy Versus Neck Node Dissection in Operable T1-T2N0 Oral and
+Oropharyngeal Cancer. Journal of clinical oncology : official journal of the American
+
+61
+
+Society of Clinical Oncology, 38(34), 4010–4018. [cit. 2025-02-01]. Dostupné na internete:
+https://doi.org/10.1200/JCO.20.01661
+GURKOVÁ E. et al. Vybrané ošetrovateľské diagnózy v klinickej praxi. Martin: Osveta,
+2009. 243 s. ISBN 978-80-8063-308-0.
+HALDAR, R. 2020. Perioperative COX2 and β-adrenergic blockade improves biomarkers
+of tumor metastasis, immunity, and inflammation in colorectal cancer: a randomized
+controlled trial. Cancer 126, 3991–4001. [cit. 2025-01-05]. Dostupné na internete: doi:
+10.1002/cncr.32950
+HAMILTON M. 1960. A rating scale for depression. Journal of neurology, neurosurgery,
+and
+
+psychiatry, 23(1),
+
+56–62.
+
+[cit.
+
+2025-02-11].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1136/jnnp.23.1.56
+HAMMERMÜLLER, C. et al .(2021). Depression, anxiety, fatigue, and quality of life in a
+large sample of patients suffering from head and neck cancer in comparison with the general
+population. BMC
+
+cancer, 21(1),
+
+94.
+
+[cit.
+
+2025-01-27].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1186/s12885-020-07773-6
+HERETIK, Anton, Alojz RITOMSKÝ, Vladimír NOVOTNÝ, Anton HERETIK a Ján
+PEČEŇÁK. Restandardizace State-Trait Anxiety Inventory X-2 - úzkostnost jako
+rys. Československá psychologie: časopis pro psychologickou teorii a praxi. Praha:
+Academia, 2009, 53(6), 587-599. ISSN 0009-062X.
+HILLER, J. G. et al 2019. Preoperative β-blockade with propranolol reduces biomarkers of
+metastasis in breast cancer: a Phase II randomized trial. Clin. Cancer Res. 26, 1803–1811.
+[cit. 2025-01-05]. Dostupné na internete: doi: 10.1158/1078-0432.CCR-19-2641
+HO, A. S. et al 2014. Decision making in the management of recurrent head and neck
+cancer. Head & neck, 36(1), 144–151. [cit. 2025-02-09]. Dostupné na internete:
+https://doi.org/10.1002/hed.23227
+HOROWITZ, M. et al 2015. Exploiting the critical perioperative period to improve longterm cancer outcomes. Nat. Rev. Clin. Oncol. 12, 213–226. [cit. 2025-01-07]. Dostupné na
+internete: doi: 10.1038/nrclinonc.2014.224
+
+62
+
+CHOW L. Q. M. 2020. Head and Neck Cancer. The New England journal of
+medicine, 382(1),
+
+60–72.
+
+[cit.
+
+2025-01-09].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1056/NEJMra1715715
+JLALA, H. A. et al 2010. Effect of preoperative multimedia information on perioperative
+anxiety in patients undergoing procedures under regional anaesthesia. British journal of
+anaesthesia, 104(3),
+
+369–374.
+
+[cit.
+
+2025-01-29].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1093/bja/aeq002
+JULIAN L. J. (2011). Measures of anxiety: State-Trait Anxiety Inventory (STAI), Beck
+Anxiety Inventory (BAI), and Hospital Anxiety and Depression Scale-Anxiety (HADSA). Arthritis care & research, 63 Suppl 11(0 11), S467–S472. [cit. 2025-01-14]. Dostupné
+na internete: https://doi.org/10.1002/acr.20561
+KIYOTA, N. et al. 2022. Head and Neck Cancer Study Group of the Japan Clinical
+Oncology Group (JCOG-HNCSG). Weekly Cisplatin Plus Radiation for Postoperative Head
+and Neck Cancer (JCOG1008): A Multicenter, Noninferiority, Phase II/III Randomized
+Controlled Trial. Journal of clinical oncology : official journal of the American Society of
+Clinical Oncology, 40(18), 1980–1990. [cit. 2025-02-01]. Dostupné na internete:
+https://doi.org/10.1200/JCO.21.01293
+KUMAR, A. et al. 2021. Treatment Seeking Behavior, Treatment Cost and Quality of Life
+of Head and Neck Cancer Patients: A Cross-Sectional Analytical Study from South
+India. Asian Pacific journal of cancer prevention : APJCP, 22(9), 3023–3030. [cit. 202502-01]. Dostupné na internete: https://doi.org/10.31557/APJCP.2021.22.9.3023
+KOZIER, B., Erb, G., Berman, A., Snyder, S.,& Morgan-Samuel, H.(2010). Fundamentals
+of Nursing, Concept, Process and Practice. Harlow: Person Education Limited.
+LANE, C. 2022. Psychological Survivorship in Head and Neck Cancer. Seminars in plastic
+surgery, 37(1), 46–52. [cit. 2025-02-14]. Dostupné na internete: https://doi.org/10.1055/s0042-1759798
+LANG, H. et al. 2013. The psychological experience of living with head and neck cancer: a
+systematic review and meta-synthesis. Psycho-oncology, 22(12), 2648–2663. [cit. 2025-0214]. Dostupné na internete: https://doi.org/10.1002/pon.3343
+
+63
+
+LANG-ROLLIN, I., BERBERICH, G. 2018. Psycho-oncology. Dialogues in clinical
+neuroscience, 20(1),
+
+13–22.
+
+[cit.
+
+2025-01-
+
+01]https://doi.org/10.31887/DCNS.2018.20.1/ilangrollin
+LEGG, M. J. (2011). What is Psychosocial Care And How Can Nurses Better Provide it to
+Adult Oncology Patients. Australıan Journal Of Advanced Nursıng Volume 28 Number 3.
+pp:61- 65.
+LEYDON G et al. 2000. Cancer patients' information needs and information seeking
+behaviour: in depth interview study BMJ 2000; 320 :909 [cit. 2025-02-01]. Dostupné na
+internete: doi:10.1136/bmj.320.7239.909
+LUDMIR, E. B. et al 2019. Faktory spojené s vekovými rozdielmi medzi účastníkmi
+klinických štúdií rakoviny. JAMA onkológia, 5(12), 1769–1773. [cit. 2025-02-01].
+Dostupné na internete: https://doi.org/10.1001/jamaoncol.2019.2055
+LYDIATT, W. M. et al. 2009. A review of depression in the head and neck cancer
+patient. Clinical advances in hematology & oncology : H&O, 7(6), 397–403.
+MAGGI, M. et al 2019. Psychological impact of different primary treatments for prostate
+cancer: a critical analysis. Andrologia 51:e13157. [cit. 2025-01-05]. Dostupné na internete:
+doi: 10.1111/and.13157
+MATTHEY, P. et al. 2001. The attitude of the general public towards preoperative
+assessment and risks associated with general anesthesia. Canadian journal of anaesthesia =
+Journal canadien d'anesthesie, 48(4), 333–339. [cit. 2025-02-51]. Dostupné na internete:
+https://doi.org/10.1007/BF03014959
+Matzner, P. et al. 2019. Deleterious synergistic effects of distress and surgery on cancer
+metastasis: abolishment through an integrated perioperative immune-stimulating stressinflammatory-reducing intervention. Brain Behav. Immun. 80, 170–178. [cit. 2025-01-15].
+Dostupné na internete: doi: 10.1016/j.bbi.2019.03.005
+MAY, R. 2015. The meaning of anxiety. Norton & Company. ISBN: 978-0-393-35087-6
+MEHANNA, H. et al. 2016. PET-CT Surveillance versus Neck Dissection in Advanced
+Head and Neck Cancer. The New England journal of medicine, 374(15), 1444–1454. [cit.
+2025-01-08]. Dostupné na internete: https://doi.org/10.1056/NEJMoa1514493
+64
+
+MESIA, R. et al. 2020. SEOM clinical guidelines for the treatment of head and neck
+cancer. Clin Transl Oncol 23, 913–921 (2021). [cit. 2025-02-01]. Dostupné na internete:
+https://doi.org/10.1007/s12094-020-02533-1
+MOODY R. (2003). Overcoming barriers to delivering information to cancer
+patients. British journal of nursing (Mark Allen Publishing), 12(21), 1281–1287. [cit. 202502-08]. Dostupné na internete: https://doi.org/10.12968/bjon.2003.12.21.11886
+MOERMAN, N. et al. 1996. The Amsterdam Preoperative Anxiety and Information Scale
+(APAIS). Anesthesia and analgesia, 82(3), 445–451. [cit. 2025-02-03]. Dostupné na
+internete: https://doi.org/10.1097/00000539-199603000-00002
+MOORE, E. J., & HINNI, M. L. 2013. Critical review: transoral laser microsurgery and
+robotic-assisted surgery for oropharynx cancer including human papillomavirus-related
+cancer. International journal of radiation oncology, biology, physics, 85(5), 1163–1167.
+[cit. 2025-02-01]. Dostupné na internete: https://doi.org/10.1016/j.ijrobp.2012.08.033
+MORAN, A.P. 1996. The Psychology of Concentration in Sport Performers: A Cognitive
+Analysis (1st ed.). Psychology Press. [cit. 2025-02-01]. Dostupné na internete:
+https://doi.org/10.4324/9781315784946
+MORGAN, S., & Yoder, L. H. (2012). A concept analysis of person-centered care. Journal
+of holistic nursing : official journal of the American Holistic Nurses' Association, 30(1), 6–
+15. [cit. 2025-01-08]. Dostupné na internete: https://doi.org/10.1177/0898010111412189
+MÜLLER, S., BOY, S. et al. 2019). Data Set for the Reporting of Oral Cavity Carcinomas:
+Explanations and Recommendations of the Guidelines From the International Collaboration
+of Cancer Reporting. Archives of pathology & laboratory medicine, 143(4), 439–446. [cit.
+2025-02-01]. Dostupné na internete: https://doi.org/10.5858/arpa.2018-0411-SA
+NANDAKUMAR, A. et al. 2016. Survival in head and neck cancers - Results of a multiinstitution
+
+study.
+
+17.
+
+1745-1754.
+
+[cit.
+
+2025-02-01].
+
+Dostupné
+
+na
+
+internete:
+
+10.7314/APJCP.2016.17.4.1745
+NATIONAL CANCER INSTITUTE 2018. Surveillance, epidemiology, and end results
+(SEER) program. Cancer Statistics, SEER Data & Software, Registry Operations.
+
+65
+
+NEAL-SMITH, G. et al. 2021. General Versus Regional Anaesthesia for Lower Limb
+Arthroplasty and Associated Patient Satisfaction Levels: A Prospective Service Evaluation
+in the Oxford University Hospitals. Cureus, 13(8), e17024. [cit. 2025-02-06]. Dostupné na
+internete: https://doi.org/10.7759/cureus.17024
+NICHOLS, A. C. et al. 2019. Radiotherapy versus transoral robotic surgery and neck
+dissection for oropharyngeal squamous cell carcinoma (ORATOR): an open-label, phase 2,
+randomised trial. The Lancet. Oncology, 20(10), 1349–1359. [cit. 2025-02-01]. Dostupné na
+internete: https://doi.org/10.1016/S1470-2045(19)30410-3
+ONDRUŠOVÁ, M. et al. 2023. Selected trends in head and neck cancer epidemiology in
+Slovakia - an international comparison. Vybrané epidemiologické ukazovatele zhubných
+nádorov hlavy a krku na Slovensku v porovnaní so zahraničím. Klinicka onkologie : casopis
+Ceske a Slovenske onkologicke spolecnosti, 36(2), 135–142. [cit. 2025-02-01]. Dostupné na
+internete: https://doi.org/10.48095/ccko2023135
+OZTURK I., et al. 2020. Effects of preoperative anxiety on postcesarean delivery pain and
+analgesic consumption: general versus spinal anesthesia. The journal of maternal-fetal &
+neonatal medicine : the official journal of the European Association of Perinatal Medicine,
+the Federation of Asia and Oceania Perinatal Societies, the International Society of
+Perinatal Obstetricians, 33(2), 191–197. [cit. 2025-02-11]. Dostupné na internete:
+https://doi.org/10.1080/14767058.2018.1487948
+PASQUINI, M., & Biondi, M. (2007). Depression in cancer patients: a critical
+review. Clinical practice and epidemiology in mental health : CP & EMH, 3, 2. [cit. 202501-16]. Dostupné na internete: https://doi.org/10.1186/1745-0179-3-2
+POLESEL, J et al. 2017. The impact of time to treatment initiation on survival from head
+and neck cancer in north-eastern Italy. Oral oncology, 67, 175–182. [cit. 2025-01-16].
+Dostupné na internete: | https://doi.org/10.1016/j.oraloncology.2017.02.009
+REB A. M. (2007). Transforming the death sentence: elements of hope in women with
+advanced ovarian cancer. Oncology nursing forum, 34(6), E70–E81. [cit. 2025-02-18].
+Dostupné na internete: https://doi.org/10.1188/07.ONF.E70-E81
+REFAAT T. ET AL. 2015. Whole-Field Sequential Intensity–Modulated Radiotherapy for
+Local-Regional Advanced Head-and-Neck Squamous Cell Carcinoma. American Journal of
+66
+
+Clinical Oncology 38(6):p 588-594, December 2015. [cit. 2025-01-16]. Dostupné na
+internete: | DOI: 10.1097/COC.0000000000000001
+REGNARD, C. 2004. Helping the person to share their problems. in Regnard, C. Helping
+the patient with advanced disease: A workbook. Chapter 2, Radcliffe Medical Press, Oxon.
+RICON, I. et al 2019. Perioperative biobehavioral interventions to prevent cancer recurrence
+through combined inhibition of β-adrenergic and cyclooxygenase 2 signaling. Cancer 125,
+45–56. [cit. 2025-01-05]. Dostupné na internete: doi: 10.1002/cncr.31594
+RODIN G. (2008). Treatment of depression in patients with cancer. Lancet (London,
+England), 372(9632),
+
+8–10.
+
+[cit.
+
+2025-02-12].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1016/S0140-6736(08)60968-X
+SALMAN, J. Úzkosť. Onkoinfo, informačný kanál pre onkologických pacientov. Dostupné
+na: https://onkoinfo.sk/uzkost/
+SCHAAL, N. K. et al. 2020. Comparing the course of anxiety in women receiving their first
+or repeated caesarean section: A prospective cohort study. Women and birth : journal of the
+Australian College of Midwives, 33(3), 280–285. [cit. 2025-01-11]. Dostupné na internete:
+https://doi.org/10.1016/j.wombi.2019.05.011
+SCHOFIELD, P., Carey, M., Love, A., Nehill, C., & Wein, S. (2006). 'Would you like to
+talk about your future treatment options'? Discussing the transition from curative cancer
+treatment to palliative care. Palliative medicine, 20(4), 397–406. [cit. 2025-01-19].
+Dostupné na internete: https://doi.org/10.1191/0269216306pm1156oa
+SHARMILA Dr.J, M.Sc (N), Ph.D 2, Dr.Dinesh Selvam S, M.Sc, Ph.D 1Journal of Nursing.
+2021 February; 1(1): 1–3. Published online 2021 February, [cit. 2025-02-12]. Dostupné na
+internete: doi.org/10.36647/JNPR/01.01.A001
+SHAASHUA, L. et al 2017. Perioperative COX-2 and β-adrenergic blockade improves
+metastatic biomarkers in breast cancer patients in a phase-II randomized trial. Clin. Cancer
+Res. 23, 4651–4661. [cit. 2025-01-05]. Dostupné na internete: doi: 10.1158/10780432.CCR-17-0152
+
+67
+
+SIMARD, S. -Savard, J. (2015). Screening and comorbidity of clinical levels of fear of
+cancer recurrence. Journal of cancer survivorship : research and practice, 9(3), 481–491.
+[cit. 2025-01-11]. Dostupné na internete: https://doi.org/10.1007/s11764-015-0424-4
+SPIELBERGER, C. D. 1972. Anxiety: Current trends in theory and research: I. New York,
+N.Y.:
+
+Academic
+
+Press.
+
+[cit.
+
+2025-01-11].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.advancedassessments.co.uk/resources/Mental-Health-Test.pdf
+STAMENKOVIC, D. M. et al. 2018. Preoperative anxiety and implications on postoperative
+recovery: what can we do to change our history. Minerva anestesiologica, 84(11), 1307–
+1317. [cit. 2025-01-16]. Dostupné na internete:
+
+https://doi.org/10.23736/S0375-
+
+9393.18.12520-X
+STOLBERG-STOLBERG, J. et al. 2021. Kompetenz, Kreativität und Kommunikation:
+Grundlagen zur Qualitätsverbesserung in der Traumatologie : Realität und Herausforderung
+der Zukunft [Competence, creativity and communication: basics for quality improvement in
+traumatology : Reality and future challenges]. Der Chirurg; Zeitschrift fur alle Gebiete der
+operativen Medizen, 92(3), 210–216. [cit. 2025-02-01]. Dostupné na internete:
+https://doi.org/10.1007/s00104-020-01347-9
+SUSSMAN, J., & Baldwin, L. M. (2010). The interface of primary and oncology specialty
+care: from diagnosis through primary treatment. Journal of the National Cancer Institute.
+Monographs, 2010(40),
+
+18–24.
+
+[cit.
+
+2025-02-08].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1093/jncimonographs/lgq007
+TYRER P. 1984. Classification of Anxiety. British Journal of Psychiatry;144(1):78-83. [cit.
+2025-02-16]. Dostupné na internete: doi:10.1192/bjp.144.1.78
+WATTS, S. et al., 2015). Depression and anxiety in ovarian cancer: a systematic review and
+meta-analysis of prevalence rates. BMJ open, 5(11), e007618. [cit. 2025-01-15]. Dostupné
+na internete: https://doi.org/10.1136/bmjopen-2015-007618
+WEIMAR, E. A. M. et al. 2018. Radiologic-Pathologic Correlation of Tumor Thickness and
+Its Prognostic Importance in Squamous Cell Carcinoma of the Oral Cavity: Implications for
+the Eighth Edition Tumor, Node, Metastasis Classification. AJNR. American journal of
+neuroradiology, 39(10),
+
+1896–1902.
+
+[cit.
+
+2025-02-15].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.3174/ajnr.A5782
+68
+
+XIAOHONG S, QIANJIN J. 2000. Report on the application of the Chinese version of
+MCMQ in 701 patients. Chin J Behav Med Sci. 2000; 9(1):18–20.
+YANG, M. M. H. H. et al. 2019. Preoperative predictors of poor acute postoperative pain
+control: a systematic review and meta-analysis. BMJ open, 9(4), e025091. [online]. [cit.
+2025-02-16]. Dostupné na internete: https://doi.org/10.1136/bmjopen-2018-025091
+ZAMANZADEH, V., Jasemi, M., Valizadeh, L., Keogh, B., & Taleghani, F. (2015).
+Effective factors in providing holistic care: a qualitative study. Indian journal of palliative
+care, 21(2),
+
+214–224.
+
+[cit.
+
+2025-01-07].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.4103/0973-1075.156506
+
+69
+
+PRÍLOHY
+Príloha 1 Dotazník na meranie úzkosti a úzkostlivosti STAI X-1 a X-2
+Príloha 2 Žiadosť a súhlas s realizáciou výskumu
+
+

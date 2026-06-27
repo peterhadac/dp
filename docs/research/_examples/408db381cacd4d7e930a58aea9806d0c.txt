@@ -1,0 +1,2049 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+28101
+
+Senior a prevencia onkologických ochorení
+Diplomová práca
+
+2026
+Bc. Simona Polacec
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+Fakulta zdravotníctva a sociálnej práce
+
+28101
+
+Senior a prevencia onkologických ochorení
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Študijný odbor:
+
+7.4.1 Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva
+
+Vedúci práce:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava 2026
+Bc. Simona Polacec
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+Fakulta zdravotníctva a sociálnej práce
+
+ZADANIE ZÁVEREČNEJ DIPLOMOVEJ PRÁCE
+
+Meno, priezvisko a tituly študenta:
+
+Bc. Simona Polacec
+
+Kód študenta:
+
+S1324079455
+
+Študijný program:
+
+7.4.1 Ošetrovateľstvo
+
+Typ záverečnej práce:
+
+diplomová
+
+Názov záverečnej práce:
+
+Senior a prevencia onkologických ochorení
+
+Meno, priezvisko a tituly vedúceho
+záverečnej práce:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva Fakulta zdravotníctva
+a sociálnej práce Trnavská univerzita v Trnave
+
+Meno, priezvisko a tituly
+vedúceho pracoviska:
+
+doc. PhDr. Andrea Botíková, PhD.
+
+Anotácia záverečnej práce:
+
+Diplomová práca sa zaoberá prevenciou
+onkologických ochorení u seniorov. Cieľom
+práce je zistiť ako vnímajú seniori preventívne
+prehliadky,
+
+prevenciu
+
+ale
+
+aj
+
+aké
+
+majú
+
+vedomosti o prevencii.
+Jazyk v ktorom sa práca vypracuje:
+
+slovenský
+
+Dátum schválenia zadania:
+
+11.11.2024
+
+_________________
+Podpis vedúceho práce
+3
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že diplomovú prácu s názvom Senior a prevencia onkologických
+ochorení som vypracovala samostatne, pod odborným vedením školiteľky doc. PhDr. Jany
+Martinkovej, PhD., MPH, a zdroje, ktoré som použila sú uvedené v zozname použitej
+literatúry.
+________________________
+Bc. Simona Polacec
+
+Trnava 2026
+4
+
+Poďakovanie
+
+Chcem sa poďakovať mojej školiteľke doc. PhDr. Jana Martinková, PhD., MPH za podporu
+a odbornú pomoc pri písaní mojej diplomovej práce.
+
+5
+
+Abstrakt
+Polacec Simona. Senior a prevencia onkologických ochorení. [Diplomová práca]. Trnavská
+univerzita v Trnave. Fakulta zdravotníctva a sociálnej práce. Katedra ošetrovateľstva.
+Školiteľ práce: doc. PhDr. Jana Martinková, PhD., MPH. Stupeň odbornej kvalifikácie:
+magister. Trnava. FZaSP TU, 2026. 54 s.
+Úvod: Onkologické ochorenia patria medzi najčastejšie ochorenia, postihujúce najmä
+seniorov. Veľká časť onkologických ochorení je diagnostikovaná u seniorov nad 60 rokov.
+Cieľ práce: Cieľom našej práce bolo zistiť mieru účasti seniorov na preventívnych
+prehliadkach, ovplyvňujúce faktory účasti na vyšetrení a vedomosti o prevencii
+onkologických ochorení.
+Metodika: Výskumnú vzorku tvorilo 128 respondentov. Do výskumu sa mohli zapojiť len
+seniori nad 60 rokov. Zber dát sme realizovali v mesiaci december, v Klube Jednota
+dôchodcov v Dubnici nad Váhom pomocou dotazníka vlastnej konštrukcie. Stanovené
+hypotézy sme overovali pomocou chí-kvadrát testu.
+Výsledky: Po dôkladnej analýze dát môžeme skonštatovať, že väčšina seniorov, chodí
+k lekárovi len pri ťažkostiach. Seniori, ktorí mali vyššie vzdelanie sa zúčastňovali
+pravidelnejšie na preventívnych prehliadkach ako tí s nižším vzdelaním. Respondentov
+najčastejšie odrádzalo od preventívnych vyšetrení nepríjemný prístup zdravotníckeho
+personálu a dlhé čakacie doby. Naše 4 stanovené hypotézy ktoré sme testovali nám vyšli ako
+štatisticky významné. Testovali sme vzťah medzi účasťou na preventívnych prehliadkach
+a rodinným stavom, vzdelaním,
+
+miestom bydliska a hlavným zdrojom informácií
+
+o onkologickej prevencii.
+Záver: Z výsledkov nám vyšlo, že väčšina seniorov, ktorí sa zapojili do prieskumu chodí
+na preventívne prehliadky, nie však pravidelne. Účasť seniorov na preventívnych
+prehliadkach je ovplyvňovaná viacerými faktormi. Mnohých by motivovalo keby dostali
+pozvánku na preventívne vyšetrenie, ale aj mali vyššiu informovanosť od lekára o možnosti
+absolvovania rôznych skríningových vyšetrení. Zistili sme taktiež že seniori majú vedomosti
+o prevencii onkologických ochorení a poznajú rizikové faktory.
+Kľúčové slová: Onkologické ochorenia. Prevencia. Senior. Sestra.
+
+6
+
+Abstract
+Polacec Simona. Senior and prevention of oncological diseases. [Master´s thesis]. Trnava
+University in Trnava. Faculty of Health and Social Work. Department of Nursing.
+Supervisor: doc. PhDr. Jana Martinková, PhD., MPH. Degree of professional qualification:
+master. Trnava. FZaSP TU, 2026. 54 p.
+Introduction: Oncological diseases are among the most common diseases affecting mainly
+seniors. A large part of oncological diseases is diagnosed in seniors over 60 years of age.
+Objective of the work: The aim of our work was to determine the level of participation of
+seniors in preventive examinations, factors influencing participation in examinations and
+knowledge about the prevention of oncological diseases.
+Methodology: The research sample consisted of 128 respondents. Only seniors over 60
+years of age could participate in the research. We collected data in December, at the
+Pensioners' Unity Club in Dubnica nad Váhom using a questionnaire of our own design. We
+verified the established hypotheses using the chi-square test.
+Results: After a thorough analysis of the data, we can conclude that most seniors only go to
+the doctor when they have problems. Seniors who had higher education participated more
+regularly in preventive examinations than those with lower education. Respondents were
+most often discouraged from preventive examinations by the unpleasant attitude of medical
+personnel and long waiting times. Our 4 hypotheses that we tested were statistically
+significant. We tested the relationship between participation in preventive examinations and
+family status, education, place of residence and the main source of information about cancer
+prevention.
+Conclusion: The results showed that the majority of seniors who participated in the survey
+go for preventive examinations, but not regularly. The participation of seniors in preventive
+examinations is influenced by several factors. Many would be motivated if they received an
+invitation to a preventive examination, but also had higher information from a doctor about
+the possibility of undergoing various screening examinations. We also found that seniors
+have knowledge about the prevention of cancer diseases and are familiar with the risk
+factors.
+Keywords: Oncological diseases. Prevention. Senior. Nurse.
+
+7
+
+Obsah
+Zoznam tabuliek: ................................................................................................................. 9
+Zoznam grafov ................................................................................................................... 10
+Úvod .................................................................................................................................... 11
+1 Senior ............................................................................................................................... 12
+1.1 Onkologické ochorenia u seniorov............................................................................. 12
+1.1.1 Najčastejšie sa vyskytujúce typy rakoviny ............................................................. 13
+1.1.2 Rakovina pľúc ......................................................................................................... 14
+1.1.3 Rakovina prsníka ..................................................................................................... 14
+1.1.4 Rakovina prostaty.................................................................................................... 15
+1.1.5 Rakovina hrubého čreva .......................................................................................... 16
+1.2 Význam prevencie onkologických ochorení .............................................................. 16
+1.2.1 Úloha sestry pri prevencii onkologických ochorení................................................ 18
+2 Výskum ............................................................................................................................ 21
+2.1 Výskumný problém .................................................................................................... 21
+2.2 Výskumné ciele .......................................................................................................... 21
+2.3 Výskumné hypotézy ................................................................................................... 21
+2.4 Charakteristika výskumnej vzorky ............................................................................. 22
+2.5 Metodika výskumu ..................................................................................................... 22
+2.6 Organizácia a realizácia prieskumu............................................................................ 22
+3 Analýza výsledkov ........................................................................................................... 23
+3.1 Štatistické vyhodnotenie hypotéz ............................................................................... 42
+4 Diskusia ............................................................................................................................ 46
+Odporúčania pre prax ....................................................................................................... 49
+Záver ................................................................................................................................... 50
+Zoznam použitej literatúry ............................................................................................... 51
+
+8
+
+Zoznam tabuliek:
+Tabuľka 1 Vek respondentov ............................................................................................... 23
+Tabuľka 2 Rodinný stav ....................................................................................................... 25
+Tabuľka 3 Formy bývania .................................................................................................... 26
+Tabuľka 4 Účasť seniorov na pravidelných preventívnych prehliadkach ........................... 27
+Tabuľka 5 Zrozumiteľnosť podaných informácií počas preventívnej prehliadky ............... 27
+Tabuľka 6 Dôležitosť účasti na preventívnych prehliadkach .............................................. 29
+Tabuľka 7 Dôležitosť prevencie pred onkologickými ochoreniami .................................... 29
+Tabuľka 8 Dôvody neúčasti na skríningových vyšetreniach ............................................... 32
+Tabuľka 9 Prekážky pri preventívnych prehliadkach .......................................................... 33
+Tabuľka 10 Motivácia absolvovania skríningového vyšetrenia .......................................... 35
+Tabuľka 11 Vplyv životného štýlu na vznik onkologických ochorení ................................ 39
+Tabuľka 12 Výskyt rizikových faktorov .............................................................................. 39
+Tabuľka 13 Vplyv znečisteného prostredia na onkologické ochorenie ............................... 40
+
+9
+
+Zoznam grafov
+Graf 1 Pohlavie .................................................................................................................... 23
+Graf 2 Vzdelanie .................................................................................................................. 24
+Graf 3 Bydlisko .................................................................................................................... 25
+Graf 4 Frekvencia návštev lekára ........................................................................................ 26
+Graf 5 Pravidelnosť preventívnych prehliadok.................................................................... 28
+Graf 6 Absolvovanie preventívnych skríningových vyšetrení ............................................. 30
+Graf 7 Typy absolvovaných preventívnych skríningových vyšetrení .................................. 31
+Graf 8 Získanie pozvánky na preventívne vyšetrenie ......................................................... 32
+Graf 9 Pravidelnosť preventívnych prehliadok, vplyv na úmrtnosť na rakovinu ................ 34
+Graf 10 Absolvovanie skríningového vyšetrenia v posledných 2 rokoch ........................... 35
+Graf 11 Preventívne opatrenie na prevenciu onkologických ochorení ................................ 36
+Graf 12 Vedomosti o rizikových faktoroch onkologických ochorení .................................. 37
+Graf 13 Rizikové faktory onkologických ochorení ............................................................. 37
+Graf 14 Získavanie informácií o prevencii .......................................................................... 38
+Graf 15 Výskyt onkologického ochorenia v rodine ............................................................. 41
+Graf 16 Účasť na prevencii podľa miesta bydliska ............................................................. 42
+Graf 17 Účasť na prevencii podľa rodinného stavu ............................................................. 43
+Graf 18 Účasť na prevencii podľa vzdelania ....................................................................... 44
+Graf 19 Vzťah zdroja informácií a absolvovania vyšetrení ................................................. 45
+
+10
+
+Úvod
+Onkologické ochorenia predstavujú v súčasnej spoločnosti jednu z najväčších
+medicínskych a sociálnych výziev. U seniorov sa onkologické ochorenia vyskytujú častejšie,
+pretože organizmus je už oslabený, nedokáže sa vždy dostatočne chrániť a tak môže nastať
+nekontrolovateľný nárast malígnych buniek v tele.
+Onkologické ochorenia môžeme označiť ako jednu z najčastejších príčin úmrtí na
+Slovensku, ale aj vo svete, a neustále majú narastajúci trend.
+Onkologické ochorenie môže vzniknúť aj následkom zlej životosprávy počas života,
+fajčením, nadmernou konzumáciou alkoholu a tiež môže byť príčinou aj genetika.
+U seniorov bývajú často diagnostikované onkologické ochorenia v pokročilých štádiách,
+pretože väčšina seniorov sa už lieči na iné chronické ochorenia, a tak novovzniknuté
+príznaky prehliadajú.
+Prvú kapitolu sme venovali teoretickým východiskám onkologických ochorení u seniorov,
+v ktorej sme sa bližšie venovali kategorizácií onkologických ochorení a ich prevencii.
+V druhej kapitole sme sa zamerali na kvantitatívny výskum, v ktorom sme využili dotazník
+vlastnej konštrukcie, kde sme sa snažili zistiť či seniori chodia na pravidelné preventívne
+prehliadky, skúmali sme mieru vedomosti o rizikových faktoroch, ktoré vedú
+k onkologickým ochoreniam.
+Dôležité je pravidelné absolvovanie preventívnych prehliadok a skríningových vyšetrení
+aby sme v prípade vzniku nádorového ochorenia mohli zabrániť v počiatočnom štádiu,
+a nádor sa nerozširoval po tele. Okrem pravidelných preventívnych prehliadok by seniori
+nemali zabúdať na správnu životosprávu, primeranú fyzickú aktivitu a v neposlednom rade
+vykonávať pravidelné samovyšetrenie.
+Cieľom našej diplomovej práce je poukázať na dôležitosť absolvovania preventívnych
+prehliadok, určiť faktory ktoré ovplyvňujú účasť seniorov na preventívnych prehliadkach.
+
+11
+
+1 Senior
+Pojem senior, môžeme použiť u osôb nad 60 rokov. Tento pojem je spájaný
+s postupným ubúdaním síl, a obmedzeniami, ale taktiež s bohatými životnými
+skúsenosťami.
+Každý senior má svoje špecifické potreby, na ktoré musíme brať ohľad (Poledníková a kol.,
+2013).
+Starnutie je nezvratný, trvalý, prirodzený vývojový proces, ktorý sa týka každého jedinca,
+a u každého má iný priebeh. V ošetrovateľskej starostlivosti sa prejavuje telesnými,
+psychickými a funkčnými zmenami (Beňačka a kol., 2022).
+Zmeny vznikajú najmä v sociálnej, psychickej, duchovnej a somatickej oblasti. Tieto zmeny
+počas starnutia sú nezvratné a väčšinou majú regresívny charakter (Hanzlíková a kol., 2006).
+Podľa Svetovej zdravotníckej organizácie rozdeľujeme obdobie starnutia do 3 skupín:
+1. 60-74 rokov presénium-starší vek
+2. 75-89 rokov sénium-starý vek
+3. 90 a viac dlhovekosť (WHO, 2022)
+Vek seniorov možno skúmať z viacerých hľadísk. Jedným z nich je multidimenzionálny
+koncept starnutia. Podľa Hamiltona môžeme hovoriť o chronologickom, biologickom,
+psychologickom a funkčnom veku.
+Chronologický vek- je najčastejšie používaný, inak nazývaný aj kalendárny vek. Môžeme
+ho definovať ako časový úsek od narodenia jedinca, a teda zodpovedá skutočne prežitému
+času.
+Biologický vek- nám napovedá mieru opotrebovania organizmu. Slúži nám ako indikátor
+zdravotného stavu seniora, a teda je nezávislý od kalendárneho veku.
+Psychologický vek- je zameraný na učenie, pamäť, teda na kognitívnu kapacitu.
+Sociálny vek- môžeme definovať ako sociálnu zrelosť a adaptovanie sa seniora na zmeny
+v spoločnosti, nevychádza zo zdravotného stavu, ale z toho ako ho vníma jeho okolie
+(Hamilton, 2016).
+
+1.1 Onkologické ochorenia u seniorov
+Onkologické ochorenia sa zaraďujú medzi najčastejšie ochorenia, ktoré postihujú
+hlavne seniorov. Na Slovensku sú onkologické ochorenia druhou najčastejšou príčinou
+12
+
+hospitalizácií a úmrtí. Väčšina onkologických ochorení je diagnostikovaných u osôb vo
+veku 60 a viac rokov (Pilleron, 2025).
+Onkologický pacient vo vyššom veku predstavuje jedinca so špecifickým fyziologickým a
+psychosociálnym nastavením.
+Rozhodujúcim faktorom, ktorý ho odlišuje je polymorbidita, a taktiež polyprogmázia. Môže
+to tak komplikovať diagnostiku a tiež následnú liečbu, pretože to môže meniť špecifickosť
+a intenzitu symptómov (Beňo et. al., 2023).
+Počas biologického starnutia dochádza k postupnej degenerácií a zoslabeniu organizmu, čo
+pozitívne vplýva na vznik nádorových procesov. Úlohu tu zohráva mutácia telových buniek,
+a neschopnosť tela sa brániť (Lombardi et. al., 2021).
+V starobe onkologické ochorenia sú náročné na prežívanie pacienta, ale aj jeho rodiny.
+Mnohokrát prinášajú sociálnu izoláciu, a tiež strach z odkázanosti na pomoc druhej osoby
+(Dzúrová, 2024).
+
+1.1.1 Najčastejšie sa vyskytujúce typy rakoviny
+Aktuálne štatistiky ukazujú, že u seniorskej populácie nad 65 rokov, tvoria viac ako
+polovicu všetkých nových onkologických prípadov štyri dominantné diagnózy karcinóm
+pľúc, prsníka, prostaty a kolorektálny karcinóm.
+V ošetrovateľskej a klinickej praxi je pri týchto pacientoch kľúčové zamerať sa nielen na
+liečbu nádoru, ale predovšetkým na posúdenie celkovej krehkosti, ktorá odráža zníženú
+funkčnosť organizmu a jeho zvýšenú zraniteľnosť voči zdravotným problémom (Siegel et.
+al., 2024).
+Výskyt onkologických ochorení u seniorov nie je dôsledkom komplexného biologického
+procesu starnutia a postupného opotrebovania organizmu. Rozhodujúcim činiteľom je v
+tomto smere prirodzené oslabovanie imunitného systému spojené s vekom. V rámci tohto
+procesu imunitné bunky, najmä T-lymfocyty, strácajú schopnosť efektívne identifikovať a
+eliminovať mutované bunky, ktoré by sa inak mohli vyvinúť do nádoru (Wang, 2024).
+Charakteristickým znakom onkologických pacientov vo vyššom veku je výskyt viacerých
+chronických ochorení naraz. Táto kombinácia viacerých diagnóz vedie k zásadnej zmene
+klinického obrazu ochorení, čo vytvára nepriaznivé podmienky pre včasnú identifikáciu
+rakoviny. Varovné signály nastupujúceho nádorového procesu, ako sú vyčerpanosť,
+13
+
+chronická bolesť či úbytok telesnej hmotnosti, bývajú samotnými seniormi aj odborníkmi
+často mylne interpretované ako bežné sprievodné javy starnutia, alebo dôsledky ich už
+existujúcich chorôb. Preto dochádza k oneskoreniu záchytu ochorenia a seniori sú v
+onkologickej praxi obvykle diagnostikovaní až v pokročilých štádiách (Korc-Grodzicka et.
+al., 2022).
+
+1.1.2 Rakovina pľúc
+Karcinóm pľúc sa dlhodobo radí medzi najčastejšie onkologické diagnózy a zároveň
+predstavuje hlavnú príčinu úmrtnosti na zhubné nádory i v tejto vekovej skupine. Špecifický
+priebeh ochorenia u seniorov je podmienený biologickým starnutím pľúcneho tkaniva a
+celkovým poklesom funkčných rezerv organizmu.
+Klinický obraz seniorov s týmto ochorením je často komplikovaný multimorbiditou,
+predovšetkým súčasným výskytom kardiovaskulárnych chorôb alebo chronickej obštrukčnej
+choroby pľúc, čo vedie k zmene typických symptómov. Príznaky ako dýchavičnosť či
+chronický kašeľ bývajú samotnými pacientmi často bagatelizované a nesprávne pripisované
+vyššiemu veku alebo následkom fajčenia. Tento jav spôsobuje, že nádory sú u starších ľudí
+diagnostikované až v pokročilých štádiách, kedy už nie je možná operačná cesta.
+Moderná onkogeriatria však zdôrazňuje, že kalendárny vek nesmie byť bariérou v liečbe. Ak
+je pacient celkovo vitálny a v dobrom funkčnom stave, vek sám o sebe nie je
+kontraindikáciou pre aktívnu terapiu (Siegel et. al. 2024).
+V rámci ošetrovateľského prístupu k starším pacientom s pľúcnym karcinómom je
+nevyhnutné sústrediť sa na kontrolu príznakov, ktoré najviac degradujú ich kvalitu života.
+Najzávažnejším prejavom je dyspnoe, ktorá u seniorov nielen obmedzuje fyzické
+fungovanie, ale často spúšťa aj sekundárnu psychickú nepohodu a intenzívny strach zo
+zadusenia (Sacher et. al. 2022).
+
+1.1.3 Rakovina prsníka
+Karcinóm prsníka predstavuje u žien v seniorskom veku najčastejšie sa vyskytujúce
+onkologické ochorenie. V dôsledku starnutia populácie a predlžovania priemerného veku
+narastá počet nových prípadov aj v najstarších vekových skupinách nad 70 rokov. U
+14
+
+senioriek máva toto ochorenie špecifický biologický profil častejšie ide o luminálne typy
+nádorov, ktoré sú hormonálne závislé a rastú spravidla pomalšie, čo ovplyvňuje voľbu
+následnej liečebnej stratégie.
+Napriek ich zdanlivo menej agresívnej povahe je v populácii kritickým problémom
+oneskorená diagnostika. Mnohé staršie ženy prestávajú chodiť na preventívne mamografické
+skríningy, mylne interpretujú zmeny na prsníkoch ako bežné prejavy starnutia a involúcie
+tkaniva. V ošetrovateľskej praxi je preto bežným javom záchyt lokálne pokročilých tumorov,
+ktoré si vzhľadom na krehkosť a pridružené ochorenia senioriek vyžadujú komplexnú a pre
+organizmus vysoko zaťažujúcu terapiu (Giordano, 2023).
+Kľúčovou prioritou pri liečbe karcinómu prsníka u senioriek je dosiahnutie rovnováhy medzi
+terapeutickým prínosom a rizikom nežiaducich účinkov, pričom liečba nesmie zhoršiť
+kvalitu ich života. Prítomnosť polymorbidity, kardiovaskulárne ochorenia, osteoporóza či
+kognitívne poruchy zásadne limituje použitie agresívnych režimov pľúcnej chemoterapie či
+rádioterapie. Moderným trendom v onkogeriatrii je preto prechod k tzv. liečbe na mieru, kde
+sa u krehkých pacientok uprednostňujú menej toxické postupy, ako je dlhodobá hormonálna
+liečba, pred invazívnymi chirurgickými zákrokmi. Z hľadiska ošetrovateľstva je
+rozhodujúcim faktorom udržanie sebestačnosti a funkčnej nezávislosti pacientky.
+Komplikácie liečby, ako je vznik lymfedému alebo znížená hybnosť ramena, môžu u starších
+žien s už vyčerpanými rezervami viesť k rýchlemu rozvoju stareckej krehkosti a strate
+schopnosti viesť samostatný život. Sestra preto musí v rámci komplexného hodnotenia včas
+identifikovať riziká depresívneho ladenia a sociálnej izolácie, ktoré v tomto veku často
+sprevádzajú onkologickú diagnózu a zhoršujú celkovú prognózu (Špánik, 2020).
+
+1.1.4 Rakovina prostaty
+Karcinóm prostaty predstavuje v mužskej populácii celosvetovo aj na Slovensku
+veľmi častú onkologickú diagnózu, pričom jeho výskyt sa zvyšuje úmerne s narastajúcim
+vekom. Najvyššia miera výskytu sa sústreďuje do vekovej kategórie nad 75 rokov, kde sa
+toto ochorenie stáva dominantným.
+Vzhľadom na to, že mnohé z týchto nádorov u seniorov vykazujú pomalý biologický rast,
+moderná onkogeriatria čoraz častejšie volí stratégiu pozorného vyčkávania. Podstatou tohto
+prístupu je snaha vyhnúť sa nadmerne agresívnej liečbe v prípadoch, kedy by jej nežiaduce
+účinky mohli prevážiť nad prínosom, a tým zbytočne zhoršiť kvalitu zvyšného života
+15
+
+pacienta. Rozhodovanie o liečbe sa tak pri starších mužoch neopiera len o kalendárny vek,
+ale o individuálne posúdenie funkčného stavu a vitality jednotlivca (Licari et. al., 2023).
+Karcinóm prostaty, ktorý je na Slovensku najčastejším onkologickým ochorením u mužov,
+sa v seniorskom veku často prejavuje symptómami dolných močových ciest.
+Prejavy ako nyktúria, zoslabnutý prúd moču či pocit nedostatočného vyprázdnenia mechúra
+bývajú v praxi niekedy chybne pripisované benignej hyperplázii prostaty, čo zapadá do
+fenoménu tzv. diagnostického šumu pri polymorbídnych senioroch.
+V pokročilých štádiách ochorenia sú pre starších pacientov typické kostné metastázy, ktoré
+sú zdrojom chronickej bolesti a dramaticky zvyšujú riziko patologických zlomenín.
+Z hľadiska ošetrovateľstva a komplexného hodnotenia je preto nevyhnutné sústrediť sa na
+precízny manažment bolesti a prevenciu pádov. Tento prístup je kľúčový pre potlačenie
+rozvoja krehkosti a udržanie čo najdlhšej sebestačnosti a kvality života pacienta, ktorá
+nesmie byť liečbou ohrozená (Bumbala et. al., 2021).
+
+1.1.5 Rakovina hrubého čreva
+Kolorektálny karcinóm je jeden z najčastejších zhubných nádorov tráviaceho traktu.
+V seniorskom veku má toto ochorenie špecifický klinický a biologický profil, ktorý sa často
+prejavuje lokalizáciou v pravej časti hrubého čreva.
+Táto poloha sťažuje včasné odhalenie, pretože symptómy sú tu menej zreteľné a menej
+typické než pri postihnutí ľavej časti čreva. V ošetrovateľskej praxi je kritickým faktorom
+diagnostický šum spôsobený tým, že seniori dlhodobo trpia rôznymi chronickými tráviacimi
+ťažkosťami, ktoré bagatelizujú alebo ich chybne pripisujú prirodzenému starnutiu, a iným
+pridruženým chorobám (Siegel et. al., 2024).
+Starší pacienti s kolorektálnym karcinómom sú vystavení vysokému riziku zhoršenia
+nutričného stavu a rozvoja malnutrície. Prítomnosť nádoru v kombinácii s narušeným
+vstrebávaním živín v tráviacom trakte vedie k urýchlenému úbytku svalovej hmoty a sily,
+teda k sarkopénii, ktorá priamo ohrozuje sebestačnosť seniora (Pucciarelli et. al., 2021).
+
+1.2 Význam prevencie onkologických ochorení
+Prevencia v geriatrickej onkológii sa nezameriava len na samotné predlžovanie
+života, ale predovšetkým na dosiahnutie tzv. úspešného starnutia. To znamená, že dĺžka
+16
+
+života má byť v rovnováhe s jeho vysokou kvalitou a schopnosťou seniora fungovať
+nezávisle.
+Z biologického pohľadu je prevencia nevyhnutná, pretože staršie telo je citlivejšie, reaguje
+na hromadenie genetických poškodení a má zníženú schopnosť prirodzenej obnovy tkanív
+(Siegel et. al., 2024).
+Dôsledným uplatňovaním preventívnych opatrení a elimináciou karcinogénnych vplyvov
+ako sú fajčenie, nadváha, nesprávna strava môže zásadne zastaviť proces premeny buniek
+skôr, než sa vyvinie do štádia viditeľného ochorenia.
+Z pohľadu ošetrovateľskej starostlivosti o seniorov predstavuje prevencia najúčinnejšiu
+metódu, ako predísť fyzickému utrpeniu a strate dôstojnosti, ktoré so sebou prinášajú
+pokročilé štádiá rakoviny (Pucciarelli et. al. 2021).
+Prevencia u seniorov nie je len medicínskou otázkou, ale aj dôležitým etickým postojom,
+ktorý bojuje proti diskriminácii na základe veku v zdravotníctve. Hoci sa niekedy chybne
+tvrdí, že preventívne opatrenia u starších ľudí sú neefektívne, realita ukazuje opak. Skorý
+záchyt ochorenia umožňuje zvoliť šetrnejšie liečebné postupy a vyhnúť sa radikálnym
+operáciám, ktoré by pre seniora mohli znamenať trvalú invaliditu a stratu sebestačnosti (Liss
+et. al. 2022).
+Psychosociálny prínos prevencie spočíva v tom, že seniorom dodáva sebaistotu a lepšiu
+orientáciu v otázkach zdravia. Ak senior aktívne pristupuje k preventívnym prehliadkám,
+získava pocit kontroly nad vlastným životom, čo účinne potláča úzkosť a depresiu spojenú
+s obavami zo straty sebestačnosti (Pilleron et. al. 2021).
+Z hľadiska fungovania zdravotného systému predstavuje prevencia u seniorov kľúčový
+ekonomický nástroj. Včasná identifikácia onkologických rizík umožňuje aplikáciu menej
+invazívnych a finančne efektívnejších terapeutických postupov, čím sa predchádza extrémne
+vysokým nákladom spojeným s liečbou v pokročilých štádiách.
+Neskorá diagnostika spravidla vyžaduje biologickú liečbu, náročné chirurgické zákroky a
+dlhodobé hospitalizácie, ktoré mnohonásobne prevyšujú investície do skríningových
+programov a preventívnych prehliadok.
+Tento prístup nielenže šetrí zdroje verejného zdravotného poistenia, ale súčasne znižuje
+priamu finančnú a opatrovateľskú záťaž rodín, ktorá často vzniká pri potrebe následnej
+ošetrovateľskej starostlivosti. Okrem ekonomických benefitov je však primárnym cieľom
+prevencie zachovanie kvality života a funkčnej nezávislosti pacienta (Siegel et. al., 2024).
+V kontexte geriatrickej onkológie predstavuje rodina a blízke okolie seniora kľúčový
+determinant úspešnosti preventívnych opatrení. Rodinní príslušníci pôsobia ako
+17
+
+nenahraditeľný motivačný faktor, ktorý pomáha seniorovi prekonávať psychologické
+bariéry, akými sú strach z diagnózy alebo apatia prameniaca z mýtu, že v pokročilom veku
+už starostlivosť o zdravie nemá zásadný význam. Práve podpora blízkych je často
+rozhodujúca pri transformácii seniora z pasívneho prijímateľa služieb na aktívneho účastníka
+ochrany vlastného zdravia.
+Okrem psychologickej podpory zohráva rodina dôležitú úlohu aj pri odstraňovaní
+praktických a logistických prekážok, ktoré by seniorovi bránili v účasti na skríningových
+programoch.
+Pre ošetrovateľský personál je nevyhnutné vnímať rodinu ako plnohodnotného partnera v
+starostlivosti. Informovaní blízki totiž dokážu v domácom prostredí včas identifikovať
+varovné signály a zmeny, ktoré by inak mohli uniknúť pozornosti (Giordano, 2023).
+
+1.2.1 Úloha sestry pri prevencii onkologických ochorení
+V primárnej prevencii sestra edukuje pacienta o rizikových faktoroch, ktoré môžu
+napomôcť k vzniku onkologického ochorenia. Ide o fajčenie, konzumáciu alkoholu,
+vystavovanie sa slnečnému žiareniu, ale taktiež edukuje aj o správnej životospráve,
+pravidelnej fyzickej aktivite na podporu imunitného systému, učí správnu techniku
+samovyšetrenia (Crespo et. al. 2023).
+Hlavným cieľom primárnej prevencie u starších ľudí je potláčanie rizikových faktorov
+pochádzajúcich z prostredia a ich vlastného správania.
+Zmeny v životnom štýle majú zásadný význam pre znižovanie úmrtnosti na rakovinu aj v vo
+vyššom veku, pričom kľúčovú ochranu poskytuje strava bohatá na mikroživiny, ktoré
+chránia bunky pred mutáciami (WHO, 2022).
+Popri vyváženej strave je pre seniorov nevyhnutné dopĺňanie vitamínu D3, pretože jeho
+nedostatok priamo oslabuje schopnosť imunitného systému bojovať proti nádorom. Odborné
+výskumy ukazujú, že udržiavanie dostatočnej hladiny tohto vitamínu u ľudí nad 65 rokov
+môže významne znížiť pravdepodobnosť, že sa prípadné onkologické ochorenie rozvinie do
+pokročilého štádia s metastázami (Chandler et. al., 2021).
+V rámci ošetrovateľskej edukácie seniorov je kľúčové zamerať sa na ochranu pred
+škodlivými vplyvmi prostredia, či UV žiarenie, ktoré kvôli stenčenej pokožke seniorov
+predstavuje zvýšené riziko malígnych procesov. Zároveň je dôležité zdôrazňovať význam
+pravidelného pohybu, pretože aj mierna fyzická aktivita priaznivo ovplyvňuje metabolizmus
+18
+
+a potláča chronické zápaly, čím slúži ako účinná prevencia najmä pri rakovine prsníka a
+prostaty (Crespo et. al. 2023).
+V sekundárnej prevencii sestra zohráva kľúčovú úlohu pri motivácii k testom na
+okultné krvácanie, ktoré sú pre starších ľudí komfortné a realizovateľné doma, čo je dôležité
+vzhľadom na nízku účasť na skríningu kolorektálneho karcinómu v SR.
+Pri mamografickom vyšetrení musí sestra citlivo zohľadňovať fyzické limity a celkovú
+krehkosť pacientky.
+U pacientov s polymorbiditou alebo obmedzenou dĺžkou dožitia menej ako 10 rokov, môže
+byť nadmerná diagnostika viac zaťažujúca než samotné ochorenie. Sestra edukuje pacienta
+o význame aktívneho sledovania a samovyšetrovania, pričom hlavným cieľom je záchyt
+nádoru v štádiu, kedy je liečba menej agresívna a neohrozuje kvalitu života ani sebestačnosť
+seniora (Korc-Grodzicka et. al., 2022).
+Sekundárna prevencia u starších dospelých sa zameriava na proaktívne vyhľadávanie
+onkologických ochorení v ich počiatočných štádiách, čo je kľúčom k výraznému zvýšeniu
+miery prežitia.
+V tomto procese je dôležité uplatňovať individuálny prístup k vhodnosti skríningu založený
+na biologickom stave pacienta, nie len na jeho kalendárnom veku (Salim et. al., 2023).
+Pri sekundárnej prevencii u seniorov je dôležité zamerať sa na socioekonomické bariéry.
+Seniori s obmedzenou sociálnou podporou alebo nízkou zdravotnou gramotnosťou sú
+vystavení vyššiemu riziku neskorej diagnostiky (Tan et al., 2022).
+Zásadnou prekážkou v tejto vekovej skupine sú psychologické bariéry, ako je strach z
+diagnózy alebo pocit, že v ich veku už prevencia nemá význam, čo vedie k tomu, že seniori
+sú na Slovensku často diagnostikovaní až v pokročilom štádiu.
+Úspešná sekundárna prevencia u seniorov tak stojí na empatii, individuálnom prístupe a
+zvyšovaní zdravotnej gramotnosti (Korc-Grodzicka et. al., 2022).
+Terciárna prevencia u seniorov nastáva po diagnostikovaní ochorenia, a pokračuje počas
+jeho liečby alebo po jej skončení. Jej cieľom nie je samotné vyliečenie, ale snaha o
+minimalizáciu postihnutia, zabránenie návratu choroby a zmiernenie symptómov, ktoré by
+mohli viesť k invalidite. Keďže onkologická liečba ako operácie či chemoterapia môže u
+seniorov vyvolať zhoršenie i iných chronických chorôb, tento stupeň prevencie je kľúčový
+pre udržanie ich pohyblivosti a celkovej funkčnej zdatnosti (Petrillo et. al.,2021).
+Nutričná starostlivosť zameraná na udržanie svalovej hmoty je kľúčovým pilierom terciárnej
+prevencie, pretože seniori so svalovou slabosťou horšie znášajú onkologickú liečbu.
+
+19
+
+Okrem stravy je nevyhnutná aj psychosociálna podpora a včasná rehabilitácia vrátane
+kognitívneho tréningu, ktoré starším ľuďom pomáhajú zvládať následky ochorenia a chránia
+ich pred sociálnou izoláciou (Ahles et. al., 2022).
+Pri terciárnej prevencii sestra
+
+monitoruje už diagnostikované onkologické ochorenie,
+
+sleduje fyziologické funkcie, príznaky progresie ochorenia a vedľajšie účinky ochorenia.
+Sestra sa podieľa na riešení porúch spánku, nechutenstve, tlmení bolesti či už
+farmakologicky ale aj nefarmakologicky ako napríklad polohovaním či
+
+relaxačnými
+
+technikami.
+
+20
+
+2 Výskum
+Starnutie populácie so sebou prináša nevyhnutný nárast onkologických prípadov, keďže vek
+je v onkológii najvýznamnejším rizikovým faktorom. Pre ošetrovateľstvo je prioritou včasná
+diagnostika, ktorá umožňuje liečiť ochorenie v štádiu, kedy je šanca na prežitie najvyššia.
+Skutočná účasť seniorov na skríningu však zostáva nízka, pretože ich rozhodovanie
+ovplyvňuje strach, sociálna izolácia či zlá dostupnosť starostlivosti.
+
+2.1 Výskumný problém
+Prevencia onkologických ochorení u seniorov.
+
+2.2 Výskumné ciele
+Zistiť, mieru účasti seniorov na preventívnych prehliadkach.
+Zistiť, aké faktory ovplyvňujú účasť seniorov na preventívnych prehliadkach.
+Zistiť, aké vedomosti majú seniori o prevencii onkologických ochorení.
+Zistiť, postoj seniorov k preventívnym prehliadkam, a ich význam pre zdravie.
+
+2.3 Výskumné hypotézy
+H1 Existuje štatisticky významný rozdiel medzi účasťou seniorov na preventívnych
+prehliadkach a miestom bydliska.
+H2
+
+Existuje štatisticky významný rozdiel medzi účasťou seniorov na preventívnych
+
+prehliadkach a rodinným stavom.
+H3 Existuje štatisticky významný rozdiel medzi účasťou seniorov na preventívnych
+prehliadkach a vzdelaním.
+H4 Existuje štatisticky významný vzťah medzi hlavným zdrojom informácií o onkologickej
+prevencii a mierou absolvovania preventívnych skríningových vyšetrení u seniorov.
+
+21
+
+2.4 Charakteristika výskumnej vzorky
+Výber respondentov do výskumu bol zámerný. Do výskumu mohli byť zaradené osoby nad
+60 rokov, ktoré žijú v prirodzenom domácom prostredí, a nemajú žiaden kognitívny deficit.
+Vyraďovacie kritéria boli umiestnenie v domove sociálnych služieb, nejaký kognitívny
+deficit a už diagnostikované onkologické ochorenie.
+
+2.5 Metodika výskumu
+Zber dát sme realizovali pomocou dotazníka vlastnej konštrukcie. Dotazník bol zložený z 28
+uzatvorených otázok. Prvých 6 otázok v dotazníku boli zamerané na demografické údaje
+o senioroch ako vek, pohlavie, miesto bydliska, rodinný stav. Nasledujúce otázky sa
+zameriavali na účasť seniorov na preventívnych prehliadkach, na faktory ovplyvňujúce
+účasť, a na vedomosti o prevencii onkologických ochorení. Zisťovali sme aj postoj seniorov
+k preventívnym prehliadkam. Vyplnenie dotazníka bolo anonymné a dobrovoľné.
+
+2.6 Organizácia a realizácia prieskumu
+V prvej fáze sme si urobili dôkladnú analýzu literatúry týkajúcej sa skúmanej oblasti. Ako
+ďalšie sme v novembri 2025 požiadali predsedníčku Klubu Jednota seniorov o povolenie
+realizácie prieskumu v klube seniorov, kde po kladnom vyjadrení sme v mesiaci december
+2025 realizovali prostredníctvom anonymného dotazníka prieskum.
+Údaje, ktoré sme zozbierali boli spracované do prehľadných grafov a tabuliek a štatisticky
+vyhodnotené pomocou Chí-kvadrát testu.
+
+22
+
+3 Analýza výsledkov
+Dotazníková položka č. 1: Pohlavie
+
+Pohlavie respondntov
+Muži
+18%
+
+Ženy
+82%
+Muži
+
+Ženy
+
+Graf 1 Pohlavie
+Do prieskumu sa zapojilo 128 (100 %) respondentov. Z toho 105 (82 %) osôb tvorili ženy,
+a 23 (18 %) bolo mužov.
+Dotazníková položka č. 2: Vek respondentov
+Tabuľka 1 Vek
+Vek
+
+(n)
+
+(%)
+
+60-74 rokov
+
+69
+
+53,9
+
+75-89 rokov
+
+58
+
+45,3
+
+90 a viac rokov
+
+1
+
+0,8
+
+Spolu
+
+128
+
+100
+
+23
+
+Do prieskumu sa zapojilo najviac respondentov od 60-74 rokov, a to 69 (53,9 %) osôb.
+Nasledovala veková kategória 75-89 rokov, kde vzorku tvorilo 58 (45,3 %) respondentov.
+Do prieskumu sa nám zapojil aj 1 (0,8 %) respondent nad 90 rokov.
+Dotazníková položka č. 3: Aké je vaše vzdelanie?
+
+Vzdelanie respondentov
+10,2%
+
+21,9%
+
+43,8%
+24,2%
+
+Základné
+
+Stredoškolské bez maturity
+
+Stredoškolské s maturitou
+
+Vysokoškolské
+
+Graf 2 Vzdelanie
+Najviac respondentov má ukončené stredoškolské vzdelanie s maturitou a to 56
+respondentov
+
+(43,8 %)
+
+z celkového počtu 128 (100 %) respondentov. Seniorov so
+
+stredoškolským vzdelaním bez maturity sa zapojilo 31 (24,2 %), a so základným vzdelaním
+28 (21,9 %) seniorov. Vysokoškolské vzdelanie má 13 (10,2 %) respondentov.
+
+24
+
+Dotazníková položka č. 4: Bydlisko respondentov
+
+Bydlisko respondentov
+19,5%
+
+80,5%
+Mesto
+
+Dedina
+
+Graf 1 Bydlisko
+Respondentov sme sa pýtali na bydlisko kde 103 (80,5 %) odpovedalo že bývajú v meste,
+a 25 (19,5 %) osôb žije na dedine.
+Dotazníková položka č. 5: Váš rodinný stav?
+Tabuľka 2 Rodinný stav
+Stav
+
+(n)
+
+(%)
+
+Slobodný/a
+
+3
+
+2,3
+
+Ženatý/vydatá
+
+36
+
+28,1
+
+Rozvedený/á
+
+52
+
+40,7
+
+Vdovec/vdova
+
+37
+
+28,9
+
+Spolu
+
+128
+
+100
+
+Výsledky prieskumu nám ukazujú že 52 (40,6 %) respondentov je rozvedených a 37 (28,9
+%) respondentov je vdovec alebo vdova. V kategórií ženatý/vydatá sme mali 36 (28,1 %)
+respondentov. Možnosť slobodný/á označili 3 (2,3 %) respondenti.
+25
+
+Dotazníková položka č. 6: S kým bývate?
+Tabuľka 3 Formy bývania
+Bývate
+
+(n)
+
+(%)
+
+Sám/sama
+
+75
+
+58,6
+
+S manželom/manželkou
+
+31
+
+24,2
+
+S partnerom/partnerkou
+
+5
+
+3,9
+
+S deťmi
+
+17
+
+13,3
+
+Spolu
+
+128
+
+100
+
+Väčšina respondentov býva samých až 75 (58,6 %), a s manželom alebo manželkou býva 31
+(24,2 %) respondentov. Možnosť, že bývajú s deťmi označilo 17 (13,3 %) respondentov a 5
+(3,9 %) seniorov označilo, že žijú s partnerom alebo partnerkou.
+
+Dotazníková položka č. 7: Ako často navštevujete lekára?
+
+Ako často navštevujete lekára
+36,7%
+49,2%
+
+14,1%
+Len pri ťažkostiach
+
+Preventívne aj bez ťažkostí
+
+Veľmi zriedkavo
+
+Graf 2 Frekvencia návštev lekára
+Na otázku ako často navštevujú lekára respondenti najčastejšie odpovedali len pri
+ťažkostiach a to 63 (49,2 %) respondentov.
+
+Možnosť veľmi zriedkavo označilo 47
+
+respondentov. Iba 18 (14,1 %) respondentov označilo možnosť preventívne aj bez ťažkostí.
+
+26
+
+Dotazníková položka č. 8: Zúčastňujete sa pravidelne preventívnych prehliadok
+u všeobecného lekára?
+Tabuľka 4 Účasť seniorov na pravidelných preventívnych prehliadkach
+Účasť seniorov na
+
+(n)
+
+(%)
+
+Áno
+
+87
+
+68
+
+Skôr áno ako nie
+
+19
+
+14,8
+
+Skôr nie ako áno
+
+7
+
+5,5
+
+Nie
+
+15
+
+11,7
+
+Spolu
+
+128
+
+100
+
+preventívnej prehliadke
+
+Z celkového počtu respondentov 128 (100 %) odpovedalo 87 (68 %) respondentov áno na
+otázku či navštevujú pravidelne preventívnu prehliadku u všeobecného lekára, 19 (14,8 %)
+respondentov odpovedalo skôr áno ako nie. Odpoveď nie označilo 15 (11,7 %) respondentov
+a skôr nie ako áno označilo 7 (5,5 %) respondentov.
+
+Dotazníková položka č. 9: Boli vám počas preventívnej prehliadky informácie podané
+zrozumiteľne?
+Tabuľka 5 Zrozumiteľnosť podaných informácií počas preventívnej prehliadky
+Zrozumiteľnosť podaných
+
+(n)
+
+(%)
+
+Áno
+
+62
+
+40,6
+
+Skôr áno ako nie
+
+31
+
+24,2
+
+Skôr nie ako áno
+
+5
+
+3,9
+
+Nie
+
+8
+
+6,2
+
+Spolu
+
+106
+
+74,9
+
+informácií
+
+Na otázku, či sú informácie počas preventívnej prehliadky podané zrozumiteľne nám
+odpovedalo 106 (74,9 %) respondentov z ktorých 62 (40,6 %) odpovedalo áno, 31 (24,2 %)
+odpovedalo skôr áno ako nie. Pre 8 (6,2 %) seniorov informácie nie sú podávané
+zrozumiteľne, a 5 (3,9 %) odpovedali skôr nie ako áno.
+
+27
+
+Dotazníková položka č. 10: Ako často by mal človek absolvovať preventívnu prehliadku
+u všeobecného lekára?
+
+Ako často by ste mali chodiť na preventívne prehliadky
+
+14,8%
+
+11,7%
+
+3,9%
+
+69,5%
+
+Každé 3 roky
+
+Každé 2 roky
+
+Každých 5 rokov
+
+Každý rok
+
+Graf 3 Pravidelnosť preventívnych prehliadok
+Pýtali sme sa respondentov ako často by mali absolvovať preventívnu prehliadku
+u všeobecného lekára. Možnosť každé 2 roky označilo 89 (69,5 %) respondentov, 19 (14,8
+%) respondentov označilo možnosť každý rok. Odpoveď každé 3 roky označilo 15 (11,7 %)
+respondentov a 5 (3,9 %) respondentov označilo možnosť každých 5 rokov.
+
+28
+
+Dotazníková položka č. 11: Je dôležité aby sa seniori zúčastňovali preventívnych
+prehliadok?
+Tabuľka 6 Dôležitosť účasti na preventívnych prehliadkach
+Dôležitosť účasti na
+
+(n)
+
+(%)
+
+Áno
+
+116
+
+90,6
+
+Skôr áno ako nie
+
+12
+
+9,4
+
+Skôr nie ako áno
+
+0
+
+0
+
+Nie
+
+0
+
+0
+
+Spolu
+
+128
+
+100
+
+preventívnych prehliadkach
+
+Pri otázke, či je dôležité aby sa seniori zúčastňovali preventívnych prehliadok odpovedalo
+116 (90,6%) respondentov áno a 12 (9,4%) skôr áno ako nie. Odpovede skôr nie ako áno
+a nie neoznačil žiaden respondent.
+
+Dotazníková položka č. 12: Považujete prevenciu pred onkologickými ochoreniami za
+dôležitú?
+Tabuľka 7 Dôležitosť prevencie pred onkologickými ochoreniami
+Prevencia pred onkologickými
+
+(n)
+
+(%)
+
+Áno
+
+109
+
+85,2
+
+Skôr áno ako nie
+
+19
+
+14,8
+
+Skôr nie ako áno
+
+0
+
+0
+
+Nie
+
+0
+
+0
+
+Spolu
+
+128
+
+100
+
+ochoreniami
+
+Pri otázke či je dôležitá prevencia onkologických ochorení odpovedalo 109 (85,2 %)
+respondentov áno a 19 (14,8 %) respondentov označilo možnosť skôr áno ako nie. Možnosť
+skôr nie ako áno a možnosť nie neoznačil nikto z respondentov.
+
+29
+
+Dotazníková položka č. 13: Absolvovali ste nejaké preventívne skríningové vyšetrenie?
+
+Absolvujete preventívne skríningové vyšetrenia
+
+33,6%
+
+66,4%
+
+Áno
+
+Nie
+
+Graf 4 Absolvovanie preventívnych skríningových vyšetrení
+Pýtali sme sa respondentov či niekedy absolvovali nejaké preventívne skríningové
+vyšetrenie, 85 (66,4 %) respondentov odpovedalo áno, možnosť nie označilo 43 (33,6 %)
+respondentov.
+
+30
+
+Dotazníková položka č. 14: Aké skríningové vyšetrenie ste absolvovali?
+
+Aké skríningové vyšetrenie ste absolvovali
+3,9%
+
+21,1%
+
+17,2%
+
+24,2%
+Skríning rakoviny hrubého čreva
+
+Skríning rakoviny prsníka
+
+Skríning rakoviny krčka maternice
+
+Skríning rakoviny prostaty
+
+Graf 5 Typy absolvovaných preventívnych skríningových vyšetrení
+Najviac respondentov 31 (24,2 %) uvádza, že absolvovalo skríning rakoviny prsníka. Ako
+nasledujúce je skríning rakoviny hrubého čreva 27 (21,1 %). O niečo menej 22 (17,2 %)
+respondentov absolvovalo skríning rakoviny krčka maternice, a 5 (3,91 %) respondentov
+uvádza skríning rakoviny prostaty. Tento nižší počet môže svedčiť o tom, že mužská
+populácia v tomto prieskume je početne nižšia.
+
+31
+
+Dotazníková položka č. 15: Uveďte dôvod, ak ste neabsolvovali žiadne skríningové
+vyšetrenie.
+Tabuľka 8 Dôvody neúčasti na skríningových vyšetreniach
+Dôvody neúčasti na
+
+(n)
+
+(%)
+
+Strach z výsledkov
+
+6
+
+4,7
+
+Nie je to pre mňa dôležité
+
+26
+
+20,3
+
+Zlá dostupnosť lekárov
+
+0
+
+0
+
+Nemám čas
+
+8
+
+6,3
+
+Iné
+
+3
+
+2,3
+
+Spolu
+
+43
+
+33,6
+
+skríningových vyšetreniach
+
+Respondentov sme sa pýtali na dôvody neúčasti na skríningových vyšetreniach. Najčastejšie
+uvádzali 26 (20,3 %) že to nie je pre nich dôležité. Ako ďalší dôvod uviedli 8 (6,3 %) že
+nemajú čas, 6 (4,7 %) respondentov označilo odpoveď strach z výsledkov. Možnosť iné
+uviedli 3 (2,3 %) z respondentov.
+
+Dotazníková položka č. 16: Získali ste v posledných rokoch pozvánku na preventívne
+skríningové vyšetrenie?
+
+Získali ste pozvánku na preventívne skríningové vyšetrenie
+1,6%
+
+19,5%
+
+78,9%
+
+Áno
+
+Nie
+
+Nepamätám si
+
+Graf 6 8 Získanie pozvánky na preventívne vyšetrenie
+
+32
+
+Z celkového počtu respondentov 128 (100 %) nám odpovedalo 101 (78,9 %) respondentov
+nie na otázku či dostali v posledných rokoch pozvánku na vyšetrenie. Z celkového počtu 128
+(100 %) odpovedalo 25 (19,5 %) respondentov áno a 2 (1,6 %) respondenti odpovedali
+nepamätám si.
+
+Dotazníková položka č. 17: Stretli ste sa pri preventívnych prehliadkach s nejakými
+prekážkami?
+Tabuľka 9 Prekážky pri preventívnych prehliadkach
+Prekážky pri preventívnych
+
+(n)
+
+(%)
+
+Dlhé čakacie doby
+
+25
+
+19,5
+
+Nepríjemný prístup zdrav. personálu
+
+29
+
+22,7
+
+Finančné dôvody
+
+0
+
+0
+
+Žiadne prekážky
+
+59
+
+46,1
+
+Nezúčastnil som sa preventívnych
+
+14
+
+10,9
+
+Iné
+
+1
+
+0,8
+
+Spolu
+
+128
+
+100
+
+prehliadkach
+
+prehliadok
+
+Na otázku zameranú na prekážky pri absolvovaní preventívnych prehliadok odpovedalo 59
+(46,1 %) respondentov žiadne prekážky, ďalších 29 (22,7 %) respondentov odpovedalo
+nepríjemný prístup zdravotníckeho personálu. Ako ďalšiu možnosť označovali dlhé čakacie
+doby 25 (19,5 %). Možnosť nezúčastnil som sa preventívnych prehliadok označilo 14 (10,9
+%) respondentov. Alternatívu iné označil 1 (0,8 %) respondent a finančné dôvody neoznačil
+žiadny z respondentov.
+
+33
+
+Dotazníková položka č. 18: Znížilo by sa riziko úmrtia, ak by seniori chodili na pravidelné
+preventívne prehliadky?
+
+Ak by ľudia chodili pravidelne na preventívne prehliadky
+znížilo by sa riziko úmrtia na rakovinu?
+12,5%
+56,3%
+
+31,3%
+
+Áno
+
+Skôr áno ako nie
+
+Skôr nie ako áno
+
+Nie
+
+Graf 7 Pravidelnosť preventívnych prehliadok, vplyv na úmrtnosť na rakovinu
+Väčšina respondentov 72 (56,3 %) odpovedalo áno na otázku, či by pravidelná prevencia
+znížila riziko úmrtia na rakovinu, a 40 (31,3 %) respondentov odpovedalo skôr áno ako nie,
+16 (12,5 %) respondentov označilo možnosť nie. Odpoveď skôr nie ako áno neoznačil žiaden
+respondent.
+
+34
+
+Dotazníková položka č. 19: Absolvovali ste v priebehu posledných 2 rokov nejaké
+skríningové vyšetrenie?
+
+Absolvovali ste nejaké skríningové vyšetrenie v posledných 2
+rokoch?
+51,6%
+
+48,4%
+
+Áno
+
+Nie
+
+Graf 8 Absolvovanie skríningového vyšetrenia v posledných 2 rokoch
+Viac ako polovica 66 (51,6 %) respondentov odpovedalo áno na otázku či niekedy
+absolvovali skríningové vyšetrenie a 62 (48,4 %) respondentov odpovedalo nie.
+
+Dotazníková položka č. 20: Čo by vás motivovalo absolvovať pravidelne preventívne
+skríningové vyšetrenia?
+Tabuľka 10 Motivácia absolvovania skríningového vyšetrenia
+Motivácia skríningových vyšetrení
+
+(n)
+
+(%)
+
+Vyššia informovanosť od lekára
+
+34
+
+26,6
+
+Pozvánka na vyšetrenie
+
+71
+
+55,5
+
+Finančná motivácia
+
+1
+
+0,8
+
+Vzdelávacie kampane
+
+27
+
+21,1
+
+Vyššia dostupnosť vyšetrení
+
+37
+
+28,9
+
+Iné
+
+0
+
+0
+
+Spolu
+
+128
+
+100
+
+35
+
+Respondentov sme sa pýtali, čo by ich motivovalo aby absolvovali preventívne skríningové
+vyšetrenie. Najviac respondentov 71 (55,5 %) označilo možnosť pozvánky na vyšetrenie, 37
+(28,9 %) respondentov označilo vyššia dostupnosť vyšetrení, 34 (26,6 %) respondentov by
+uvítalo vyššiu informovanosť od lekára. Vzdelávacie kampane by presvedčilo 27 (21,1 %)
+respondentov, 1 (0,8 %) respondent by prijal finančnú motiváciu.
+
+Dotazníková položka č. 21: Vyber preventívne opatrenia ktoré nás môžu chrániť pred
+vznikom onkologických ochorení.
+80,0%
+70,0%
+
+Preventívne opatrenia pred vznikom onkologických ochorení
+68,8%
+
+60,0%
+
+52,3%
+
+50,0%
+
+37,5%
+
+36,7%
+
+40,0%
+30,0%
+20,0%
+
+13,3%
+
+10,0%
+0,0%
+
+Vyvážená strava
+Pravidelná fyzická aktivita
+Pravidelné preventívne prehliadky
+Pravidelné samovyšetrenie prsníkov
+
+Pravidelné samovyšetrenie semeníkov
+Nadmerná konzumácia alkoholu
+Fajčenie
+
+Graf 9 Preventívne opatrenie na prevenciu onkologických ochorení
+Respondenti v tejto otázke mohli označiť viac odpovedí. Najčastejšie označovali vyváženú
+stravu 88 (68,8 %) a tiež pravidelné preventívne prehliadky 67 (52,3 %). Veľmi často sa
+opakovalo samovyšetrenie prsníkov 48 (37,5 %), a pravidelná fyzická aktivita 47 (36,7 %).
+Muži označovali aj možnosť pravidelné samovyšetrenie semenníkov 17 (13,3 %). Nadmernú
+konzumáciu alkoholu a fajčenie nikto neoznačil.
+
+36
+
+Dotazníková položka č. 22: Poznáte rizikové faktory onkologických ochorení?
+
+Poznáte rizikové faktory onkologických ochorení
+30,5%
+
+69,5%
+
+Áno
+
+Nie
+
+Graf 10 Vedomosti o rizikových faktoroch onkologických ochorení
+To či poznajú respondenti rizikové faktory vzniku onkologických ochorení odpovedalo 89
+(69,5 %) respondentov áno, 39 (30,5 %) účastníkov odpovedalo nie.
+
+Dotazníková položka č. 23: Ktoré faktory považujete za rizikové pri vzniku onkologických
+ochorení.
+100,0%
+
+Aké rizikové faktory poznáte
+73,8%
+65,4%
+56,1%
+44,9%
+
+50,0%
+
+28,0%
+
+9,3%
+
+8,4%
+
+0,0%
+
+Fajčenie
+Stres
+Nezdravá strava
+Nadmerné vystavenie slnečnému žiareniu
+
+Nezdravý životný štýl
+Vek
+Genetika
+
+Graf 11 Rizikové faktory onkologických ochorení
+37
+
+V tejto otázke respondenti mohli vybrať viac možností. Najviac respondentov 79 (73,8%)
+označilo za rizikový faktor stres, ako ďalšie nasledovalo fajčenie 70 (65,4%) a nezdravá
+strava 60 (56,1%), genetiku označilo 48 (44,9%) osôb. Respondenti označovali taktiež ešte
+nezdravý životný štýl 30 (28%), vek označilo 10 (9,3%) seniorov, nadmerné vystavenie
+slnečnému žiareniu označilo iba 9 (8,4%) osôb.
+
+Dotazníková položka č. 24: Odkiaľ získavate informácie o prevencii onkologických
+ochorení?
+
+Získavanie informácií o prevencii onkologických ochorení
+11,7%
+
+18,8%
+
+25,0%
+
+4,7%
+
+Od lekára
+
+39,8%
+
+Z médií
+
+Rodina/známy
+
+Internet
+
+Brožúrky/letáky
+
+Graf 12 Získavanie informácií o prevencii
+V otázke odkiaľ získavajú respondenti najviac informácií o prevencií onkologických
+ochorení najviac uvádzali 51 (39,8%)seniorov z médií, ďalej 32 (25%) respondentov
+označilo internet, od lekára získava informácie o prevencii 24 (18,8%) respondentov. Iní zas
+majú informácie z brožúr/letákov 15 (11,7%). Od rodiny a známych získava informácie 6
+(4,7%) respondentov.
+
+38
+
+Dotazníková položka č. 25: Môže váš životný štýl ovplyvniť vznik onkologického
+ochorenia?
+Tabuľka 11 Vplyv životného štýlu na vznik onkologických ochorení
+Vplyv životného štýlu na
+
+(n)
+
+(%)
+
+Áno
+
+56
+
+43,8
+
+Skôr áno ako nie
+
+61
+
+47,7
+
+Skôr nie ako áno
+
+11
+
+8,6
+
+Nie
+
+0
+
+0
+
+Spolu
+
+128
+
+100
+
+onkologické ochorenia
+
+Pýtali sme sa respondentov či môže vplývať životný štýl na vznik ochorení. Viac ako
+polovica
+
+61 (47,7%) seniorov označilo možnosť skôr áno ako nie a 56 (43,8%)
+
+respondentov označilo odpoveď áno, 11 (8,6%) respondentov označilo možnosť skôr nie
+ako áno. Odpoveď nie nikto neoznačil.
+
+Dotazníková položka č. 26: Vyskytuje sa u vás nejaký z nasledujúcich rizikových faktorov?
+Tabuľka 12 Výskyt rizikových faktorov
+Výskyt rizikových faktorov
+
+(n)
+
+(%)
+
+Fajčenie
+
+46
+
+35,9
+
+Pravidelná konzumácia alkoholu
+
+3
+
+2,3
+
+Nedostatok pohybu
+
+25
+
+19,5
+
+Nezdravá strava
+
+24
+
+18,8
+
+Dlhodobý stres
+
+19
+
+14,8
+
+Žiadny z uvedených
+
+54
+
+42,2
+
+Spolu
+
+128
+
+100
+
+Respondenti v tejto otázke mohli označovať viac rizikových faktorov, ktoré sa u nich
+vyskytujú. Najčastejšie sa vyskytovalo fajčenie 46 (35,9%), nasledovalo nedostatok pohybu
+25 (19,5%). Nezdravú stravu označilo 24 (18,8%) respondentov, vyskytla sa aj odpoveď
+dlhodobý stres 19 (14,8%) respondentov. Rizikový faktor pravidelná konzumácia alkoholu
+39
+
+označili 3 (2,3%) respondenti. Až 54 (42,2%) uvádza, že žiadny z uvedených rizikových
+faktorov sa u nich nevyskytuje.
+
+Dotazníková položka č. 27: Môže znečistené prostredie zvýšiť riziko vzniku
+onkologických ochorení?
+Tabuľka 13 Vplyv znečisteného prostredia na onkologické ochorenie
+Vplyv znečisteného prostredia
+
+(n)
+
+(%)
+
+Áno
+
+57
+
+44,5
+
+Skôr áno ako nie
+
+51
+
+39,8
+
+Skôr nie ako áno
+
+19
+
+14,8
+
+Nie
+
+1
+
+0,8
+
+Spolu
+
+128
+
+100
+
+Väčšia časť respondentov 57 (44,5%) sa domnieva, že môže znečistené prostredie zvyšovať
+riziko vzniku onkologických ochorení, a tak označili možnosť áno, a 51 (39,8%)
+respondentov skôr áno ako nie. Skôr nie ako áno označilo 19 (14,8%) respondentov a 1
+(0,8%) respondent označil možnosť nie.
+
+40
+
+Dotazníková položka č. 28 Vyskytlo sa vo vašej rodine onkologické ochorenie?
+
+Vyskyt onkologického ochorenia v rodine
+17,2%
+
+21,9%
+
+11,7%
+
+49,2%
+Áno príbuzný prvého stupňa
+
+Áno príbuzný druhého stupňa
+
+Nie
+
+Neviem
+
+Graf 13 Výskyt onkologického ochorenia v rodine
+
+V poslednej otázke sme sa pýtali na výskyt onkologických ochorení v rodine, kde uvidelo
+63 (49,2%) respondentov že sa u nich v rodine onkologické ochorenie nevyskytlo. Možnosť
+neviem označilo 28 (21,9%) respondentov. Onkologické ochorenie u príbuzných prvého
+stupňa sa vyskytlo u 22 (17,2%) respondentov, a u príbuzných druhého stupňa označilo 15
+(11,7%) respondentov.
+
+41
+
+3.1 Štatistické vyhodnotenie hypotéz
+Hypotéza č. 1: Existuje štatisticky významný rozdiel medzi účasťou seniorov na
+preventívnych prehliadkach a miestom bydliska.
+
+Graf 14 Účasť na prevencii podľa miesta bydliska
+V prvej hypotéze sme sa zamerali na súvis medzi miestom bydliska a účasťou seniorov na
+preventívnych onkologických prehliadkach.
+Štatistické spracovanie pomocou Chí-kvadrát testu, nám preukázalo signifikantný vzťah
+medzi premennými p= 0,0212, čo nám naznačuje že bydlisko je významným faktorom
+vplývajúcim na zdravie (p < 0,05).
+Silu vzťahu sme hodnotili pomocou Cramerovho V kde nám vyšlo (V=0,27), čo nám
+naznačuje slabý až stredný vzťah.
+Na základe získaných dát môžeme hypotézu č. 1 potvrdiť, miesto bydliska má významný
+vplyv na účasť seniorov na preventívnych skríningových prehliadkach.
+
+42
+
+Hypotéza č. 2:
+
+Existuje štatisticky významný rozdiel medzi účasťou seniorov na
+
+preventívnych prehliadkach a rodinným stavom.
+
+Graf 15 Účasť na prevencii podľa rodinného stavu
+Naša druhá hypotéza skúmala súvis medzi účasťou seniorov na preventívnych prehliadkach
+a rodinným stavom.
+Na overenie sme použili Chí-kvadrát test nezávislosti. Vypočítaná hladina významnosti
+nám vyšla p=0,0001. Medzi premennými teda existuje štatisticky významný vzťah.
+Cramerovho V hodnota je 0,38, čo znamená stredne silná miera závislosti medzi účasťou
+na preventívnych prehliadkách a rodinným stavom.
+Hypotézu č. 2 môžeme aj v tomto prípade potvrdiť, rodinný stav má štatisticky významný
+vplyv na účasť seniorov na preventívnych prehliadkach.
+
+43
+
+Hypotéza č. 3: Existuje štatisticky významný rozdiel medzi účasťou seniorov na
+preventívnych prehliadkach a vzdelaním.
+
+Graf 16 Účasť na prevencii podľa vzdelania
+V tretej hypotéze sme skúmali rozdiel medzi účasťou seniorov na preventívnych
+prehliadkach a vzdelaním.
+Na vyhodnotenie sme použili Chí-kvadrát test, pričom nám vyšla hodnota p= 0,0031.
+Môžeme teda povedať že vzťah medzi premennými je štatisticky významný.
+Hodnota Cramerovho V je 0,26, čo naznačuje slabšiu až strednú závislosť medzi
+vzdelaním a účasťou na preventívnych prehliadkach.
+Po analýze dát môžeme hypotézu č. 3 potvrdiť, vzdelanie má vplyv na účasť seniorov na
+preventívnych prehliadkach.
+
+44
+
+Hypotéza č. 4: Existuje štatisticky významný vzťah medzi hlavným zdrojom informácií o
+onkologickej prevencii a mierou absolvovania preventívnych skríningových vyšetrení u
+seniorov.
+
+Graf 17 Vzťah zdroja informácií a absolvovania vyšetrení
+V našej štvrtej hypotéze sme skúmali vzťah medzi hlavným zdrojom informácií o
+onkologickej prevencii a mierou absolvovania preventívnych skríningových vyšetrení u
+seniorov.
+Na overenie sme použili Chí-kvadrát test, kde nám vyšla hodnota p= 0,0011, ktorý nám
+potvrdil štatistický významný vzťah.
+Hodnota Cramerovho V je 0,38 má teda stredne silnú mieru závislosti.
+Hypotézu č. 4,
+
+na základe získaných výsledkov môžeme taktiež potvrdiť. Existuje
+
+štatisticky významný vzťah medzi hlavným zdrojom informácií o onkologickej prevencii a
+mierou absolvovania preventívnych skríningových vyšetrení u seniorov.
+
+45
+
+4 Diskusia
+Onkologické ochorenia sa v dnešnej dobe vyskytujú u seniorov často, pretože mnoho
+starších ľudí nepovažuje za dôležité prevenciu pred onkologickými ochoreniami, a tak
+zanedbávajú preventívne prehliadky a skríningové vyšetrenia.
+V našom výskume sme sa zameriavali na seniorov, a ich účasť na preventívnych
+prehliadkach, a faktory ktoré ovplyvňujú ich účasť. Zisťovali sme ako vnímajú seniori
+pravidelné preventívne prehliadky, a v niekoľkých otázkach sme si overovali vedomosti
+seniorov o prevencii onkologických ochorení.
+V práci sme si stanovili 4 výskumné hypotézy, ktoré sme následne overovali.
+V prvej hypotéze sme zisťovali či existuje štatisticky významný rozdiel medzi účasťou
+seniorov na preventívnych prehliadkach a miestom bydliska. Hypotézu sme overovali
+pomocou chí-kvadrát testu, kde nám vyšla hodnota p= 0,0212.
+Na základe výsledkov môžeme povedať, že miesto bydliska má vplyv na účasť seniorov na
+preventívnych prehliadkach.
+Seniori žijúci v mestách majú lepší prístup k zdravotnej starostlivosti, preto aj podľa
+výsledkov častejšie navštevujú lekárov, pretože majú lepšiu dostupnosť k ním. Seniori žijúci
+na vidieku volili skôr váhavú možnosť skôr áno ako nie na otázku či pravidelne chodia na
+preventívne prehliadky. Môžeme skonštatovať, že môže to byť spôsobené aj bariérami, ktoré
+vznikajú ako napr. vzdialenosť do zdravotníckeho zariadenia, obmedzené dopravné spojenie
+ale tiež môže byť aj nižšia úroveň zdravotného povedomia (Zahand, 2022).
+Tieto výsledky korelujú aj s viacerými zahraničnými výskumami ako napr. výskum
+Benavidez uvádza tiež že seniori ktorí žijú na vidieku, sa zúčastňujú preventívnych
+skríningových vyšetrení menej často ako ľudia v meste (Benavidez, 2024).
+Hypotéza č. 1 sa nám potvrdila, medzi premennými existuje štatisticky významný vzťah.
+Miesto bydliska zohráva dôležitú úlohu pri rozhodovaní, či sa zúčastnia seniori na
+preventívnej prehliadke.
+V druhej hypotéze sme zisťovali či existuje štatisticky významný rozdiel medzi účasťou
+seniorov na preventívnych prehliadkach a rodinným stavom. Na overenie hypotézy bol
+použitý Chí- kvadrát test nezávislosti, ktorý vyšiel nasledovne hodnota p= 0,0001.
+Výsledky nám ukazujú, že najviac navštevujú lekára rozvedení seniori, následne vydaté a
+ženatí respondenti. Iné výskumy nám však ukazujú že osoby, ktoré sú v manželskom zväzku
+chodia pravidelnejšie na preventívne skríningové vyšetrenia, a tiež majú lepšie zdravotné
+výsledky (Khan, 2024).
+46
+
+U vdovcov a vdov sme zaznamenali o niečo nižšiu účasť, a najnižšia účasť bola práve u
+slobodných respondentov. Môže to byť zapríčinené tým že slobodní respondenti nemajú
+oporu v partnerovi alebo v blízkej osobe, a tak zanedbávajú starostlivosť o seba samých.
+U ovdovených ľudí môže po strate blízkej osoby zanevrieť na svoj zdravotný stav a odmietať
+absolvovanie preventívnych prehliadok. U skupín s nižšou účasťou na preventívnych
+prehliadkach najmä teda slobodný a ovdovený seniori môže byť užitočná pri navrhovaní
+intervencii na podporu prevencie.
+Hypotéza sa nám potvrdila, medzi premennými existuje štatisticky významný vzťah.
+Rodinný stav zohráva dôležitú úlohu pri rozhodovaní seniorov či sa zúčastnia preventívneho
+vyšetrenia.
+V tretej hypotéze sme zisťovali či existuje štatisticky významný rozdiel medzi účasťou
+seniorov na pravidelných preventívnych prehliadkach a vzdelaním. Na overenie tejto
+hypotézy sme použili Chí-kvadrát test nezávislosti, hodnota p= 0,0031.
+U seniorov s vysokoškolským vzdelaním sme zaznamenali najvyššiu účasť na
+preventívnych prehliadkach, to môžeme dať za následok vyššej miere informovanosti.
+Nižšiu účasť sme zaregistrovali u osôb so stredoškolským vzdelaním s maturitou, títo seniori
+volili najčastejšie negatívne alebo váhavé odpovede. Viaceré výskumy poukazujú na to že
+vyššie vzdelanie je spojené s vyššou účasťou na skríningových vyšetreniach (Liu, 2023).
+Niektoré štúdie zas tvrdia že rozdiely medzi rôznymi vzdelanými osobami sa môže
+znižovať nakoľko je širšia dostupnosť informácií médiami ale aj zdravotníckymi kampaňami
+(Rodriguez, 2024).
+Hypotéza sa nám potvrdila. Medzi premennými existuje štatisticky významný vzťah.
+Vzdelanie zohráva dôležitú úlohu pri rozhodovaní seniorov či sa zúčastnia preventívneho
+vyšetrenia.
+V štvrtej hypotéze sme zisťovali či existuje štatisticky významný vzťah medzi hlavným
+zdrojom informácií o onkologickej prevencii a mierou absolvovania preventívnych
+skríningových vyšetrení u seniorov. Hypotézu sme overovali pomocou Chí-kvadrát testu
+nezávislosti, kde nám vyšla hodnota p= 0,0011.
+Najčastejšie absolvovali preventívne prehliadky respondenti, ktorí udávali za hlavný zdroj
+informácií brožúrky a letáky a tiež respondenti, ktorí získavali informácie od lekára.
+Výskum zameraný na seniorov nám ukazuje, že seniori ktorí získavajú informácie od
+zdravotníckych pracovníkov majú vyššiu účasť na onkologických skríningoch (Nguyen,
+2023). Taktiež štúdia poukazuje na pozitívny vplyv edukačných materiálov ako sú brožúrky,
+
+47
+
+letáčiky či edukačné kampane na zvýšenie účasti na preventívnych skríningových
+vyšetreniach (Petrov, 2024).
+Respondenti ktorí získavali informácie hlavne od rodiny/ známych mali nižšiu účasť na
+preventívnych prehliadkach.
+Hypotéza sa nám potvrdila, medzi premennými existuje štatisticky významný vzťah.
+Po vyhodnotení výsledkov nášho skúmania môžeme skonštatovať, že účasť seniorov na
+preventívnych prehliadkach je ovplyvnená rôznymi faktormi. Je nutné venovať zvýšenú
+pozornosť týmto faktorom.
+
+48
+
+Odporúčania pre prax
+Po vyhodnotení výsledkov prieskumu sme si pripravili odporučenia pre seniorov, lekárov
+a sestry a rodinu na zlepšenie zistených problémov.
+Pre seniorov:
+- navštevujte pravidelne lekára aj keď nepociťujete žiadne ťažkosti v danej chvíli
+- ak máte nejaké nejasnosti konzultujte to s lekárom,
+- získavajte informácie iba z overených zdrojov (preferujeme lekára, overené články, letáky,
+brožúrky)
+- nebojte sa hovoriť o svojich problémoch
+
+Stanovili sme odporúčania aj pre lekárov a sestry z ambulancii všeobecného lekára alebo
+geriatra, a rodinu a známych, aj keď neboli predmetom skúmania ale s danou problematikou
+súvisia.
+Pre lekárov a sestry:
+- pozývať seniorov na preventívne prehliadky
+- poskytovať informácie seniorom zrozumiteľne, aby im každý porozumel, následne si
+overiť či informácie boli podané zrozumiteľne
+- ku každému pacientovi pristupovať individuálne
+- realizovať edukačné kampane v kluboch pre dôchodcov, domovoch
+- zaviesť pripomienkový systém napr. prostredníctvom SMS, telefonickú pozvánku,
+pozvánku listom
+
+Pre rodinu a známych:
+- pomáhať seniorovi vyhľadávať informácie len zo spoľahlivých zdrojov
+- podporovať seniora k absolvovaniu preventívnych prehliadok
+- eliminovať strach z vyšetrení
+
+49
+
+Záver
+Prevencia onkologických ochorení u seniorov je veľmi dôležitá, pretože seniori
+patria do rizikovej skupiny, kde sa onkologické ochorenia vyskytujú oveľa častejšie.
+Ak budú seniori absolvovať pravidelné preventívne prehliadky, včasnou diagnostikou
+môžeme onkologické ochorenia podchytiť v začínajúcom štádiu a mať lepšie prognózy na
+liečbu.
+V teoretickej časti našej diplomovej práce sme sa venovali seniorom, onkologickým
+ochoreniam u seniorov, najčastejším typom rakoviny a úlohe sestry pri prevencii
+onkologických ochorení pri primárnej, sekundárnej a terciárnej prevencii.
+Vo výskumnej časti sme sa zamerali na
+preventívnych prehliadkach, faktorom
+
+4 ciele ktoré sa týkali účasti seniorov na
+
+ktoré ovplyvňujú účasť, vedomostiam ale aj
+
+postojom seniorov k preventívnym prehliadkam.
+Stanovili sme si 4 hypotézy týkajúce sa rodinného stavu, vzdelania, miesta bydliska a zdroja
+informácií o prevencii. Po dôkladnom skúmaní sa nám hypotézy potvrdili a medzi
+premennými existuje štatisticky významný vzťah. Na základe výsledkov sme stanovili
+prioritne odporúčania pre seniorov, ale stanovili sme aj odporúčania pre prax pre lekárov,
+sestry a príbuzných pretože s danou problematikou súvisia.
+Prevencia onkologických ochorení by mala byť neoddeliteľnou súčasťou starostlivosti
+o seniorov. Pravidelná účasť na preventívnych prehliadkach môže prispieť k včasnej
+diagnostike onkologického ochorenia a k zlepšeniu kvality života. Na základe výsledkov je
+potrebné aby sa posilnili preventívne programy zamerané na staršiu populáciu, ale taktiež
+zlepšenie komunikácie medzi seniormi a zdravotníckym zariadením. Veľmi dôležitá je
+podpora od príbuzných a individuálny prístup. Efektívna prevencia môže prispieť
+k zlepšeniu kvality života seniorov.
+
+50
+
+Zoznam použitej literatúry
+AHLES, T. A. et al. 2022. Cancer-Related Cognitive Impairment in Older Adults. In: Journal
+of Geriatric Oncology. [online] 2022. [cit. 3.1.2026]. Dostupné na internete: https://pmc.
+Ncbi.nih.gov/articles/PMC9262141/?utm_source=
+AHLES, T. A. et al. 2022. Cancer-Related Cognitive Impairment in Older Adults. In: Journal
+of Geriatric Oncology. [online] 2022. [cit. 30.1.2026]. Dostupné na internete:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9262141/
+BENAVIDEZ, G. A. et. al. 2024. Rural-urban disparities and trends in cancer screening: an
+analysis of Behavioral Risk Factor Surveillance System data (2018-2022). In: JNCI Cancer
+Spectr. [online]. 2024. [cit. 25.2.2026]. Dostupné na internete: Rural-urban disparities and
+trends in cancer screening: an analysis of Behavioral Risk Factor Surveillance System data
+(2018-2022) - PMC
+BASNET, A., ALAHMADI, A.,
+
+GAJRA, A. 2022. Lung Cancer in Older Adults. In:
+
+Journal of Clinical Oncology. 2022. [cit. 3.1.2026]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/35900716/
+BEŇAČKA, J. a kol. 2022. Patofyziológia pre ošetrovateľstvo a iné pomáhajúce profesie.
+Nitra: UKF, 2022. ISBN 978-80-558-1904-4.
+BEŇO, P.; MRENA, S. 2023. Geriatrický onkologický pacient – výzva pre
+multidisciplinárny tím. In: Geriatria. [online] 2023, roč. 29, č. 1. [cit. 15.1.2026]. Dostupné
+na internete: Archívy Časopis Geriatria - Slovenská geriatrická spoločnosť (SGerS)
+CRESPO, C. et al. 2023. Mediterranean diet and cancer prevention in the elderly. In:
+Nutrients. [online] 2023, roč. 15, č. 11. [cit. 26.1.2026]. Dostupné na internete:
+https://doi.org/10.3390/nu15112564
+CHANDLER, P. D. et al. 2020. Effect of Vitamin D3 Supplementation on Cancer Incidence
+and Mortality. In: JAMA Network Open. [online] 2020, roč. 3, č. 11. [cit. 3.1.2026]. Dostupné
+na internete: https://doi.org/10.1001/jamanetworkopen.2020.21253
+51
+
+HANZLÍKOVÁ, A. a kol. 2006. Komunitné ošetrovateľstvo. Martin : Osveta, 2006., 279 s.
+ISBN 80-8063-213-8.
+LICARI et al., 2023.Prostate Cancer in the Elderly: To Treat or Not to Treat? In: Journal of
+Clinical Medicine. [online]. 2023, roč. 12, č. 14, s. 4734. ISSN 2077-0383. [cit. 18.12.2025].
+Dostupné na internete: https://www.solen.sk/en/journals/onkologia/sucasne-moznostiliecby-metastatickeho-hormonalne-senzitivneho-karcinomu-prostaty
+LISS, M. A. et al. 2023. Management of Prostate Cancer in Older Adults. In: ASCO
+Educational Book. [online] 2023, roč. 43,. [cit. 3.1.2026]. Dostupné na internete:
+https://doi.org/10.1200/EDBK_390396
+GIORDANO, S. H. 2023. Breast Cancer in the Older Woman. In: Journal of Clinical
+Oncology. [online]. 2023, roč. 41, č. 11, s. 2126-2136. ISSN 0732-183X. [cit. 10.1.2025]
+Dostupné na internete: Adjuvant Chemotherapy in Older Women With Early Breast Cancer
+- PubMed
+GRANIER, C. et al. 2021. Immunotherapy in elderly patients with cancer. In: Lancet
+Oncology. [online]. vol. 22, no. 12. [cit. 18.12.2025] Dostupné na internete: Immunotherapy
+in older patients with cancer - PubMed
+KHAN, S. et al. 2024. The impact of marital status on tumor aggressiveness, treatment, and
+screening among prostate cancer patients. In: Cancer Causes & Control. [online] 2024, roč.
+35, č. 3, [cit. 20.2.2026]. Dostupné na internete: https://doi.org/10.1007/s10552-023-017741
+KORC-GRODZICKA, A. et al. 2022. Challenges in the Treatment of Elderly Patients with
+Cancer. In: Journal of Clinical Medicine. 2022, roč. 11, č. 14, art. no. 4220.
+NGUYEN, Thuy et al. 2023. Sources of health information and participation in cancer
+screening among older adults. In: BMC Public Health. [online] 2023, roč. 23, č. 1, s. 1547.
+[cit.
+
+3.1.2026].
+
+Dostupné
+
+na
+
+internete:
+
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-16547-4
+52
+
+OBROČNÍKOVÁ, A. a kol. 2015. Analýza vedomostí a postojov žien v seniorskom veku k
+prevencii rakoviny prsníka. Ošetrovateľstvo a pôrodná asistencia [online]. 13, str. 22-28.
+[cit.18.3.2026]. ISSN 1335-9452.
+POLEDNÍKOVÁ, Ľ. a kol. 2013. Geriatrické ošetrovateľstvo. Martin: Osveta, 2013. ISBN
+978-80-8063-393-6.
+PUCCIARELLI, S. et al. 2021. Colorectal cancer in the elderly: A review of the recent
+literature. In: Journal of Geriatric Oncology. [online] 2021, roč. 12, č. 3. ISSN 1879-4068.
+[cit. 10.1.2025] Dostupné na internete: Management of Elderly Colorectal Cancer Patients:
+A Comprehensive Review Encompassing Geriatric Assessment.
+PETRILLO, A. et al. 2021. Lung cancer in the elderly: a review. In: ESMO Open. [online]
+2021,
+
+roč.
+
+6,
+
+č.
+
+6.
+
+[cit.
+
+3.1.2026].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1016/j.esmoop.2021.100318
+PILLERON, S. et al. 2021. Quality of life in older patients with breast cancer: a systematic
+review. In: The Lancet Oncology. [online] 2021, roč. 22, č. 10, s. e452–e463. [cit. 3.1.2026].
+Dostupné na internete: https://doi.org/10.1016/S1470-2045(21)00381-3
+RODRIGUEZ, M. et al. 2024. Educational disparities in cancer screening uptake among
+European seniors: a multi-country analysis. In: European Journal of Public Health. [online]
+2024,
+
+roč.
+
+34,
+
+č.
+
+2,
+
+[cit.
+
+18.1.2026].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1093/eurpub/ckad160
+
+STUART-HAMILTON, I. 2016. Psychologie stárnutí. 5. vyd. Praha: Portál, 2016., 344 s.
+ISBN 978-80-262-1135-8.
+SIEGEL, R. L. et al. 2024. Cancer statistics, 2024. In: CA: A Cancer Journal for Clinicians.
+[online]. 2024, roč. 74, č. 1, s. 12-49. [cit. 18.12.2025]. Dostupné na internete:
+https://acsjournals.onlinelibrary.wiley.com/doi/full/10.3322/caac.21820
+
+53
+
+ŠPÁNIK, S. 2020. Liečba metastatického karcinómu prsníka u starších pacientok. In:
+Onkológia. 2020, roč. 15, č. 2, s. 98-102. ISSN 1336-8176.
+TAN, A. S. L. et al. 2022. Social determinants of cancer screening in older adults. In: Cancer
+Epidemiology, Biomarkers & Prevention. [online] 2022, roč. 31, č. 1, s. 12–20. [cit.
+20.12.2025]. Dostupné na internete: https://doi.org/10.1158/1055-9965.EPI-21-0926
+WANG, L.; TANG, D. 2024. Immunosenescence promotes cancer development: from
+mechanisms to treatment strategies. In: Journal of Hematology & Oncology. [online] 2024,
+roč.
+
+17.
+
+[cit.
+
+20.12.2025].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11892258/
+ZAVACKÁ, A. a kol. 2020. Analýza informovanosti seniorov o možnostiach onkologickej
+prevencie. In: Zdravotnícke listy. [online] 2020, roč. 8, s. 45–52. [cit. 25.1.2025]. Dostupné
+na internete: https://www.zdravotnickelisty.sk
+ZAHND, W. E. et al. 2018. Rural–urban disparities in stage of diagnosis among cancers with
+preventive opportunities. In: American Journal of Preventive Medicine. [online] 2018, roč.
+54,
+
+č.
+
+5,
+
+[cit.
+
+27.2..2026].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1016/j.amepre.2018.01.02
+
+54
+
+

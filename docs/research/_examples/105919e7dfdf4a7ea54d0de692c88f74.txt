@@ -1,0 +1,3639 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+34192
+
+OŠETROVATEĽSKÉ INTERVENCIE AKO PROBLÉM
+NARUŠENÉHO SPÁNKU U HOSPITALIZOVANÝCH
+PACIENTOV
+Diplomová práca
+
+2026
+Bc. Nikola Ďubašáková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+OŠETROVATEĽSKÉ INTERVENCIE AKO PROBLÉM
+NARUŠENÉHO SPÁNKU U HOSPITALIZOVANÝCH
+PACIENTOV
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Študijný odbor:
+
+7.4.1 Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva
+
+Školiteľ:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava 2026
+Bc. Nikola Ďubašáková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+ZADANIE ZÁVEREČNEJ DIPLOMOVEJ PRÁCE
+Meno a priezvisko:
+
+Bc. Nikola Ďubašáková
+
+Kód študenta:
+
+S1321066054 – 0324T02
+
+Študijný program:
+
+7.4.1 Ošetrovateľstvo
+
+Typ záverečnej práce:
+
+Diplomová práca
+
+Názov práce:
+
+Ošetrovateľské
+
+intervencie
+
+ako
+
+problém
+
+narušeného spánku u hospitalizovaných pacientov
+Meno, priezvisko a tituly konzultanta:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Školiace pracovisko:
+
+FZaSP, Trnavská univerzita v Trnave
+
+Meno, priezvisko vedúceho pracoviska:
+
+doc. PhDr. Andrea Botíková, PhD., MPH, univ.
+prof.
+
+Anotácia záverečnej práce:
+
+Diplomová práca skúma problematiku narušeného
+spánku u hospitalizovaných pacientov v súvislosti
+s nemocničným prostredím a ošetrovateľskými
+intervenciami. Cieľom práce bolo identifikovať a
+vyhodnotiť vplyv faktorov, ktoré narúšajú spánok
+hospitalizovaných pacientov,
+dotazníka vlastnej konštrukcie.
+
+Jazyk:
+
+Slovenský
+
+Dátum schválenia:
+
+11.11.2024
+
+prostredníctvom
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že som diplomovú prácu na tému ,,Ošetrovateľské intervencie
+ako problém narušeného spánku u hospitalizovaných pacientov“ vypracovala samostatne,
+dodržala som autorský zákon a použitú literatúru súvisiacu so zameraním diplomovej práce
+uvádzam na príslušnom mieste.
+Bc. Nikola Ďubašáková
+
+Poďakovanie
+Poďakovanie patrí mojej školiteľke doc. PhDr. Jane Martinkovej, PhD., MPH za
+cenné rady, spoluprácu a odborný dohľad pri vypracovaní diplomovej práce.
+
+ABSTRAKT
+
+ĎUBAŠÁKOVÁ, N.: Ošetrovateľské intervencie ako problém narušeného spánku
+u hospitalizovaných pacientov. [Diplomová práca] / Ďubašáková Nikola - Trnavská
+univerzita v Trnave. Fakulta zdravotníctva a sociálnej práce: Katedra ošetrovateľstva –
+Školiteľ práce: doc. PhDr. Jana Martinková, PhD., MPH. Stupeň odbornej klasifikácie:
+Magister. Trnava, FZaSP TU, 2026, 72 strán.
+
+Úvod: Hospitalizovaní pacienti často čelia prerušovaniu nočného spánku, v súvislosti s
+ošetrovateľskými intervenciami a rôznymi exogénnymi faktormi.
+Cieľ: Cieľom práce je identifikovať a vyhodnotiť vplyv demografických, hospitalizačných
+a exogénnych faktorov na spánok pacientov na Neurochirurgickej klinike SZU, BB s
+dôrazom na možnosti ošetrovateľských intervencií minimalizujúcich rušenie spánku.
+Metódy: Použitý bol kvantitatívny prieskum prostredníctvom dotazníka zameraného na
+demografické údaje, charakter hospitalizácie, spánkové problémy a rušivé faktory počas
+noci. Dáta boli spracované štatisticky a na testovanie hypotéz bol použitý Chi-kvadrát test.
+Výsledky: Vek (p = 0,027) a pohlavie (p = 0,010) pacientov významne ovplyvňujú skoré
+prebúdzanie počas hospitalizácie, pričom pohlavie bolo významné aj pri tepelnom
+diskomforte na izbe (p = 0,040). Dĺžka hospitalizácie (p = 0,019) a počet pacientov na izbe
+(p = 0,020–0,026) sú spojené s vyššou mierou rušenia spánku pri nočných intervenciách.
+Exogénne faktory prostredia, vrátane hluku (p = 0,021), zapínania svetiel (p = 0,043) a
+častých vstupov personálu (p = 0,018), výrazne narušujú spánok pacientov, najmä v
+trojlôžkových izbách. Dĺžka hospitalizácie tiež ovplyvňuje hodnotenie informovanosti o
+nočných úkonoch (p = 0,010).
+Záver: Narúšanie spánku hospitalizovaných pacientov je komplexný problém, ktorý závisí
+od interakcie demografických, hospitalizačných a exogénnych faktorov. Identifikácia týchto
+faktorov umožňuje navrhnúť cielené ošetrovateľské intervencie, ktoré môžu minimalizovať
+rušenie spánku a podporiť optimálnu regeneráciu pacientov počas hospitalizácie.
+
+Kľúčové slová: Hospitalizovaný pacient. Intervencie. Narušený spánok. Nemocničné
+prostredie. Ošetrovateľské intervencie.
+
+ABSTRACT
+ĎUBAŠÁKOVÁ, N.: Nursing interventions as a problem of disturbed sleep of hospitalized
+patients. [Diploma thesis] / Ďubašáková Nikola - Trnava University in Trnava. Faculty of
+Health Sciences and Social Work; Department of Nursing – Supervisor: doc. PhDr. Jana
+Martinková, PhD., MPH. Degree of professional qualification: Magister. Trnava: FZaSP
+TU, 2026, 72 pages.
+
+Introduction: Hospitalized patients frequently experience disruption of nighttime sleep due
+to nursing interventions and various exogenous factors.
+Aim: The aim of this study is to identify and evaluate the impact of demographic,
+hospitalization-related, and exogenous factors on the sleep of patients at the Neurosurgical
+Clinic of SZU in Banská Bystrica, with an emphasis on nursing interventions aimed at
+minimizing sleep disturbances.
+Methodology: A quantitative survey was conducted using a questionnaire focused on
+demographic data, characteristics of hospitalization, sleep-related problems, and nighttime
+disturbing factors. The data were statistically processed, and the Chi-square test was used
+for hypothesis testing.
+Results: Patients’ age (p = 0.027) and gender (p = 0.010) significantly influence early
+awakening during hospitalization, with gender also showing significance in relation to
+thermal discomfort in the room (p = 0.040). Length of hospitalization (p = 0.019) and the
+number of patients per room (p = 0.020–0.026) are associated with a higher rate of sleep
+disturbances caused by nighttime interventions. Environmental exogenous factors, including
+noise (p = 0.021), lights being switched on (p = 0.043), and frequent staff entries (p = 0.018),
+significantly disrupt patients’ sleep, particularly in triple-bed rooms. Length of
+hospitalization also affects patients’ evaluation of being informed about nighttime
+procedures (p = 0.010).
+Conclusion: Sleep disturbance in hospitalized patients is a complex issue influenced by the
+interaction of demographic, hospitalization-related, and exogenous factors. Identifying these
+factors enables the design of targeted nursing interventions that can minimize sleep
+disruption and support optimal patient recovery during hospitalization.
+
+Key words: Hospital environment. Hospitalized patient. Nursing interventions. Sleep. Sleep
+disturbance.
+
+OBSAH
+ZOZNAM TABULIEK ....................................................................................................... 9
+ZOZNAM OBRÁZKOV ................................................................................................... 10
+ZOZNAM GRAFOV ......................................................................................................... 11
+ZOZNAM SKRATIEK ..................................................................................................... 12
+ÚVOD .................................................................................................................................. 13
+1. SÚČASNÝ STAV POZNANIA .................................................................................... 14
+1.1. Spánok .......................................................................................................................... 14
+1.2. Význam spánku pre pacienta počas hospitalizácie ....................................................... 18
+1.3. Príčiny narušeného spánku u hospitalizovaných pacientov.......................................... 21
+1.4. Hodnotenie a diagnostika narušeného spánku v ošetrovateľskej praxi ........................ 25
+1.5. Ošetrovateľské intervencie zamerané na podporu a zlepšenie spánku pacienta........... 28
+2. VÝSKUM ....................................................................................................................... 32
+2.1. Problém výskumu ......................................................................................................... 32
+2.2. Charakteristika výskumnej vzorky ............................................................................... 33
+2.3. Metodika výskumu ....................................................................................................... 34
+2.4. Organizácia výskumu ................................................................................................... 36
+3. VYHODNOTENIE ....................................................................................................... 38
+3.1. Demografické údaje ...................................................................................................... 38
+3.2. Výsledky z dotazníka .................................................................................................... 41
+3.2.1. Doména 1: Hodnotenie spánku počas hospitalizácie .......................................... 41
+3.2.2. Doména 2: Faktory rušiace spánok zamerané na ošetrovateľské intervencie . 46
+3.2.3. Doména 3: Exogénne faktory ovplyvňujúce spánok ........................................... 48
+3.2.4. Doména 4: Otvorené odpovede pacientov ........................................................... 54
+3.2.5. Verifikácia hypotéz ................................................................................................ 55
+3.2.6. Zhrnutie .................................................................................................................. 57
+4. DISKUSIA ..................................................................................................................... 59
+ODPORÚČANIA PRE PRAX .......................................................................................... 64
+ZÁVER ............................................................................................................................... 66
+ZOZNAM POUŽITEJ LITERATÚRY ........................................................................... 67
+ZOZNAM PRÍLOH ........................................................................................................... 72
+
+ZOZNAM TABULIEK
+Tabuľka 1 Význam spánku z pohľadu hospitalizovaného pacienta
+Tabuľka 2 Prehľad faktorov narušujúcich spánok hospitalizovaných pacientov
+Tabuľka 3 Sumár a rozloženie výskumnej vzorky
+Tabuľka 4 Počet respondentov podľa veku, pohlavia a ich dĺžky hospitalizácie
+Tabuľka 5 Počet respondentov podľa veku, pohlavia a počtu pacientov na izbe
+Tabuľka 6 Súhrnný prehľad výsledkov verifikácie stanovených hypotéz
+Tabuľka 7 P-hodnoty pre Chi-kvadrát testy
+
+ZOZNAM OBRÁZKOV
+Obrázok 1 Typy spánku podľa aktivity očí počas spánku (Vlastné spracovanie autorky)
+Obrázok 2 Grafické znázornenie spánkových cyklov
+
+ZOZNAM GRAFOV
+Graf 1 Počet respondentov podľa veku, pohlavia, dĺžky hosp. a počtu pacientov na izbe
+Graf 2 Celkový spánok počas hospitalizácie
+Graf 3 Spánok horší ako doma
+Graf 4 Problém zaspať
+Graf 5 Problém zotrvať v spánku
+Graf 6 Skoré prebúdzanie
+Graf 7 Ranná únava
+Graf 8 Užívanie liekov na spánok
+Graf 9 Ošetrenie: meranie vitálnych funkcií
+Graf 10 Ošetrenie: podávanie liekov
+Graf 11 Ošetrenie: preväzy, hygiena, manipulácia
+Graf 12 Ošetrenie: kontroly zdr. stavu
+Graf 13 Rušivosť: hluk od personálu
+Graf 14 Rušivosť: zapínanie svetiel
+Graf 15 Rušivosť: časté vstupy do izby
+Graf 16 Rušivosť: zariadenia
+Graf 17 Rušivosť: klimatizácia
+Graf 18 Rušivosť: teplo na izbe
+Graf 19 Rušivosť: zima na izbe
+Graf 20 Informovanosť s podmienkami na spánok
+
+ZOZNAM SKRATIEK
+α – hladina štatistickej významnosti
+% – relatívna početnosť (percentuálne vyjadrenie)
+BB – Banská Bystrica
+dB – decibel
+n – absolútna početnosť (počet respondentov)
+NANDA – North American Nursing Diagnosis Association (Medzinárodná klasifikácia
+ošetrovateľských diagnóz)
+Napr. – napríklad
+NREM – Non-Rapid Eye Movement (spánková fáza bez rýchlych pohybov očí)
+p – p - hodnota (dosiahnutá hladina významnosti v štatistickom teste)
+PSQI – Pittsburgh Sleep Quality Index (Pitsburský index kvality spánku)
+REM – Rapid Eye Movement (spánková fáza s rýchlymi pohybmi očí)
+SZU – Slovenská zdravotnícka univerzita
+TK – krvný tlak
+Tzv. – takzvane
+WHO – World Health Organization (Svetová zdravotnícka organizácia)
+
+ÚVOD
+Spánok je neoddeliteľnou súčasťou ľudského zdravia a predstavuje zásadný proces,
+ktorý umožňuje obnovu fyzických síl, stabilizáciu psychických funkcií a podporu celkovej
+homeostázy organizmu. Počas spánku prebieha regenerácia tkanív, konsolidácia pamäti,
+vyrovnávanie metabolických procesov a regulácia hormonálnych cyklov, čo priamo ovplyvňuje
+schopnosť človeka zvládať záťaž, stres a chorobu. Z hľadiska hospitalizovaných pacientov
+nadobúda kvalitný spánok ešte väčší význam, pretože predstavuje jeden z kľúčových
+predpokladov efektívnej liečby, zotavovania a subjektívnej spokojnosti s poskytovanou
+starostlivosťou.
+Hospitalizačné prostredie však často narúša prirodzený spánkový cyklus pacienta.
+Okrem individuálnych faktorov, ako sú bolesť, úzkosť či nepohodlie, na spánok výrazne
+vplývajú aj vonkajšie podnety nemocnice ako hluk, svetlo, teplota, prítomnosť spolupacientov
+a najmä frekvencia pravidelných či akútnych ošetrovateľských intervencií počas noci. Tieto
+zásahy môžu viesť k fragmentácii spánku, zvýšenej únave, zhoršenej regenerácii a predĺženiu
+hospitalizácie. Preto je potrebné bližšie porozumieť tomu, aké faktory narušujú spánok
+pacientov najvýraznejšie a ktoré intervencie predstavujú potenciálny priestor na jeho
+optimalizáciu.
+Okrem týchto environmentálnych faktorov významne ovplyvňuje kontinuitu spánku aj
+samotný charakter ošetrovateľskej starostlivosti. Časté merania vitálnych funkcií, podávanie
+liekov, polohovanie, ošetrovanie rán alebo nečakané akútne zásahy si často vyžadujú
+vykonávanie počas noci, čo vedie k opakovanému budeniu pacienta. Takéto prerušovanie
+spánku môže spôsobiť jeho fragmentáciu, zhoršené dosiahnutie hlbokých regeneračných fáz,
+kumuláciu únavy a následne aj pomalší priebeh hojenia či subjektívne zníženú spokojnosť s
+hospitalizáciou.
+Táto práca sa zameriava na analýzu spánku hospitalizovaných pacientov a na
+identifikáciu faktorov, ktoré ho ovplyvňujú, so špeciálnym dôrazom na nočné ošetrovateľské
+činnosti. Cieľom je získať poznatky využiteľné pri zlepšovaní ošetrovateľských postupov a
+vytváraní podmienok, ktoré podporujú regeneráciu pacienta. Ciele práce sú:
+•
+
+Priblížiť a vysvetliť definíciu spánku, jeho funkcie a význam pre ľudský organizmus.
+
+•
+
+Popísať špecifiká spánku hospitalizovaných pacientov a faktory, ktoré ho ovplyvňujú.
+
+•
+
+Výskumom zistiť, ktoré ošetrovateľské intervencie najčastejšie narúšajú spánok a v akej
+miere.
+13
+
+1. SÚČASNÝ STAV POZNANIA
+Pojem spánok je v odbornej literatúre definovaný ako reverzibilný stav zníženej bdelosti
+a reaktivity na vonkajšie podnety, ktorý je nevyhnutný pre homeostázu celého organizmu.
+Podobne ako pri iných neurologických procesoch, aj spánok podlieha komplexnej regulácii
+biologických rytmov, predovšetkým cirkadiánneho rytmu, ktorý je riadený centrálnymi
+hodinami v hypotalame a ovplyvňovaný striedaním svetla a tmy. V podmienkach hospitalizácie
+nadobúda spánok kritický význam, pretože je kľúčovým faktorom podporujúcim fyzickú a
+psychickú regeneráciu pacienta. V ošetrovateľskej praxi je narušený spánok klasifikovaný ako
+samostatná ošetrovateľská diagnóza podľa medzinárodnej klasifikácie NANDA International,
+vzťahujúca sa na zmeny v kvalite, množstve alebo rytme spánku, ktoré negatívne ovplyvňujú
+pohodu pacienta.
+
+1.1. Spánok
+Spánok predstavuje jeden zo základných fyziologických procesov nevyhnutných pre
+zachovanie a podporu fyzického aj psychického zdravia človeka. Ide o prirodzený a opakujúci
+sa stav zníženej bdelosti, ktorý je charakterizovaný zmenami v činnosti centrálneho nervového
+systému, svalového tonusu a vnímania vonkajších podnetov. Počas spánku dochádza k aktivácii
+regeneračných mechanizmov organizmu, ktoré zabezpečujú obnovu energetických zásob,
+regeneráciu buniek a tkanív a stabilizáciu vnútorného prostredia. Spánok je riadený
+komplexnou interakciou biologických rytmov, najmä cirkadiánneho rytmu, a homeostatických
+mechanizmov, ktoré regulujú potrebu spánku v závislosti od predchádzajúcej bdelosti (Walker,
+2018).
+Význam spánku sa výrazne prejavuje aj v oblasti funkcie nervového systému a
+psychických procesov. Počas spánku dochádza ku konsolidácii pamäti, spracovaniu informácií
+a emócií a k obnoveniu kognitívnych schopností, ako sú pozornosť, schopnosť učenia a
+rozhodovania. Nedostatočný alebo nekvalitný spánok môže viesť k poruchám koncentrácie,
+zhoršeniu pamäťových funkcií, zvýšenej únave a emočnej labilite. Z dlhodobého hľadiska je
+porucha spánku spojená so zvýšeným rizikom vzniku úzkostných a depresívnych stavov, ako
+aj so zníženou schopnosťou zvládať stresové situácie, čo má negatívny dopad na celkovú
+psychickú pohodu jedinca (Simon a kol., 2022).
+
+14
+
+Dostatočne dlhý spánok zohráva zásadnú úlohu aj v udržiavaní telesného zdravia, najmä
+prostredníctvom podpory imunitného systému, regulácie hormonálnych procesov a
+metabolizmu a podpory hojenia tkanív. Počas spánku sa zvyšuje produkcia niektorých
+hormónov, napríklad rastového hormónu, ktorý sa podieľa na regenerácii a reparácii
+organizmu. Naopak, chronický nedostatok spánku alebo jeho znížená kvalita môžu viesť k
+oslabeniu imunitnej odpovede, zvýšenej náchylnosti na infekcie a k zhoršeniu priebehu
+ochorení. Tieto negatívne dôsledky sú obzvlášť významné u hospitalizovaných pacientov, u
+ktorých
+
+je
+
+kvalitný
+
+spánok
+
+dôležitým
+
+predpokladom
+
+úspešnej
+
+liečby,
+
+rýchlejšej
+
+rekonvalescencie a celkového zlepšenia zdravotného stavu (Šupínová a kol., 2025).
+Fyziologický spánok prebieha v pravidelných, opakujúcich sa cykloch, ktoré majú
+charakteristickú štruktúru a postupnosť. Každý spánkový cyklus pozostáva z viacerých fáz,
+ktoré sa odlišujú úrovňou bdelosti, svalového napätia, mozgovou aktivitou a fyziologickými
+funkciami organizmu. Základné rozdelenie spánku zahŕňa non-REM (NREM) spánok a REM
+spánok, pričom oba typy sú nevyhnutné pre zabezpečenie regeneračnej a obnovujúcej funkcie
+spánku. Jeden spánkový cyklus trvá približne 90 až 110 minút a počas noci sa u zdravého
+dospelého jedinca opakuje niekoľkokrát, zvyčajne štyri až šesťkrát (iSpánek, 2023).
+NREM spánok je charakteristický postupným prechodom od ľahkého spánku k
+hlbokému spánku a delí sa na viacero štádií. V počiatočných štádiách NREM spánku dochádza
+k spomaleniu srdcovej frekvencie, poklesu krvného tlaku a zníženiu svalového tonusu, pričom
+jedinec je stále relatívne ľahko prebuditeľný. V hlbších štádiách NREM spánku, označovaných
+ako hlboký alebo pomalovlnný spánok, sa organizmus nachádza v stave najhlbšej regenerácie.
+Práve v tejto fáze dochádza k intenzívnej obnove tkanív, posilňovaniu imunitného systému a
+uvoľňovaniu rastového hormónu, ktorý je dôležitý pre regeneračné procesy (Helakari a kol.,
+2023).
+REM spánok predstavuje osobitnú fázu spánkového cyklu, ktorá sa vyznačuje rýchlymi
+pohybmi očí, výraznou mozgovou aktivitou a živou snovou činnosťou. Napriek vysokej aktivite
+mozgu dochádza v tejto fáze k výraznému útlmu svalového tonusu, čo zabraňuje fyzickej
+realizácii snov. REM spánok zohráva kľúčovú úlohu v spracovaní emócií, konsolidácii pamäti
+a učení. Počas noci sa pomer jednotlivých fáz mení, pričom v prvej polovici noci prevažuje
+hlboký NREM spánok a v druhej polovici noci sa predlžujú fázy REM spánku (iSpánek, 2023).
+Toto pravidelné striedanie fáz NREM a REM spánku je schematicky znázornené na obrázku 1,
+ktorý poskytuje prehľadné znázornenie ich postupnosti počas celej noci.
+
+15
+
+SPÁNOK
+
+Nerýchly pohyb očí
+
+Rýchly pohyb očí
+
+Non Rapid Eye Movement
+
+Rapid Eye Movement
+
+(NREM)
+
+(REM)
+
+Fáza 1
+(NREM 1)
+
+Fáza 4
+
+Ľahký spánok
+
+(REM )
+REM spánok
+
+Fáza 2
+(NREM 2)
+
+Stredný spánok
+
+Fáza 3
+(NREM 3)
+
+Hlboký spánok
+
+Obrázok 1. Typy spánku podľa aktivity očí počas spánku (Vlastné spracovanie autorky).
+Počas noci sa jednotlivé fázy spánku pravidelne a cyklicky striedajú, pričom jeden
+kompletný spánkový cyklus trvá približne 90 minút. U zdravého dospelého jedinca sa počas
+noci vystrieda niekoľko takýchto cyklov, zvyčajne štyri až šesť, pričom ich štruktúra sa v
+priebehu noci mení. V úvodných cykloch prevažuje hlboký NREM spánok, ktorý je nevyhnutný
+pre fyzickú regeneráciu organizmu, zatiaľ čo v neskorších cykloch sa postupne predlžujú fázy
+REM spánku, ktoré sú dôležité pre psychickú obnovu a spracovanie informácií. Pravidelné a
+nerušené striedanie týchto cyklov je základným predpokladom kvalitného a osviežujúceho
+spánku (Walker, 2018).
+Spánok a bdenie sú úzko prepojené s cirkadiánnym rytmom, ktorý predstavuje vnútorný
+biologický systém regulujúci približne 24-hodinové cykly fyziologických procesov. Tento
+rytmus je riadený centrálnymi biologickými hodinami lokalizovanými v hypotalame a je
+výrazne ovplyvňovaný vonkajšími faktormi, najmä striedaním svetla a tmy. Počas večera a noci
+dochádza k zvýšenej sekrécii melatonínu, hormónu podporujúceho zaspávanie a udržiavanie
+spánku, zatiaľ čo počas dňa prevláda sekrécia kortizolu, ktorý podporuje bdelosť. Individuálne
+návyky, ako sú pravidelný režim spánku, vystavenie svetlu či úroveň fyzickej a psychickej
+16
+
+aktivity, zohrávajú významnú úlohu v stabilite cirkadiánneho rytmu (Simon a kol., 2022). Tieto
+spánkové cykly a ich pravidelné striedanie počas noci sú prehľadne znázornené na obrázku 2.
+
+NREM Spánok
+
+Cyklus 1
+
+Cyklus 2
+
+Cyklus 3
+
+Cyklus 4
+
+REM Spánok
+
+Cyklus 5
+
+Bdelosť
+REM
+
+NREM1
+NREM2
+NREM3
+
+Nočná doba
+Obrázok 2. Grafické znázornenie spánkových cyklov.
+Narušenie rytmu cyklu môže mať výrazný negatívny dopad na kvalitu spánku, najmä u
+hospitalizovaných pacientov. Nočné ošetrovateľské zásahy, časté prebúdzanie, umelé
+osvetlenie, hluk z prostredia oddelenia či alarmy zdravotníckych prístrojov môžu viesť k
+fragmentácii spánku a k narušeniu jeho prirodzenej architektúry. Dôsledkom môže byť
+skrátenie hlbokých fáz spánku, častejšie prebúdzanie a subjektívny pocit neosviežujúceho
+spánku. Tieto faktory môžu spomaliť proces hojenia, znížiť toleranciu záťaže a negatívne
+ovplyvniť celkový zdravotný stav pacienta, čo zdôrazňuje potrebu systematického
+zohľadňovania cirkadiánnych princípov v ošetrovateľskej praxi (LaReau a kol., 2008).
+Pojem narušený spánok zahŕňa široké spektrum problémov spojených so zaspávaním,
+udržiavaním spánku alebo jeho celkovou kvalitou. Medzi najčastejšie formy patrí insomnia,
+ktorá sa prejavuje ťažkosťami so zaspávaním, častým prebúdzaním počas noci alebo skorým
+ranným prebúdzaním, ako aj fragmentovaný spánok, pri ktorom je spánok opakovane
+prerušovaný a neplní svoju regeneračnú funkciu. Narušený spánok sa často prejavuje pocitom
+neoddýchnutia, dennou únavou, zníženou koncentráciou a celkovým diskomfortom. U
+hospitalizovaných pacientov sa tieto problémy vyskytujú častejšie v dôsledku zdravotného
+
+17
+
+stavu, stresu z hospitalizácie a pôsobenia nemocničného prostredia (Hoey, Fulbrook &
+Douglas, 2014).
+V ošetrovateľskej praxi je narušený spánok definovaný ako samostatná ošetrovateľská
+diagnóza podľa klasifikácie NANDA International. Ošetrovateľská diagnóza „narušený
+spánok“ sa vzťahuje na stav, pri ktorom dochádza k zmenám v kvalite, množstve alebo rytme
+spánku, čo má negatívny dopad na zdravie a pohodu pacienta. Identifikácia tejto diagnózy si
+vyžaduje komplexné posúdenie pacienta, vrátane subjektívneho hodnotenia jeho spánku,
+pozorovania správania a zohľadnenia faktorov, ktoré môžu spánok ovplyvňovať. Sestra
+zohráva kľúčovú úlohu pri rozpoznaní problémov so spánkom, plánovaní vhodných intervencií
+a hodnotení ich účinnosti (Hultman a kol., 2012).
+Spánok hospitalizovaných pacientov má svoje špecifiká, ktoré sa výrazne odlišujú od
+spánku v domácom prostredí. Pobyt v nemocnici je často sprevádzaný stresom, obavami o
+zdravotný stav, bolesťou a zmenou denného režimu, čo negatívne ovplyvňuje schopnosť
+pacienta zaspať a zotrvať v spánku. Významným faktorom sú aj ošetrovateľské intervencie
+vykonávané počas noci, ako sú meranie vitálnych funkcií, podávanie liekov, kontroly
+zdravotného stavu či vstupy personálu do izby. Okrem toho spánok pacienta ovplyvňuje hluk,
+umelé osvetlenie, technické zariadenia a prítomnosť ďalších pacientov na izbe. Tieto špecifiká
+poukazujú na potrebu cielenej ošetrovateľskej starostlivosti zameranej na ochranu a podporu
+spánku hospitalizovaných pacientov ako dôležitej súčasti procesu liečby a rekonvalescencie
+(Frisk & Nordström, 2003).
+
+1.2. Význam spánku pre pacienta počas hospitalizácie
+Spánok zohráva zásadnú úlohu v procese regenerácie organizmu, pričom jeho význam
+sa ešte viac zvýrazňuje v období hospitalizácie. Hospitalizovaný pacient je vystavený zvýšenej
+fyzickej aj psychickej záťaži, ktorá súvisí s ochorením, diagnostickými a terapeutickými
+výkonmi, bolesťou, ako aj s neznámym nemocničným prostredím. Spánok v tomto období
+predstavuje jeden z kľúčových faktorov podporujúcich obnovu organizmu a udržiavanie
+fyziologickej rovnováhy, čím prispieva k lepšej tolerancii liečby a celkovému zlepšeniu
+zdravotného stavu pacienta (Frisk & Nordström, 2003).
+Počas spánku dochádza k viacerým regeneračným procesom, ktoré sú nevyhnutné pre
+správne fungovanie organizmu. Obnovujú sa energetické zásoby, regeneruje sa svalové a
+nervové tkanivo a stabilizujú sa vitálne funkcie, ako sú srdcová frekvencia, krvný tlak a
+dýchanie. Zároveň sa aktivujú hormonálne mechanizmy, najmä zvýšená sekrécia rastového
+18
+
+hormónu, ktorý sa podieľa na reparácii tkanív a hojení. Tieto procesy umožňujú organizmu
+efektívnejšie reagovať na liečebné postupy a podporujú adaptačné mechanizmy potrebné na
+zvládnutie akútneho ochorenia alebo pooperačného stavu (Fąfara & Krakowiak-Burdzy, 2024).
+Význam spánku sa výrazne prejavuje aj v oblasti fungovania imunitného systému,
+hojenia rán a psychickej pohody pacienta. Počas hlbokých fáz spánku dochádza k aktivácii
+imunitných mechanizmov, zvýšenej produkcii cytokínov a k posilneniu obranyschopnosti
+organizmu. Spánok podporuje proces hojenia rán, regeneráciu tkanív a znižuje riziko
+infekčných komplikácií, čo je obzvlášť dôležité u chirurgických a imobilných pacientov. Z
+psychického hľadiska má spánok významný vplyv na emocionálnu stabilitu, znižovanie úzkosti
+a stresu a podporu celkovej duševnej pohody, čím prispieva k lepšej spolupráci pacienta so
+zdravotníckym personálom (Missildine a kol., 2010).
+Nedostatok spánku počas hospitalizácie môže mať viacero negatívnych dôsledkov,
+ktoré sa prejavujú nielen na fyzickej, ale aj na psychickej úrovni. Medzi najčastejšie následky
+patrí výrazná únava, znížená koncentrácia, podráždenosť a zhoršená schopnosť zvládať
+stresové situácie. U pacientov sa často pozoruje aj zvýšené vnímanie bolesti, keďže nedostatok
+spánku znižuje prah bolesti a zhoršuje toleranciu diskomfortu. Dlhodobejšie poruchy spánku
+môžu viesť k zhoršeniu nálady, rozvoju úzkostných stavov a k celkovému zníženiu kvality
+života pacienta počas hospitalizácie (Šupínová a kol., 2025).
+Nedostatočný alebo prerušovaný spánok môže mať negatívny vplyv na priebeh liečby a
+celkovú rekonvalescenciu pacienta. Opakované nočné prebúdzanie, skrátenie hlbokých fáz
+spánku môžu viesť k spomaleniu regeneračných procesov, zvýšenej únave a zníženej
+schopnosti organizmu vyrovnať sa so záťažou spojenej s hospitalizáciou. Dlhodobo narušený
+spánok môže prispieť k predĺženiu hospitalizácie, zhoršeniu subjektívneho prežívania
+ochorenia a k zníženiu celkovej spokojnosti pacienta so zdravotnou starostlivosťou, čo
+zdôrazňuje potrebu systematickej podpory spánku v ošetrovateľskej praxi (Nicolas a kol.,
+2008).
+Spánok je teda neoddeliteľnou súčasťou holistickej ošetrovateľskej starostlivosti, ktorá
+sa zameriava na pacienta ako celok, zahŕňajúc jeho fyzické, psychické, sociálne a spirituálne
+potreby. Z pohľadu ošetrovateľstva je zabezpečenie spánku rovnako dôležité ako uspokojenie
+ostatných základných ľudských potrieb. Sestry zohrávajú kľúčovú úlohu v identifikácii
+faktorov, ktoré narúšajú spánok pacienta, v plánovaní ošetrovateľských intervencií a v
+vytváraní prostredia podporujúceho pokojný spánok. Podpora spánku prispieva k zvýšeniu
+efektivity liečby, skráteniu hospitalizácie a zlepšeniu celkovej spokojnosti pacienta (Hoey,
+Fulbrook & Douglas, 2014).
+19
+
+Z pohľadu pacienta má zachovanie spánku počas hospitalizácie mimoriadny význam,
+pretože spánok predstavuje základný predpoklad oddychu a zotavenia organizmu. V
+nemocničnom prostredí je spánok často narušený rôznymi zásahmi, hlukom či zmenami
+denného režimu, a práve preto jeho zachovanie zo subjektívneho hľadiska naberá na význame.
+Pacienti spánok vnímajú nielen ako fyziologickú potrebu, ale aj ako psychologický
+mechanizmus regenerácie a obnovy síl, ktorý im umožňuje lepšie zvládať náročné situácie
+spojené s ochorením a hospitalizáciou (Hudáková, Cibríková & Obročníková, 2019).
+Zhoršenie spánku pacienti pociťujú ako výrazný negatívny aspekt hospitalizácie.
+Nedostatočný alebo prerušovaný spánok môže zvyšovať pocit bezmocnosti a stresu, zhoršovať
+náladu a znižovať celkovú pohodu. Naopak, možnosť nerušeného spánku prispieva k pocitu
+kontroly nad vlastným stavom, podporuje odpočinok a zlepšuje schopnosť psychicky zvládať
+hospitalizačné prostredie, čím priamo ovplyvňuje subjektívnu spokojnosť pacienta s liečbou
+a starostlivosťou (Fąfara & Krakowiak-Burdzy, 2024).
+Rešpektovanie potreby spánku zo strany zdravotníckeho personálu predstavuje dôležitý
+prvok kvality ošetrovateľskej starostlivosti. Personál, ktorý dokáže minimalizovať rušivé
+zásahy, optimalizovať svetelné a hlukové podmienky a citlivo plánovať nočné výkony, výrazne
+prispieva k zvýšeniu spokojnosti pacientov. Vnímanie personálu ako rešpektujúceho
+individuálne potreby spánku zároveň podporuje dôveru pacienta, znižuje úzkosť a stres a
+napomáha lepšej adaptácii na nemocničné prostredie, čím sa zvyšuje celková kvalita
+poskytovanej zdravotnej starostlivosti (Hultman a kol., 2012).
+Prehľad hlavných aspektov významu spánku z pohľadu hospitalizovaného pacienta je
+sumarizovaný v Tabuľke 1. Tabuľka zobrazuje, ako nerušený spánok podporuje fyzickú a
+psychickú regeneráciu, znižuje stres a úzkosť a zároveň zvyšuje spokojnosť pacienta so
+zdravotnou starostlivosťou. Poskytuje tak prehľad kľúčových faktorov, ktoré zdravotnícky
+personál môže ovplyvniť pri plánovaní a poskytovaní ošetrovateľskej starostlivosti.
+
+20
+
+Tabuľka 1. Význam spánku z pohľadu hospitalizovaného pacienta.
+Aspekt
+Základná potreba spánku
+Porovnanie s domácim
+prostredím
+Nerušený spánok
+
+Význam pre pacienta
+Regenerácia tela a mysle
+Hodnotenie kvality spánku
+Pocit kontroly a bezpečia
+
+Rešpekt personálu
+
+Minimalizácia zásahov,
+optimálne prostredie
+Zdroj: Vlastné spracovanie autorky.
+
+Dopad na hospitalizáciu
+Zvládanie liečby a stresu
+Zhoršený spánok = zvýšený
+stres a nepohoda
+Zníženie úzkosti, lepšia
+adaptácia na nemocnicu
+Zvýšená spokojnosť, dôvera a
+komfort pacienta
+
+1.3. Príčiny narušeného spánku u hospitalizovaných pacientov
+Spánok hospitalizovaných pacientov je často narušený rôznymi faktormi, ktoré môžu
+mať interný aj externý charakter. Interné faktory (t.j., endogénne) súvisia so zdravotným stavom
+pacienta, jeho fyziologickými a psychickými potrebami, bolesťou, úzkosťou či reakciou na
+ochorenie a liečbu. Externé faktory (t.j., exogénne) vyplývajú z prostredia nemocnice a
+organizačných aspektov ošetrovateľskej starostlivosti, ako sú nočné zásahy personálu, hluk,
+osvetlenie, návštevy alebo alarmy prístrojov. Porozumenie týmto príčinám je kľúčové pre
+identifikáciu možností zlepšenia spánku a plánovanie opatrení, ktoré podporia regeneráciu,
+pohodu a spokojnosť hospitalizovaných pacientov (Frisk & Nordström, 2003).
+Narušený spánok u hospitalizovaných pacientov často pramení z vnútorných,
+endogénnych faktorov, ktoré úzko súvisia so zdravotným stavom samotného pacienta. Jedným
+z najvýznamnejších interných faktorov je bolesť, ktorá môže byť dôsledkom základného
+ochorenia alebo pooperačných stavov. Intenzívna bolesť sťažuje zaspávanie, zvyšuje počet
+nočných prebudení a bráni dosiahnutiu hlbokých a regeneračných fáz spánku. U pacientov po
+chirurgických zákrokoch alebo s akútnymi ochoreniami sa tieto problémy často kombinujú a
+zhoršujú spánok celkovo, čo môže negatívne ovplyvniť proces hojenia a rekonvalescencie
+(Johansson, Oléni & Fridlund, 2005).
+Ďalším významným interným faktorom je psychický stav pacienta. Úzkosť, stres,
+depresívne nálady či obavy o vlastný zdravotný stav zvyšujú psychické napätie a znižujú
+schopnosť organizmu relaxovať. Takéto emocionálne zaťaženie sa často premieta do zhoršenej
+schopnosti pacienta prejsť do hlbokých fáz spánku a zvýšenej fragmentácie nočného
+odpočinku. Psychický stav je zároveň úzko prepojený s predchádzajúcimi spánkovými
+zvyklosťami, osobnostnými charakteristikami a schopnosťou adaptovať sa na nové prostredie,
+
+21
+
+čo u hospitalizovaných pacientov často predstavuje dodatočnú záťaž pre spánkový rytmus
+(Walker, 2009).
+Lieky predpisované na liečbu primárneho ochorenia alebo na zmiernenie bolesti môžu
+tiež významne ovplyvniť spánok. Niektoré farmaká majú sedatívny účinok, zatiaľ čo iné môžu
+spôsobovať nespavosť alebo prerušovaný spánok. Rovnako prirodzený proces starnutia mení
+štruktúru spánku, pričom starší pacienti často trpia kratším trvaním hlbokých fáz NREM spánku
+a častejším prebúdzaním. Kombinácia týchto endogénnych faktorov, fyzických, psychických
+a farmakologických, tvorí komplexný mechanizmus, ktorý môže výrazne narušiť spánok počas
+hospitalizácie, a preto je ich identifikácia kľúčová pre plánovanie ošetrovateľských intervencií
+(Missildine a kol., 2010).
+Okrem
+
+vnútorných,
+
+endogénnych
+
+faktorov
+
+zohrávajú
+
+pri
+
+narušení
+
+spánku
+
+hospitalizovaných pacientov významnú úlohu aj vonkajšie, exogénne vplyvy. Tieto faktory sú
+spojené s prostredím nemocnice, ktoré často neumožňuje pacientovi nerušený odpočinok.
+Medzi najčastejšie environmentálne príčiny patrí nadmerný hluk, nevhodné osvetlenie,
+nepríjemná teplota a nedostatočne pohodlná posteľná výbava. Každý z týchto prvkov môže
+individuálne alebo v kombinácii znižovať spánok, predlžovať dobu zaspávania a zvyšovať
+počet nočných prebudení (Frisk & Nordström, 2003).
+Sociálne prostredie nemocničnej izby tiež výrazne ovplyvňuje spánok pacientov.
+Prítomnosť ďalších pacientov, ich rozhovory, pohyby, návštevy či individuálne potreby môžu
+viesť k častému prerušovaniu spánku. Rovnako aj časté vstupy a pohyb personálu počas noci,
+či už pri meraní vitálnych funkcií, podávaní liekov alebo pri rôznych ošetrovateľských
+zásahoch, môžu fragmentovať spánok a znižovať jeho regeneračný potenciál. Pacienti tieto
+rušivé vplyvy často vnímajú veľmi intenzívne, čo sa odráža v ich subjektívnej spokojnosti so
+spánkom a celkovom prežívaní hospitalizácie (LaReau a kol., 2008).
+Hospitalizačné prostredie je teda často neprirodzené a stresujúce, čo zvyšuje
+pravdepodobnosť prerušovaného spánku. Fragmentácia spánku vedie k nedostatočnej
+regenerácii, zvýšenej únave počas dňa a zhoršeniu schopnosti pacienta zvládať liečebné a
+rehabilitačné procesy. Porozumenie exogénnym faktorom a ich identifikácia sú preto kľúčové
+pre plánovanie ošetrovateľských intervencií, ktoré by mali minimalizovať rušivé vplyvy a
+podporiť pacientov v dosiahnutí nerušeného spánku (Hudáková, Cibríková & Obročníková,
+2019).
+Medzi ošetrovateľské intervencie, ktoré predstavujú významný rušivý faktor spánku,
+patrí pravidelné meranie vitálnych funkcií počas noci, vrátane merania krvného tlaku, pulzu a
+telesnej teploty. Hoci sú tieto úkony nevyhnutné pre bezpečnosť pacienta a monitorovanie jeho
+22
+
+zdravotného stavu, pre pacienta môžu byť nepríjemné a prerušujúce spánok. Náhle prebudenie,
+manipulácia pri meraní a nutnosť zmeny polohy môže pacienta rozrušiť, čo vedie k ťažkostiam
+so zaspávaním a udržiavaním hlbokého spánku. Tento typ zásahu je často vnímaný ako zásadný
+rušivý faktor, najmä u pacientov, ktorí majú citlivejší spánok alebo trpia bolesťou (Hoey,
+Fulbrook & Douglas, 2014).
+Ďalším významným faktorom narušeného spánku je nočné podávanie liekov, infúzií,
+transfúzií alebo iných terapeutických postupov. Pacient je pri týchto úkonoch prebudený, často
+sa mení jeho poloha alebo je vystavený manipulácii s infúznymi pumpami a ďalšími
+zariadeniami. Aj keď je podávanie liekov nevyhnutné pre liečbu ochorenia, pacienti ho vnímajú
+ako rušivý element, ktorý prerušuje prirodzený spánkový rytmus a znižuje nočný odpočinok.
+Subjektívna skúsenosť pacienta ukazuje, že tieto intervencie sú jedným z hlavných faktorov,
+ktoré sťažujú oddych a regeneráciu (Yilmaz, Sayin & Gurler 2012).
+Rutinné ošetrovateľské zásahy, ako sú preväzy, hygienická starostlivosť, presuny
+pacienta alebo manipulácia pri zmene polohy, môžu spánok výrazne narušiť. Tieto úkony sú
+potrebné pre udržanie zdravotného stavu, prevenciu dekubitov a komplikácií, avšak nočný čas
+ich vykonávania často koliduje s prirodzeným spánkovým cyklom pacienta. Intervencie spojené
+s manipuláciou sú pre hospitalizovaných pacientov často stresujúce a môžu vyvolať pocit
+nepohody, čo ďalej zhoršuje schopnosť zotrvať v hlbokom spánku a podporuje fragmentáciu
+spánku (Fąfara & Krakowiak-Burdzy, 2024).
+Okrem fyziologických meraní a ošetrovania patria medzi rušivé faktory aj pravidelné
+kontroly zdravotného stavu, ako sú vizity lekárov alebo prehliadky sestier zamerané na
+bezpečnosť pacienta. Aj keď tieto úkony sú dôležité pre prevenciu komplikácií a včasnú
+diagnostiku problémov, predstavujú ďalšie prerušovanie spánku a môžu u pacienta vyvolať
+pocit straty súkromia a kontroly. Časté prebúdzanie a narušenie nočného pokoja spôsobuje, že
+pacienti hodnotia tieto intervencie ako výrazný zdroj stresu a nepohody počas hospitalizácie
+(Utli, Dinç & Oner, 2023).
+Ďalším významným exogénnym faktorom narušeného spánku sú podnety z prostredia,
+ako sú hluk spôsobený personálom, inými pacientmi, zariadeniami a monitorovacími
+prístrojmi, zapínanie svetiel počas nočných úkonov, časté vstupy personálu do izby alebo
+pôsobenie klimatizácie a teplotných výkyvov. Tieto faktory narúšajú cirkadiánny rytmus a
+spôsobujú fragmentáciu spánku, pričom pacienti často subjektívne vnímajú tento typ rušenia
+ako veľmi nepríjemný. Celkový záver ukazuje, že spánok hospitalizovaného pacienta je
+výsledkom interakcie endogénnych faktorov, externého prostredia a ošetrovateľských zásahov,
+
+23
+
+pričom subjektívne vnímanie pacienta je kľúčové pre plánovanie intervencií, ktoré môžu
+minimalizovať negatívny dopad týchto faktorov na spánok (Nicolas a kol., 2008).
+Tabuľka 2 poskytuje prehľad hlavných príčin narušeného spánku u hospitalizovaných
+pacientov, rozdelených do troch základných kategórií – interné (endogénne) faktory, externé
+(exogénne) faktory a ošetrovateľské intervencie. Interné faktory zahŕňajú bolesť, úzkosť,
+psychický stav, vek a účinky liekov, ktoré ovplyvňujú schopnosť pacienta zaspať a udržať
+hlboký spánok. Externé faktory sa viažu na prostredie nemocnice, ako sú hluk, svetlo, teplota,
+nepríjemné prostredie alebo prítomnosť ďalších pacientov na izbe, a priamo narúšajú
+prirodzený spánkový rytmus. Ošetrovateľské intervencie, medzi ktoré patrí nočné meranie
+vitálnych funkcií, podávanie liekov a infúzií, manipulácia s pacientom či pravidelné kontroly
+zdravotného stavu, predstavujú významný rušivý faktor, ktorý pacienti subjektívne vnímajú ako
+stresujúci a prerušujúci spánok. Tabuľka 2 tak sumarizuje komplexný súbor faktorov, ktoré
+ovplyvňujú
+
+spánok
+
+hospitalizovaných
+
+pacientov,
+
+a
+
+zdôrazňuje
+
+interakciu
+
+medzi
+
+fyziologickými, psychologickými a environmentálnymi vplyvmi.
+Tabuľka 2. Prehľad faktorov narušujúcich spánok hospitalizovaných pacientov.
+Kategória
+
+Príčina / Faktor
+Bolesť
+Úzkosť, stres
+
+Interné
+(endogénne)
+
+Lieky
+Vek a psychický
+stav
+Hluk
+
+Externé
+(exogénne)
+
+Svetlo
+Teplota,
+prostredie
+
+Vplyv na spánok
+Sťažuje zaspávanie,
+prerušuje hlboké fázy
+spánku
+Zvyšuje psychické
+napätie, sťažuje relaxáciu
+Môžu meniť spánkový
+rytmus, ovplyvňovať
+kvalitu spánku
+Fragmentovaný spánok,
+znížená schopnosť zotrvať
+v hlbokých fázach
+Ruší spánok, spôsobuje
+prebúdzanie a
+fragmentáciu spánku
+Narúša cirkadiánny
+rytmus, sťažuje
+zaspávanie
+Nepohodlie spôsobuje
+prerušovaný spánok
+
+Prítomnosť iných Zvýšený hluk, rušenie,
+pacientov
+narušenie súkromia
+Ošetrovateľské
+intervencie
+
+Nočné meranie
+vitálnych funkcií
+
+Prebúdzanie pacienta,
+prerušovanie cyklu
+spánku
+24
+
+Príklady
+Pooperačné bolesti,
+bolesť z ochorenia
+Obavy o zdravie, stres z
+hospitalizácie
+Analgetiká, sedatíva,
+stimulačné lieky
+Seniori, pacienti s
+depresiou alebo
+úzkosťou
+Rozhovory personálu,
+pohyb vozíkov,
+monitorovacie prístroje
+Nočné svetlá, zapínanie
+lampičiek pri úkonoch
+Chlad alebo prehriata
+izba, nepríjemná posteľ
+Viac pacientov na izbe,
+spolubývajúci hovorí
+alebo vstáva v noci
+TK, pulz, teplota
+
+Kategória
+
+Príčina / Faktor
+Podávanie liekov
+a infúzií
+Ošetrovanie a
+manipulácia
+Kontroly
+zdravotného
+stavu
+Časté vstupy
+personálu a
+technické
+zariadenia
+Zdroj: Vlastné spracovanie autorky.
+
+Vplyv na spánok
+Rušenie spánku, nutnosť
+manipulácie s pacientom
+Ruší hlboký spánok,
+spôsobuje stres
+
+Príklady
+Injekcie, infúzie,
+transfúzie
+Hygiena, preväzy,
+zmena polohy
+
+Prerušuje spánok, pocit
+straty súkromia
+
+Vizity lekárov, nočné
+prehliadky sestier
+
+Fragmentácia spánku,
+hluk, nepríjemné podnety
+
+Zapínanie svetiel,
+monitorovacie prístroje,
+klimatizácia
+
+1.4. Hodnotenie a diagnostika narušeného spánku v ošetrovateľskej praxi
+Po identifikácii interných, externých a ošetrovateľských faktorov narušujúcich spánok
+je nevyhnutné venovať pozornosť jeho hodnoteniu a diagnostike v ošetrovateľskej praxi.
+Hodnotenie spánku umožňuje sestrám získať informácie o kvalite, dĺžke a kontinuite spánku
+pacientov, ako aj o faktoroch, ktoré ho najviac ovplyvňujú. Systematická diagnostika
+narušeného spánku je kľúčová pre plánovanie cielených ošetrovateľských intervencií, ktoré
+podporia regeneráciu organizmu, zvýšia pohodu pacienta a minimalizujú negatívne dôsledky
+fragmentovaného či nedostatočného spánku počas hospitalizácie (Hoey, Fulbrook & Douglas,
+2014).
+Subjektívne metódy hodnotenia spánku predstavujú základný nástroj v ošetrovateľskej
+praxi, pretože poskytujú priamy pohľad na skúsenosti a vnímanie samotného pacienta.
+Základom týchto metód je rozhovor medzi sestrou a pacientom, ktorý umožňuje získať
+informácie o konkrétnych problémoch so spánkom. Pacient môže popísať ťažkosti so
+zaspávaním, časté prebúdzanie počas noci, skoré ranné prebúdzanie či pocity únavy a ospalosti
+počas dňa, ktoré často výrazne ovplyvňujú jeho každodennú pohodu a schopnosť adaptovať sa
+na nemocničné prostredie (Matousek a kol., 2004).
+Vyplňovanie štruktúrovaných dotazníkov je ďalšou formou subjektívneho hodnotenia
+spánku, ktorá umožňuje sestrám získať kvantitatívne údaje o kvalite a štruktúre spánku. Medzi
+najpoužívanejšie nástroje patrí Pittsburgh Sleep Quality Index (PSQI), ktorý hodnotí celkovú
+kvalitu spánku, dobu zaspávania, dĺžku spánku a jeho kontinuitu. Ďalším nástrojom je
+Karolinska Sleep Diary, ktorý umožňuje sledovať denné a nočné spánkové návyky, frekvenciu
+prebudení a subjektívny pocit regenerácie. Tieto dotazníky poskytujú štandardizované údaje,
+25
+
+ktoré možno objektívne porovnať s normatívnymi hodnotami alebo sledovať zmeny počas
+hospitalizácie (Omachi, 2011).
+Výhodou subjektívnych metód je ich jednoduchá aplikovateľnosť a možnosť zohľadniť
+individuálne potreby pacienta. Pacient má pri rozhovore a vypĺňaní dotazníka možnosť vyjadriť
+svoje skúsenosti a pocity, čo umožňuje sestrám lepšie porozumieť faktorom, ktoré narúšajú
+jeho spánok. Zároveň tieto metódy umožňujú rýchlu identifikáciu pacientov so zvýšeným
+rizikom spánkových porúch a poskytujú podklad pre plánovanie cielených ošetrovateľských
+intervencií, ktoré môžu prispieť k zlepšeniu regenerácie, psychickej pohody a spokojnosti
+hospitalizovaného pacienta (Johansson, Oléni & Fridlund, 2005).
+Okrem subjektívnych metód hodnotenia spánku zohráva v ošetrovateľskej praxi
+kľúčovú úlohu aj systematické pozorovanie pacienta zo strany sestry. Toto pozorovanie
+umožňuje získať objektívnejší pohľad na spánkové správanie pacienta a odhaliť problémy,
+ktoré pacient nemusí vedome vnímať alebo o ktorých nemusí byť schopný presne informovať.
+Sledovanie zahŕňa dĺžku spánku, čas potrebný na zaspávanie, frekvenciu nočných prebudení a
+celkovú kontinuitu spánku, čo poskytuje dôležité údaje o kvalite a efektívnosti nočného
+odpočinku (Kamdar a kol., 2012).
+Pozorovanie tiež zahŕňa monitorovanie pohybov pacienta počas noci a jeho reakcií na
+rušivé podnety v nemocničnom prostredí. Sestra môže sledovať, ako pacient reaguje na hluk,
+svetlo alebo vstupy personálu, čo umožňuje identifikovať konkrétne faktory, ktoré narušujú
+spánok. Tieto informácie sú obzvlášť dôležité pri hospitalizovaných pacientoch, ktorí majú
+fragmentovaný spánok alebo sú vystavení častým nočným zásahom, pretože umožňujú
+prispôsobiť ošetrovateľské intervencie individuálnym potrebám pacienta (Matousek a kol.,
+2004).
+Dôležitou súčasťou pozorovania je aj zaznamenanie stratégií, ktoré pacient používa na
+uľahčenie spánku. Môže ísť o zmenu polohy, konzumáciu tekutín, využívanie relaxačných
+techník alebo iných osvedčených spôsobov, ako podporiť zaspávanie a udržať kontinuálny
+spánok. Kombinácia týchto objektívnych zistení so subjektívnym hodnotením poskytuje
+komplexný obraz o spánku pacienta, čo umožňuje sestrám plánovať cielené a efektívne
+ošetrovateľské
+
+intervencie,
+
+ktoré
+
+podporujú
+
+regeneráciu,
+
+pohodu
+
+a
+
+spokojnosť
+
+hospitalizovaného pacienta (Frisk & Nordström, 2003).
+Využitie škál a dotazníkov predstavuje jednu z najefektívnejších metód hodnotenia
+spánku v klinickej praxi, pretože umožňuje systematicky a štandardizovane zaznamenávať
+subjektívne skúsenosti pacienta. Dotazníky, ako napríklad Pittsburgh Sleep Quality Index
+(PSQI) alebo Karolinska Sleep Diary, poskytujú podrobné informácie o kvalite spánku, dĺžke
+26
+
+zaspávania, frekvencii prebúdzania a celkovej spokojnosti so spánkom. Tieto nástroje
+umožňujú sestrám získať komplexný obraz o spánkových návykoch pacienta a identifikovať
+možné problémy, ktoré by mohli ovplyvniť jeho regeneráciu a celkovú pohodu počas
+hospitalizácie (Omachi, 2011).
+Okrem štruktúrovaných dotazníkov sa v klinickej praxi často používajú jednoduché
+Likertove škály na hodnotenie spánku, intenzity únavy alebo frekvencie prebúdzania. Takéto
+škály umožňujú kvantifikovať subjektívne pocity pacienta a porovnávať ich medzi jednotlivými
+dňami hospitalizácie alebo medzi rôznymi pacientmi. Výhodou týchto škál je ich jednoduchá
+aplikovateľnosť, rýchle vyhodnotenie a možnosť sledovať dynamiku zmien v spánku, čo
+poskytuje cenné údaje pre rozhodovanie o ošetrovateľských intervenciách (Matousek a kol.,
+2004).
+Integrácia škál a dotazníkov do ošetrovateľskej dokumentácie umožňuje systematické
+sledovanie stavu pacienta a hodnotenie účinnosti plánovaných opatrení. Získané údaje slúžia
+ako podklad pre individuálne prispôsobené intervencie, ktoré môžu zlepšiť spánok a podporiť
+regeneráciu. Navyše, pravidelné hodnotenie pomocou týchto nástrojov umožňuje včasnú
+identifikáciu pacientov s rizikom spánkových porúch a poskytuje objektívne podklady pre
+multidisciplinárnu spoluprácu pri optimalizácii hospitalizačného prostredia (Hultman a kol.,
+2012).
+Úloha sestry pri identifikácii problémov so spánkom u hospitalizovaných pacientov je
+kľúčová, pretože práve ona má možnosť prepojiť subjektívne informácie od pacienta s vlastným
+pozorovaním a klinickými skúsenosťami. Sestra sleduje prítomnosť interných faktorov, ako je
+bolesť, psychický stav alebo farmakologická liečba, a zároveň zohľadňuje externé vplyvy
+prostredia nemocnice, medzi ktoré patrí hluk, osvetlenie, teplota, prítomnosť iných pacientov
+či technické prístroje. Pozoruje tiež ošetrovateľské zásahy a ich vplyv na spánok pacienta,
+vrátane nočných kontrol, podávania liekov, hygienických úkonov alebo manipulácie s
+pacientom. Na základe týchto informácií dokáže sestra plánovať cielené intervencie, ktoré
+minimalizujú rušenie spánku, optimalizujú prostredie izby a vhodne časujú nočné výkony, čím
+priamo prispieva k zvýšeniu kvality poskytovanej starostlivosti a podpore regenerácie pacienta
+(Hoey, Fulbrook & Douglas, 2014).
+Rovnako dôležitá je aj spätná väzba od pacienta, ktorá umožňuje presnejšie
+identifikovať faktory, ktoré pacient považuje za najrušivejšie a ktoré najviac ovplyvňujú jeho
+subjektívny pocit odpočinku. Pacientove skúsenosti umožňujú sestrám individuálne
+prispôsobiť intervencie, zohľadniť osobné spánkové návyky a podporiť efektívnu spoluprácu
+pri implementácii opatrení. Pravidelná spätná väzba zvyšuje pocit kontroly pacienta nad
+27
+
+prostredím a podporuje jeho pozitívne vnímanie hospitalizácie. Kombinácia objektívneho
+pozorovania, použitia štandardizovaných škál a dotazníkov spolu so subjektívnou spätnou
+väzbou vytvára komplexný systém hodnotenia spánku, ktorý umožňuje efektívnu diagnostiku,
+plánovanie a realizáciu ošetrovateľských opatrení zameraných na podporu regenerujúceho
+spánku (Fąfara & Krakowiak-Burdzy, 2024).
+
+1.5. Ošetrovateľské intervencie zamerané na podporu a zlepšenie spánku pacienta
+Na základe komplexného hodnotenia spánku, ktoré kombinuje subjektívne informácie
+od pacienta, objektívne pozorovanie a použitie štandardizovaných škál, môže sestra plánovať a
+realizovať cielené ošetrovateľské intervencie zamerané na podporu a zlepšenie spánku
+hospitalizovaného pacienta. Tieto intervencie vychádzajú z identifikovaných interných,
+externých a ošetrovateľských faktorov, ktoré narušujú spánok a sú prispôsobené individuálnym
+potrebám pacienta, jeho zdravotnému stavu, rutine a preferenciám. Ich cieľom je minimalizovať
+rušivé podnety, zabezpečiť optimálne podmienky pre regeneráciu a podporiť psychickú pohodu
+pacienta, čím sa zvyšuje efektivita liečby, adaptácia na nemocničné prostredie a celková
+spokojnosť s poskytovanou starostlivosťou (Hudáková, Cibríková & Obročníková, 2019).
+Ošetrovateľské intervencie zahŕňajú široké spektrum opatrení, od optimalizácie
+prostredia izby a času nočných výkonov, cez edukáciu pacienta a podporu relaxačných techník,
+až po špecifické prístupy zamerané na zníženie bolesti, stresu či úzkosti. Dôležitou súčasťou je
+tiež koordinácia s ostatnými členmi zdravotníckeho tímu, ktorá umožňuje synchronizovať
+zásahy, minimalizovať rušenie spánku a efektívne využiť dostupné zdroje na podporu
+regenerácie pacienta. Intervencie sú preto nielen fyziologicky, ale aj psychologicky cielené,
+pričom rešpektujú individuálne spánkové zvyklosti, denné rytmy a potrebu bezpečia a komfortu
+(LaReau a kol., 2008).
+Úspech ošetrovateľských opatrení závisí od ich systematického plánovania,
+pravidelného hodnotenia účinnosti a flexibilného prispôsobovania sa aktuálnemu stavu
+pacienta. Sestra v tejto úlohe funguje ako koordinátor, pozorovateľ aj poradca, ktorý dokáže
+kombinovať vedecky overené stratégie so skúsenosťami z klinickej praxe. Takýto prístup
+umožňuje vytvoriť prostredie, v ktorom je spánok pacienta podporovaný nielen fyzicky, ale aj
+psychicky, a zároveň poskytuje podklad pre kontinuálne zlepšovanie kvality ošetrovateľskej
+starostlivosti, čo je kľúčové pre optimalizáciu hospitalizačného procesu a podporu regenerácie
+organizmu (Nicolas a kol., 2008).
+
+28
+
+Plánovanie nočných ošetrovateľských úkonov predstavuje jednu z najdôležitejších
+stratégií na podporu nerušeného spánku hospitalizovaných pacientov. Systematické časovanie
+výkonov, ako sú podávanie liekov, meranie vitálnych funkcií, vykonávanie hygienickej
+starostlivosti či iné nevyhnutné zásahy, umožňuje minimalizovať počet prerušení spánku a
+zabezpečiť kontinuitu nočného odpočinku. Dobre premyslený harmonogram ošetrovateľských
+činností zároveň zohľadňuje individuálne potreby pacienta, jeho zdravotný stav a
+predchádzajúce spánkové zvyklosti, čo zvyšuje účinnosť plánovania a podporuje optimálnu
+regeneráciu. Efektívne plánovanie vyžaduje úzku spoluprácu medzi sestrami, lekármi a ďalším
+zdravotníckym personálom, pričom prioritou je nielen bezpečnosť pacienta, ale aj
+minimalizovanie zbytočných zásahov, ktoré by mohli narušiť jeho spánkový cyklus (Šupínová
+a kol., 2025).
+Minimalizácia rušivých zásahov počas noci je ďalším kľúčovým opatrením, ktoré
+priamo ovplyvňuje spánok pacienta. Tento prístup zahŕňa zoskupovanie všetkých potrebných
+ošetrovateľských úkonov tak, aby pacient mohol prespať čo najdlhšie intervaly bez
+prerušovania. Zároveň sa kladie dôraz na redukciu hluku, obmedzenie vstupov do izby na
+nevyhnutnú mieru, úpravu osvetlenia a optimalizáciu používania monitorovacích či
+technických zariadení, ktoré môžu generovať rušivé podnety. Takéto opatrenia pomáhajú
+predchádzať fragmentácii spánku, podporujú prechod pacienta do hlbokých a regeneračných
+fáz spánku a zároveň prispievajú k zníženiu stresu a zvýšeniu psychickej pohody počas
+hospitalizácie (Johansson, Oléni & Fridlund, 2005).
+Komunikácia a dôkladné informovanie pacienta o plánovaných nočných výkonoch je
+neoddeliteľnou súčasťou kvalitnej ošetrovateľskej starostlivosti. Pacient, ktorý je oboznámený
+s tým, kedy a prečo bude prebudený, vníma tieto úkony ako menej stresujúce a má väčší pocit
+kontroly nad situáciou, čo výrazne znižuje úzkosť a napätie. Transparentná komunikácia
+umožňuje pacientovi aktívne sa zapojiť do spolupráce, predvídať zásahy a lepšie sa adaptovať
+na prostredie nemocnice. Týmto spôsobom sa nepriamo zlepšuje jeho spánok, podporuje
+regenerácia organizmu a zvyšuje celková spokojnosť pacienta so zdravotnou starostlivosťou
+(Helakari a kol., 2023).
+Úprava prostredia predstavuje jeden z kľúčových faktorov podporujúcich spánok
+hospitalizovaných pacientov. Zabezpečenie ticha, vhodnej teploty, regulácia osvetlenia a
+komfortná posteľná výbava tvoria základné podmienky pre oddych a regeneráciu organizmu.
+Eliminácia rušivých podnetov, ako sú hluk spôsobený personálom, pohyb iných pacientov
+alebo prevádzka technických zariadení, a optimalizácia svetelných podmienok počas nočných
+hodín výrazne znižuje fragmentáciu spánku. Takéto opatrenia prispievajú k zachovaniu
+29
+
+prirodzeného cirkadiánneho rytmu pacienta, čím podporujú prechod do hlbokých
+regeneračných fáz spánku a efektívnejšie zotavenie organizmu (Nicolas a kol., 2008).
+Individuálny prístup k pacientovi je ďalším neoddeliteľným aspektom podpory spánku,
+ktorý zahŕňa flexibilné prispôsobenie ošetrovateľských intervencií jeho potrebám,
+preferenciám a zdravotnému stavu. Každý pacient má odlišný spánkový rytmus, citlivosť na
+hluk, osvetlenie alebo bolesť, a preto je nevyhnutné, aby sestra dokázala pružne reagovať na
+tieto individuálne odlišnosti. Takýto prístup zvyšuje komfort pacienta, znižuje stres a úzkosť a
+podporuje jeho schopnosť regenerovať počas spánku, čím sa zlepšuje nielen fyzické, ale aj
+psychické zotavenie počas hospitalizácie (Fąfara & Krakowiak-Burdzy, 2024).
+Význam edukácie a empatie zo strany sestier nemožno podceňovať. Edukácia pacienta
+o význame spánku, možnostiach relaxačných techník a optimalizácii prostredia umožňuje
+pacientovi aktívne participovať na zlepšení svojho odpočinku. Empatia sestry, jej ochota
+počúvať a rešpektovať individuálne potreby pacienta, zvyšuje dôveru, psychickú pohodu a
+motiváciu spolupracovať pri zachovaní celkového spánku. Takýto prístup nielenže podporuje
+regeneráciu, ale aj zlepšuje celkové vnímanie hospitalizácie a spokojnosť pacienta so
+zdravotnou starostlivosťou (Frisk & Nordström, 2003).
+Prevencia narušeného spánku predstavuje integrálnu súčasť komplexnej kvality
+ošetrovateľskej starostlivosti. Proaktívne identifikovanie faktorov, ktoré môžu spánok pacienta
+rušiť, a následná implementácia preventívnych opatrení znižuje výskyt problémov so
+zaspávaním, prerušovaným spánkom či predčasným ranným prebúdzaním. Takýto preventívny
+prístup prispieva k lepšej regenerácii, skráteniu dĺžky hospitalizácie a celkovej spokojnosti
+pacienta. Zároveň podporuje holistický prístup k starostlivosti, ktorý zohľadňuje fyziologické,
+psychické a sociálne potreby hospitalizovaného človeka a optimalizuje celkovú kvalitu
+ošetrovateľských služieb (Utli, Dinç & Oner, 2023).
+Na záver teoretickej časti je možné konštatovať, že spánok predstavuje kľúčový faktor
+pre regeneráciu, fyzické aj psychické zdravie hospitalizovaných pacientov, pričom jeho kvalita
+je ovplyvnená kombináciou interných, externých a ošetrovateľských faktorov. Identifikácia a
+hodnotenie týchto faktorov prostredníctvom subjektívnych metód, systematického pozorovania
+a využitia štandardizovaných škál umožňuje sestrám komplexne zhodnotiť spánok pacienta a
+stanoviť cielené intervencie. Ošetrovateľské opatrenia, ako plánovanie nočných úkonov,
+minimalizácia rušivých podnetov, úprava prostredia, individuálny prístup, edukácia a
+prevencia, sú základom podpory spánku a regenerácie počas hospitalizácie (Walker, 2018).
+Dôležitým záverom je, že účinná starostlivosť o spánok pacienta vyžaduje integrovaný
+a holistický prístup, ktorý kombinuje klinické poznatky, praktické skúsenosti a aktívnu
+30
+
+spoluprácu pacienta. Takýto prístup nielen zlepšuje spánok a psychickú pohodu pacienta, ale
+zároveň podporuje efektivitu liečby, skrátenie doby hospitalizácie a celkovú spokojnosť s
+poskytovanou zdravotnou starostlivosťou (Hultman a kol., 2012).
+Tieto poznatky vytvárajú pevný teoretický základ pre návrh a realizáciu empirickej časti
+práce, v ktorej bude skúmaná frekvencia, vnímaná rušivosť a účinnosť ošetrovateľských
+intervencií pri podpore spánku hospitalizovaných pacientov.
+
+31
+
+2. VÝSKUM
+Spánok predstavuje základný fyziologický proces nevyhnutný pre regeneráciu
+organizmu a udržanie psychickej pohody. Hospitalizovaní pacienti však často čelia
+prerušovaniu nočného odpočinku, čo môže negatívne ovplyvniť liečbu, adaptačné mechanizmy
+a celkovú spokojnosť so starostlivosťou. Medzi hlavné rušivé faktory patrí častá intervencia
+personálu počas noci – meranie vitálnych funkcií, podávanie liekov, ošetrovanie a kontroly
+zdravotného stavu – ako aj exogénne faktory nemocničného prostredia, napríklad hluk, svetlo,
+časté vstupy personálu či pôsobenie monitorovacích a klimatizačných zariadení.
+Individuálne rozdiely medzi pacientmi, ako sú vek, zdravotný stav, dĺžka hospitalizácie či
+predchádzajúce spánkové zvyklosti, modulujú vnímanie rušenia a schopnosť regenerácie počas
+noci. Táto práca sa preto zameriava na systematické zmapovanie týchto faktorov a ich vplyvu
+na narušenie spánku hospitalizovaných pacientov, s cieľom identifikovať možnosti
+ošetrovateľských intervencií, ktoré by mohli minimalizovať rušenie spánku a podporiť
+optimálnu regeneráciu pacientov počas hospitalizácie.
+
+2.1. Problém výskumu
+Narušený spánok hospitalizovaných pacientov v súvislosti s nemocničným prostredím
+a ošetrovateľskými intervenciami.
+Hlavný cieľ výskumu:
+Zistiť, ako nemocničné prostredie a ošetrovateľské intervencie ovplyvňujú narušený
+spánok hospitalizovaných pacientov na Neurochirurgickej klinike SZU, BB.
+Vedľajšie ciele výskumu:
+1. Zistiť súvislosť medzi vekom a pohlavím pacientov a výskytom skorého prebúdzania
+počas hospitalizácie.
+2. Zistiť súvislosť medzi pohlavím pacientov a mierou rušenia spánku spôsobenou
+tepelným diskomfortom na izbe a pri nočnom meraní vitálnych funkcií.
+3. Zistiť súvislosť medzi počtom pacientov na izbe a mierou rušenia spánku pri nočných
+kontrolách zdravotného stavu a pri nočnom podávaní liekov.
+
+32
+
+4. Zistiť súvislosť medzi počtom pacientov na izbe a mierou rušenia spánku exogénnymi
+faktormi prostredia počas noci.
+5. Zistiť súvislosť medzi dĺžkou hospitalizácie a hodnotením informovanosti pacientov o
+plánovaných nočných výkonoch.
+Hypotézy:
+H1 -
+
+Existuje štatisticky významná súvislosť medzi vekom pacienta a výskytom
+
+skorého prebúdzania počas hospitalizácie.
+H2 - Existuje štatisticky významná súvislosť medzi pohlavím pacienta a výskytom
+skorého prebúdzania počas hospitalizácie
+H3 - Existuje štatisticky významná súvislosť medzi pohlavím pacienta a mierou
+tepelného diskomfortu na izbe počas hospitalizácie.
+H4 - Existuje štatisticky významná súvislosť medzi dĺžkou hospitalizácie a mierou
+rušenia spánku pri nočnom meraní vitálnych funkcií.
+H5 - Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a mierou
+rušenia spánku pri nočných kontrolách zdravotného stavu počas hospitalizácie.
+H6 -
+
+Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a
+
+rušením spánku pri nočnom podávaní liekov počas hospitalizácie.
+H7 -
+
+Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a
+
+výskytom exogénnych rušivých faktorov prostredia počas noci.
+H7a Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a
+vnímaním rušenia spánku hlukom personálu počas hospitalizácie.
+H7b Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a
+vnímaním rušenia spánku zapínaním svetiel počas nočnej starostlivosti.
+H7c
+
+Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a
+
+vnímaním rušenia spánku častými vstupmi personálu do izby.
+H8
+
+-
+
+Existuje štatisticky významná súvislosť medzi dĺžkou hospitalizácie a
+
+hodnotením informovanosti o nočných výkonoch počas hospitalizácie.
+
+2.2.Charakteristika výskumnej vzorky
+Výber respondentov do výskumného súboru bol realizovaný formou zámerného výberu.
+Do výskumu sa zapojilo 101 hospitalizovaných pacientov, ktorí boli ochotní vyplniť dotazník.
+33
+
+Táto vzorka zahŕňa dospelých pacientov hospitalizovaných na Neurochirurgickej klinike SZU
+odd. v Banskej Bystrici, pričom boli zahrnutí pacienti rôznych vekových kategórií, pohlavia,
+dĺžky a typu hospitalizácie, ako aj počtu pacientov na izbe. Výber vzorky bol zameraný na
+získanie reprezentatívnych informácií o subjektívnom vnímaní spánku a rušivých faktoroch v
+nemocničnom prostredí.
+Tabuľka 3. Sumár a rozloženie výskumnej vzorky.
+( A ) Vek
+
+n
+
+%
+
+61 a viac
+
+42
+
+41.58
+
+46–60 rokov
+
+37
+
+36.63
+
+31–45 rokov
+
+15
+
+14.85
+
+18–30 rokov
+
+7
+
+6.93
+
+( B ) Pohlavie
+
+n
+
+%
+
+Žena
+
+56
+
+55.45
+
+Muž
+
+45
+
+44.55
+
+( C ) Dĺžka hospitalizácie
+
+n
+
+%
+
+4–7 dní
+
+64
+
+63.37
+
+8–14 dní
+
+21
+
+20.79
+
+1–3 dni
+
+16
+
+15.84
+
+( D ) Typ hospitalizácie
+
+n
+
+%
+
+Plánovaný
+
+82
+
+81.19
+
+Akútny neplánovaný
+
+19
+
+18.81
+
+( E ) Počet pacientov na izbe
+
+n
+
+%
+
+2 pacienti na izbe
+
+51
+
+50.50
+
+3 pacienti na izbe
+
+39
+
+38.61
+
+Som sám na izbe
+
+11
+
+10.89
+
+101
+
+100%
+
+Celkom
+
+Poznámky: n = absolútna početnosť, % = relatívna početnosť.
+
+2.3.Metodika výskumu
+Za výskumný nástroj na zber dát bol použitý dotazník vlastnej konštrukcie (viď Príloha
+A). Tento prístup umožnil cielene získať relevantné informácie priamo od hospitalizovaných
+34
+
+pacientov a prispel k presnej evaluácii ich spánku a rušivých faktorov, vrátane ošetrovateľských
+intervencií a exogénnych vplyvov nemocničného prostredia. Dotazník bol navrhnutý tak, aby
+zachytil široké spektrum aspektov ovplyvňujúcich spánok pacientov,
+
+problémov so
+
+zaspávaním a udržiavaním spánku, pocitu únavy, ako aj vnímania jednotlivých nočných
+zásahov personálu.
+Dotazník obsahoval 27 otázok, koncipovaných tak, aby pokryli kľúčové faktory
+ovplyvňujúce spánok počas hospitalizácie. Otázky kombinovali rôzne formáty, uzavreté,
+škálové (Likertova škála 1–5) a takisto otvorené otázky, čo umožnilo získať štruktúrované
+kvantitatívne údaje a zároveň zachytiť kvalitatívne aspekty subjektívnych skúseností pacientov.
+Každá otázka bola starostlivo vybraná tak, aby reflektovala teoretické poznatky o spánku,
+vplyve ošetrovateľských zásahov a faktoroch prostredia, ako aj individuálne rozdiely medzi
+pacientmi a mierou k rušivým podnetom.
+Štatistické spracovanie
+Na spracovanie a analýzu získaných dát bola použitá kombinácia deskriptívnej a
+inferenčnej štatistiky, ktorá bola realizovaná v štatistickom prostredí RStudio. RStudio
+umožnilo efektívne spracovanie dát, výpočet základných ukazovateľov, vizualizáciu výsledkov
+a vykonanie štatistických testov (R Core Team, 2026).
+V rámci deskriptívnej štatistiky boli vypočítané absolútne a relatívne frekvencie,
+priemer, medián, štandardná odchýlka a ďalšie ukazovatele popisujúce rozloženie sledovaných
+premenných. Tento postup poskytol prehľad o charakteristikách výskumnej vzorky,
+subjektívnej kvalite spánku a intenzite rušivých faktorov počas hospitalizácie.
+Na overenie vzťahov medzi kategóriami premenných bol použitý Pearsonov Chikvadrát test nezávislosti, ktorý umožnil posúdiť štatisticky významné súvislosti medzi
+demografickými premennými (vek, pohlavie, dĺžka hospitalizácie, počet pacientov na izbe) a
+jednotlivými položkami dotazníka (Pandis, 2016). Výsledky boli interpretované pri hladine
+významnosti α = 0,05. Kombinácia deskriptívnych ukazovateľov a Chi-kvadrát testov v
+RStudiu poskytla komplexný analytický rámec pre identifikáciu faktorov, ktoré vplývajú na
+narušenie spánku hospitalizovaných pacientov. Tento metodický prístup zabezpečil objektívny
+a spoľahlivý základ pre interpretáciu výsledkov empirickej časti práce.
+Analýza získaných dát prebiehala v niekoľkých fázach s cieľom systematicky spracovať
+informácie a poskytnúť prehľad o faktoroch ovplyvňujúcich spánok hospitalizovaných
+pacientov. V prvej fáze boli údaje z dotazníkov skontrolované z hľadiska úplnosti a
+35
+
+konzistencie, aby sa zabezpečila kvalita a spoľahlivosť dát. Následne boli všetky odpovede
+kódované a spracované v elektronickej databáze, čo umožnilo efektívnu aplikáciu štatistických
+metód a prehľadnú vizualizáciu výsledkov.
+V druhej fáze bola vykonaná deskriptívna štatistika, ktorá zahŕňala výpočet priemerov,
+mediánov, štandardných odchýlok a frekvencií pre jednotlivé premenné, vrátane hodnotenia
+kvality spánku, problémov so zaspávaním a udržiavaním spánku, ako aj mieru ošetrovateľských
+a exogénnych rušivých faktorov. Tento krok poskytol prehľad o rozložení hodnôt v rámci celej
+vzorky a umožnil identifikovať základné trendy a výskyt kritických problémov.
+V tretej fáze bola vykonaná inferenčná analýza, pričom pre porovnanie skupín pacientov
+podľa veku, dĺžky a typu hospitalizácie alebo počtu pacientov na izbe bol použitý Pearsonov
+chí-kvadrát test pre nezávislé vzorky (Pandis, 2016). Tento postup umožnil zistiť, či sú rozdiely
+v subjektívnom hodnotení spánku a vnímaní rušivých zásahov štatisticky významné. Celkový
+analytický postup bol navrhnutý tak, aby kombinoval objektívne štatistické vyhodnotenie s
+interpretáciou v kontexte klinickej praxe, čím poskytuje komplexný pohľad na problematiku
+narušeného spánku u hospitalizovaných pacientov a podklad pre návrh zlepšujúcich
+ošetrovateľských intervencií.
+
+2.4. Organizácia výskumu
+V prípravnej etape sme sa sústredili na podrobnú analýzu súčasného stavu poznania
+problematiky spánku u hospitalizovaných pacientov prostredníctvom štúdia domácej a
+zahraničnej odbornej literatúry. Súbežne prebiehalo mapovanie prostredia Neurochirurgickej
+kliniky SZU v Banskej Bystrici a príprava výskumného nástroja – dotazníka vlastnej
+konštrukcie. Koncom novembra 2025 sme podali oficiálnu žiadosť o povolenie realizácie
+výskumu námestníčke pre ošetrovateľskú starostlivosť. Po schválení žiadosti a obdržaní
+oficiálneho potvrdenia o realizácii výskumu dňa 2. 12. 2025 sme pristúpili k finálnej úprave
+výskumného nástroja. Dotazník vlastnej konštrukcie bol v úvode doplnený o inštrukcie pre
+respondentov, ktoré obsahovali jasnú deklaráciu o anonymite zberu údajov a informáciu o tom,
+že výsledky budú použité výhradne pre účely diplomovej práce.
+V druhej etape samotný zber empirických údajov prebiehal na Neurochirurgickej
+klinike SZU v Banskej Bystrici v období od 2. decembra 2025 do 16. februára 2026. Dotazníky
+boli pacientom distribuované v tlačenej forme po predchádzajúcom osobnom poučení.
+Respondenti boli v úvode dotazníka písomne ubezpečení, že ich odpovede sú anonymné, čo
+
+36
+
+malo za cieľ zvýšiť dôveru pri vypĺňaní a zabezpečiť objektivitu získaných dát. Celkovo sa do
+výskumu zapojilo 101 respondentov, ktorí odovzdali kompletne vyplnený výskumný nástroj.
+V poslednej etape po ukončení zberu dát boli získané údaje prepísané do elektronickej
+podoby v tabuľkovom programe Microsoft Excel. V rámci kontroly kvality sme do záverečnej
+analýzy vybrali len tie dotazníky, ktoré boli respondentmi úplne vyplnené. Dáta boli následne
+podrobené štatistickej analýze v prostredí RStudio, kde bola s využitím Pearsonovho Chikvadrát testu realizovaná verifikácia stanovených hypotéz.
+Limity výskumu
+Výskum sa realizoval výhradne na Neurochirurgickej klinike SZU v Banskej Bystrici.
+Výsledky sú determinované špecifickou architektúrou oddelenia a jeho organizačnou kultúrou,
+čo obmedzuje ich všeobecnú prenositeľnosť na iné zdravotnícke zariadenia. Výrazným
+obmedzením bol nedostatok aktuálnej odbornej literatúry zameranej cielene na ošetrovateľské
+intervencie v súvislosti so spánkom, čo si vyžiadalo čerpanie primárne zo zahraničných zdrojov,
+ktoré sa môžu líšiť v systéme organizácie nočnej starostlivosti. Počas distribúcie dotazníkov
+sme sa stretli s odmietnutím účasti zo strany niektorých pacientov. Dôvodom bol najmä
+nezáujem o tému výskumu alebo subjektívny pocit nedostatku času počas hospitalizácie.
+Vzhľadom
+
+na charakter kliniky
+
+boli respondenti
+
+v rôznom
+
+štádiu
+
+pooperačnej
+
+rekonvalescencie. Fyzické obmedzenia, kedy pacienti pre bolesti alebo obmedzenú hybnosť
+nemohli zaujať polohu v sede, si vyžiadali modifikáciu vypĺňania – viacerí respondenti
+odpovede diktovali v polohe ležmo alebo v stoji. Táto skutočnosť mohla viesť k tomu, že
+pacient môže mať tendenciu odpovedať „pozitívnejšie“ v prítomnosti personálu. Zber dát
+prebiehal od decembra do februára. Významným limitom bol náš zámerný prístup k
+načasovaniu distribúcie dotazníkov. V snahe získať čo najobjektívnejšie dáta o vplyve
+ošetrovateľských intervencií na spánok sme dotazníky distribuovali v dňoch, kedy pacienti
+neboli v akútnej pooperačnej fáze a neboli zaťažení intenzívnou rehabilitáciou. Hoci tento krok
+eliminoval extrémne skreslenie odpovedí akútnou bolesťou, zároveň to znamená, že výsledky
+nemusia plne reflektovať skúsenosti pacientov v tých najnáročnejších dňoch hospitalizácie,
+kedy je miera narušenia spánku pravdepodobne najvyššia.
+
+37
+
+3. VYHODNOTENIE
+Výskum bol zameraný na hodnotenie spánku hospitalizovaných pacientov a na analýzu
+faktorov, ktoré tento spánok najčastejšie narúšajú. Na základe údajov získaných
+prostredníctvom dotazníka sme vyhodnotili subjektívne hodnotenie spánku, vnímanie
+ošetrovateľských intervencií a pôsobenie exogénnych vplyvov nemocničného prostredia.
+Získané výsledky zároveň umožnili porovnať rozdiely medzi pacientmi s rôznymi
+demografickými charakteristikami a identifikovať faktory, ktoré boli štatisticky významne
+spojené s nočným odpočinkom.
+
+3.1. Demografické údaje
+Tabuľka 4 poskytuje prehľadné zhrnutie demografických údajov respondentov podľa
+veku, pohlavia a dĺžky hospitalizácie. Do výskumu sa zapojilo 101 pacientov, pričom
+najpočetnejšie zastúpenie tvorila veková skupina 61 a viac rokov, nasledovaná skupinou 46–60
+rokov. Rozdelenie podľa pohlavia ukazuje miernu prevahu žien nad mužmi, zatiaľ čo väčšina
+respondentov bola hospitalizovaná 4–7 dní. Tieto základné charakteristiky vzorky vytvárajú
+kontext pre interpretáciu ďalších výsledkov a sú detailne uvedené v Tabuľke 4.
+Tabuľka 4. Počet respondentov podľa veku, pohlavia a ich dĺžky hospitalizácie.
+Vek a dĺžka hospitalizácie
+18–30 rokov
+1–3 dni
+4–7 dní
+8–14 dní
+31–45 rokov
+1–3 dni
+4–7 dní
+8–14 dní
+46–60 rokov
+1–3 dni
+4–7 dní
+8–14 dní
+61 a viac
+1–3 dni
+4–7 dní
+8–14 dní
+Celkom spolu
+
+Muž
+3
+0
+3
+0
+8
+1
+3
+4
+15
+1
+11
+3
+19
+3
+11
+5
+45
+38
+
+Žena
+4
+0
+3
+1
+7
+0
+6
+1
+22
+8
+9
+5
+23
+3
+18
+2
+56
+
+Spolu
+7
+0
+6
+1
+15
+1
+9
+5
+37
+9
+20
+8
+42
+6
+29
+7
+101
+
+Tabuľka 5 zachytáva rozloženie respondentov podľa veku, pohlavia a počtu pacientov
+na izbe. Z údajov vyplýva, že najviac pacientov bolo umiestnených na dvojlôžkových izbách,
+zatiaľ čo najmenej ich spalo samostatne. V každej vekovej kategórii bol zároveň zachovaný
+pomerne vyrovnaný pomer medzi mužmi a ženami. Tieto informácie dopĺňajú demografický
+profil vzorky a umožňujú lepšie pochopiť možné rozdiely vo vnímaní rušivých faktorov v
+závislosti od typu hospitalizačnej izby, ako je uvedené v Tabuľke 5.
+Tabuľka 5. Počet respondentov podľa veku, pohlavia a počtu pacientov na izbe.
+Vek a počet pacientov
+18–30 rokov
+Som sám na izbe
+2 pacienti na izbe
+3 pacienti na izbe
+31–45 rokov
+Som sám na izbe
+2 pacienti na izbe
+3 pacienti na izbe
+46–60 rokov
+Som sám na izbe
+2 pacienti na izbe
+3 pacienti na izbe
+61 a viac
+Som sám na izbe
+2 pacienti na izbe
+3 pacienti na izbe
+Celkom spolu
+
+Muž
+3
+0
+1
+2
+8
+1
+3
+4
+15
+1
+9
+5
+19
+3
+8
+8
+45
+
+Žena
+4
+0
+3
+1
+7
+0
+4
+3
+22
+4
+14
+4
+23
+2
+9
+12
+56
+
+Spolu
+7
+0
+4
+3
+15
+1
+7
+7
+37
+5
+23
+9
+42
+5
+17
+20
+101
+
+Graf 1 vizuálne zobrazuje rozloženie respondentov podľa veku, pohlavia, dĺžky
+hospitalizácie a počtu pacientov na izbe, čím dopĺňa numerické údaje uvedené v tabuľkách.
+Grafické spracovanie umožňuje rýchle porovnanie zastúpenia jednotlivých skupín, pričom je
+zreteľné, že najväčší podiel pacientov tvorili osoby vo veku 61 a viac rokov a prevažná väčšina
+bola ubytovaná na dvoj- a trojlôžkových izbách. Tento vizuálny prehľad uľahčuje interpretáciu
+demografickej štruktúry vzorky a poskytuje kontext pre následnú analýzu faktorov
+ovplyvňujúcich spánok, ako je znázornené v grafe 1.
+
+39
+
+8–14
+dní
+4–7 dní
+
+3 pacienti na izbe
+
+8–14 dní
+
+3 pacienti na izbe
+
+2
+
+2 pacienti na izbe
+
+2
+
+2 pacienti na izbe
+
+1
+
+3 pacienti na izbe
+
+1
+
+2 pacienti na izbe
+
+1
+
+Som sám na izbe
+
+1
+
+3 pacienti na izbe
+
+1
+
+3 pacienti na izbe
+
+1
+
+2 pacienti na izbe
+
+1
+
+2
+3
+3
+
+2
+2
+
+Som sám na izbe
+
+2
+
+3 pacienti na izbe
+
+2
+
+Žena
+3
+
+Muž
+5
+
+1–3 dni
+
+2 pacienti na izbe
+1
+
+3 pacienti na izbe
+
+1
+
+2 pacienti na izbe
+
+1
+
+3 pacienti na izbe
+
+4–7 dní
+
+3
+
+1
+
+8–14 dní
+
+4–7 dní
+
+1
+
+Som sám na izbe
+
+1–3 dni
+
+61 a viac
+
+46–60 rokov
+
+8–14 dní
+
+1–3
+dni
+
+4–7 dní
+
+18–30 rokov
+31–45 rokov
+
+3 pacienti na izbe
+
+2
+
+7
+2
+
+2 pacienti na izbe
+
+7
+
+4
+
+1
+
+3 pacienti na izbe
+
+4
+
+2 pacienti na izbe
+
+4
+
+Som sám na izbe
+
+2
+
+3 pacienti na izbe
+
+2
+1
+
+2 pacienti na izbe
+0
+
+8
+8
+
+3
+
+3
+2
+
+4
+
+6
+
+8
+
+10
+
+Graf 1. Počet respondentov podľa veku, pohlavia, dĺžky hosp. a počtu pacientov na izbe.
+40
+
+3.2. Výsledky z dotazníka
+Výsledky získané prostredníctvom dotazníka boli analyzované v rámci štyroch
+tematických domén, ktoré odrážajú hlavné oblasti skúmania spánku hospitalizovaných
+pacientov.
+3.2.1. Doména 1: Hodnotenie spánku počas hospitalizácie
+Otázka č. 7) Aký je celkový spánok u Vás počas hospitalizácie?
+Výsledky z dotazníka na otázku č. 7 sú zobrazené v grafe 2 pričom 2% (n=2) mužov
+uvádza, že ich spánok je počas hospitalizácie veľmi zlý, 6% (n=6) hodnotí spánok ako skôr zlý,
+25% (n=25) ako priemerný, 11% (n=11) ako skôr dobrý a 1% (n=1) ako veľmi dobrý. U žien
+3% (n=3) hodnotia spánok ako veľmi zlý, 6% (n=6) ako skôr zlý, 32% (n=32) ako priemerný,
+9% (n=9) ako skôr dobrý a 6% (n=6) ako veľmi dobrý. Najvyšší podiel odpovedí u oboch
+pohlaví predstavuje hodnotenie priemerný spánok.
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+Muž
+Žena
+
+Veľmi zlý
+1,98%
+2,97%
+
+Skôr zlý
+5,94%
+5,94%
+
+Priemerný
+24,75%
+31,68%
+
+Skôr dobrý
+10,89%
+8,91%
+
+Veľmi dobrý
+0,99%
+5,94%
+
+Graf 2. Celkový spánok počas hospitalizácie.
+Otázka č. 8) Je Váš spánok horší ako doma?
+Výsledky z dotazníka na otázku č. 8 sú zobrazené na grafe 3 pričom 1% (n=1) mužov
+uvádza, že spánok je oveľa horší, 19% (n=19) že je horší, 18% (n=18) že je rovnaký, 1% (n=1)
+odpovedá skôr nie a 6% (n=6) uvádza, že spánok vôbec nie je horší. U žien 2% (n=2) uvádzajú,
+že je oveľa horší, 19% (n=19) že je horší, 18% (n=18) že je rovnaký, 11% (n=11) odpovedá
+41
+
+skôr nie a 6% (n=6) ženy hodnotia, že spánok v nemocnici vôbec nie je horší. Najčastejšou
+odpoveďou u oboch pohlaví je, že spánok je horší ako doma.
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+Muž
+Žena
+
+Je oveľa
+horší
+0,99%
+1,98%
+
+Je horší
+
+Rovnaký
+
+Skôr nie
+
+Vôbec nie
+
+18,81%
+18,81%
+
+17,82%
+17,82%
+
+0,99%
+10,89%
+
+5,94%
+5,94%
+
+Graf 3. Spánok horší ako doma
+Otázka č. 9) Máte problém zaspať?
+Výsledky z dotazníka na otázku č. 9 sú zobrazené v grafe 4 pričom 11% (n=11) mužov
+uvádza, že problém zaspať vôbec nemajú, 10% (n=10) odpovedá skôr nie, 18% (n=18) má
+problém zaspať niekedy, 4% (n=4) často a 2% (n=2) vždy. U žien 18% (n=18) problém zaspať
+vôbec nemá, 8% (n=8) uvádza skôr nie, 15% (n=15) má problém zaspať niekedy, 14% (n=14)
+často a 1% (n=1) vždy. Najvyšší podiel mužov uvádza, že problém majú niekedy, zatiaľ čo
+ženy najčastejšie odpovedajú, že ho vôbec nemajú.
+
+42
+
+20,00%
+18,00%
+16,00%
+14,00%
+12,00%
+10,00%
+8,00%
+6,00%
+4,00%
+2,00%
+0,00%
+Muž
+Žena
+
+Vôbec nie
+10,89%
+17,82%
+
+Skôr nie
+9,90%
+7,92%
+
+Niekedy áno
+17,82%
+14,85%
+
+Často
+3,96%
+13,86%
+
+Vždy
+1,98%
+0,99%
+
+Graf 4. Problém zaspať
+Otázka č. 10) Máte problém zotrvať v spánku?
+Výsledky z dotazníka na otázku č. 10 sú zobrazené v grafe 5 pričom 9% (n=9) mužov
+uvádza, že problém zotrvať v spánku vôbec nemá, 5% (n=5) skôr nie, 20% (n=20) niekedy, 9%
+(n=9) často a 2% (n=2) vždy. U žien 10% (n=10) problém vôbec nemá, 7% (n=7) skôr nie, 25%
+(n=25) niekedy, 11% (n=11) často a 3% (n=3) vždy. Najčastejšou odpoveďou v oboch
+skupinách je, že problémy so zotrvaním v spánku sa objavujú niekedy.
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+Muž
+Žena
+
+Vôbec nie
+8,91%
+9,90%
+
+Skôr nie
+4,95%
+6,93%
+
+Niekedy áno
+19,80%
+24,75%
+
+Často
+8,91%
+10,89%
+
+Graf 5. Problém zotrvať v spánku
+
+43
+
+Vždy
+1,98%
+2,97%
+
+Otázka č. 11) Vyskytuje sa u Vás skoré prebúdzanie sa?
+Výsledky z dotazníka na otázku č. 11 sú zobrazené v grafe 6 pričom 14% (n=14) mužov
+uvádza, že skoré prebúdzanie sa vôbec nevyskytuje, 7% (n=7) zriedkavo, 8% (n=8) občas, 14%
+(n=14) často a 2% (n=2) vždy. U žien 7% (n=7) odpovedá vôbec nie, 15% (n=15) zriedkavo,
+19% (n=19) občas, 8% (n=8) často a 7% (n=7) vždy. Najvyšší podiel odpovedí u mužov je
+rovnaký pri možnostiach vôbec nie a často (14%), u žien najčastejšie ide o odpoveď občas.
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+Muž
+Žena
+
+Vôbec nie
+13,86%
+6,93%
+
+Zriedkavo
+6,93%
+14,85%
+
+Občas
+7,92%
+18,81%
+
+Často
+13,86%
+7,92%
+
+Vždy
+1,98%
+6,93%
+
+Graf 6. Skoré prebúdzanie
+Otázka č. 12) Cítite sa ráno unavený?
+Výsledky z dotazníka na otázku č. 12 sú zobrazené v grafe 7 pričom 23% (n=23) mužov
+uvádza, že sa ráno necítia unavení vôbec, 10% (n=10) trochu, 10% (n=10) stredne, 2% (n=2)
+dosť a 0% (n=0) veľmi. U žien 21% (n=21) odpovedá vôbec nie, 18% (n=18) trochu, 11%
+(n=11) stredne, 3% (n=3) dosť a 3% (n=3) veľmi. Najčastejšou odpoveďou v oboch skupinách
+je, že sa ráno vôbec necítia unavení.
+
+44
+
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+Muž
+Žena
+
+Vôbec nie
+22,77%
+20,79%
+
+Trochu
+9,90%
+17,82%
+
+Stredne
+9,90%
+10,89%
+
+Dosť
+1,98%
+2,97%
+
+Veľmi
+0,00%
+2,97%
+
+Graf 7. Ranná únava
+Otázka č. 13) Lieky na spánok užívam:
+Výsledky z dotazníka na otázku č. 13 sú zobrazené v grafe 8 pričom 30% (n=30) mužov
+uvádza, že lieky na spánok neužívajú, 5% (n=5) ich užívajú občas, 1% (n=1) ojedinele a 9%
+(n=9) ich užívajú pravidelne. U žien 35% (n=35) lieky neužíva, 11% (n=11) ich užíva občas,
+5% (n=5) ojedinele a 5% (n=5) pravidelne. Najvyšší podiel odpovedí u oboch pohlaví
+predstavuje možnosť neužívam lieky na spánok.
+40,00%
+
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Neužívam lieky
+na spánok
+Muž
+29,70%
+Žena
+34,65%
+
+Občas
+
+Ojedinele
+
+4,95%
+10,89%
+
+0,99%
+4,95%
+
+Graf 8. Užívanie liekov na spánok
+
+45
+
+Pravidelne
+(každý deň)
+8,91%
+4,95%
+
+3.2.2. Doména 2: Faktory rušiace spánok zamerané na ošetrovateľské intervencie
+Otázka č. 14) Nočné meranie vitálnych funkcií (TK, pulz, teplota).
+Výsledky z dotazníka na otázku č. 14 sú zobrazené v grafe 9 pričom 8% (n=13)
+pacientov hospitalizovaných 1–3 dni uvádza, že ich nočné meranie vitálnych funkcií vôbec
+neruší, 1% (n=1) to vníma zriedkavo a 2% (n=2) občas, pričom nikto neuvádza rušenie často
+alebo veľmi často. V skupine hospitalizovaných 4–7 dní 36% (n=36) udáva, že ich meranie
+vôbec neruší, 18% (n=18) ho vníma zriedkavo, 7% (n=7) občas a 3% (n=3) veľmi často.
+Respondenti hospitalizovaní 8–14 dní najčastejšie uvádzajú, že ich meranie vôbec neruší (19%,
+n=19), 1% (n=1) odpovedá občas a 1% (n=1) často. Najvyšší podiel odpovedí naprieč
+skupinami predstavuje možnosť, že meranie vôbec neruší.
+
+40,00%
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+1–3 dni
+4–7 dní
+8–14 dní
+
+Vôbec ma
+neruší
+12,87%
+35,64%
+18,81%
+
+Zriedkavo
+
+Občas
+
+Často
+
+Veľmi často
+
+0,99%
+17,82%
+0,00%
+
+1,98%
+6,93%
+0,99%
+
+0,00%
+0,00%
+0,99%
+
+0,00%
+2,97%
+0,00%
+
+Graf 9. Ošetrenie: meranie vitálnych funkcií
+Otázka č. 15) Nočné podávanie liekov (injekcie, infúzie, transfúzie)
+Výsledky z dotazníka na otázku č. 15 sú zobrazené v grafe 10 pričom 15% (n=15)
+pacientov hospitalizovaných 1–3 dni uvádza, že ich nočné podávanie liekov vôbec neruší, zatiaľ
+čo 1% (n=1) ho vníma občas a nikto neudáva časté rušenie. V skupine hospitalizovaných 4–7
+dní 39% (n=39) uvádza, že ich to vôbec neruší, 15% (n=15) zriedkavo, 6% (n=6) občas, 1%
+(n=1) často a 3% (n=3) veľmi často. Respondenti hospitalizovaní 8–14 dní v 16% (n=16)
+uvádzajú, že ich to vôbec neruší, 1% (n=1) zriedkavo, 3% (n=3) občas a 1% (n=1) často.
+Najčastejšou odpoveďou vo všetkých skupinách je, že nočné podávanie liekov vôbec neruší.
+
+46
+
+45,00%
+40,00%
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+1–3 dni
+4–7 dní
+8–14 dní
+
+Vôbec ma
+neruší
+14,85%
+38,61%
+15,84%
+
+Zriedkavo
+
+Občas
+
+Často
+
+Veľmi často
+
+0,00%
+14,85%
+0,99%
+
+0,99%
+5,94%
+2,97%
+
+0,00%
+0,99%
+0,99%
+
+0,00%
+2,97%
+0,00%
+
+Graf 10. Ošetrenie: podávanie liekov
+Otázka č. 16) Ošetrovanie (preväzy, hygienická starostlivosť, manipulácia s pacientom).
+Výsledky z dotazníka na otázku č. 16 sú zobrazené v grafe 11 pričom 15% (n=15)
+pacientov hospitalizovaných 1–3 dni uvádza, že nočné ošetrovanie ich vôbec neruší, 1% (n=1)
+ho vníma občas a v ostatných kategóriách nikto neodpovedá. V skupine hospitalizovaných 4–7
+dní 45% (n=45) uvádza, že ich ošetrovanie vôbec neruší, 11% (n=11) zriedkavo, 5% (n=5)
+občas, 1% (n=1) často a 2% (n=2) veľmi často. Pacienti hospitalizovaní 8–14 dní v 16% (n=16)
+uvádzajú, že ich ošetrovanie vôbec neruší, 3% (n=3) zriedkavo a 2% (n=2) často, ostatné
+odpovede sa nevyskytli. Najvyšší podiel odpovedí predstavuje vo všetkých skupinách možnosť,
+že ošetrovanie vôbec neruší.
+50,00%
+45,00%
+40,00%
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+1–3 dni
+4–7 dní
+8–14 dní
+
+Vôbec ma
+neruší
+14,85%
+44,55%
+15,84%
+
+Zriedkavo
+
+Občas
+
+Často
+
+Veľmi často
+
+0,00%
+10,89%
+2,97%
+
+0,99%
+4,95%
+0,00%
+
+0,00%
+0,99%
+1,98%
+
+0,00%
+1,98%
+0,00%
+
+Graf 11. Ošetrenie: preväzy, hygiena, manipulácia
+47
+
+Otázka č. 17) Kontroly zdravotného stavu (prehliadky zamerané na bezpečnosť).
+Výsledky z dotazníka na otázku č. 17 sú zobrazené v grafe 12 pričom 14% (n=14)
+pacientov hospitalizovaných 1–3 dni uvádza, že ich nočné kontroly zdravotného stavu vôbec
+nerušia, 2% (n=2) ich vnímajú občas a ostatné odpovede sa nevyskytli. V skupine
+hospitalizovaných 4–7 dní 50% (n=50) uvádza, že ich kontroly vôbec nerušia, 5% (n=5)
+zriedkavo, 6% (n=6) občas, 1% (n=1) často a 1% (n=1) veľmi často. Respondenti
+hospitalizovaní 8–14 dní v 16% (n=16) uvádzajú, že ich kontroly vôbec nerušia, 3% (n=3)
+zriedkavo a 2% (n=2) občas. Najvyšší podiel odpovedí vo všetkých skupinách predstavuje, že
+kontroly vôbec nerušia.
+60,00%
+50,00%
+
+40,00%
+30,00%
+20,00%
+10,00%
+
+0,00%
+1–3 dni
+4–7 dní
+8–14 dní
+
+Vôbec ma
+neruší
+13,86%
+50,50%
+15,84%
+
+Zriedkavo
+
+Občas
+
+Často
+
+Veľmi často
+
+0,00%
+4,95%
+2,97%
+
+1,98%
+5,94%
+1,98%
+
+0,00%
+0,99%
+0,00%
+
+0,00%
+0,99%
+0,00%
+
+Graf 12. Ošetrenie: Kontroly zdr. stavu
+3.2.3. Doména 3: Exogénne faktory ovplyvňujúce spánok
+Otázka č. 18) Hluk spôsobený personálom (rozhovor, chôdza, smiech, manipulácia).
+Výsledky z dotazníka na otázku č. 18 sú zobrazené v grafe 13 pričom 7% (n=7)
+pacientov, ktorí sú sami na izbe, uvádza, že ich hluk personálu vôbec neruší, 1% (n=1)
+zriedkavo, 1% (n=1) občas a 2% (n=2) veľmi často. V skupine pacientov na dvojlôžkovej izbe
+32% (n=32) uvádza, že ich hluk vôbec neruší, 7% (n=7) zriedkavo, 10% (n=10) občas a 2%
+(n=2) často. Pacienti na trojlôžkovej izbe najčastejšie uvádzajú, že ich hluk vôbec neruší (28%,
+n=28), 6% (n=6) zriedkavo a 5% (n=5) občas. Najvyšší podiel odpovedí vo všetkých skupinách
+predstavuje možnosť, že hluk spôsobený personálom ich vôbec neruší.
+
+48
+
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Vôbec ma
+neruší
+Som sám na izbe
+6,93%
+2 pacienti na izbe 31,68%
+3 pacienti na izbe 27,72%
+
+Zriedkavo
+
+Občas
+
+Často
+
+0,99%
+6,93%
+5,94%
+
+0,99%
+9,90%
+4,95%
+
+0,00%
+1,98%
+0,00%
+
+Veľmi
+často
+1,98%
+0,00%
+0,00%
+
+Graf 13. Rušivosť: hluk od personálu
+Otázka č. 19) Zapínanie svetiel počas nočnej starostlivosti
+Výsledky z dotazníka na otázku č. 19 sú zobrazené v grafe 14 pričom 5% (n=5)
+pacientov sami na izbe uvádza, že ich zapínanie svetiel vôbec neruší, 3% (n=3) zriedkavo, 1%
+(n=1) občas a 2% (n=2) veľmi často. Na dvojlôžkovej izbe 33% (n=33) uvádza, že ich svetlá
+vôbec nerušia, 5% (n=5) zriedkavo, 10% (n=10) občas, 2% (n=2) často a 1% (n=1) veľmi často.
+Na trojlôžkovej izbe 22% (n=22) hodnotí, že ich svetlá vôbec nerušia, 9% (n=9) zriedkavo, 5%
+(n=5) občas, 3% (n=3) často a nikto neuvádza veľmi často. Najčastejšou odpoveďou vo
+všetkých skupinách je, že zapínanie svetiel pacientov vôbec neruší.
+40,00%
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Vôbec ma
+neruší
+Som sám na izbe
+4,95%
+2 pacienti na izbe 32,67%
+3 pacienti na izbe 21,78%
+
+Zriedkavo
+
+Občas
+
+Často
+
+2,97%
+4,95%
+8,91%
+
+0,99%
+9,90%
+4,95%
+
+0,00%
+1,98%
+2,97%
+
+Graf 14. Rušivosť: zapínanie svetiel
+
+49
+
+Veľmi
+často
+1,98%
+0,99%
+0,00%
+
+Otázka č. 20) Časté vstupy personálu do izby
+Výsledky z dotazníka na otázku č. 20 sú zobrazené v grafe 15 pričom 7% (n=7)
+pacientov sami na izbe uvádza, že ich časté vstupy personálu vôbec nerušia, 1% (n=1)
+zriedkavo, 1% (n=1) občas a 2% (n=2) veľmi často. V skupine pacientov na dvojlôžkovej izbe
+39% (n=39) uvádza, že vstupy ich vôbec nerušia, 6% (n=6) zriedkavo, 6% (n=6) občas a žiadny
+pacient neudáva rušenie často ani veľmi často. Na trojlôžkovej izbe 28% (n=28) odpovedá, že
+vstupy vôbec nerušia, 7% (n=7) zriedkavo, 3% (n=3) občas a 1% (n=1) často. Najčastejšie
+pacienti odpovedajú, že časté vstupy personálu ich vôbec nerušia.
+45,00%
+40,00%
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Vôbec ma
+neruší
+Som sám na izbe
+6,93%
+2 pacienti na izbe 38,61%
+3 pacienti na izbe 27,72%
+
+Zriedkavo
+
+Občas
+
+Často
+
+0,99%
+5,94%
+6,93%
+
+0,99%
+5,94%
+2,97%
+
+0,00%
+0,00%
+0,99%
+
+Veľmi
+často
+1,98%
+0,00%
+0,00%
+
+Graf 15. Rušivosť: časté vstupy do izby
+Otázka č. 21) Pôsobenie signalizačných a monitorovacích zariadení
+Výsledky z dotazníka na otázku č. 21 sú zobrazené v grafe 16 pričom 8% (n=8) pacientov sami
+na izbe uvádza, že ich signalizácia vôbec neruší, 1% (n=1) zriedkavo, 1% (n=1) často a 1%
+(n=1) veľmi často. Na dvojlôžkovej izbe 40% (n=40) uvádza, že ich zariadenia vôbec nerušia,
+8% (n=8) zriedkavo, 3% (n=3) občas a nikto neuvádza časté rušenie. Na trojlôžkovej izbe 29%
+(n=29) hodnotí, že ich zariadenia vôbec nerušia, 7% (n=7) zriedkavo, 2% (n=2) občas a 1%
+(n=1) často. Najčastejšie pacienti uvádzajú, že signalizačné a monitorovacie zariadenia ich
+vôbec nerušia.
+
+50
+
+45,00%
+40,00%
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Vôbec ma
+neruší
+Som sám na izbe
+7,92%
+2 pacienti na izbe 39,60%
+3 pacienti na izbe 28,71%
+
+Zriedkavo
+
+Občas
+
+Často
+
+0,99%
+7,92%
+6,93%
+
+0,00%
+2,97%
+1,98%
+
+0,99%
+0,00%
+0,99%
+
+Veľmi
+často
+0,99%
+0,00%
+0,00%
+
+Graf 16. Rušivosť: zariadenia
+Otázka č. 22) Pôsobenie klimatizácie
+Výsledky z dotazníka na otázku č. 22 sú zobrazené v grafe 17 pričom 5% (n=5)
+pacientov sami na izbe uvádza, že klimatizácia ich vôbec neruší, 2% (n=2) zriedkavo, 2% (n=2)
+občas, 1% (n=1) často a 1% (n=1) veľmi často. Na dvojlôžkovej izbe 31% (n=31) uvádza, že
+klimatizácia ich vôbec neruší, 10% (n=10) zriedkavo, 8% (n=8) občas a 2% (n=2) často. Na
+trojlôžkovej izbe 26% (n=26) uvádza, že ich vôbec neruší, 3% (n=3) zriedkavo, 8% (n=8) občas
+a 2% (n=2) často. Najvyšší podiel odpovedí je, že klimatizácia pacientov vôbec neruší.
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Vôbec ma
+neruší
+Som sám na izbe
+4,95%
+2 pacienti na izbe 30,69%
+3 pacienti na izbe 25,74%
+
+Zriedkavo
+
+Občas
+
+Často
+
+1,98%
+9,90%
+2,97%
+
+1,98%
+7,92%
+7,92%
+
+0,99%
+1,98%
+1,98%
+
+Graf 17. Rušivosť: klimatizácia
+
+51
+
+Veľmi
+často
+0,99%
+0,00%
+0,00%
+
+Otázka č. 23) Prítomnosť tepla na izbe
+Výsledky z dotazníka na otázku č. 23 sú zobrazené v grafe 18 pričom 4% (n=4)
+pacientov sami na izbe uvádza, že teplo ich vôbec neruší, 1% (n=1) zriedkavo, 4% (n=4) občas,
+1% (n=1) často a 1% (n=1) veľmi často. Na dvojlôžkovej izbe 27% (n=27) uvádza, že teplo ich
+vôbec neruší, 8% (n=8) zriedkavo, 12% (n=12) občas, 2% (n=2) často a 2% (n=2) veľmi často.
+Na trojlôžkovej izbe 28% (n=28) uvádza, že teplo ich vôbec neruší, 1% (n=1) zriedkavo, 6%
+(n=6) občas, 3% (n=3) často a 1% (n=1) veľmi často. Najčastejšou odpoveďou je, že teplo
+pacientov vôbec neruší.
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Vôbec ma
+neruší
+Som sám na izbe
+3,96%
+2 pacienti na izbe 26,73%
+3 pacienti na izbe 27,72%
+
+Zriedkavo
+
+Občas
+
+Často
+
+0,99%
+7,92%
+0,99%
+
+3,96%
+11,88%
+5,94%
+
+0,99%
+1,98%
+2,97%
+
+Veľmi
+často
+0,99%
+1,98%
+0,99%
+
+Graf 18. Rušivosť: teplo na izbe
+Otázka č. 24) Prítomnosť zimy na izbe
+Výsledky z dotazníka na otázku č. 24 sú zobrazené V grafe 19 pričom 6% (n=6)
+pacientov sami na izbe uvádza, že zima ich vôbec neruší, 2% (n=2) zriedkavo, 1% (n=1) občas,
+1% (n=1) často a 1% (n=1) veľmi často. Na dvojlôžkovej izbe 43% (n=43) uvádza, že ich zima
+vôbec neruší, 6% (n=6) zriedkavo, 1% (n=1) občas a 1% (n=1) veľmi často. Na trojlôžkovej
+izbe 29% (n=29) pacientov uvádza, že ich zima vôbec neruší, 6% (n=6) zriedkavo, 3% (n=3)
+občas a 1% (n=1) často. Najčastejšie pacienti uvádzajú, že prítomnosť zimy ich vôbec neruší.
+
+52
+
+50,00%
+45,00%
+40,00%
+35,00%
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Vôbec ma
+neruší
+Som sám na izbe
+5,94%
+2 pacienti na izbe 42,57%
+3 pacienti na izbe 28,71%
+
+Zriedkavo
+
+Občas
+
+Často
+
+1,98%
+5,94%
+5,94%
+
+0,99%
+0,99%
+2,97%
+
+0,99%
+0,00%
+0,99%
+
+Veľmi
+často
+0,99%
+0,99%
+0,00%
+
+Graf 19. Rušivosť: zima na izbe
+Otázka č. 25) Informovali Vás sestry o plánovaných nočných úkonoch?
+Výsledky z dotazníka na otázku č. 25 sú zobrazené v grafe 20 pričom 1% (n=1)
+pacientov sami na izbe uvádza, že o plánovaných nočných úkonoch vôbec neboli informovaní,
+1% (n=1) skôr nie, 7% (n=7) skôr áno a 2% (n=2) úplne áno. Na dvojlôžkovej izbe 4% (n=4)
+uvádzajú, že informácie vôbec nedostali, 5% (n=5) skôr nie, 3% (n=3) čiastočne, 16% (n=16)
+skôr áno a 23% (n=23) úplne áno. Na trojlôžkovej izbe 3% (n=3) uvádzajú, že informácie vôbec
+nedostali, 4% (n=4) skôr nie, 5% (n=5) čiastočne, 10% (n=10) skôr áno a 17% (n=17) úplne
+áno. Najčastejšie pacienti uvádzajú, že o plánovaných úkonoch boli úplne informovaní.
+30,00%
+25,00%
+20,00%
+15,00%
+10,00%
+5,00%
+0,00%
+
+Som sám na izbe
+2 pacienti na izbe
+3 pacienti na izbe
+
+Vôbec nie
+
+Skôr nie
+
+0,99%
+3,96%
+2,97%
+
+0,99%
+4,95%
+3,96%
+
+Čiastočne /
+do určitej
+miery
+0,00%
+2,97%
+4,95%
+
+Skôr áno
+
+Áno, úplne
+
+6,93%
+15,84%
+9,90%
+
+1,98%
+22,77%
+16,83%
+
+Graf 20. Informovanosť s podmienkami na spánok
+
+53
+
+3.2.4. Doména 4: Otvorené odpovede pacientov
+Otázka č. 26) Čo a prečo Vám najviac vadilo na rušení Vášho spánku počas
+hospitalizácie?
+Z odpovedí respondentov na otvorenú otázku sa ukázalo, že medzi najčastejšie rušivé
+faktory patrilo chrápanie ďalších pacientov, ktoré bolo opakovane uvádzané ako najväčší
+problém narúšajúci spánok. Pacienti opisovali, že „chrápanie pacientov ma budilo“ alebo že
+„keď ostatní zaspali skôr, ja som už nedokázal zaspať,“ pričom tento faktor bol prítomný vo
+veľkej časti výpovedí. Druhým najfrekventovanejším problémom bolo teplo a zlý vzduch na
+izbe, ktoré spôsobovalo diskomfort, potenie alebo opakované prebúdzanie. Ako uviedli niektorí
+pacienti: „na izbe bolo príliš teplo a to ma budilo zo spánku“ alebo „ťažký a nevymenený
+vzduch mi nedovolil spať.“ Tretím významným rušivým faktorom bol hluk spôsobený
+personálom a zapínanie svetiel počas nočných výkonov, ktoré pacienti vnímali ako náhle a
+intenzívne podnety narúšajúce spánok. Jeden z pacientov uviedol, že ho rušil „hluk spôsobený
+personálom,“ iný spomínal najmä „zapínanie svetiel počas noci.“
+Otázka č. 27) Ako by mohol zdravotnícky personál/zariadenie vylepšiť spánok počas
+hospitalizácie?
+Odpovede pacientov ukazujú, že jedným z najčastejších odporúčaní na zlepšenie spánku
+bola možnosť používania štupľov do uší či iných pomôcok na elimináciu hluku. Viacerí pacienti
+uvádzali, že by im „štuple do uší pomohli pri chrápaní ostatných pacientov“ alebo že ide o
+jednoduché riešenie, ktoré môže zdravotnícky personál aktívne ponúknuť. Druhým výrazným
+okruhom návrhov bola úprava teploty, vetranie a zlepšenie vzduchu na izbe, keďže viacerí
+pacienti poukazovali na nepríjemné teplo alebo ťažký vzduch. Odporúčania zahŕňali napríklad
+„umožniť vetranie alebo použiť ventilátor“ či „zlepšiť možnosti regulácie teploty“. Tretím
+výrazne zastúpeným návrhom bolo zníženie hluku a svetla zo strany personálu, najmä počas
+nočných výkonov. Pacienti odporúčali „byť tichšie po 22:00 hodine,“ používať „iné žiarovky
+alebo baterku“ namiesto veľkého svetla a celkovo obmedziť rušivé vstupy do izby, pokiaľ to
+nie je nevyhnutné.
+
+54
+
+3.2.5. Verifikácia hypotéz
+H1: Existuje štatisticky významná súvislosť medzi vekom pacienta a výskytom skorého
+prebúdzania počas hospitalizácie.
+V prvej hypotéze sme zisťovali, či existuje štatisticky významná súvislosť medzi vekom
+pacienta a výskytom skorého prebúdzania počas hospitalizácie. Na overenie vzťahu bol použitý
+Pearsonov Chi-kvadrát test, ktorého výsledná p-hodnota 0,027 naznačuje existenciu štatisticky
+významnej súvislosti. Hladina štatistickej významnosti bola stanovená na α = 0,05. Keďže
+vypočítaná p-hodnota (0,027) je nižšia ako stanovená hranica 0,05, nulová hypotéza sa zamieta
+a prijíma sa alternatívna hypotéza, čím sa potvrdilo, že vek zohráva dôležitú úlohu v spánku.
+H2: Existuje štatisticky významná súvislosť medzi pohlavím pacienta a výskytom skorého
+prebúdzania počas hospitalizácie.
+Druhou hypotézou sme skúmali, či pohlavie pacienta ovplyvňuje výskyt skorého
+prebúdzania počas hospitalizácie. Pomocou Chi-kvadrát testu bola vypočítaná p-hodnota
+0,010, ktorá potvrdzuje štatisticky významný rozdiel medzi mužmi a ženami. Štatistická
+významnosť bola stanovená na hladine p < 0,05. Vzhľadom na to, že získaná p-hodnota (0,010)
+je nižšia ako táto hranica, zamietame nulovú hypotézu a prijímame alternatívnu, čo dokazuje
+vyššiu mieru skorého prebúdzania u žien ako u mužov.
+H3: Existuje štatisticky významná súvislosť medzi pohlavím pacienta a mierou tepelného
+diskomfortu na izbe počas hospitalizácie.
+Treťou hypotézou sme overovali vzťah medzi pohlavím a subjektívnym vnímaním
+tepelného diskomfortu na izbe. Štatistické testovanie prinieslo p-hodnotu 0,040, čo indikuje
+štatisticky významnú súvislosť medzi týmito premennými. Hladina významnosti bola
+stanovená na α = 0,05. Keďže vypočítaná p-hodnota (0,040) nepresiahla stanovenú hranicu,
+prijímame alternatívnu hypotézu, čím sa potvrdilo, že ženy vnímajú tepelný diskomfort
+intenzívnejšie ako muži.
+H4: Existuje štatisticky významná súvislosť medzi dĺžkou hospitalizácie a mierou rušenia
+spánku pri nočnom meraní vitálnych funkcií.
+Štvrtou hypotézou sme zisťovali, či dĺžka hospitalizácie vplýva na mieru rušenia spánku
+pri nočnom meraní TK, pulzu a teploty. Chi-kvadrát test preukázal p-hodnotu 0,019, čo
+potvrdzuje existenciu štatisticky významného vzťahu. Hladina významnosti bola určená na p <
+0,05. Keďže vypočítaná p-hodnota (0,019) je nižšia ako kritická hranica, nulová hypotéza sa
+zamieta a prijíma sa alternatívna, čo naznačuje narastajúcu citlivosť pacientov na intervencie
+pri dlhšom pobyte.
+55
+
+H5: Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a mierou
+rušenia spánku pri nočných kontrolách zdravotného stavu.
+Piatou hypotézou sme analyzovali, či kapacita izby súvisí s mierou rušenia spánku pri
+nočných kontrolách zdravotného stavu.
+Výsledná p-hodnota 0,026 potvrdila štatistickú významnosť sledovaného vzťahu. Štatistická
+významnosť bola stanovená na α = 0,05. Vzhľadom na to, že p-hodnota (0,026) je nižšia ako
+0,05, zamietame nulovú hypotézu a prijímame alternatívnu, čo dokazuje kumulatívny rušivý
+efekt personálu vo viaclôžkových izbách.
+H6: Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a rušením
+spánku pri nočnom podávaní liekov počas hospitalizácie.
+Šiestou hypotézou sme skúmali vplyv počtu pacientov na izbe na vnímanie rušenia pri
+nočnom podávaní liekov a infúzií. Štatistická analýza priniesla p-hodnotu 0,020, čo znamená
+potvrdenie stanovenej hypotézy. Hladina významnosti bola stanovená na p < 0,05. Keďže
+vypočítaná p-hodnota (0,020) je nižšia ako stanovená hranica, potvrdzuje sa alternatívna
+hypotéza.
+H7: Existuje štatisticky významná súvislosť medzi počtom pacientov na izbe a výskytom
+exogénnych rušivých faktorov prostredia. (hluk, svetlo, vstupy)
+Siedmou hypotézou sme sledovali vplyv kapacity izby na environmentálne faktory: hluk
+personálu (H7a), zapínanie svetiel (H7b) a vstupy do izby (H7c). Štatistické testovanie
+preukázalo významné hodnoty: H7a (p = 0,021), H7b (p = 0,043) a H7c (p = 0,018). Pri
+stanovenom α = 0,05 sú všetky p-hodnoty nižšie ako kritická hranica, čo nás vedie k zamietnutiu
+nulových hypotéz a prijatiu alternatívnych hypotéz, čím sa potvrdilo, že trojlôžkové izby sú z
+hľadiska exogénneho rušenia najrizikovejšie.
+H8: Existuje štatisticky významná súvislosť medzi dĺžkou hospitalizácie a hodnotením
+informovanosti o nočných výkonoch.
+Ôsmou hypotézou sme zisťovali, či dĺžka hospitalizácie súvisí s hodnotením
+informovanosti pacientov o nočných úkonoch. Chi-kvadrát test určil p-hodnotu 0,010, čím sa
+potvrdila štatisticky významná súvislosť. Hladina významnosti bola stanovená na p < 0,05.
+Keďže vypočítaná p-hodnota (0,010) je nižšia ako stanovená hranica, nulová hypotéza sa
+zamieta a prijíma sa alternatívna, čo naznačuje lepšiu adaptáciu a komunikáciu u dlhšie
+hospitalizovaných pacientov.
+
+56
+
+Tabuľka 6. Súhrnný prehľad výsledkov verifikácie stanovených hypotéz
+Premenné
+
+X2
+
+df
+
+H1
+
+Vek x skoré prebúdzanie
+
+9,24
+
+3
+
+0,027 Potvrdená
+
+H2
+
+Pohlavie x skoré prebúdzanie
+
+6,54
+
+1
+
+0,010 Potvrdená
+
+H3
+
+Pohlavie x tepelný diskomfort
+
+10,03
+
+4
+
+0,040 Potvrdená
+
+H4
+
+Dĺžka hosp. x meranie vitálnych f.
+
+18,35
+
+8
+
+0,019 Potvrdená
+
+H5
+
+Počet pac. na izbe x kontroly stavu
+
+17,45
+
+8
+
+0,026 Potvrdená
+
+H6
+
+Počet pac. na izbe x podávanie liekov
+
+18,17
+
+8
+
+0,020 Potvrdená
+
+H7a
+
+Počet pac. na izbe x hluk personálu
+
+17,98
+
+8
+
+0,021 Potvrdená
+
+H7b
+
+Počet pac. na izbe x zapínanie svetiel
+
+15,92
+
+8
+
+0,043 Potvrdená
+
+H7c
+
+Počet pac. na izbe x vstup do izby
+
+18,51
+
+8
+
+0,018 Potvrdená
+
+H8
+
+Dĺžka hosp. x informovanosť
+
+20,08
+
+8
+
+0,010 Potvrdená
+
+Hypotéza
+
+p
+
+Výsledok
+
+3.2.6. Zhrnutie
+Analýza pomocou Chi‑kvadrát testu odhalila viacero štatisticky významných vzťahov
+medzi demografickými premennými a jednotlivými aspektmi spánku. Významné rozdiely sa
+objavili najmä pri položke skoré prebúdzanie, kde bol potvrdený vplyv veku (p = 0.027) aj
+pohlavia (p = 0.010). To znamená, že starší pacienti a ženy štatisticky častejšie uvádzali skoré
+ranné prebudenie, čo môže súvisieť so zvýšenou senzitivitou na podnety počas noci, zmenou
+spánkovej architektúry vo vyššom veku či s rozdielmi v reakcii na nemocničné prostredie.
+Pohlavie sa ako významné ukázalo aj pri položke rušivosti tepla na izbe (p = 0.040), čo
+naznačuje, že ženy vnímali tepelný diskomfort intenzívnejšie než muži.
+Štatistická významnosť bola potvrdená aj pri viacerých položkách týkajúcich sa
+ošetrovateľských intervencií. Pri nočnom meraní vitálnych funkcií sa preukázal významný
+rozdiel podľa dĺžky hospitalizácie (p = 0.019), čo naznačuje, že s rastúcim počtom dní v
+nemocnici pacienti citlivejšie reagovali na tento typ zásahu. Podobný trend bol zistený pri
+nočných kontrolách zdravotného stavu, kde bol významný rozdiel viazaný na počet pacientov
+na izbe (p = 0.026), čím viac pacientov v izbe, tým vyššia pravdepodobnosť, že kontroly rušia
+spánok viacerým osobám naraz. Rovnako pri nočnom podávaní liekov bol významný rozdiel
+
+57
+
+podľa počtu pacientov na izbe (p = 0.020), čo podporuje hypotézu, že spoločné priestory
+zvyšujú kumulatívny rušivý efekt ošetrovateľských výkonov.
+Dôležité vzťahy sa ukázali aj pri exogénnych faktoroch prostredia. Hluk spôsobený
+personálom (p = 0.021), zapínanie svetiel počas nočnej starostlivosti (p = 0.043) a časté vstupy
+personálu do izby (p = 0.018) boli významne spojené s počtom pacientov na izbe, pričom
+trojlôžkové izby vykazovali vyššie úrovne rušenia. Tento výsledok potvrdzuje, že zdieľaná izba
+znásobuje efekt bežného nočného ruchu a zvyšuje pravdepodobnosť fragmentácie spánku.
+Významný rozdiel bol identifikovaný aj pri položke informovanosti o nočných úkonoch, kde
+hrala úlohu dĺžka hospitalizácie (p = 0.010), kde pacienti hospitalizovaní dlhšie hodnotili
+informovanie zo strany personálu lepšie, čo môže súvisieť s adaptáciou na režim oddelenia
+alebo s lepšími komunikačnými návykmi, ktoré sa vytvoria počas dlhšieho pobytu.
+Sumár všetkých výsledkov Chi‑kvadrát testov je prehľadne uvedený v Tabuľke 6, ktorá
+zobrazuje p-hodnoty pre jednotlivé premenné a skúmané oblasti.
+Tabuľka 7. P-hodnoty pre Chi-kvadrát testy.
+Premenná v dotazníku
+
+Vek
+
+Pohlavie
+
+Dĺžka hospitalizácie
+
+# pacientov na izbe
+
+Otázka 7. Celkový spánok počas hospitalizácie
+
+0.551
+
+0.480
+
+0.268
+
+0.759
+
+Otázka 8. Spánok horší ako doma
+
+0.273
+
+0.112
+
+0.211
+
+0.662
+
+Otázka 9. Problém zaspať
+
+0.146
+
+0.140
+
+0.348
+
+0.434
+
+Otázka 10. Problém zotrvať v spánku
+
+0.221
+
+1.000
+
+0.251
+
+0.140
+
+Otázka 11. Skoré prebúdzanie
+
+0.027
+
+0.010
+
+0.504
+
+0.661
+
+Otázka 12. Ranná únava
+
+0.609
+
+0.381
+
+0.056
+
+0.751
+
+Otázka 13. Užívanie liekov na spánok
+
+0.264
+
+0.152
+
+0.290
+
+0.610
+
+Otázka 14. Ošetrenie: meranie vitálnych funkcií
+
+0.748
+
+0.550
+
+0.019
+
+0.083
+
+Otázka 15. Ošetrenie: podávanie liekov
+
+0.271
+
+0.910
+
+0.137
+
+0.020
+
+Otázka 16. Ošetrenie: preväzy, hygiena, manipulácia
+
+0.795
+
+0.640
+
+0.220
+
+0.340
+
+Otázka 17. Ošetrenie: Kontroly zdr. stavu
+
+0.399
+
+0.149
+
+0.880
+
+0.026
+
+Otázka 18. Rušivosť: hluk od personálu
+
+0.739
+
+0.056
+
+0.631
+
+0.021
+
+Otázka 19. Rušivosť: zapínanie svetiel
+
+0.140
+
+0.106
+
+0.458
+
+0.043
+
+Otázka 20. Rušivosť: časté vstupy do izby
+
+0.796
+
+0.634
+
+0.813
+
+0.018
+
+Otázka 21. Rušivosť: zariadenia
+
+0.925
+
+0.062
+
+0.998
+
+0.111
+
+Otázka 22. Rušivosť: klimatizácia
+
+0.845
+
+0.772
+
+0.228
+
+0.169
+
+Otázka 23. Rušivosť: teplo na izbe
+
+0.404
+
+0.040
+
+0.278
+
+0.275
+
+Otázka 24. Rušivosť: zima na izbe
+
+0.827
+
+0.945
+
+0.787
+
+0.180
+
+Otázka 25. Informovanosť s podmienkami na spánok
+
+0.643
+
+0.644
+
+0.010
+
+0.456
+
+Doména 1 – hodnotenie spánku
+
+Doména 2 – intervencie sestier
+
+Doména 3 – exogénne faktory
+
+58
+
+4. DISKUSIA
+Cieľom predkladanej diplomovej práce bolo priblížiť definíciu a význam spánku,
+popísať špecifiká spánku hospitalizovaných pacientov a identifikovať konkrétne ošetrovateľské
+intervencie a environmentálne faktory, ktoré najčastejšie narúšajú nočný odpočinok. Výsledky
+nášho výskumu potvrdili, že spánok pacientov je počas hospitalizácie významne ovplyvňovaný
+komplexnou kombináciou individuálnych, organizačných a environmentálnych faktorov. Tieto
+zistenia sú v úplnej zhode s teoretickými poznatkami ošetrovateľskej vedy, podľa ktorých je
+spánok v nemocničnom prostredí extrémne citlivá na vonkajšie podnety, technologické zásahy
+aj sociálnu dynamiku spojenú s prítomnosťou ďalších pacientov na izbe.
+Prvá doména nášho výskumu, zameraná na subjektívne hodnotenie spánku, ukázala, že
+väčšina pacientov vníma svoj spánok v nemocnici ako horší v porovnaní s domácim prostredím.
+Hoci mnohí respondenti (32 % žien a 25 % mužov) opisovali svoj spánok ako „priemerný“,
+práve skoré prebúdzanie sa ukázalo ako jeden z najvýraznejších a najčastejšie uvádzaných
+problémov.
+Tento fenomén subjektívneho zhoršenia spánku je v súlade s rozsiahlymi
+medzinárodnými dátami. Napríklad holandská štúdia realizovaná pod vedením Wesselius et al.
+(2018) na vzorke 1427 pacientov v 39 nemocniciach zistila, že pacienti v nemocnici spia v
+priemere o 83 minút menej než doma a budia sa o 44 minút skôr. Naše výsledky tak potvrdzujú
+globálny trend, kde nemocničné prostredie pôsobí ako inherentný narušiteľ spánkového cyklu.
+Zaujímavým a špecifickým vzhľadom v našom výskume bol postoj respondenta 1, ktorý
+uviedol, že si v nemocnici paradoxne odpočinul lepšie vďaka pocitu bezpečia a odborného
+dohľadu. Napriek tomu u väčšiny našej vzorky prevládalo negatívne vnímanie, čo zdôrazňuje
+potrebu intervencií na podporu spánku ako základnej fyziologickej potreby podľa Maslowa.
+V našom výskume sme identifikovali štatisticky významné rozdiely pri prepojení
+skorého prebúdzania s vekom (p = 0,027) a pohlavím (p = 0,010). Tieto dáta naznačujú, že
+starší pacienti (nad 61 rokov) a ženy sú zraniteľnejší voči narušeniu spánkového cyklu.
+Trend zvýšenej senzitivity seniorov koreluje s odbornou literatúrou, ktorá poukazuje na
+prirodzené zmeny v architektúre spánku vo vyššom veku, najmä skrátenie hlbokých fáz NREM
+3 a 4, ktoré sú kľúčové pre fyzickú regeneráciu a hojenie tkanív. Seniori majú nižší prah
+prebudenia a sú citlivejší na exogénne podnety. Čo sa týka pohlavia, naše zistenie o horšom
+spánku žien je v čiastočnom kontraste so zisteniami Locihovej a kol. (2020), ktorá v kontexte
+intenzívnej starostlivosti uviedla, že muži vykazovali signifikantne horší spánok než ženy.
+59
+
+Tento rozdiel môže byť spôsobený typom oddelenia a klinickým stavom pacientov – kým
+Locihová skúmala kriticky chorých, naša vzorka zahŕňala pacientov v stabilizovanom stave,
+kde ženy môžu citlivejšie vnímať stratu súkromia a zmenu rituálov.
+V druhej doméne, zameranej na ošetrovateľské intervencie, sa ukázalo, že hoci viaceré
+činnosti personálu boli pacientmi hodnotené neutrálne, niektoré zásahy vyvolávali významné
+rozdiely medzi skupinami. Najviac alarmujúcim zistením je súvislosť medzi nočným meraním
+vitálnych funkcií a dĺžkou hospitalizácie (p = 0,019). Dlhšie hospitalizovaní pacienti vnímali
+tento zásah ako rušivejší, čo naznačuje proces kumulatívnej spánkovej deprivácie a narastajúcej
+intolerancie voči rutinným úkonom.
+Tieto výsledky možno zasadiť do kontextu štúdie Alegria et al. (2023), ktorá uvádza, že
+pacienti v noci zažívajú priemerne 40 až 60 prerušení kvôli ošetrovateľským aktivitám, ako sú
+merania vitálnych funkcií, odbery či podávanie liekov. Tento vysoký počet prerušení
+znemožňuje pacientom dosiahnuť kompletné spánkové cykly (trvajúce 90–110 minút), ktoré sú
+nevyhnutné pre imunitnú odpoveď a kognitívnu obnovu. Podobne aj pri podávaní liekov a
+kontrolách zdravotného stavu zohrával v našom výskume dôležitú úlohu počet pacientov na
+izbe (p = 0,020 pre lieky a p = 0,026 pre kontroly). Prítomnosť viacerých pacientov zvyšuje
+kumulatívny efekt rušenia, kedy sestra pri vstupe kvôli jednému pacientovi často nechcene
+prebudí aj ostatných, čím vzniká prostredie s vysokou intenzitou rušivého vnímania.
+Riešením, ktoré navrhuje moderná ošetrovateľská veda a ktoré podporujú aj naši
+respondenti, je zoskupovanie starostlivosti. Štúdia Williams (2022) potvrdila, že minimalizácia
+nočných prerušení prostredníctvom zoskupovania úkonov viedla k 75 % zníženiu počtu pádov
+a skráteniu dĺžky hospitalizácie.
+Tretia doména nášho skúmania sa venovala exogénnym faktorom nemocničného
+prostredia. Zistenia jasne ukázali, že hluk personálu (p = 0,021), zapínanie svetiel (p = 0,043)
+a časté vstupy do izby (p = 0,018) boli štatisticky významne ovplyvnené počtom pacientov na
+izbe. Tieto výsledky zdôrazňujú, že architektúra nemocničných izieb a ich kapacita zohrávajú
+kľúčovú úlohu v spánku.
+•
+
+Hluk: Naši pacienti subjektívne vnímali hluk ako bariéru, čo potvrdzuje aj Ashghab et
+al. (2024). Ten uvádza, že hluk v nemocniciach často dosahuje 60 až 90 dB, čo
+dramaticky prekračuje odporúčania WHO (pod 40 dB v noci).
+
+•
+
+Svetlo: Zapínanie svetiel počas nočnej starostlivosti narušuje sekréciu melatonínu,
+hormónu zodpovedného za udržiavanie spánku. Naši pacienti (napr. respondent 5)
+uvádzali, že aj krátke rozsvietenie viedlo k úplnej fragmentácii spánku.
+
+60
+
+Tepelný diskomfort: Ukázal sa ako ďalší dôležitý faktor, pričom ženy vnímali
+
+•
+
+nepríjemné teplo výraznejšie než muži (p = 0,040). Subjektívne odpovede v otvorených
+otázkach o prehriatych izbách a ťažkom vzduchu odrážajú zistenia Ionescu et al. (2025),
+podľa ktorých sa teplotné fluktuácie v nemocniciach často pohybujú mimo optimálneho
+spánkového rozsahu, čo negatívne ovplyvňuje komfort pacientov.
+Otvorená otázka v našom dotazníku poskytla hlbší vzhľad do individuálnych skúseností
+pacientov a potvrdila kvantitatívne zistenia. Najčastejšie uvádzaným rušivým faktorom bolo
+chrápanie spolupacientov. Tento problém je typický pre viaclôžkové izby a predstavuje pre
+sestry neriešiteľný organizačný problém, ak nie je k dispozícii dostatok izolačných kapacít.
+Tento moment je v súlade so štúdiou Wesselius (2018), kde bol hluk od ostatných
+pacientov označený za hlavnú príčinu nočného prebudenia u viac ako 70 % opýtaných.
+Respondenti v našom výskume (napr. respondent 1 a 3) opakovane spomínali teplo, zlý vzduch
+a pípanie prístrojov ako opakujúcu sa tému. Práve tieto sťažnosti vedú k dôležitým návrhom na
+zlepšenie, ktoré by sestry mohli aplikovať bez veľkých investícií: používanie štupľov do uší,
+zníženie intenzity svetla pri nočných úkonoch a lepšia regulácia ventilácie.
+Z návrhov našich pacientov na zlepšenie spánku sa najčastejšie objavovali odporúčania
+na používanie jednoduchých pomôcok. Metaanalýza Ashghaba et al. (2024) jednoznačne
+potvrdzuje, že tri konkrétne intervencie – relaxácia, muzikoterapia a používanie štupľov do
+uší/očných masiek – majú vysoko pozitívny vplyv na dĺžku spánku (SMD = -4,02 pre masky a
+štuple).
+Vedecká komunita dnes presadzuje implementáciu tzv. „spánkových balíčkov“ (Sleep
+Care Bundles), čo sú súbory intervencií aplikovaných súčasne. Typický balíček zahŕňa
+zatemnenie, redukciu hluku, edukáciu personálu a klastrovanie úkonov. Klinické štúdie
+Fahmyho (2025) a Balajthyho (2023) dokazujú, že tieto nefarmakologické opatrenia znižujú
+výskyt nemocničného delíria z 11 % na 6 %. Pre pacientov by implementácia takéhoto
+protokolu mohla znamenať nielen lepší komfort, ale aj rýchlejšiu pooperačnú rekonvalescenciu,
+keďže spánok v štádiu NREM 3 a 4 priamo podporuje syntézu proteínov potrebných pre
+hojenie.
+Výsledky našej práce potvrdzujú, že spánok hospitalizovaných pacientov je komplexne
+ovplyvňovaný viacerými faktormi a ošetrovateľské intervencie predstavujú len časť širšieho
+spektra rušivých elementov. Spánok je úzko prepojený s pocitom bezpečia a pocit bezpečia
+znižuje hladinu kortizolu, čo nepriamo podporuje regeneráciu.
+Z hľadiska etiky ošetrovateľstva je dôležité zdôrazniť, že podpora spánku nie je len
+doplnkovou činnosťou, ale neoddeliteľnou súčasťou holistickej starostlivosti. Pacient, ktorý v
+61
+
+noci nespí, vykazuje zvýšené vnímanie bolesti, podráždenosť a zhoršenú spoluprácu pri
+rehabilitácii. Naše zistenia o vplyve informovanosti na spokojnosť pacientov (dlhšie
+hospitalizovaní hodnotili komunikáciu lepšie, p = 0,010) naznačujú, že transparentná
+komunikácia o tom, kedy a prečo bude pacient prebudený, znižuje jeho stresovú odpoveď.
+Pri interpretácii našich zistení je potrebné zohľadniť niekoľko obmedzení. Výskum
+prebiehal na jednej špecifickej klinike, čo môže ovplyvniť generalizovateľnosť výsledkov na
+iné typy oddelení. Ďalším faktorom je subjektívna povaha dotazníka vlastnej konštrukcie, ktorý
+môže byť ovplyvnený aktuálnou psychickou záťažou respondentov. Napriek tomu vysoká
+miera zhody s medzinárodnými štúdiami (Wesselius, Ashghab, Williams) dodáva našim
+výsledkom potrebnú váhu a potvrdzuje ich relevanciu pre klinickú prax na Slovensku.
+Celkovo výsledky našej práce potvrdzujú, že ošetrovateľské intervencie sú vnímané ako
+dvojsečná zbraň – sú nevyhnutné pre bezpečnosť a monitorovanie pacienta, no pri nevhodnom
+načasovaní a v kombinácii s environmentálnymi stresormi tvoria hlavnú bariéru odpočinku.
+Najväčším prínosom tejto práce je identifikácia kumulatívnej citlivosti pacientov na nočné
+úkony v závislosti od dĺžky pobytu a potvrdenie kľúčového vplyvu kapacity izby na mieru
+rušenia exogénnymi faktormi.
+Z výskumu vyplýva jasný záver pre prax: hoci nie všetky rušivé faktory (ako chrápanie
+spolupacientov) je možné eliminovať, existujú jednoduché, praktické a finančne nenáročné
+opatrenia, ktoré môžu sestry aplikovať okamžite. Používanie tlmeného osvetlenia, strategické
+zoskupovanie nočných výkonov a aktívne ponúkanie mechanických pomôcok (štuple, masky)
+sú intervencie, ktoré preukázateľne zvyšujú spokojnosť pacientov a podporujú ich celkové
+uzdravenie. Ošetrovateľský personál by mal vnímať ochranu spánku pacienta ako vizitku
+kvality poskytovanej starostlivosti a neoddeliteľnú súčasť preventívnej medicíny.
+Spánok hospitalizovaných pacientov je komplexne ovplyvňovaný viacerými faktormi a
+ošetrovateľské intervencie predstavujú iba jednu časť širšieho spektra rušivých elementov.
+Spánok je úzko prepojený s pocitom bezpečia, komfortom prostredia a individuálnymi
+zvyklosťami pacienta, preto je dôležité, aby zdravotnícky personál venoval pozornosť všetkým
+oblastiam, ktoré môžu spánok narušiť. Zistenia sú v súlade s teoretickým rámcom práce aj s
+odporúčaniami literatúry, ktorá zdôrazňuje význam empatickej, systematickej a šetrnej nočnej
+starostlivosti.
+Výskum zároveň ukazuje, že nie všetky rušivé faktory je možné zmeniť. Napríklad
+chrápanie pacienta či hlučnosť klimatizácie, avšak existujú opatrenia, ktoré dokážu nepríjemné
+podnety zmierniť. Používanie tlmeného svetla, optimalizácia nočných výkonov, poskytovanie
+štupľov do uší alebo lepšia komunikácia o nočných úkonoch patria medzi dostupné intervencie,
+62
+
+ktoré môžu významne prispieť k zlepšeniu spánku počas hospitalizácie. Z toho vyplýva dôležitý
+záver: dôraz na podporu spánku nie je doplnkovou činnosťou, ale neoddeliteľnou súčasťou
+kvalitnej a holistickej ošetrovateľskej starostlivosti.
+
+63
+
+ODPORÚČANIA PRE PRAX
+Na základe zistení z dotazníka, analýzy štyroch domén a otvorených odpovedí pacientov
+je zrejmé, že spánok možno ovplyvniť viacerými jednoduchými, organizačnými aj
+environmentálnymi opatreniami. Hoci nie všetky rušivé faktory je možné odstrániť,
+zdravotnícky personál môže viaceré z nich výrazne zmierniť vhodným plánovaním nočnej
+starostlivosti, citlivým prístupom a optimalizáciou podmienok v nemocničnom prostredí.
+Realizovaný výskum nám umožnil stanoviť konkrétne odporúčania pre sestry aj pre pacientov.
+Odporúčania pre sestry:
+Zoskupovanie starostlivosti: Sestry by mali plánovať nočné úkony (meranie tlaku, podávanie
+liekov) tak, aby sa minimalizoval počet vstupov do izby a chránila sa kontinuita spánkových
+cyklov.
+Optimalizácia osvetlenia: Pri nočných výkonoch sa odporúča nepoužívať veľké stropné
+svetlo, ale využívať tlmené svetlá alebo baterky.
+Zlepšenie komunikačných zručností: transparentne informovať bdelých pacientov o
+plánovaných nočných zásahoch, čo preukázateľne znižuje ich stres a zvyšuje spokojnosť.
+Dostupnosť mechanických pomôcok: Zdravotnícke zariadenie by malo pacientom štandardne
+ponúkať štuple do uší a očné masky, ktoré eliminujú hluk ako napríklad chrápanie
+spolupacientov, hluk spôsobený personálom alebo svetlo.
+Manažment mikroklímy: Keďže pacienti (najmä ženy) vnímajú tepelný diskomfort a "ťažký
+vzduch" veľmi negatívne, je potrebné umožniť krátke vetranie pred nočným odpočinkom
+prostredníctvom ventilátora alebo na základe možnosti oddelenia.
+Individuálna úprava lôžka: Ponúknutie alternatívnych vankúšov alebo dodatočných
+prikrývok môže zvýšiť pocit pohodlia a bezpečia, čo je kľúčové pre regeneráciu.
+Zavádzanie nefarmakologických prístupov v nočnej službe: Personál by mal byť
+vzdelávaný v aplikácii alternatívnych metód podpory spánku, ako sú relaxačné techniky,
+senzorická stimulácia alebo úprava mikroklimatických podmienok izby pred spaním. Tieto
+postupy môžu u hospitalizovaných pacientov znížiť potrebu medikamentóznej liečby
+nespavosti.
+Kontinuálne vzdelávanie zamestnancov: Organizovať pravidelné odborné semináre a
+workshopy zamerané na moderné trendy v oblasti spánkovej hygieny v nemocničnom prostredí.
+64
+
+Získané poznatky o vplyve spánku na hojenie rán a rekonvalescenciu by mali byť
+implementované do štandardov ošetrovateľskej starostlivosti na pracovisku.
+Odporúčania pre pacientov:
+Vlastná príprava na hospitalizáciu: Ak je hospitalizácia plánovaná, odporúča sa pacientom
+priniesť si vlastné mechanické pomôcky, na ktoré je pacient zvyknutý, môžu výrazne
+eliminovať vplyv hluku (napr. chrápanie spolupacientov) a svetla pri nočných úkonoch.
+Aktívne vyjadrovanie potrieb: Pacienti by nemali váhať informovať personál o svojom
+diskomforte hneď, ako nastane. Včasné nahlásenie problému umožňuje sestrám zasiahnuť skôr,
+než dôjde k úplnej fragmentácii spánku.
+Dodržiavanie „vlastnej“ spánkovej hygieny v nemocnici: V rámci možností sa pacientom
+odporúča zachovať ranné a večerné rituály, na ktoré sú zvyknutí z domu, čo pomáha znižovať
+stres z neznámeho prostredia. To môže zahŕňať aj požiadavku na individuálnu úpravu lôžka,
+napríklad použitím vlastného vankúša alebo prikrývky pre zvýšenie pocitu bezpečia.
+
+65
+
+ZÁVER
+Cieľom tejto diplomovej práce bolo priblížiť definíciu spánku, popísať špecifiká spánku
+hospitalizovaných pacientov a identifikovať ošetrovateľské intervencie a environmentálne
+faktory, ktoré najviac narúšajú nočný odpočinok. Teoretická časť poukázala na komplexnosť
+spánku ako fyziologického procesu, jeho zásadnú úlohu pri regenerácii organizmu a zvýšenú
+zraniteľnosť pacientov počas hospitalizácie. Na tieto teoretické poznatky nadviazala empirická
+časť práce, ktorá poskytla konkrétne dáta z praxe.
+Výskum bol realizovaný kvantitatívnou metódou prostredníctvom dotazníka vlastnej
+konštrukcie, ktorý umožnil získať ucelený prehľad o subjektívnom vnímaní spánku
+hospitalizovaných pacientov. Zistenia ukázali, že väčšina pacientov vníma svoj spánok počas
+hospitalizácie ako horší v porovnaní s domácim prostredím. Výrazným problémom bolo najmä
+skoré prebúdzanie, ktoré nadobudlo štatistickú významnosť v súvislosti s vekom a pohlavím
+pacienta. Dôležitým poznatkom je, že väčšina ošetrovateľských intervencií nebola pacientmi
+hodnotená ako výrazne rušivá, avšak ich dopad sa menil v závislosti od dĺžky hospitalizácie či
+počtu pacientov na izbe. To potvrdzuje, že nie samotná intervencia, ale najmä frekvencia,
+načasovanie a prostredie, v ktorom je vykonávaná, ovplyvňujú jej rušivý efekt.
+Významnú skupinu faktorov tvorili exogénne podnety nemocničného prostredia,
+predovšetkým hluk, svetlo a tepelný diskomfort. Tieto faktory boli naprieč respondentmi
+opakovane pomenované ako kľúčové prekážky kvalitného spánku. Štatistická analýza
+potvrdila, že počet pacientov na izbe je významne spojený s viacerými rušivými podnetmi, čo
+poukazuje na kumulatívny efekt zdieľaného nemocničného priestoru. Otvorené odpovede
+pacientov poskytli hlbší vzhľad do individuálnych skúseností, pričom najčastejšie sa objavovali
+sťažnosti na chrápanie spolupacientov, teplo a nedostatočné vetranie, ako aj na hluk a svetlo
+počas nočných výkonov. Respondenti zároveň ponúkli praktické návrhy, ako tieto problémy
+zmierniť. Napríklad používanie štupľov do uší, úprava osvetlenia či lepšie možnosti regulácie
+teploty a vetrania.
+Záverom možno konštatovať, že spánok hospitalizovaných pacientov je výsledkom
+komplexnej interakcie ošetrovateľských intervencií, individuálnych charakteristík pacienta a
+podmienok nemocničného prostredia. Zistenia tejto práce potvrdzujú, že mnohé rušivé faktory
+je možné zmierniť jednoduchými organizačnými opatreniami, citlivejším plánovaním
+ošetrovateľských výkonov a úpravou prostredia. Aj malé zmeny, ako použitie tlmeného svetla,
+ponúknutie štupľov do uší či minimalizácia nočného hluku, môžu mať významný vplyv na
+spánok a celkovú spokojnosť pacienta.
+66
+
+ZOZNAM POUŽITEJ LITERATÚRY
+ALEGRIA, L., BROCKMANN, P., REPETTO, P., LEONARD, D., CADIZ, R., PAREDES,
+F., ROJAS, I., MOYA, A., OVIEDO, V., GARCÍA, P. & BAKKER, J. (2023). Improve sleep
+in critically ill patients: Study protocol for a randomized controlled trial for a multi-component
+intervention of environment control in the ICU. [on-line]. In: PLoS One. Vol. 18, no. 5.
+[citované 2026-03-20]. Dostupné na internete: https://doi.org/10.1371/journal.pone.0286180
+ASHGHAB, A., VAHEDIAN AZIMI, A., VAFADAR, Z., MOLLAHADI, M. & SEPANDI,
+M. (2024). Nursing Interventions to Improve the Sleep Quality of Hospitalized Patients: A
+Systematic Review and Meta-analysis. [on-line]. In: Intensive Care Research. Vol. 4. [citované
+2026-03-20]. Dostupné na internete: https://doi.org/10.1007/s44231-024-00056-9
+BALAJTHY, S. E. (2023). The effect of a non-pharmacologic sleep bundle on the incidence or
+delirium. [on-line]. Baltimore: University of Maryland School of Nursing. [citované 2026-0320].
+
+Dostupné
+
+na
+
+internete:
+
+https://archive.hshsl.umaryland.edu/server/api/core/bitstreams/e1e2049e-d10e-45a6-92fba90eed97218d/content
+FĄFARA, A. & KRAKOWIAK-BURDZY, A. (2024). Caring and therapeutic services – a
+patient’s opinion on experience and satisfaction with night nursing care. [on-line]. In: European
+Journal of Clinical and Experimental Medicine. Vol. 22, no. 1. [citované 2026-03-20].
+Dostupné na internete: https://bibliotekanauki.pl/articles/40419499.pdf
+FAHMY, A., EL‐SAYED, T., ABDELRAHMAN, H. & MANSOUR, H. (2025). The Effect of
+Implementing a Sleep Care Bundle on Sleep Quality and Delirium Among Critically Ill
+Patients: A Quasi‐Experimental Study. [on-line]. In: Worldviews on Evidence-Based Nursing.
+Vol. 22. [citované 2026-03-20]. Dostupné na internete: https://doi.org/10.1111/wvn.70077
+FRISK, U. & NORDSTRÖM, G. (2003). Patients’ sleep in an intensive care unit—patients’
+and nurses’ perception. [on-line]. In: Intensive and Critical Care Nursing. Vol. 19, no. 6.
+[citované 2026-03-20]. Dostupné na internete: https://doi.org/10.1016/S0964-3397(03)000764
+67
+
+HELAKARI, H., JÄRVELÄ, M., VÄYRYNEN, T., TUUNANEN, J., PIISPALA, J., KALLIO,
+M. & KIVINIEMI, V. (2023). Effect of sleep deprivation and NREM sleep stage on
+physiological brain pulsations. [on-line]. In: Frontiers in Neuroscience. Vol. 17. [citované
+2026-03-20]. Dostupné na internete: https://doi.org/10.3389/fnins.2023
+HOEY, L. M., FULBROOK, P. & DOUGLAS, J. A. (2014). Sleep assessment of hospitalised
+patients: a literature review. [on-line]. In: International Journal of Nursing Studies. Vol. 51, no.
+9. [citované 2026-03-20]. Dostupné na internete: https://doi.org/10.1016/j.ijnurstu.2014.02.001
+HUDÁKOVÁ, A., CIBRÍKOVÁ, P. M. S. & OBROČNÍKOVÁ, P. A. (2019). Teoretické
+východiská ošetrovateľského procesu. [on-line]. Prešov: Prešovská univerzita v Prešove.
+[citované 2026-03-20]. Dostupné na internete: https://www.researchgate.net/profile/AnnaHudakova/publication/342530631
+HULTMAN, T., BULETTE COAKLEY, A., DONAHUE ANNESE, C. & BOUVIER, S.
+(2012). Exploring the sleep experience of hospitalized adult patients. [on-line]. In: Creative
+Nursing.
+
+Vol.
+
+18,
+
+no.
+
+3.
+
+[citované
+
+2026-03-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1891/1078-4535.18.3.135
+IONESCU, E., LITTON, E. & FARRELL, B. (2025). Investigating the Interplay of Thermal,
+Lighting, and Acoustics in Intensive Care for Enhanced Patient Well-being and Clinical
+Outcomes. [on-line]. In: HERD: Health Environments Research & Design Journal. Vol. 18.
+[citované 2026-03-20]. Dostupné na internete: https://doi.org/10.1177/19375867251317235
+ISPÁNEK. (2023). 4 fáze spánku: víte, co se v nich děje? [on-line]. iSpánek.cz. [citované 202603-20]. Dostupné na internete: https://ispanek.cz/faze-spanku/
+JOHANSSON, P., OLÉNI, M. & FRIDLUND, B. (2005). Nurses’ assessments and patients’
+perceptions: development of the night nursing care instrument (NNCI)... [on-line]. In:
+International Journal of Nursing Studies. Vol. 42, no. 5. [citované 2026-03-20]. Dostupné na
+internete: https://doi.org/10.1016/j.ijnurstu.2004.09.004
+
+68
+
+KAMDAR, B. B., SHAH, P. A., KING, L. M., KHO, M. E., ZHOU, X., COLANTUONI, E. &
+NEEDHAM, D. M. (2012). Patient-nurse interrater reliability and agreement of the RichardsCampbell Sleep Questionnaire
+LAREAU, R., BENSON, L., WATCHAROTONE, K. & MANGUBA, G. (2008). Examining
+the feasibility of implementing specific nursing interventions to promote sleep in hospitalized
+elderly patients. [on-line]. In: Geriatric Nursing. Vol. 29, no. 3. [citované 2026-03-20].
+Dostupné na internete: https://doi.org/10.1016/j.gerinurse.2007.10.020
+LOCIHOVÁ, H., AXMANN, K., ŽIAKOVÁ, K., ŠERKOVÁ, D. & ČERNOCHOVÁ, S.
+(2020). Sleep quality assessment in intensive care: actigraphy vs. Richards-Campbell sleep
+questionnaire. [on-line]. In: Sleep Science. Vol. 13, no. 4. [citované 2026-03-20]. Dostupné na
+internete: https://doi.org/10.5935/1984-0063.20190145
+MATOUSEK, M., CERVENA, K., ZAVESICKA, L. & BRUNOVSKY, M. (2004). Subjective
+and objective evaluation of alertness and sleep quality in depressed patients. [on-line]. In: BMC
+Psychiatry.
+
+Vol.
+
+4,
+
+no.
+
+1.
+
+[citované
+
+2026-03-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1186/1471-244X-4-14
+MISSILDINE, K., BERGSTROM, N., MEININGER, J., RICHARDS, K. & FOREMAN, M.
+D. (2010). Sleep in hospitalized elders: a pilot study. [on-line]. In: Geriatric Nursing. Vol. 31,
+no.
+
+4.
+
+[citované
+
+2026-03-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1016/j.gerinurse.2010.02.013
+NICOLAS, A., AIZPITARTE, E., IRUARRIZAGA, A., VAZQUEZ, M., MARGALL, A. &
+ASIAIN, C. (2008). Perception of night‐time sleep by surgical patients in an intensive care unit.
+[on-line]. In: Nursing in Critical Care. Vol. 13, no. 1. [citované 2026-03-20]. Dostupné na
+internete: https://doi.org/10.1111/j.1478-5153.2007.00255.x
+OMACHI, T. A. (2011). Measuring sleep in rheumatologic diseases: The ESS, FOSQ, ISI, and
+PSQI. [on-line]. In: Arthritis Care & Research. Vol. 63. [citované 2026-03-20]. Dostupné na
+internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC3711174/
+
+69
+
+PANDIS, N. (2016). The chi-square test. [on-line]. In: American Journal of Orthodontics and
+Dentofacial Orthopedics. Vol. 150, no. 5. [citované 2026-03-20]. Dostupné na internete:
+https://www.ajodo.org/article/S0889-5406(16)30449-8/pdf
+R CORE TEAM. (2026). R: A Language and Environment for Statistical Computing. [on-line].
+Vienna: R Foundation for Statistical Computing. [citované 2026-03-20]. Dostupné na internete:
+https://www.R-project.org/
+SIMON, E. B., VALLAT, R., ROSSI, A. & WALKER, M. P. (2022). Sleep loss leads to the
+withdrawal of human helping across individuals, groups, and large-scale societies. [on-line].
+In: PLoS Biology. Vol. 20, no. 8. [citované 2026-03-20]. Dostupné na internete:
+https://doi.org/10.1371/journal.pbio.3001733
+ŠUPÍNOVÁ, M., BARTOŠ, P., RYPICZ, L., BERETA, M. & MAGERČIAKOVÁ, M. (2025).
+Faktory Ovplyvňujúce Kvalitu Spánku Kriticky Chorých Pacientov. [on-line]. In: Zdravotnícke
+listy.
+
+Ročník
+
+13,
+
+č.
+
+2.
+
+[citované
+
+2026-03-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://zl.tnuni.sk/fileadmin/Archiv/2025/2025-13.c.2/ZL_2025_13_2_04_Supinova.pdf
+UTLI, H., DINÇ, M. & ONER, U. (2023). The Effect of COVID-19 Fear in Patients and
+Clinical Nurses on Night Nursing Care. [on-line]. In: OMEGA-Journal of Death and Dying.
+Vol.
+
+86,
+
+no.
+
+3.
+
+[citované
+
+2026-03-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://doi.org/10.1177/00302228221135276
+WALKER, M. P. (2009). The Role of Sleep in Cognition and Emotion. [on-line]. In: Annals of
+the New York Academy of Sciences. Vol. 1156. [citované 2026-03-20]. Dostupné na internete:
+https://doi.org/10.1111/j.1749-6632.2009.04416.x
+WALKER, M. P. (2018). Prečo spíme. Citadella. ISBN 9788081821103.
+WESSELIUS, H., et al. (2018). Quality and Quantity of Sleep and Factors Associated With
+Sleep Disturbance in Hospitalized Patients. [on-line]. In: JAMA Internal Medicine. Vol. 178,
+no.
+
+9.
+
+[citované
+
+2026-03-20].
+
+https://pubmed.ncbi.nlm.nih.gov/30014139/
+
+70
+
+Dostupné
+
+na
+
+internete:
+
+WILLIAMS, K. M. (2022). Sleep protocol-Use of evidence-based practice (EBP) to improve
+patient outcomes and patient satisfaction while hospitalized. [on-line]. In: Worldviews on
+Evidence-Based Nursing. Vol. 19, no. 5. [citované 2026-03-20]. Dostupné na internete:
+https://doi.org/10.1111/wvn.12562
+YILMAZ, M., SAYIN, Y. & GURLER, H. (2012). Sleep quality of hospitalized patients in
+surgical units. [on-line]. In: Nursing Forum. Vol. 47, no. 3. [citované 2026-03-20]. Dostupné
+na internete: https://doi.org/10.1111/j.1744-6198.2012.00268.x
+
+71
+
+ZOZNAM PRÍLOH
+Príloha A Dotazník
+Príloha B Žiadosť o umožnenie výskumu záverečnej práce študenta vo FNsP FDR BB
+Príloha C Odpoveď na žiadosť
+
+72
+
+

@@ -1,0 +1,4865 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+34198
+
+KVALITA ŽIVOTA PACIENTA ZARADENÉHO
+V DIALYZAČNOM PROGRAME
+Diplomová práca
+
+Trnava 2026
+Bc. Denisa Zahurančíková
+1
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+KVALITA ŽIVOTA PACIENTA ZARADENÉHO V DIALYZAČNOM
+PROGRAME
+
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Študijný odbor:
+
+Ošetrovateľstvo
+
+Školiace pracovisko:
+
+FZaSP TU v Trnave
+
+Školiteľ:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava 2026
+Bc. Denisa Zahurančíková
+2
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+ZADANIE ZÁVEREČNEJ PRÁCE
+
+Meno, priezvisko a tituly študenta:
+
+Bc. Denisa Zahurančíková
+
+Kód študenta:
+
+S1324079475
+
+Študijný program:
+
+7.4.1 ošetrovateľstvo
+
+Typ záverečnej práce:
+
+Diplomová práca
+
+Názov záverečnej práce:
+
+Kvalita
+
+života
+
+pacienta
+
+zaradeného
+
+v dialyzačnom programe
+Meno, priezvisko a tituly školiteľa:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva, FZaSP TU, Trnava
+
+Meno, priezvisko a tituly vedúceho doc. PhDr. Andrea Botíková, PhD., MPH
+pracoviska:
+Anotácia záverečnej práce:
+
+Diplomová práca sa zaoberá kvalitou života
+pacientov zaradených do dialyzačného programu
+z ošetrovateľského hľadiska. Cieľom výskumu je
+zhodnotiť
+
+kvalitu
+
+života
+
+pacientov
+
+a identifikovať faktory, ktoré ju ovplyvňujú.
+Jazyk v ktorom sa práca vypracuje:
+
+Slovenský jazyk
+
+Dátum schválenia zadania:
+
+28.10.2024
+
+_____________________
+Podpis školiteľa
+3
+
+ČESTNÉ PREHLÁSENIE
+Čestne vyhlasujem, že som diplomovú prácu vypracovala samostatne na základe
+vlastných a overených teoretických poznatkov, pod odborným vedením doc. PhDr. Jany
+Martinkovej, PhD., MPH, a štúdia odbornej literatúry, ktorej úplný zoznam je v závere
+práce, v zozname bibliografických odkazov.
+Trnava 2026
+_________________
+Podpis
+4
+
+POĎAKOVANIE
+Touto cestou by som sa chcela poďakovať mojej školiteľke doc. PhDr. Jane
+Martinkovej, PhD., MPH za cenné rady, odborné vedenie, prínosné konzultácie, za
+trpezlivosť a pomoc. Ďalej chcem poďakovať svojej rodine a priateľom za vaše
+povzbudzujúce slová a prejavenú dôveru počas celého štúdia.
+5
+
+ABSTRAKT
+ZAHURANČÍKOVÁ, Denisa: Kvalita života pacienta zaradeného v dialyzačnom
+programe. [Diplomová práca] / Denisa Zahurančíková – Trnavská univerzita v Trnave.
+Fakulta zdravotníctva a sociálnej práce; Katedra ošetrovateľstva. – Školiteľ diplomovej
+práce: doc. PhDr. Jane Martinkovej, PhD., MPH. Stupeň odbornej kvalifikácie: Magister.
+Trnava: FZaSP TU, 2026. s. 88.
+Úvod: Chronické ochorenie obličiek predstavuje závažný zdravotný problém, ktorý výrazne
+ovplyvňuje fyzické, psychické aj sociálne fungovanie pacientov. V pokročilých štádiách
+ochorenia je často potrebná renálna substitučná liečba, najčastejšie vo forme hemodialýzy,
+ktorá môže významne ovplyvňovať kvalitu života pacientov.
+Cieľ práce: Cieľom práce bolo zhodnotiť kvalitu života pacientov zaradených do
+hemodialyzačného programu a identifikovať vybrané sociodemografické a klinické faktory,
+ktoré ju môžu ovplyvňovať, so zohľadnením rómskej komunity v skúmanom súbore.
+Metodika:
+
+Výskum
+
+bol
+
+realizovaný
+
+kvantitatívnou
+
+metódou
+
+prostredníctvom
+
+štandardizovaného dotazníka KDQOL-SF (Kidney Disease Quality of Life – Short Form).
+Výskumnú vzorku tvorilo 115 pacientov podstupujúcich hemodialyzačnú liečbu.
+Výsledky: Výsledky výskumu poukázali na rozdiely v jednotlivých dimenziách kvality
+života pacientov na hemodialýze. Najvyššie hodnoty boli zaznamenané v oblasti podpory
+dialyzačného personálu a sociálnej podpory, zatiaľ čo najnižšie hodnoty boli zistené v oblasti
+záťaže spôsobenej ochorením obličiek, kvality sociálnych interakcií a kognitívnych funkcií.
+Štatisticky významné rozdiely sa preukázali najmä v súvislosti s vekom pacientov,
+vzdelaním, národnosťou a počtom užívaných liekov.
+Záver: Výsledky práce poukazujú na potrebu venovať zvýšenú pozornosť faktorom
+ovplyvňujúcim kvalitu života pacientov na hemodialýze ako komplexný prístup zahŕňajúci
+fyzické, psychické aj sociálne aspekty starostlivosti a aktívnu spoluprácu pacienta so
+zdravotníckym personálom.
+Kľúčové slová: Chronické zlyhávanie obličiek. Dialýza. Hemodialýza. Kvalita života.
+Ošetrovateľstvo. KDQOL-SF.
+
+6
+
+ABSTRACT
+ZAHURANČÍKOVÁ, Denisa: Quality of life of a patient enrolled in a dialysis program.
+[Diploma thesis] / Denisa Zahurančíková – Trnava University in Trnava. Faculty of Health
+and Social Work; Department of Nursing. – Supervisor: doc. PhDr. Jane Martinkovej, PhD.,
+MPH. Degree of professional qualification: Master of Nursing. Trnava: FZaSP TU, 2026, p.
+88.
+Introduction: Chronic kidney disease represents a serious health problem that significantly
+affects the physical, psychological, and social functioning of patients. In advanced stages of
+the disease, renal replacement therapy is often required, most commonly in the form of
+hemodialysis, which can significantly affect patients’ quality of life.
+Aim: The aim of the thesis was to evaluate the quality of life of patients enrolled in a
+hemodialysis program and to identify selected sociodemographic and clinical factors that
+may influence it, with consideration of the Roma community within the studied sample.
+Methodology: The research was conducted using a quantitative method through the
+standardized questionnaire KDQOL-SF (Kidney Disease Quality of Life – Short Form). The
+research sample consisted of 115 patients undergoing hemodialysis treatment.
+Results: The research results revealed differences in individual dimensions of quality of life
+among patients undergoing hemodialysis. The highest values were recorded in the area of
+dialysis staff support and social support, while the lowest values were identified in the areas
+of burden of kidney disease, quality of social interactions, and cognitive functions.
+Statistically significant differences were found mainly in relation to patients’ age, education,
+nationality, and the number of prescribed medications.
+Conclusion: The results of the study highlight the need to pay increased attention to factors
+affecting the quality of life of patients undergoing hemodialysis, through a comprehensive
+approach that includes physical, psychological, and social aspects of care, as well as active
+cooperation between the patient and healthcare professionals.
+Keywords: Chronic renal failure. Dialysis. Hemodialysis. Quality of life. Nursing.
+KDQOL-SF.
+
+7
+
+OBSAH
+ZOZNAM GRAFOV A TABULIEK........................................................................ 9
+ZOZNAM SKRATIEK............................................................................................... 10
+ÚVOD................................................................................................................................ 11
+1 Kvalita života pacienta zaradeného v dialyzačnom programe.................................... 13
+1.1 Chronické ochorenie obličiek................................................................................. 14
+1.2 Fyzické aspekty kvality života pacientov na hemodialýze...................................... 15
+1.3 Psychické a emočné aspekty kvality života pacientov na hemodialýze.................. 17
+1.4 Sociálne a ekonomické aspekty kvality života pacientov na hemodialýze.............. 18
+1.5 Kultúrne a etnické aspekty kvality života pacientov na hemodialýze..................... 20
+1.6 Psychologická a spirituálna podpora pacientov na hemodialýze............................ 21
+1.7 Kvalita života u rómskej populácie v dialyzačnom programe................................. 22
+1.8 Ošetrovateľská starostlivosť a podpora kvality života pacientov na hemodialýze.. 22
+1.9 Dietoterapia ako súčasť ošetrovateľskej starostlivosti o pacienta na dialýze.......... 27
+2 Metodika práce................................................................................................................ 29
+2.1 Výskumný problém, ciele, hypotézy....................................................................... 29
+2.2 Charakteristika výskumnej vzorky.......................................................................... 31
+2.3 Metodika výskumu................................................................................................. 31
+2.4 Výskumný nástroj................................................................................................... 32
+2.5 Metodika štatistickej analýzy dát............................................................................ 33
+2.6 Limity výskumu...................................................................................................... 34
+3 Analýza dotazníkových položiek.................................................................................... 36
+3.1 Analýza sociodemografických údajov.................................................................... 36
+3.2 Analýza dotazníka Kidney Disease Quality of Life Short Form (KDQOL-SF™).. 43
+3.3 Vyhodnotenie hypotéz............................................................................................ 47
+4 Diskusia............................................................................................................................ 65
+4.1 Návrhy pre prax...................................................................................................... 71
+
+ZÁVER............................................................................................................................. 73
+ZOZNAM POUŽITEJ LITERATÚRY................................................................. 75
+PRÍLOHY
+
+8
+
+ZOZNAM GRAFOV A TABULIEK
+ZOZNAM GRAFOV
+Graf 1 Podiel respondentov podľa pohlavia........................................................................ 36
+Graf 2 Počet respondentov podľa vekovej kategórie........................................................... 37
+Graf 3 Počet respondentov podľa najvyššieho dosiahnutého vzdelania.............................. 38
+Graf 4 Počet respondentov podľa rodinného stavu.............................................................. 39
+Graf 5 Podiel respondentov podľa národnosti..................................................................... 39
+Graf 6 Podiel respondentov podľa miesta bydliska............................................................. 40
+Graf 7 Podiel respondentov užívajúcich pravidelne lieky.................................................... 40
+Graf 8 Počet respondentov podľa počtu užívaných liekov na predpis................................. 41
+Graf 9 Počet respondentov podľa možnej príčiny vzniku ochorenia obličiek..................... 42
+Graf 10 Priemerné hodnoty jednotlivých váh dotazníka ESRD.......................................... 44
+Graf 11 Priemerné hodnoty jednotlivých váh dotazníka SF-36........................................... 46
+ZOZNAM TABULIEK
+Tabuľka 1 Deskriptívne štatistiky váh dotazníka ESRD..................................................... 43
+Tabuľka 2 Deskriptívne štatistiky váh dotazníka SF-36...................................................... 45
+Tabuľka 3 Výsledky testovania H1: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test)...........................................................................................................................47
+Tabuľka 4 Výsledky testovania H2: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test).......................................................................................................................... 50
+Tabuľka 5 Výsledky testovania H3: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test).......................................................................................................................... 53
+Tabuľka 6 Výsledky testovania H4: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test).......................................................................................................................... 56
+Tabuľka 7 Výsledky testovania H5: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test).......................................................................................................................... 59
+Tabuľka 8 Výsledky testovania H6: Spearmanova korelačná analýza................................ 62
+
+9
+
+ZOZNAM SKRATIEK
+ANOVA
+
+Analýza rozptylu
+
+AVF
+
+Arteriovenózna fistula
+
+CKD
+
+Chronic Kidney Disease / Chronické ochorenie obličiek
+
+CRBSI
+
+Catheter-Related Bloodstream Infection
+
+CVK
+
+Centrálny venózny katéter
+
+ESRD
+
+End-Stage Renal Disease / Terminálne štádium ochorenia obličiek
+
+GBD
+
+Global Burden of Disease
+
+GFR
+
+Glomerulárna filtrácia
+
+HD
+
+Hemodialýza
+
+KDIGO
+
+Kidney Disease: Improving Global Outcomes
+
+KDQOL
+
+Kidney Disease Quality of Life
+
+KRT
+
+Kidney Replacement Therapy
+
+NCZI
+
+Národné centrum zdravotníckych informácií
+
+NCD
+
+Non-Communicable Disease / Neprenosné chronické ochorenia
+
+PCS / MCS
+
+Súhrnné skóre fyzického a mentálneho zdravia
+
+PD
+
+Peritoneálna dialýza
+
+p
+
+p-hodnota
+
+QoL
+
+Quality of Life
+
+RAND
+
+Research and Development
+
+RRT
+
+Renal Replacement Therapy
+
+SD
+
+Smerodajná odchýlka
+
+SF-36
+
+Short Form Health Survey
+
+WHO
+
+World Health Organization
+
+10
+
+ÚVOD
+Chronické ochorenia predstavujú v súčasnosti významný zdravotnícky aj
+spoločenský problém, keďže výrazne ovplyvňujú kvalitu života pacientov a často si
+vyžadujú dlhodobú a komplexnú zdravotnú starostlivosť. Jedným z takýchto ochorení je aj
+chronické ochorenie obličiek, ktoré v pokročilých štádiách vedie k závažnému zlyhaniu
+funkcie obličiek. V takomto prípade je pre zachovanie života pacienta nevyhnutná náhrada
+funkcie obličiek prostredníctvom renálnej substitučnej liečby, medzi ktorú patrí
+hemodialýza, peritoneálna dialýza alebo transplantácia obličky. Hemodialýza je pritom
+najčastejšie využívanou formou liečby pacientov s terminálnym štádiom ochorenia obličiek.
+Hemodialyzačná liečba umožňuje pacientom prežiť aj napriek zlyhaniu obličiek,
+zároveň však výrazne zasahuje do ich každodenného života. Pacienti musia pravidelne
+absolvovať dialyzačné procedúry, dodržiavať liečebný a režimový plán a prispôsobovať svoj
+životný štýl náročnej liečbe. Chronické ochorenie, pravidelné dialyzačné procedúry a
+súvisiace obmedzenia môžu negatívne ovplyvňovať fyzické, psychické aj sociálne
+fungovanie pacienta.
+Kvalita života pacientov podstupujúcich hemodialyzačnú liečbu je komplexný a
+multidimenzionálny pojem, ktorý zahŕňa viaceré oblasti života jednotlivca. Okrem
+fyzického zdravia zahŕňa aj psychickú pohodu, sociálne vzťahy, schopnosť vykonávať
+každodenné aktivity či subjektívne vnímanie vlastného zdravotného stavu. Dialyzačná liečba
+môže ovplyvňovať všetky tieto oblasti a viesť k rôznym problémom, ako sú únava,
+obmedzenie fyzickej výkonnosti, poruchy spánku, sociálna izolácia alebo psychická záťaž
+spojená s chronickým ochorením. Z uvedených dôvodov je hodnotenie kvality života
+dôležitou súčasťou komplexnej starostlivosti o pacientov na hemodialýze.
+Významnú úlohu v starostlivosti o dialyzovaných pacientov zohrávajú zdravotné
+sestry, ktoré sú s pacientmi v pravidelnom a dlhodobom kontakte. Okrem poskytovania
+odborných zdravotníckych výkonov sa podieľajú aj na edukácii pacientov, podpore ich
+adaptácie na chronické ochorenie a na zlepšovaní ich celkovej kvality života. Ošetrovateľská
+starostlivosť by mala byť zameraná na individuálne potreby pacienta a mala by zohľadňovať
+nielen jeho zdravotný stav, ale aj psychické, sociálne a kultúrne aspekty života.
+Osobitnú pozornosť je potrebné venovať aj sociálnym a kultúrnym faktorom, ktoré
+môžu ovplyvňovať prístup pacienta k liečbe a jeho spoluprácu so zdravotníckym
+personálom. V podmienkach Slovenska je jednou zo špecifických skupín pacientov aj
+11
+
+rómska populácia, ktorá môže čeliť rôznym sociálnym a zdravotným nerovnostiam. Tieto
+faktory môžu mať vplyv aj na subjektívne vnímanie kvality života a na spôsob, akým
+pacienti zvládajú chronické ochorenie a jeho liečbu.
+Z uvedených skutočností vyplýva potreba systematicky skúmať kvalitu života
+pacientov zaradených do dialyzačného programu aj v podmienkach Slovenska. Výskum
+môže prispieť k lepšiemu pochopeniu individuálnych potrieb pacientov, k zlepšeniu
+ošetrovateľskej praxe, edukácie pacientov a celkovej efektivity nefrologickej starostlivosti.
+Cieľom tejto práce je syntetizovať poznatky o kvalite života pacientov na
+hemodialýze
+
+z
+
+ošetrovateľského
+
+hľadiska
+
+(vrátane
+
+symptomatickej
+
+záťaže,
+
+psychosociálnych a kultúrnych faktorov a dietoterapie), so zameraním aj na rómsku
+menšinu.
+
+12
+
+1 KVALITA ŽIVOTA PACIENTA ZARADENÉHO V DIALYZAČNOM
+PROGRAME
+Hemodialýza (HD) je život udržiavajúca mimotelová liečba čistenia krvi, zároveň
+však zásadne mení každodenný režim pacienta. Pacienti s terminálnym štádiom ochorenia
+obličiek (ESRD) na hemodialýze majú vysoký výskyt psychiatrických ochorení, najmä
+depresie a úzkostných porúch, a bola pozorovaná zlá kvalita života. Dialýza môže okrem
+symptómov spojených so zlyhaním obličiek viesť aj k fyzickým príznakom, ako je únava,
+strata chuti do jedla, anémia, nízky krvný tlak a preťaženie tekutinami. Zápal je častým
+vedľajším účinkom dialýzy a môže viesť k úbytku svalovej hmoty, únave a slabosti
+u pacientov. Komplexné posudzovanie a zlepšovanie kvality života hemodialyzovaných
+pacientov je jedným z hlavných cieľov moderného ošetrovateľstva a zdravotnej
+starostlivosti. Preto pri posudzovaní kvality života pacienta na dialýze treba brať do úvahy
+holistický prístup (Danková, 2023; Zhao 2023; Sułkowski et al., 2025; Doan et al., 2024).
+Štúdie poukazujú na rozdiely v kvalite života podľa modality dialýzy. Mnohé štúdie
+ukazujú, že pacienti na peritoneálnej dialýze často uvádzajú vyššiu autonómiu a menej
+obmedzujúci režim v porovnaní s hemodialýzou. Pacienti podstupujúci PD sú väčšinou
+mladší, majú kratšie trvanie dialýzy, majú väčšiu pravdepodobnosť zamestnania a sú často
+lepšie vzdelaní či zamestnaní než pacienti na HD. Po dialýze majú PD pacienti nižšiu hladinu
+močoviny a nižší krvný tlak než pacienti na HD, čo naznačuje lepšiu hemodynamickú
+stabilitu. Na druhej strane, PD vyžaduje od pacienta aktívne zapojenie (domáce výmeny
+dialyzátu), čo môže byť pre starších alebo viac chorých pacientov náročné (vyžaduje
+zodpovednosť a manuálne zručnosti). Naopak, hemodialýza ako centrálny (in-center) postup
+prináša pre pacienta častejšie cestovanie do dialyzačného centra, invazívne zákroky (vpichy
+do cievneho prístupu) a prísny časový rozvrh, čo môže obmedzovať sociálne a pracovné
+aktivity. Pri rozhodovaní o dialyzačnej modality je potrebné zohľadniť životný štýl pacienta
+– starší pacienti alebo tí so zníženou mobilitou môžu ťažiť z PD, ak naň majú vhodné
+podmienky a podporu. Vo svetle najnovších dát sa odporúča u starších pacientov a u tých s
+gastrointestinálnymi ochoreniami (napr. peptické vredy) venovať zvýšenú pozornosť
+očakávanej kvalite života. Dostupná sociálna a komunita podpora by sa tiež mala brať do
+úvahy pri výbere PD, pretože zjednodušuje starostlivosť v domácom prostredí (Hsu et al.,
+2020; Tran et al., 2021; Manani et al., 2024; Palleschi et al., 2024).
+
+13
+
+1.1 Chronické ochorenie obličiek
+Chronické ochorenie obličiek (CKD) predstavuje dlhodobo progresívny stav s dopadom
+na mortalitu, morbiditu a kvalitu života. CKD sa považuje za chronické progresívne
+ochorenie vyžadujúce dlhodobú starostlivosť a manažment rizikových faktorov; klinické
+usmernenia (KDIGO) definujú CKD ako abnormality štruktúry alebo funkcie obličiek
+pretrvávajúce >3 mesiace s dopadom na zdravie a zdôrazňujú klasifikáciu podľa príčiny,
+GFR (glomerulárna filtrácia) a albuminúrie (KDIGO, 2013; KDIGO, 2024).
+Z hľadiska globálneho verejného zdravia sú neprenosné chronické ochorenia (NCD)
+podľa WHO najmä kardiovaskulárne choroby, rakovina, chronické respiračné ochorenia a
+diabetes; CKD s nimi úzko súvisí cez spoločné rizikové faktory a komorbidity (WHO, 2025).
+Zároveň sa v roku 2025 na 78. Svetovom zdravotníckom zhromaždení prijala prvá
+rezolúcia zameraná na zdravie obličiek, čo signalizuje rastúcu prioritu ochorení obličiek v
+globálnej politike (WHO, 2025).
+Epidemiologické údaje ukazujú, že CKD zasahuje významnú časť populácie:
+prehľad Kovesdy (2022) uvádza, že CKD postihuje >10 % populácie a ide o >800 miliónov
+ľudí; zároveň analýza GBD - Chronic Kidney Disease Collaboration (Lancet) odhaduje pre
+rok 2017 približne 697,5 milióna prípadov a globálnu prevalenciu 9,1 % (Kovesdy, 2022;
+GBD CKD Collaboration, 2020).
+V pokročilých štádiách môže CKD viesť k potrebe náhrady funkcie obličiek
+(KRT/RRT; hemodialýza, peritoneálna dialýza, transplantácia). Systematický prehľad
+Liyanage et al. (2015) odhaduje, že globálne využívanie RRT sa môže do roku 2030 viac
+než zdvojnásobiť na 5,439 milióna (Liyanage et al., 2015).
+Kvalita života dialyzovaných pacientov je komplexný multidimenzionálny pojem
+zahŕňajúci fyzické zdravie, psychickú pohodu, sociálne vzťahy, ekonomické podmienky.
+Štúdie ukazujú, že nižšia kvalita života je spojená s vyššou mierou hospitalizácií a úmrtnosti.
+Lepší stav kvality života môže podporiť adherenciu k liečbe a spája sa so zlepšenými
+celkovými výsledkami pacientov. Z tohto dôvodu je hodnotenie a zlepšovanie kvality života
+jednou z kľúčových úloh ošetrovateľskej starostlivosti v dialyzačných centrách (Bazrafshan
+et al., 2023; Bello et al., 2024).
+Napriek tomu, že problematika je medzinárodne dobre preskúmaná, v slovenskom
+kontexte je dostupných len obmedzené množstvo dát, najmä o prepojení kvality života so
+zdravotnou gramotnosťou, dietoterapiou či kultúrnymi faktormi napr. rómska populácia,
+ktorá patrí medzi najväčšie menšiny na Slovensku (Kolvek et al., 2018).
+
+14
+
+CKD v terminálnom štádiu si vyžaduje renálnu substitučnú liečbu, pričom najčastejšou
+voľbou zostáva hemodialýza. Hoci táto liečba predlžuje život, výrazne ovplyvňuje
+každodenné fungovanie pacientov vo fyzickej, psychickej, sociálnej aj existenciálnej rovine.
+Viaceré štúdie ukazujú, že pacienti na hemodialýze vykazujú významne nižšiu kvalitu života
+v porovnaní s bežnou populáciou, a to vo všetkých doménach.
+1.2 Fyzické aspekty kvality života pacientov na hemodialýze
+Hemodialýza ako život udržiavajúca terapia prináša množstvo fyzických záťaží a
+komplikácií, ktoré negatívne ovplyvňujú kvalitu života pacienta. Samotné chronické
+ochorenie obličiek a dialyzačná liečba sú spojené s početnými príznakmi, takmer všetci
+pacienti trpia anémiou, ktorá prispieva k chronickej únave, slabosti a zníženej výkonnosti,
+čo je častá a klinicky významná komplikácia CKD (Lalo et al., 2025; KDIGO, 2026).
+Najčastejšie uvádzané ťažkosti zahŕňajú chronickú únavu, bolesti svalov a kĺbov,
+svalové kŕče, hypotenzné epizódy počas dialýzy, srdcové arytmie, svrbenie pokožky
+(pruritus), poruchy spánku, nechutenstvo, nevoľnosť až vracanie a modriny v mieste
+cievneho prístupu. Tieto symptómy sa často vyskytujú súbežne, čo vedie k synergickému
+zhoršeniu fyzickej pohody a schopnosti samostatne vykonávať každodenné činnosti.
+Komplexné prehľady ukazujú, že priemerný počet symptómov na pacienta sa pohybuje
+medzi 6 až 20 symptómami (Almutary et al., 2016; Nagasawa et al., 2018; Alshammari et
+al., 2019; Mrabet et al., 2025).
+Únava patrí medzi najviac zaťažujúce symptómy u dialyzovaných. Postihuje až 70%
+pacientov a vedie k obmedzeniu bežných denných činností, ako aj dochádzanie na dialýzu
+a udržanie si zamestnania. Únava, meraná podľa závažnosti a interferencie, je výraznejšia v
+deň dialýzy v porovnaní s dňom bez dialýzy. Závažnosť fyzických symptómov je navyše
+často podceňovaná zo strany zdravotníckeho personálu, čo vedie k nedostatočne adresovanej
+starostlivosti. Je tiež možné, že výrazne nižší príjem energie a bielkovín v strave v dňoch
+dialýzy v porovnaní s dňami bez dialýzy môže prispievať k únave (Almutary et al., 2016;
+Debnath et al., 2021; Sułkowski et al., 2024; Latus et al., 2025).
+Častým problémom je aj porucha spánku (insomnia), ktorá môže byť dôsledkom
+nočného svrbenia kože, nepokojných nôh či celkovej nepohody; nekvalitný spánok následne
+prehlbuje únavu počas dňa. Prítomnosť pruritu a porúch spánku má priame prepojenie
+s vyšším rizikom depresívnych symptómom a zhoršenou adherenciou k liečbe. Pruritus je
+asociovaný s urémiou a trápi podstatnú časť dialyzovaných pacientov. Svrbenie spôsobené
+CKD, známe ako „uremický pruritus“, sa často používa zameniteľne s pojmom „svrbenie“
+15
+
+spojené s CKD. Pacienti na hemodialýze s extrémnym pruritusom majú väčšiu
+pravdepodobnosť, že dialýzu prerušia alebo vynechajú plánované dialýzy v porovnaní s
+pacientmi, ktorých pruritus neobťažoval (Minato et al., 2020; Ahdoot et al., 2022; Danková,
+2023; Latus et al., 2025; Malhotra et al., 2026).
+K fyzickým aspektom patria aj bolestivé prejavy a diskomfort. Pacienti na
+hemodialýze často uvádzajú chronické muskuloskeletálne bolesti (napríklad bolesti kĺbov a
+kostí pri renálnej osteopatii), svalové kŕče počas dialýzy, bolesti v mieste cievneho prístupu
+či bolesti hlavy a bolesti na hrudníku v súvislosti s kolísaním tlaku. Hoci v slovenskom
+prieskume prekvapivo až 26 % dialyzovaných pacientov deklarovalo, že za posledné
+obdobie nepociťovali fyzickú bolesť, väčšina štúdií potvrdzuje opak – chronická bolesť je u
+dialyzovaných veľmi rozšírená a znižuje ich schopnosť venovať sa aktivitám. Pacienti
+poväčšine pociťujú bolesť ku koncu dialýzy, alebo až po dialýze, vo väčšine prípadov je to
+osteoartikulárneho charakteru (Danková, 2023; Latus et al., 2025; Mrabet et al., 2025).
+Okrem toho dlhodobá dialýza vedie k zmenám telesného vzhľadu – pacienti majú
+často výraznejšie preťaženie tekutinou (edémy), čo mení ich hmotnosť a vzhľad; prítomné
+môžu byť kožné známky dialýzy (petechie, pruhy po poškriabaní kože v dôsledku svrbenia)
+a jazvy po cievnych prístupoch. Zmenený vzhľad môže negatívne pôsobiť na sebaúctu
+pacienta a viesť až k sociálnemu vyhýbaniu sa (hanba za fistulu atď.). Pacienti uvádzajú, že
+fistuly a miesta vpichu ihiel môžu viesť k obavám z vnímania tela a stigme. (Yang, 2024;
+Hassan et al., 2025; Zhang et al., 2025).
+Do fyzickej domény zásadne vstupujú aj režimové obmedzenia: časová náročnosť
+dialýz, potreba stabilného cievneho prístupu a diétnych/tekutinových limitov, ktoré
+ovplyvňujú autonómiu pacienta a jeho sebaobraz. Typický program hemodialýzy (3-krát do
+týždňa ~4 hodiny) znamená, že pacienti trávia značnú časť času napojení na dialyzačný
+prístroj. Syndróm dialyzačného dňa zahŕňa pokles fyzickej výkonnosti a slabosť v dňoch
+dialýzy, čo obmedzuje schopnosť pracovať či starať sa o domácnosť. Dni strávené na dialýze
+mnohí opisujú ako „stratené“ pre bežný život (Danková, 2023; Fernandes et al., 2024;
+Aldabbour et al., 2025; Zhang et al., 2025).
+Prísne dietetické a tekutinové obmedzenia predstavujú pre pacientov fyzickú aj
+psychickú záťaž – musia kontrolovať príjem tekutín, sodíka, draslíka a fosforu, aby predišli
+komplikáciám ako hyperkaliémia či hyperhydratácia. Neustály pocit smädu pri limitovanom
+príjme tekutín a diétne reštrikcie (napr. vylúčenie mnohých obľúbených potravín) znižujú
+pôžitok z jedla a môžu viesť k podvýžive aj zhoršeniu kvality života súvisiacej so
+stravovaním. Zlý nutričný stav významne ovplyvňuje kvalitu života u HD pacientov, a to v
+16
+
+dôsledku faktorov, ako je nedostatočný príjem potravy, znížená chuť do jedla, nízka kvalita
+stravy, vysoký index monotónnosti stravy, vyčerpanie živín počas dialýzy a zvýšený
+katabolizmus. Strava bohatá na fosfor je spojená so zvýšením vaskulárnej kalcifikácie,
+poklesom kostnej hmoty, znížením rýchlosti glomerulárnej filtrácie a zvýšením úmrtnosti.
+Súvislosť medzi príjmom vápnika v strave a progresiou CKD sa javí ako marginálna. Hoci
+nadmerný príjem (spôsobujúci hyperkalcémiu/hyperkalciúriu) môže podporovať rozvoj
+obličkových kameňov, hypertenzie a poruchy funkcie obličiek, zvýšené aj znížené hladiny
+v sére boli spojené so zvýšenou úmrtnosťou a progresiou CKD (Danková, 2023; Sułkowski
+et al., 2024; Shahdadian et al., 2025).
+Kvalita života u pacientov na hemodialýze je komplexne ovplyvňovaná viacerými
+symptómami, ktoré sa navzájom zosilňujú. Viacerí autori sa zhodujú, že pravidelné
+hodnotenie symptómového zaťaženia, edukácia pacientov a cielené nefarmakologické
+intervencie môžu významne prispieť k zlepšeniu fyzickej pohody a celkového prežívania
+pacientov. Subjektívne vnímanie kvality života dialyzovaného pacienta je nižšie ako u
+zdravého človeka. Cieľom dnešnej medicíny je nielen dosiahnuť dlhší život pacientom, ale
+predovšetkým dosiahnuť lepšiu kvalitu života (Ležovič a kol., 2013; Danková, 2023; Lalo
+et al., 2025).
+1.3 Psychické a emočné aspekty kvality života pacientov na hemodialýze
+Psychická pohoda dialyzovaného pacienta býva vážne narušená vplyvom dlhodobej
+záťaže chorobou a liečbou. Depresia a úzkosť patria medzi najčastejšie duševné poruchy u
+pacientov na hemodialýze. Výskyt úzkostných porúch je takisto vysoký – mnohí pacienti
+pociťujú strach z budúcnosti, obavy z priebehu dialýzy či neistotu ohľadom možnosti
+transplantácie. Vysoká miera depresie a úzkosti u pacientov môže byť spôsobená rôznymi
+psychosociálnymi faktormi, ako je izolácia, nedostatok autonómie a obmedzená aktivita
+vyplývajúca z prísnej liečby symptómov a častých dialýz. Depresia u pacientov
+podstupujúcich hemodialýzu je spojená so zlou kvalitou života, zlou adherenciou k liečbe,
+nižšou pravdepodobnosťou transplantácie, vyššou úmrtnosťou a zvýšenou mierou
+hospitalizácie. Anémia môže tiež prispievať k depresii. Pacienti, ktorí vnímajú vysokú
+úroveň sociálnej podpory, sú odolnejší, menej náchylní na ťažkú depresiu a s väčšou
+pravdepodobnosťou si zachovajú pozitívny pohľad na svoj stav. Okrem toho náboženské a
+duchovné zapojenie často zvyšuje vnímanie sociálnej podpory pacientmi, čím sa ďalej
+zlepšuje ich psychická pohoda (Sułkowski et al., 2024; Doan et al., 2024; Lalo et al., 2025).
+
+17
+
+Napriek značnej záťaži existujú aj ochranné faktory a pozitívne psychické javy u
+dialyzovaných pacientov. Mnohí z nich si postupne vytvoria mechanizmy zvládania
+(coping) – naučia sa lepšie plánovať svoj čas okolo dialýz, nachádzajú oporu vo viere či
+spiritualite, alebo prehodnotia životné priority a viac si vážia prítomnosť rodiny a
+každodenné maličkosti. Niektorí pacienti dokonca hovoria o pocite vďačnosti za dialýzu,
+ktorá im umožňuje žiť napriek zlyhaniu obličiek (tzv. benefit-finding fenomén). Pre
+zdravotníckych pracovníkov je preto dôležité podporovať resilienciu a pozitívne copingové
+stratégie pacientov – napríklad povzbudzovať ich, aby hľadali zmysluplné aktivity v rámci
+svojich možností, aby sa zverovali so svojimi pocitmi a aby využili dostupnú psychologickú
+pomoc. Psychosociálne intervencie, ako je psychologická podpora alebo relaxačná terapia,
+znižujú depresiu a úzkosť u dospelých podstupujúcich HD. Dôkazy naznačujú, že
+psychosociálne intervencie môžu mať prínos pre kvalitu života dospelých podstupujúcich
+HD (Barello et al., 2022; Sułkowski et al., 2024; Fan et al., 2025).
+V tejto súvislosti je mimoriadne dôležitá práca zdravotných sestier, ktoré ako súčasť
+multidisciplinárneho tímu zohrávajú zásadnú úlohu v identifikácii rizikových pacientov a v
+poskytovaní primeranej psychickej podpory. Starostlivosť vedená zdravotnými sestrami
+významne zlepšuje symptómy/problémy spojené s ochorením obličiek, kvalitu spánku,
+bolesť, energiu/únavu, celkový zdravotný stav a depresiu. Starostlivosť vedená sestrami
+poskytuje významné výhody pri zvládaní určitých aspektov chronického ochorenia obličiek
+(Arooj et al., 2025).
+1.4 Sociálne a ekonomické aspekty kvality života pacientov na hemodialýze
+Chronické ochorenie obličiek má vplyv na pacientov, zdravotníckych pracovníkov,
+rodiny a sociálne prostredie. Mnohí ekonomicky aktívni pacienti sú nútení znížiť úväzok
+alebo úplne prestať pracovať kvôli času strávenému na dialýze a kolísajúcemu zdravotnému
+stavu. Pacienti čoraz viac pociťujú zvýšený stres v dôsledku hemodialýzy, pretože
+predstavujú záťaž pre svojich opatrovateľov. Cítia sa bezmocní, pretože si nedokážu udržať
+zamestnanie a majú pocit „záťaže“ pre ostatných (Hanspal et al., 2021; Nimah et al., 2024).
+Hemodialýza môže limitovať zamestnanosť (časová viazanosť, fluktuujúci
+zdravotný stav) a zvyšovať finančný stres domácnosti. Sociálna podpora (rodina, partner,
+priatelia, komunita) je spájaná s lepšou adherenciou k liečebným režimom a lepším
+subjektívnym hodnotením QoL (Alatawi et al., 2024; Sułkowski et al., 2024).
+Definične je vhodné chápať sociálnu podporu ako súbor zdrojov poskytovaných
+sociálnym okolím (emocionálna podpora, informačná podpora, inštrumentálna pomoc,
+18
+
+„prítomnosť“ a pozitívna sociálna interakcia), ktoré zmierňujú psychický stres a podporujú
+seba-manažment choroby. (Sułkowski et al., 2024).
+Rodinný život dialyzovaného pacienta takisto prechádza výraznými zmenami.
+Rodina je najvýznamnejším neformálnym poskytovateľom starostlivosti o pacientov s CKD.
+Pacienti podstupujúci dialýzu vyžadujú komplexnú starostlivosť od svojich rodín.
+Chronicky chorý postupne preberá rolu pacienta a často prichádza o roly, ktoré predtým v
+rodine zastával. Úlohy a povinnosti, ktoré pacient predtým plnil (napríklad zabezpečenie
+príjmu, starostlivosť o domácnosť), prechádzajú na ostatných členov rodiny. Strnulý
+harmonogram hemodialýzy a súvisiace vedľajšie účinky obzvlášť narúšali ich rodičovské
+úlohy a často bránili ich schopnosti starať sa o deti a plniť rodičovské očakávania. Mladší
+pacienti trpia, keď kvôli dialýze nemôžu naplno plniť rodičovské povinnosti (nemôžu sa
+venovať deťom počas dialýz, chýbajú na rodinných aktivitách) (Danková, 2023; Nimah et
+al., 2024; Zhang et al., 2025).
+Partnerské a manželské vzťahy môžu byť dialýzou skúšané viacerými spôsobmi.
+Jednak fyzické a psychické vyčerpanie pacienta môže znižovať kvalitu partnerského života
+(obmedzenie spoločných aktivít, intimity – u dialyzovaných mužov je častá erektilná
+dysfunkcia, u žien pokles libida). Jednak sa mení dynamika vzťahu – zdravý partner preberá
+rolu opatrovateľa, čo môže narušiť rovnováhu partnerského vzťahu. Napriek týmto výzvam
+však výskumy ukazujú aj pozitívny vplyv pevného partnerského zväzku: ženatí/vydaté
+dialyzované osoby mávajú vyššiu podporu a lepšie zvládajú liečbu než osamelo žijúci
+pacienti. V prieskume na východnom Slovensku až 70 % hemodialyzovaných pacientov
+vyjadrilo veľkú spokojnosť s podporou, ktorú dostávajú od rodiny a priateľov. Okrem toho,
+osoby podstupujúce hemodialýzu uviedli, že menštruačné a ovulačné nepravidelnosti,
+znížená sexuálna funkcia a problémy s plodnosťou spôsobovali, že tehotenstvo a materstvo
+sa zdali pre ženy na hemodialýze nedosiahnuteľné. Pacientky uviedli, že nezhody v
+sexuálnom živote a problémy s tehotenstvom spôsobené ochorením obličiek v konečnom
+štádiu ovplyvňujú rodinný život (Danková, 2023; Sułkowski et al., 2024; Nimah et al., 2024;
+Zhang et al., 2025) .
+Napriek
+
+dobre
+
+zdokumentovaným
+
+výhodám
+
+sociálnej
+
+podpory
+
+mnohí
+
+hemodialyzovaní pacienti pociťujú jej nedostatok, najmä tí, ktorí sú sociálne izolovaní alebo
+nemajú silné rodinné či komunitné siete. Sociálna izolácia je bežná, pretože mnohí
+hemodialyzovaní pacienti sú kvôli svojej chorobe nezamestnaní a majú obmedzené sociálne
+interakcie, čo zhoršuje pocity depresie a úzkosti a ďalej znižuje kvalitu ich života.
+Identifikácia pacientov, ktorým hrozí nedostatočná sociálna podpora, je nevyhnutná pre
+19
+
+vývoj intervencií, ktoré môžu zlepšiť ich pohodu. Sociálna izolácia vedie k začarovanému
+kruhu: osamelý pacient má sklon upadať do depresie, a depresívny pacient sa ešte viac stráni
+spoločnosti. Z tohto dôvodu sa odporúča identifikovať pacientov s nedostatočnou sociálnou
+oporou a proaktívne im ponúknuť zapojenie do podporných aktivít – či už ide o stretnutia
+pacientskych klubov, skupinové edukačné sedenia na dialýze alebo sprostredkovanie
+kontaktu s dobrovoľníkmi (Zhang et al., 2025; Sułkowski et al., 2024).
+Niektorí sa stretávajú so stigmatizáciou alebo nepochopením – napríklad mladý
+dialyzovaný môže mať problém nadviazať nový partnerský vzťah kvôli predsudkom
+potenciálnych partnerov voči chorobe. Zmeny vzhľadu (ako spomínané fistuly, jazvy či
+opuchy) môžu viesť k pocitom hanby na verejnosti; pacienti radšej obmedzia sociálne
+kontakty, aby nemuseli vysvetľovať svoj stav. Zmenený obraz tela je významným faktorom
+prispievajúcim k sociálnemu uzavretiu u jedincov podstupujúcich hemodialýzu (Zhang et
+al., 2025).
+V Česku a na Slovensku fungujú kluby dialyzovaných a transplantovaných
+pacientov, ktoré organizujú rekondičné pobyty či stretnutia – aktívne zapojenie sa do
+takýchto komunít pacientom pomáha udržať sociálne väzby a zvyšuje ich spokojnosť so
+životom (Kovalcikova, Zakova, 2018).
+1.5 Kultúrne a etnické aspekty kvality života pacientov na hemodialýze
+Kultúrne prostredie a etnická príslušnosť môžu ovplyvniť prístup k liečbe aj
+subjektívne vnímanie kvality života. Na Slovensku sa v dialyzačných centrách lieči aj
+rómska populácia, ktorá predstavuje špecifickú skupinu s odlišnými sociálnymi a
+kultúrnymi podmienkami. Rómska populácia má zvyčajne nižší socioekonomický status s
+následným obmedzeným prístupom k systému zdravotnej starostlivosti, nižšie dodržiavanie
+lekárskej starostlivosti a špecifické genetické pozadie súvisiace s ich severoindickým
+pôvodom. Stále chýbajú údaje o rómskej populácii, jednej z najvýznamnejších menšinových
+skupín na svete. Zistilo sa, že rómski pacienti tvoria približne 13 % dialyzovanej populácie,
+pričom častejšie začínajú liečbu v mladšom veku a s nižšou zdravotnou gramotnosťou. V
+rómskej menšinovej skupine pacienti začínajú s hemodialýzou v mladšom veku, čo
+naznačuje, že miera progresie CKD v období pred dialýzou je u tejto etnickej skupiny vyššia.
+U rómskej menšiny sa nepreukázal žiadny paradox prežitia (Gadalean et al., 2016; Kolvek
+et al., 2018; Cosoreanu et al., 2024).
+Pre ošetrovateľstvo z toho vyplýva potreba kultúrne kompetentnej komunikácie,
+ktorá redukuje riziko neporozumenia a podporuje adherenciu bez moralizovania. Ako
+20
+
+praktický rámec možno využiť aj literatúru o kultúrnej kompetencii zdravotníckych
+pracovníkov v práci s marginalizovanými skupinami (Francis, 2013).
+Etnické rozdiely v prístupe k zdravotnej starostlivosti a ekonomické nerovnosti môžu
+negatívne ovplyvniť kvalitu života aj prežívanie pacientov. Z tohto dôvodu je nevyhnutné,
+aby ošetrovateľská starostlivosť bola kultúrne citlivá a rešpektovala hodnoty, jazykové a
+sociálne špecifiká pacienta (Cosoreanu et al., 2024).
+1.6 Psychologická a spirituálna podpora pacientov na hemodialýze
+V mnohých rozvinutých krajinách sa spiritualita čoraz viac zohľadňuje v politike
+zdravotnej starostlivosti. Pre tých, ktorí dosiahnu terminálne štádium ochorenia obličiek, je
+prognóza zlá a to v kombinácii s rastúcou prevalenciou ochorenia si vyžaduje podporné a
+paliatívne programy starostlivosti, ktoré budú riešiť psychosociálne, kultúrne a duchovné
+potreby ľudí. Hoci medzi krajinami existujú rozdiely, výskum ukazuje, že mnohé sestry a
+lekári špecializujúci sa na nefrológiu sa zdráhajú zaoberať sa spiritualitou, iniciovať
+rozhovory na konci života alebo včas implementovať konzervatívne liečebné plány. Existujú
+aj štúdie, ktoré ukazujú, že náboženstvo môže byť negatívne spojené so zdravotnými
+výsledkami, najmä ak sa týka viny a trestu. Iné štúdie však naznačujú, že poskytovanie
+služieb paliatívnej starostlivosti, ktoré zahŕňa duchovný rozmer, môže znížiť záťaž
+symptómov, pomôcť pacientom pri vytváraní pokročilých smerníc/plánov a zlepšiť kvalitu
+života súvisiacu so zdravím (Egan et al., 2015).
+Psychologická podpora zahŕňa vypočutie pacienta bez hodnotenia, poskytnutie
+priestoru pre emócie, motiváciu k zvládaniu ochorenia, podporu v udržiavaní sociálnych
+kontaktov, pomoc pri adaptácii na zmenený životný štýl. Sestry poukazujú na dôležitosť
+neodmietania emócií, aj keď sú negatívne, ako v prípade nahnevaných alebo frustrovaných
+pacientov. Efektívny terapeutický vzťah medzi zdravotnou sestrou a pacientom priniesť
+výhody aj zdravotníckym pracovníkom, ktorí uviedli, ako ich povzbudzovali ich pacienti, s
+ktorými sa podelili o svoje pocity počas ťažkého obdobia svojho súkromného života.
+Ignorovanie vzťahových aspektov starostlivosti môže viesť k dehumanizujúcim praktikám
+voči pacientom, vrátane deindividualizácie, odlišnosti osôb asistovaných sestrou,
+mechanizácie a zníženej empatie (Camedda et al., 2023).
+Hemodialýza má závažné dôsledky, ktoré ovplyvňujú všetky oblasti života.
+Dostupné štúdie naznačujú, že spiritualita má pozitívny vplyv na niekoľko u jednotlivcov s
+ochorením obličiek, Opakované hodnotenia ukazujú, že spiritualita prispieva k psychickej
+adaptácii (Mulder et al., 2016).
+21
+
+1.7 Kvalita života u rómskej populácie v dialyzačnom programe
+Rómska populácia na Slovensku patrí k skupinám s najvyšším zdravotným rizikom
+a najnižšou zdravotnou gramotnosťou. Podľa správy (WHO, 2023) patrí rómska komunita v
+Európe medzi najzraniteľnejšie skupiny obyvateľstva. Progresia CKD do terminálneho
+štádia je u rómskej populácie rýchlejšia, najmä pre nedostatočnú kontrolu diabetu a nízku
+adherenciu k liečbe (Kolvek et al., 2018; Cosoreanu et al., 2024).
+Rómska komunita čelí zložitým sociálnym problémom – sú vystavení chudobe,
+vážnej štrukturálnej diskriminácii a sociálnemu vylúčeniu. Nerovnosti v zdravotnej
+starostlivosti a v prístupe k zdravotníckym službám predstavujú jeden z hlavným faktorov,
+ktoré prispievajú k ich sociálnemu vylúčeniu. Tieto faktory výrazne limitujú prístup k
+zdravotnej starostlivosti a vedú k nižšej zdravotnej gramotnosti. Pre rómskych pacientov je
+typická nesystematická spolupráca so zdravotníkmi a vyššia miera nedôvery k inštitúciám
+(Popper a kol., 2009; Cintulová et al., 2023).
+Kultúra Rómov je silne orientovaná na rodinu, tradície a kolektívne hodnoty.
+V súčasnosti Rómska rodina stále reprezentuje tradičný typ viacgeneračnej rodiny. U Rómov
+dominuje silný návyk a potreba telesnej blízkosti. Zdravie býva vnímané skôr ako „dar“
+alebo „osud“, nie ako výsledok životného štýlu či prevencie. Pre ošetrovateľskú prax je preto
+kľúčové, aby sestry rozumeli odlišnostiam a prispôsobovali komunikáciu individuálne
+(Zdravecká, 2010; Francis, 2013).
+Sestra v dialyzačnom programe, ktorá pracuje s rómskymi pacientmi, musí
+disponovať interkultúrnou kompetenciou – schopnosťou vnímať a rešpektovať hodnoty a
+zvyky inej kultúry. Takýto prístup podporuje rovnosť v prístupe k zdravotnej starostlivosti a
+zlepšuje dôveru pacienta k zdravotníckemu systému. Sestry, ktoré absolvovali školenie v
+interkultúrnej komunikácii, udávali nižšiu mieru konfliktov a lepšiu spoluprácu s rómskymi
+pacientmi (Francis, 2013; Bueno, 2022).
+1.8 Ošetrovateľská starostlivosť a podpora kvality života pacientov na hemodialýze
+Sestra je kľúčovou súčasťou dialyzačného tímu a zároveň osobou, ktorá je s
+pacientom v najčastejšom kontakte. Okrem odborných klinických zručností disponuje
+schopnosťou vnímať pacienta ako celok – jeho telesné, psychické, sociálne aj spirituálne
+potreby.
+V popredí záujmu sú najmä nefarmakologické intervencie, keďže mnohé problémy
+dialyzovaných (únava, depresia, sociálna izolácia) nemožno vyriešiť liekmi, ale skôr
+úpravou životného štýlu a psychosociálnou podporou. Jednou z najúčinnejších stratégií je
+22
+
+zapojenie fyzickej aktivity a cvičenia do života dialyzovaných pacientov. Kľúčové
+nefarmakologické zásahy zahŕňajú systematickú edukáciu, tréning self-managementu,
+podporu fyzickej aktivity primeranej stavu, podporu sociálnych väzieb a „humanizáciu“
+starostlivosti (komunikácia, rešpekt, spolurozhodovanie). Systematický prehľad a
+meta-analýza uvádza, že nurse-led care môže zlepšovať viaceré domény QoL (spánok,
+bolesť, energia/únava, depresívne symptómy), hoci účinky na niektoré klinické ukazovatele
+sú heterogénne. V bežnej populácii sa fyzická aktivita a fyzické fungovanie zvyčajne
+hodnotia pomocou validných nástrojov, ako sú krokomery, akcelerometre alebo dokonca
+špecifické dotazníky. Priame hodnotenie fyzickej aktivity nám umožňuje priamo merať
+pohyby tela a frekvenciu a/alebo intenzitu aktivít takmer bez ovplyvnenia subjektu. Vo
+všeobecnosti dialyzovaní pacienti vykazujú nižšiu nameranú fyzickú výkonnosť v porovnaní
+s referenčnými hodnotami rovnakého veku a pohlavia, pričom tento stav sa vo všeobecnosti
+zhoršuje v dňoch bez dialýzy (Torino et al., 2025; Arooj et al., 2025).
+Dobrý cievny prístup je jedným z najdôležitejších faktorov úspešnej HD. Tri formy
+cievneho prístupu sú subkutánne centrálny venózny katéter (CVK), arteriovenózne fistuly
+(uprednostňované pre chronický prístup, ak je to možné) a syntetické arteriovenózne štepy
+(používané, keď iné prístupy zlyhali). AVF (arteriovenózna fistula) je preferovaným
+cievnym prístupom pri chronickej HD, pretože fistuly sú najspoľahlivejším dlhodobým
+prístupom k HD; sú tiež spojené s nižšou úmrtnosťou a menším počtom komplikácií
+v porovnaní s CVK. Napriek tomu existujú výzvy spojené s používaním AVF v čase začatia
+HD. Vyžaduje sa včasné plánovanie AVF, pretože jej dozrievanie trvá niekoľko týždňov a
+nebude okamžite pripravená na použitie. Sestry pripravujú a kontrolujú dialyzačné prístroje,
+zodpovedajú za správne napichnutie arteriovenóznej fistuly alebo zavedenie katétra za
+sterilných podmienok a neustále monitorujú vitálne funkcie pacienta počas dialýzy. Tým
+predchádzajú akútnym komplikáciám (hypotenzia, kŕče, krvácanie) a zaisťujú, že dialýza
+prebehne čo najkomfortnejšie. Kvalitná starostlivosť o cievny prístup (šetrné napichovanie,
+edukácia pacienta o hygiene AVF) predlžuje jeho funkčnosť a znižuje komplikácie, čo má
+priamy vplyv na kvalitu života pacienta – menej komplikácií znamená menej hospitalizácií
+a väčšiu istotu pre pacienta. Po starostlivom vyšetrení fistula nefrológom by mal byť prvý
+nápich vykonaný odborne školeným zdravotníckym personálom za použitia dialyzačných
+ihiel s najmenším priemerom. Je dôležité, aby bol personál vzdelaný a skúsený, aby svojou
+manipuláciou s AVF neohrozil jej funkčnosť, a tým neskomplikoval pacientovu dialyzačnú
+liečbu (Nachtmannová, 2021; Woodman, 2024).
+
+23
+
+Centrálny venózny katéter predstavuje jediný počiatočný cievny prístup pre HD. U
+pacientov s neplánovaným začatím dialýzy, ktorí si želajú HD, je CVK nevyhnutný bez
+ohľadu na vek, telesnú stavbu, venóznu anatómiu alebo komorbidity. Najčastejším dôvodom
+odstránenia centrálneho žilového katétra s manžetou je infekcia, ktorá sa môže pohybovať
+od infekcie v mieste výstupu cez infekciu tunela až po bakterémiu. Samotné infekcie
+krvného obehu súvisiace s katétrom (CRBSI) majú hlásený výskyt 1,1 až 5,5 epizód na 1
+000 dní s katétrom a sú spojené so zvýšenou morbiditou, hospitalizáciou a úmrtnosťou. CVK
+môže byť kolonizovaný organizmami jednou z dvoch hlavných ciest. Prvou cestou je
+intraluminálna kolonizácia, ku ktorej dochádza počas opakovanej manipulácie s hadičkou,
+rozbočovačom alebo podávaním kontaminujúceho roztoku cez katéter. Druhou cestou je
+extraluminálna kolonizácia, ktorá pochádza z kože v mieste zavedenia a migruje pozdĺž
+vonkajšieho povrchu hadičky. Údržba externého miesta zavedenia CVK zahŕňa výmenu
+obväzov a fyzikálne vyšetrenie miesta výstupu CVK. Prísna starostlivosť o katéter s
+použitím prísneho protokolu umývania rúk a sterilnej techniky personálom znižuje riziko
+infekcie. Monitorovanie znakov a symptómov bakterémie/septikémie je nevyhnutné pre
+včasnú detekciu a liečbu. Kontrola miesta výstupu CVK môže odhaliť migráciu dakronovej
+manžety, ktorá vystavuje CVK riziku infekcie. Infekciu miesta výstupu indikuje prítomnosť
+erytému, opuchu, citlivosti a hnisavého výtoku okolo výstupu CVK a časti tunela mimo
+manžety. Medzi znaky infekcie tunela patrí opuch, erytém, fluktuácia a citlivosť nad tunelom
+CVK, centrálne alebo proximálne od manžety. Ak existuje podozrenie na infekciu v mieste
+výstupu, výmena obväzov by sa mala vykonať pri každom HD sedení s lokálnou
+antibiotickou masťou počas dvoch týždňov alebo kým príznaky neustúpia (Woodman,
+2024).
+Edukácia patrí k hlavným pilierom ošetrovateľskej starostlivosti pri dialýze.
+Pacient, ktorý rozumie svojmu ochoreniu, režimu liečby a význame dietoterapie, je schopný
+aktívne sa podieľať na rozhodnutiach o svojom zdraví. Nefrologické sestry zohrávajú
+kľúčovú úlohu pri usmerňovaní rozhodovania pacientov o modalite liečby prostredníctvom
+vzdelávania. Poskytujú pacientom a ich rodinám cenné poradenstvo pri výbere vhodnej
+dialyzačnej metódy. Mnohí pacienti nie sú dostatočne pripravení na začatie dialýzy a aktívne
+sa nezúčastňujú na rozhodovaní o spôsobe dialýzy. V dôsledku toho niektorí začínajú liečbu
+bez toho, aby plne pochopili súvisiace výhody a riziká, a mnohí nie sú aktívne zapojení do
+rozhodovacieho procesu. (Cevher et al., 2024).
+Existuje viacero foriem cvičenia vhodných pre dialyzovaných: intradialyzačné
+cvičenia (počas hemodialýzy, napr. šliapanie na bicyklovom ergometri alebo cvičenie s
+24
+
+odporovou gumou na lôžku), aeróbny tréning mimo dialýzy (chôdza, bicykel, plávanie) či
+silový tréning na posilnenie svalov. Podľa súčasných poznatkov nezáleží až tak na presnej
+modalite – dôležité je, aby sa pacient hýbal pravidelne a primerane svojim možnostiam.
+Rôzne intervenčné štúdie s cvičením dospeli k spoločnému záveru, že cvičebné programy
+zlepšujú funkčnú zdatnosť a kvalitu života dialyzovaných pacientov bez ohľadu na zvolený
+typ pohybu. Dôležité je, že cvičenie neprináša len telesné benefity, ale aj psychické: fyzická
+aktivita uvoľňuje endorfíny, zlepšuje náladu a sebavedomie pacienta, dáva mu pocit aktívnej
+kontroly nad vlastným telom. U dialyzovaných pacientov zlepšujú cvičebné intervencie
+funkčné výsledky a kvalitu života nezávisle od zvolenej modality. Výber najlepšieho
+cvičebného režimu by preto mal byť založený na výhodách a nevýhodách rôznych typov.
+Cvičenie vykonávané počas dialýzy umožňuje štruktúrované, kontrolované aktivity a
+poskytuje bezpečné prostredie so spätnou väzbou od zdravotníckeho personálu v reálnom
+čase. Skupinové cvičenie s nízkou intenzitou odporu vie zmierniť subjektívnu nespavosť a
+zlepšiť sebavedomie pri cvičení (Nakamura-Taira et al., 2021; Feng et al., 2024; Torino et
+al., 2025).
+Komunikácia je prítomná počas celého procesu poskytovania starostlivosti.
+Efektívna komunikácia medzi pacientmi a poskytovateľmi zdravotnej starostlivosti je
+kľúčová pre starostlivosť o pacientov a ich zotavenie. Komunikácia zameraná na pacienta je
+nevyhnutná pre optimálne zdravotné výsledky, čo odráža dlhodobé ošetrovateľské hodnoty,
+že starostlivosť by mala byť prispôsobená obavám, presvedčeniam a základným zdravotným
+faktorom klienta. Zdravotné sestry so silnými komunikačnými zručnosťami sa cítia
+sebavedomejšie a kompetentnejšie a rozvíjajú si pozitívne vzťahy s pacientmi, čo následne
+zlepšuje ich sebavedomie. Tréning komunikačných zručností je tiež nevyhnutný pre
+zdravotné sestry, aby zvládali rôzne stresory v ich interakciách s pacientmi a zvýšili svoje
+vnímané sebavedomie. Sestry musia využívať svoje komunikačné zručnosti na efektívnu
+podporu pacientov a ich rodín. Pacienti podstupujúci hemodialýzu veria, že vzťah medzi
+sestrou a pacientom je pri renálnej substitučnej terapii nevyhnutný, pretože ovplyvňuje ich
+pocit bezpečia, pomáha im zvládať ťažké chvíle. Vzhľadom na dôležitosť komunikácie s
+hemodialyzovanými pacientmi a ich dodržiavania starostlivosti je nevyhnutné identifikovať
+komunikačné bariéry (Abdalla et al., 2025; Fernandes et al., 2025).
+Dôležitou nefarmakologickou stratégiou je podpora sociálnych väzieb a začlenenia
+pacienta do komunity, o čom sme hovorili v predchádzajúcej kapitole. Sem patria aktivity
+ako zakladanie pacientskych podporných skupín, organizovanie spoločenských podujatí pre
+dialyzovaných (napr. rekondičné pobyty, dialyzačné tábory) alebo spomínané online siete
+25
+
+pacientov. Cieľom je, aby sa pacient necítil osamelý a aby mal možnosť zdieľať skúsenosti
+a emócie s inými, ktorí mu rozumejú. Preto by zdravotníci mali podporovať rodinných
+príslušníkov v účasti na starostlivosti (napr. edukáciou rodiny) a tiež informovať pacientov
+o existencii podporných organizácií či aktivít (Danková, 2023; Sułkowski et al., 2024).
+Jedným zo spôsobov poskytovania starostlivosti sú domáce návštevy. Vzťah, ktorý
+sestry pestujú s pacientmi a ich rodinami, zodpovedá ľudskému procesu. Ide o skutočný
+vzťah, ktorý vyžaduje, aby sestry zakladali svoju prax na systéme humanistickoaltruistických hodnôt, ktoré umožňujú pacientom a ich rodinám rásť v prostredí priaznivom
+pre rozvoj potenciálu. Počas domácich návštev sú pacienti a ich rodinní príslušníci
+vzdelávaní o zdravotných potrebách svojho pacienta v domácom prostredí, aby im umožnili
+samostatne uspokojovať tieto potreby. Domov je intímne prostredie pre pacienta a jeho
+rodinných príslušníkov, kde môžu interagovať so zdravotnou sestrou, a v niektorých
+prípadoch je domáca návšteva jediným spôsobom, ako získať informácie alebo sa vzdelávať,
+znižovať zdravotné riziká, podporovať zdravie a poskytovať služby rodinám. Domáce
+návštevy umožňujú zdravotníckym pracovníkom identifikovať zdravotné problémy
+pacientov a v prípade potreby stanoviť liečebné plány s cieľom zlepšiť kvalitu ich života.
+Okrem toho domáce prostredie umožňuje realistickejšie posúdenie, efektívnu identifikáciu
+rizikových faktorov a problémov a začatie intervencií v skorých štádiách (Delmas et al.,
+2018; Pooresmaeil et al., 2023).
+Mnohé štúdie zvýšili povedomie o prítomnosti dehumanizujúcich ošetrovateľských
+praktík v klinickom prostredí, ktorých účinky môžu byť zničujúce pre sestry aj pacientov.
+Pacienti sú konfrontovaní s ľahostajným postojom a správaním sestier cítia ponížení,
+vystrašení, bezmocní a zraniteľní, čo môže prispieť k predĺženiu doby fyzického hojenia.
+Okrem toho môžu ľahostajné praktiky u samotných sestier viesť k vyhoreniu a depresii a
+vytvárať dojem, že pracujú ako automat. Pacienti zdôraznili, že ošetrujúci personál by mal
+prejavovať empatiu a ochotu ich počúvať a mal by si nájsť čas na preskúmanie ich potrieb,
+čo nebol vždy prípad. Preto je dôležité nie je vzdelávanie pacientov, ale aj samotných
+zdravotníckych pracovníkov na pravidelnej báze (Delmas et al., 2018).
+Súhrnne možno konštatovať, že nefarmakologické intervencie predstavujú efektívny
+a relatívne dostupný spôsob, ako zlepšiť kvalitu života pacientov na hemodialýze a zvýšiť
+ich spokojnosť s poskytovanou starostlivosťou.
+
+26
+
+1.9 Dietoterapia ako súčasť ošetrovateľskej starostlivosti o pacienta na dialýze
+Jednou zo základných intervencií u hemodialyzovaných pacientov je zlepšenie ich
+nutričného stavu, čo pomáha znižovať komplikácie ochorenia. U pacientov v terminálnom
+štádiu chronického ochorenia obličiek sa preto odporúča dodržiavať špecifické diétne
+odporúčania – najmä obmedziť príjem tekutín a znížiť príjem fosforanov a draslíka. Strava
+a výživa výrazne ovplyvňujú zvládanie symptómov, kvalitu života a mieru prežívania v
+dialýze. Po edukácii pacienta sestrou v rámci diétnych pokynov sa preukázalo výrazné
+zlepšenie energetického príjmu (Alizadeh et al., 2024; Fernandes, Dsilva, 2024).
+Stanovenie cieľovej alebo suchej hmotnosti je obzvlášť náročné, pretože si vyžaduje
+časté úpravy v súlade s rastom alebo obdobiami choroby. Suchá hmotnosť sa definuje ako
+ideálna telesná hmotnosť bez nadbytočnej tekutiny. Objem tekutiny, ktorý je potrebné
+odobrať pri jednej dialýze, závisí od rozdielu medzi hmotnosťou pacienta pred dialýzou a
+jeho suchou hmotnosťou. Dosiahnutie suchej hmotnosti môže byť náročné aj v dôsledku
+častého prevodnenia pacienta a vysokých interdialytických prírastkov na hmotnosti. V
+dôsledku toho môžu byť potrebné častejšie HD sedenia (Woodman, 2024).
+Chronické ochorenie obličiek je sprevádzané poruchami metabolizmu bielkovín,
+elektrolytov a tekutín. Jedinci podstupujúci HD musia ako súčasť liečby dodržiavať prísny
+diétny režim. Pacienti podstupujúci túto liečbu často potrebujú presné informácie o svojom
+nutričnom režime. Podvýživa je medzi pacientami s HD veľmi rozšírená a je spojená so
+zvýšenou úmrtnosťou a chorobnosťou. Preto je v bežnej nefrologickej praxi prvoradé
+posúdenie stravovania a poskytnutie primeranej starostlivosti dialyzovaným pacientom.
+Udržiavanie vyváženej stravy je kľúčové pre podporu celkového zdravia. Jedným
+z najdôležitejších zdravotníckych cieľov HD pacientov je znížiť podvýživu, zabezpečiť
+vhodnú výživu a vyhnúť sa skeletálnym symptómom a biochemickým problémom
+kontrolou hladín fosforu a vápnika v sére a povzbudzovaním pacientom. Dôležité je
+zabrániť rozvoju renálnej osteodystrofie a kardiovaskulárnych komplikácií prostredníctvom
+kontroly hladín vápnika a fosfátu v sére (napríklad obmedzením príjmu fosfátov a vhodným
+výberom viazačov fosfátov), čo znižuje riziko kostných symptómov a vaskulárnej
+kalcifikácie (Sharaf El Din et al., 2016; Jarupala et al., 2023).
+Draslík v dialyzáte upravuje hladinu sérového draslíka, pričom rovnováha draslíka v
+sére sa dosahuje jeho doplnením pri hypokaliémii alebo jeho odstránením pri hyperkaliémii.
+Množstvo draslíka, ktoré pacient potrebuje, závisí od hladiny draslíka v sére pacienta podľa
+pokynov nefrológa. Sodík je hlavným extracelulárnym iónom, kľúčovým pre osmolalitu
+plazmy. Pacienti s CKD, ktorí majú zhoršené vylučovanie sodíka, sú vystavení riziku vzniku
+27
+
+hypertenzie a hypervolemií. Správna diéta pomáha udržiavať normálne hladiny vápnika a
+fosforu, čím sa predchádza kostným abnormalitám. Zdravotnícky personál by mal tieto
+faktory starostlivo kontrolovať a pacienta pri tom usmerňovať. Strata energie z bielkovín je
+rozšíreným stavom spojeným s podvýživou. Ľudí možno presvedčiť, aby zmenili svoje
+správanie tým, že si uvedomia svoj životný štýl a to, ako ovplyvňuje ich zdravie, pretože
+vedomosti sú predpokladom zmeny. Kyselina močová, močovinový dusík v krvi, celkový
+proteín a kreatinín sú kritickými markermi funkcie obličiek a musia sa tiež pravidelne
+kontrolovať. V dôsledku metabolizmov minerálov sa zvyšuje riziko vzniku srdcových
+problémov (Jarupala et al., 2023; Woodman, 2024).
+Záverom možno povedať, že znalosť svojej diéty pomáha pacientom meniť životný
+štýl – vedecké štúdie ukázali, že edukácia a motivácia pacientov vedú k lepšej
+diétnopacientom zručnosti a výsledkom liečby (Ebrahimi et al. 2016; Fernandes, Dsilva,
+2024).
+
+28
+
+2 METODIKA PRÁCE
+Kvalita života (QoL) u dialyzovaných pacientov je multidimenzionálny konštrukt
+zahŕňajúci fyzickú, psychickú, sociálnu a environmentálnu doménu. V nefrologickej praxi
+sa často používajú špecifické nástroje, napr. KDQOL (Kidney Disease Quality of Life),
+vyvinutý ako dialyzačne špecifické meranie (Hays et al., 1994).
+Kvalita života je dôležitým určujúcim faktorom pre pacientov pri plánovaní budúcej
+dialyzačnej starostlivosti. Výber liečebného postupu nielen ovplyvňuje schopnosť
+pokračovať v práci, udržiavať osobné alebo sociálne vzťahy, cestovať a zachovávať si
+slobodu, ale ovplyvňuje aj ďalšie oblasti pohody pacientov, ako je spánok a čas zotavenia.
+Hoci existujú určité informácie o kvalite života dialyzovaných pacientov, dôkazy, ktoré by
+mohli informovať pacientov a zdravotníckych pracovníkov o zmenách v kvalite života v
+priebehu času na dialýze, sú vzácne (Rydell et al., 2025).
+Kontext Slovenska je relevantný aj pre epidemiologické a systémové interpretácie.
+Podľa slovenských oficiálnych údajov Národné centrum zdravotníckych informácií v roku
+2024 vykazovalo činnosť 75 dialyzačných stacionárov a evidovaných bolo 4 445 pacientov
+v režime pravidelnej dialyzačnej liečby; NCZI zároveň poukazuje na rastúci počet
+dialyzovaných (najmä seniorov) a význam diabetu ako častého dôvodu (NCZI, 2025).
+Z medzinárodnej aj slovenskej literatúry vyplýva, že marginalizované a segregované
+rómske komunity východného Slovenska čelia viacerým determinantom horšieho zdravia
+(socioekonomické znevýhodnenie, bariéry v prístupe k starostlivosti, nižšia zdravotná
+gramotnosť), a v epidemiologických štúdiách sa nachádzajú aj vyššie riziká metabolických
+ochorení a ochorení obličiek v niektorých rómskych populáciách (Macejova a kol., 2020).
+Literatúra poukazuje na to, že marginalizované skupiny môžu čeliť kumulatívnym
+sociálnym determinantám zdravia (nižšie vzdelanie, chudoba, bariéry v prístupe k zdravotnej
+starostlivosti), ktoré sa môžu nepriamo premietať aj do HRQoL a účinnosti selfmanagementu (Jarcuska et al., 2013).
+2.1
+
+Výskumný problém, ciele a hypotézy
+
+Problém výskumu
+Subjektívna kvalita života pacientov zaradených do dialyzačného programu.
+
+29
+
+Hlavný cieľ výskumu
+Hlavným cieľom výskumu je zistiť, aká je subjektívna kvalita života pacientov zaradených
+v dialyzačnom programe.
+Čiastkové ciele
+•
+
+Zistiť, či vek pacientov vplýva na celkovú kvalitu života pacientov zaradených do
+dialyzačného programu.
+
+•
+
+Zistiť, či existuje rozdiel v subjektívnom vnímaní kvality života pacientov podľa stupňa
+vzdelania.
+
+•
+
+Zistiť, či existuje štatisticky významný rozdiel v subjektívnom vnímaní kvality života
+pacientov podľa národnosti.
+
+•
+
+Posúdiť rozdiely v subjektívnom vnímaní kvality života pacientov podľa pohlavia.
+
+•
+
+Zistiť, či existuje rozdiel v subjektívnom vnímaní kvality života pacientov podľa miesta
+bydliska.
+
+•
+
+Posúdiť, či počet užívaných liekov na predpis vplýva na celkovú kvalitu života
+pacientov.
+
+Stanovenie hypotéz
+Na základe hlavného cieľa a analýzy problematiky sme si stanovili hypotézy práce,
+na ktoré sa budeme snažiť odpovedať pri nasledovnej analýze výskumu.
+H1: Predpokladáme, že vek pacientov vplýva na celkovú kvalitu života pacientov
+zaradených do dialyzačného programu.
+H2: Predpokladáme, že existuje rozdiel v subjektívnom vnímaní kvality života pacientov
+podľa stupňa vzdelania.
+H3: Predpokladáme, že existuje štatistický významný rozdiel v subjektívnom vnímaní
+kvality života pacientov podľa národnosti.
+H4: Predpokladáme, že existuje rozdiel v subjektívnom vnímaní kvality života pacientov
+podľa pohlavia.
+H5: Predpokladáme, že existuje rozdiel v subjektívnom vnímaní kvality života podľa miesta
+bydliska.
+H6: Predpokladáme, že počet užívaných liekov na predpis vplýva na celkovú kvalitu života
+pacientov.
+30
+
+2.2
+
+Charakteristika výskumnej vzorky
+Pri výbere výskumnej vzorky sme použili zámerný výber. Výskumnú vzorku tvorili
+
+pacienti v dispenzárnej starostlivosti, ktorí podstupujú dialyzačnú liečbu v spoločnosti FMC
+dialyzačné služby s.r.o. Celkovo bolo do výskumu zaradených 115 pacientov. Všetci
+respondenti spĺňali nami stanovené požadované kritériá, a to podstupovať hemodialyzačnú
+liečbu, vek minimálne 18 rokov a trvanie hemodialyzačnej liečby minimálne 4 mesiace.
+Uvedené kritériá boli zvolené s cieľom zabezpečiť, aby respondenti mali dostatočnú
+skúsenosť s dialyzačnou liečbou a aby boli schopní objektívne posúdiť jednotlivé aspekty
+kvality svojho života.
+Cieľom výberu výskumnej vzorky bolo získať čo najreprezentatívnejší súbor
+pacientov, ktorý by umožnil analyzovať kvalitu života pacientov podstupujúcich
+hemodialyzačnú liečbu v rôznych dimenziách. Zároveň sme sa zamerali aj na porovnanie
+vybraných aspektov kvality života medzi pacientmi rómskej menšiny a pacientmi slovenskej
+národnosti. Z tohto dôvodu sme sa pri distribúcii dotazníkov snažili zabezpečiť približne
+rovnaké zastúpenie respondentov z oboch skupín.
+2.3
+
+Metodika výskumu
+Realizácia výskumu pozostávala z dvoch na seba nadväzujúcich etáp. V prvej etape
+
+výskumu sme sa zamerali na štúdium dostupnej odbornej literatúry a zber teoretických
+poznatkov súvisiacich s danou problematikou. Pri spracovaní teoretických východísk sme
+využívali najmä odborné databázy dostupné prostredníctvom internetu, ktoré poskytujú
+široké spektrum vedeckých článkov a publikácií. Okrem elektronických zdrojov sme
+pracovali aj s relevantnými knižnými zdrojmi z oblasti ošetrovateľstva, nefrológie a kvality
+života pacientov podstupujúcich dialyzačnú liečbu.
+Na základe analýzy získaných teoretických poznatkov sme následne formulovali
+hlavný cieľ výskumu, čiastkové ciele a výskumné hypotézy. Táto etapa bola realizovaná v
+období od októbra 2024 do januára 2026.
+Druhá etapa výskumu bola realizovaná v dialyzačnom stredisku po udelení súhlasu
+etickej komisie spoločnosti FMC – dialyzačné služby, s. r. o. Samotný zber empirických
+údajov prebiehal v období od novembra 2025 do januára 2026. Táto etapa bola zameraná na
+distribúciu dotazníkov v papierovej forme medzi respondentov spĺňajúcich stanovené
+kritériá výskumu. Následne prebehlo zozbieranie vyplnených dotazníkov, spracovanie
+získaných údajov, ich analýza a interpretácia. Súčasťou tejto etapy bolo aj testovanie
+stanovených výskumných hypotéz a vyhodnotenie výsledkov výskumu.
+31
+
+2.4
+
+Výskumný nástroj
+Výskum bol realizovaný pomocou štandardizovaného medzinárodného dotazníka
+
+krátkej formy Ochorenie obličiek a kvalita života (KDQOL-SF)TM, špeciálne navrhnutý na
+hodnotenie kvality života pacientov s chronickým ochorením obličiek. Nástroj Kidney
+Disease Quality of Life (KDQOL), vrátane verzie KDQOL-SF, je špecificky určený pre
+pacientov s obličkovým ochorením a dopĺňa generické hodnotenie o oblasti priamo súvisiace
+s ochorením a liečbou (napr. symptómy, bremeno ochorenia, spánok, sociálna podpora,
+spokojnosť so starostlivosťou).
+Dotazník vytvorila výskumná organizácia RAND, ktorá vyvíja riešenie pre výzvy
+verejnej politiky s cieľom pomôcť komunitám na celom svete byť bezpečnejšími, zdravšími
+a prosperujúcejšími. Prvý dotazník bol publikovaný v roku 1997. Autori tohto dotazníka sú
+šiesti, za hlavného autora sa pokladá Ronald D. Hays. Skrátený dotazník pozostáva z 25
+otázok, ktoré sú rozdelené do štyroch častí: Vaše zdravie 1 - 11, Vaše ochorenie obličiek 12
+- 14, Vplyv ochorenia na Váš každodenný život 15 - 22, Spokojnosť so starostlivosťou 23 24. Dotazník sme doplnili doplňujúcimi informáciami ako sú pravidelné užívanie liekov na
+predpis, počet užívaných liekov na predpis, čo spôsobilo ochorenie obličiek, vek, dosiahnuté
+vzdelanie, pohlavie, rodinný stav a bydlisko pacientov 25 - 31. Celkovo dotazník obsahoval
+31 otázok. Otázku o národnosti pacientov sme do dotazníka neuvádzali z dôvodu možných
+konfliktov na oddelení, preto sme dotazníky vopred označili malou hviezdičkou, ktoré sme
+následne distribuovali medzi pacientov rómskej komunity. Nebolo to vykonané za
+rasistickým účelom, ale pre možnosť porovnania vzoriek výskumu. Pri distribúcii
+dotazníkov sme pacientov oboznámili, že všetky odpovede budú anonymné a budú použité
+výlučne na účel našej záverečnej práce.
+Dotazník pozostáva z dvoch častí: (1) ESRD-targeted areas (špecifické oblasti
+súvisiace s ochorením obličiek, napr. symptómy, bremeno ochorenia, sexuálne funkcie,
+spánok, sociálna podpora), (2) SF-36 (všeobecné hodnotenie zdravia, zahŕňajúce fyzické
+fungovanie, emocionálnu pohodu, sociálne funkcie). Celkovo obsahuje približne 79
+položiek, s škálami od 0 do 100 bodov (vyššie skóre = lepšia kvalita života). Generický
+dotazník SF-36 umožňuje porovnanie medzi rôznymi diagnózami a populáciami
+prostredníctvom štandardných domén fyzického, psychického a sociálneho fungovania.
+Dotazníky boli distribuované výlučne v papierovej forme. Respondentom sme ich
+odovzdávali osobne počas dialyzačnej liečby po predchádzajúcom rozhovore, v rámci
+ktorého sme zisťovali ich ochotu zapojiť sa do výskumu. Pacientom sme stručne vysvetlili
+cieľ výskumu, spôsob vyplňovania dotazníka a označovania odpovedí. V prípade potreby
+32
+
+sme respondentom poskytli aj dodatočné vysvetlenia k jednotlivým otázkam. Účasť na
+výskume bola dobrovoľná a každý pacient mal možnosť rozhodnúť sa, či dotazník vyplní
+alebo nie.
+Pri distribúcii dotazníkov sme dbali na to, aby respondenti neboli vystavení časovému tlaku
+pri ich vypĺňaní, čo by mohlo viesť k skresleniu odpovedí. Z tohto dôvodu mali pacienti
+možnosť vyplniť dotazník v domácom prostredí, v čase, ktorý im najviac vyhovoval. Tento
+postup bol zvolený s cieľom zabezpečiť čo najväčšiu objektivitu a pravdivosť získaných
+odpovedí.
+Po zozbieraní vyplnených dotazníkov bol každý dotazník číselne označený, čo
+umožnilo jednoduchšiu evidenciu respondentov a zároveň uľahčilo spracovanie získaných
+údajov. Číselné označenie dotazníkov zároveň pomohlo pri výpočte návratnosti dotazníkov
+a pri následnej organizácii dát pri ich spracovaní.
+Po zbere údajov boli získané výsledky spracované a percentuálne interpretované.
+Výsledky výskumu sú prezentované vo forme tabuliek, ktoré prehľadne zobrazujú jednotlivé
+zistenia. Každá tabuľka je doplnená o stručný opis a interpretáciu získaných výsledkov, čo
+umožňuje lepšie pochopenie analyzovaných údajov. Pri interpretácii výsledkov sme sa
+zamerali najmä na hodnotenie jednotlivých dimenzií kvality života pacientov
+podstupujúcich hemodialyzačnú liečbu. Získané výsledky boli následne využité na overenie
+stanovených výskumných hypotéz a na formulovanie záverov výskumu. Dotazník, ktorý bol
+použitý pri realizácii výskumu, je uvedený v prílohách.
+2.5
+
+Metódy štatistickej analýzy dát
+Spracovanie a analýza získaných údajov boli realizované pomocou štatistických
+
+softvérov SAS Studio a Microsoft Excel. V rámci štatistického spracovania dát boli použité
+metódy deskriptívnej a inferenčnej štatistiky. Deskriptívne štatistiky slúžili na základný opis
+výskumného súboru a jednotlivých premenných dotazníka KDQOL-SF. Inferenčné
+štatistické metódy boli následne využité na overenie stanovených výskumných hypotéz a na
+identifikáciu rozdielov medzi sledovanými skupinami respondentov. Štatistická významnosť
+bola posudzovaná na hladine významnosti.
+Deskriptívne štatistiky
+Základné deskriptívne štatistiky boli vypočítané pre všetky premenné dotazníka
+KDQOL-SF (ESRD-targeted areas a SF-36) v softvéri SAS Studio a Microsoft Excel.
+Zahŕňali aritmetický priemer, medián, smerodajnú odchýlku, minimum, maximum, šikmosť
+
+33
+
+(skewness) a špicatosť (kurtosis). Tieto charakteristiky umožnili popísať centrálnu
+tendenciu, variabilitu a tvar distribúcie údajov v jednotlivých dimenziách kvality života.
+Pre sociodemografické premenné (vek, vzdelanie, pohlavie) boli použité absolútne a
+relatívne frekvencie s percentuálnym vyjadrením. Deskriptívne štatistiky zároveň slúžili ako
+základ pre identifikáciu extrémnych hodnôt a overenie normality distribúcie.
+Grafy a tabuľky boli vyhotovené v programe Microsoft Excel, ktorý umožnil
+vizuálnu prezentáciu výsledkov prostredníctvom stĺpcových grafov (počet respondentov
+podľa veku, vzdelania), koláčových grafov (podiel podľa pohlavia, národnosti, miesta
+bydliska) a histogramov (počet užívaných liekov). Program Excel bol použitý aj na
+doplnkové výpočty základných deskriptívnych štatistík, ako sú percentuály a priemery pre
+sociodemografické charakteristiky výskumného súboru.
+Inferenčné štatistické testy
+Na overenie výskumných hypotéz boli použité neparametrické testy vzhľadom na
+nenormálnu distribúciu údajov (potvrdenú Shapiro-Wilk testom normality) a kategorický
+charakter viacerých premenných.
+Hlavným testom bola jednofaktorová neparametrická ANOVA – Wilcoxon Scores
+(Rank Sums test), realizovaná v SAS Studio, na porovnanie rozdielov medzi skupinami
+podľa veku, vzdelania, pohlavia, národnosti a miesta bydliska v jednotlivých dimenziách
+KDQOL-SF.
+Neparametrická ANOVA predstavuje robustnú štatistickú metódu na porovnanie
+stredných hodnôt (alebo mediánov) viacerých nezávislých skupín, keď nie sú splnené
+predpoklady klasickej parametickej ANOVA, ako je normalita rozdelenia údajov alebo
+rovnocennosť rozptylov. Na rozdiel od parametrických testov, ktoré pracujú s pôvodnými
+hodnotami a predpokladajú normálne rozdelenie, neparametrická verzia, ktorá bola použitá
+aj v našej práci je tzv. Wilcoxonov rank sum test, ktorý využíva rangy (poradie hodnôt).
+2.6
+
+Limity výskumu
+Výskum bol realizovaný v dialyzačnom stredisku FMC – dialyzačné služby, s. r. o.,
+
+čo predstavuje jeden z limitov výskumu, keďže výskumný súbor bol tvorený pacientmi z
+jedného zdravotníckeho zariadenia. Dialyzačné stredisko zároveň disponuje prevažne
+pacientmi vo vyššej vekovej kategórii, čo mohlo ovplyvniť celkové zloženie výskumnej
+vzorky a následne aj interpretáciu výsledkov.
+Pri oslovovaní pacientov s prosbou o vyplnenie dotazníka sme sa stretli s pomerne
+veľkým nezáujmom o zapojenie sa do výskumu. Niektorí pacienti uvádzali, že už boli v
+34
+
+minulosti viackrát oslovení na vyplnenie rôznych dotazníkov, a preto nemali záujem
+opätovne sa zapojiť do ďalšieho výskumu. Tento faktor mohol ovplyvniť mieru návratnosti
+dotazníkov.
+Z celkového počtu 135 rozdaných dotazníkov sa nám vrátilo 119 vyplnených
+dotazníkov. Po kontrole úplnosti odpovedí bolo potrebné vyradiť 4 dotazníky z dôvodu
+neúplného vyplnenia. Do finálnej analýzy tak bolo zaradených 115 dotazníkov, ktoré spĺňali
+požadované kritériá na ďalšie spracovanie údajov.
+
+35
+
+3 ANALÝZA DOTAZNÍKOVÝCH POLOŽIEK
+Výsledky vlastnej práce
+Cieľom empirickej časti diplomovej práce je zhodnotiť kvalitu života pacientov
+zaradených do dialyzačného programu a identifikovať vybrané faktory, ktoré ju ovplyvňujú.
+Na získanie potrebných údajov bol použitý štandardizovaný medzinárodný dotazník Kidney
+Disease Quality of Life Short Form (KDQOL-SF™), ktorý je určený na hodnotenie kvality
+života pacientov s chronickým ochorením obličiek.
+Dotazník pozostáva z dvoch základných častí. Prvú časť tvoria škály špecificky
+zamerané na ochorenie obličiek (ESRD-targeted areas), ktoré hodnotia oblasti súvisiace s
+dopadom ochorenia a liečby na každodenný život pacienta. Druhú časť predstavujú
+všeobecné škály hodnotenia zdravotného stavu 36-Item Health Survey (SF-36), zamerané
+na fyzické a psychické zdravie, sociálne fungovanie a celkové vnímanie zdravotného stavu.
+V úvode kapitoly je prezentovaná charakteristika výskumného súboru respondentov,
+ktorá zahŕňa základné sociodemografické údaje.
+3.1 Analýza sociodemografických údajov
+
+Podiel respondentov podľa pohlavia
+
+Muž
+
+49%
+
+Žena
+
+51%
+
+Graf 1 Podiel respondentov podľa pohlavia
+Zdroj: vlastné spracovanie
+Koláčový graf znázorňuje rozdelenie respondentov podľa pohlavia. Zo získaných
+údajov vyplýva, že výskumný súbor tvorilo celkovo 115 respondentov, z ktorých 59 bolo
+36
+
+žien a 56 mužov. Percentuálne zastúpenie predstavuje 51,3 % žien a 48,7 % mužov. Možno
+konštatovať, že zastúpenie pohlaví v skúmanom súbore bolo pomerne vyrovnané, s miernou
+prevahou ženských respondentiek.
+
+Počet respondentov podľa vekovej kategórie
+60
+
+55
+
+Počet respondentov
+
+50
+
+45
+
+40
+30
+20
+10
+10
+
+5
+
+0
+
+18-30
+
+31-45
+46-65
+Veková kategória
+
+65+
+
+Graf 2 Počet respondentov podľa vekovej kategórie
+Zdroj: vlastné spracovanie
+Stĺpcový graf znázorňuje rozdelenie respondentov podľa vekových kategórií. Z
+celkového počtu 115 respondentov patrilo najviac opýtaných do vekovej kategórie 65 rokov
+a viac, konkrétne 55 respondentov, čo predstavuje 47,8 %. Druhú najpočetnejšiu skupinu
+tvorili respondenti vo veku 46 – 65 rokov, ktorých bolo 45 (39,1 %). Respondenti vo vekovej
+kategórii 31 – 45 rokov tvorili 10 osôb, čo predstavuje 8,7 % výskumného súboru. Najmenej
+zastúpenou skupinou boli respondenti vo veku 18 – 30 rokov, a to 5 osôb (4,3 %).
+Z uvedených údajov vyplýva, že vo výskumnom súbore výrazne prevažovali starší
+respondenti, pričom viac ako polovica opýtaných mala viac ako 65 rokov. Táto skutočnosť
+korešponduje s charakterom ochorenia chronického zlyhania obličiek, ktoré sa častejšie
+vyskytuje vo vyšších vekových kategóriách.
+
+37
+
+Počet respondentov podľa najvyššieho dosiahnutého
+vzdelania
+60
+52
+
+Počet respondentov
+
+50
+38
+
+40
+30
+
+21
+20
+10
+
+4
+
+0
+Základné vzdelanie
+
+Stredoškolské
+Stredoškolské
+vzdelanie bez
+vzdelanie s
+maturity
+maturitou
+Najvyššie dosiahnuté vzdelanie
+
+Vysokoškolské
+vzdelanie I. a II.
+stupeň
+
+Graf 3 Počet respondentov podľa najvyššieho dosiahnutého vzdelania
+Zdroj: vlastné spracovanie
+Stĺpcový graf znázorňuje rozdelenie respondentov podľa dosiahnutého vzdelania. Z
+celkového počtu 115 respondentov malo najviac opýtaných ukončené základné vzdelanie,
+konkrétne 52 respondentov, čo predstavuje 45,2 %. Stredoškolské vzdelanie bez maturity
+uviedlo 38 respondentov (33,0 %). Stredoškolské vzdelanie s maturitou dosiahlo 21
+respondentov, čo predstavuje 18,3 % výskumného súboru. Najmenšiu skupinu tvorili
+respondenti s vysokoškolským vzdelaním I. a II. stupňa, a to 4 respondenti (3,5 %).
+Z uvedených údajov vyplýva, že vo výskumnom súbore prevažovali respondenti s nižším
+stupňom vzdelania, pričom viac ako tri štvrtiny respondentov mali maximálne stredoškolské
+vzdelanie bez maturity. Táto skutočnosť môže súvisieť s vekovou štruktúrou pacientov
+zaradených do dialyzačného programu, ako aj so sociálnymi faktormi ovplyvňujúcimi
+zdravotný stav populácie.
+
+38
+
+Počet respondentov podľa rodinného stavu
+80
+
+74
+
+Počet respondentov
+
+70
+60
+50
+40
+30
+
+20
+
+18
+
+20
+10
+
+3
+
+0
+Slobodný/á
+
+Ženatý/vydatá
+Rozvedený/á
+Rodinný stav
+
+Vdovec/vdova
+
+Graf 4 Počet respondentov podľa rodinného stavu
+Zdroj: vlastné spracovanie
+Stĺpcový graf znázorňuje rozdelenie respondentov podľa rodinného stavu. Z
+celkového počtu 115 respondentov bolo najviac opýtaných ženatých alebo vydatých,
+konkrétne 74 respondentov, čo predstavuje 64,3 %. Slobodných respondentov bolo 18, čo
+predstavuje 15,7 % výskumného súboru. Rovnaký alebo podobný podiel tvorili vdovci a
+vdovy, ktorých bolo 20 (17,4 %). Najmenšiu skupinu predstavovali rozvedení respondenti,
+a to 3 osoby (2,6 %).
+
+Podiel respondentov podľa národnosti
+
+rómska národnosť
+
+47%
+
+slovenská národnosť
+
+53%
+
+Graf 5 Podiel respondentov podľa národnosti
+Zdroj: vlastné spracovanie
+39
+
+Koláčový graf znázorňuje rozdelenie respondentov podľa národnosti. Z celkového
+počtu 115 respondentov uviedlo svoju národnosť ako rómsku 61 osôb, čo predstavuje 53,0
+%. Slovenskú národnosť uviedlo 54 respondentov, čo predstavuje 47,0 % výskumného
+súboru.
+
+Podiel respondentov podľa miesta bydliska
+
+40%
+
+Dedina
+60%
+
+Mesto
+
+Graf 6 Podiel respondentov podľa miesta bydliska
+Zdroj: vlastné spracovanie
+Koláčový graf znázorňuje rozdelenie respondentov podľa miesta bydliska. Z
+celkového počtu 115 respondentov bývalo 69 opýtaných na dedine, čo predstavuje 60,0 %,
+zatiaľ čo v meste žilo 46 respondentov (40,0 %). Z uvedených údajov vyplýva, že vo
+výskumnom súbore prevažovali respondenti žijúci vo vidieckom prostredí.
+
+Podiel respondentov užívajucich pravidelne
+lieky
+
+15%
+áno
+nie
+85%
+
+Graf 7 Podiel respondentov užívajúcich pravidelne lieky
+Zdroj: vlastné spracovanie
+40
+
+Koláčový graf znázorňuje odpovede respondentov na otázku, či v súčasnosti
+pravidelne (4 a viac dní v týždni) užívajú lieky na predpis, ktoré im predpísal lekár. Z
+celkového počtu 115 respondentov uviedlo 98 opýtaných, že lieky užívajú pravidelne, čo
+predstavuje 85,2 %. Naopak, 17 respondentov odpovedalo, že lieky pravidelne neužívajú,
+čo predstavuje 14,8 % výskumného súboru. Z uvedených údajov vyplýva, že výrazná
+väčšina respondentov užíva predpísanú farmakologickú liečbu pravidelne.
+
+Počet respondentov podľa počtu užívaných liekov na
+predpis
+18
+
+16
+
+Počet respondentov
+
+16
+13
+
+14
+
+13
+11
+
+12
+10
+
+8
+
+8
+
+7
+
+8
+
+11
+
+8
+6
+
+6
+
+6
+4
+
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+0
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8 9 10 11 12 13 14 15 17 19
+Počet liekov na predpis
+
+Graf 8 Počet respondentov podľa počtu užívaných liekov na predpis
+Zdroj: vlastné spracovanie
+Stĺpcový graf znázorňuje počet rôznych liekov na predpis, ktoré respondenti v
+súčasnosti užívajú. Na osi x je uvedený počet liekov a na osi y počet respondentov. Z
+výsledkov vyplýva, že respondenti užívali od 2 do 19 rôznych liekov, pričom priemerný
+počet užívaných liekov bol 7,56 a medián dosahoval hodnotu 7 liekov. Najviac respondentov
+užívalo 7 liekov (16 respondentov; 13,9 %), nasledovali skupiny respondentov užívajúcich
+6 a 8 liekov (po 13 respondentov; 11,3 %). Počet 9 a 10 liekov uviedlo zhodne po 11
+respondentov (9,6 %). Nižšie počty liekov, konkrétne 2, 4 a 5 liekov, užívalo po 8
+respondentov (7,0 %), pričom 3 lieky užívalo 7 respondentov (6,1 %). Vyššie počty liekov
+nad 10 boli zastúpené menej často — 11 a 12 liekov užívalo po 6 respondentov (5,2 %), 13,
+41
+
+14 a 15 liekov po 2 respondenti (1,7 %) a extrémne hodnoty 17 a 19 liekov uviedol vždy 1
+respondent (0,9 %). Z uvedených údajov vyplýva, že väčšina respondentov užívala približne
+6 až 10 rôznych liekov, čo poukazuje na prítomnosť výskytu viacerých ochorení a potrebu
+komplexnej farmakologickej liečby u pacientov zaradených do dialyzačného programu.
+
+Počet respondentov
+
+Počet respondentov podľa možnej príčiny vzniku ochorenia
+obličiek
+35
+30
+25
+20
+15
+10
+5
+0
+
+33
+22
+
+23
+15
+
+12
+5
+
+5
+
+Príčina vzniku ochorenia obličiek
+Graf 9 Počet respondentov podľa možnej príčiny vzniku ochorenia obličiek
+Zdroj: vlastné spracovanie
+Stĺpcový graf znázorňuje odpovede respondentov na otázku, čo spôsobilo ich
+ochorenie obličiek. Z celkového počtu 115 respondentov najviac opýtaných uviedlo
+možnosť „neviem“, konkrétne 33 respondentov, čo predstavuje 28,7 %. Hypertenziu (vysoký
+krvný tlak) označilo ako príčinu ochorenia 23 respondentov (20,0 %) a cukrovku 22
+respondentov (19,1 %). Polycystické ochorenie obličiek uviedlo 15 respondentov, čo
+predstavuje 13,0 % výskumného súboru. Chronickú glomerulonefritídu označilo 12
+respondentov (10,4 %). Najmenej respondentov uviedlo chronickú pyelonefritídu a inú
+príčinu ochorenia, zhodne po 5 respondentov (4,3 %). Z uvedených údajov vyplýva, že
+medzi najčastejšie identifikované príčiny ochorenia obličiek patrili hypertenzia a diabetes
+mellitus.
+
+42
+
+3.2 Analýza dotazníka Kidney Disease Quality of Life Short Form (KDQOL-SF™)
+Cieľom tejto kapitoly je predstaviť a interpretovať výsledky získané prostredníctvom
+štandardizovaného medzinárodného dotazníka Kidney Disease Quality of Life Short Form
+(KDQOL-SF™), ktorý bol použitý na hodnotenie kvality života pacientov zaradených do
+dialyzačného programu. Dotazník je špecificky navrhnutý na zachytenie fyzických,
+psychických a sociálnych aspektov života pacientov s chronickým ochorením obličiek,
+pričom kombinuje všeobecné škály hodnotenia zdravia (36-Item Health Survey – SF-36) so
+škálami špecificky zameranými na ochorenie obličiek (ESRD-targeted areas).
+Tabuľka 1 Deskriptívne štatistiky váh dotazníka ESRD
+Váhy zamerané na ochorenia
+obličiek
+Priemer
+Zoznam symptómov/problémov
+68,93
+59,27
+Účinky ochorenia obličiek
+Záťaž spôsobená ochorením obličiek 28,42
+40,43
+Pracovný status
+Kognitívne funkcie
+30,49
+29,62
+Kvalita sociálnych interakcií
+Sexuálne funkcie
+67,61
+54,28
+Spánok
+Sociálna podpora
+69,56
+82,61
+Podpora dialyzačného personálu
+Spokojnosť pacienta
+59,78
+Zdroj: vlastné spracovanie, SAS Studio
+
+Smerodajná
+odchýlka
+17,88
+20,52
+20,85
+20,83
+23,56
+22,24
+33,60
+16,46
+23,60
+20,39
+29,00
+
+Medián
+70,83
+62,50
+25,00
+50,00
+26,67
+26,67
+75,00
+55,00
+66,67
+87,50
+50,00
+
+Šikmosť
+-0,48
+-0,29
+0,89
+-1,21
+0,68
+0,58
+-0,60
+-0,18
+-1,03
+-1,36
+-0,06
+
+Špicatosť
+-0,46
+-0,33
+0,91
+0,59
+0,11
+-0,11
+-1,00
+-0,04
+1,47
+2,12
+-0,90
+
+Analýza škál zameraných na ochorenie obličiek (ESRD-targeted Areas) ukazuje
+rozdielne hodnotenia jednotlivých aspektov kvality života pacientov zaradených do
+dialyzačného programu. Najvyšší priemer dosiahla škála Podpora dialyzačného personálu
+(82,61; smerodajná odchýlka 20,39), čo naznačuje, že pacienti vnímajú personál ako výraznú
+oporu a tento aspekt života hodnotia veľmi pozitívne. Nasledujúce vysoké hodnoty
+priemerov sa vyskytli pri Sociálnej podpore (69,56; SD 23,60) a Zozname
+symptómov/problémov (68,93; SD 17,88), čo poukazuje na dobrú podporu zo strany
+blízkych a súčasne na to, že symptómy ochorenia sú pre pacientov významnou súčasťou
+každodenného života. Vysoký priemer sa objavil aj pri Sexuálnych funkciách (67,61; SD
+33,60), hoci vyššia smerodajná odchýlka poukazuje na väčšiu variabilitu medzi pacientmi.
+Stredné hodnoty priemerov zaznamenali škály Spánok (54,28; SD 16,46), Účinky ochorenia
+43
+
+obličiek (59,27; SD 20,52) a Spokojnosť pacienta (59,78; SD 29,00), čo odráža relatívne
+vyvážené hodnotenia týchto oblastí, s miernou individuálnou variabilitou. Na opačnom
+konci spektra, s najnižšími priemermi, sa nachádzajú škály Záťaž spôsobená ochorením
+obličiek (28,42; SD 20,85), Kognitívne funkcie (30,49; SD 23,56) a Kvalita sociálnych
+interakcií (29,62; SD 22,24). Tieto nízke priemery poukazujú na významný negatívny dopad
+ochorenia na každodenný život pacientov – ochorenie obmedzuje ich schopnosť sociálne sa
+zapájať a negatívne ovplyvňuje kognitívne fungovanie. Podobne nižší priemer zaznamenala
+aj škála Pracovný status (40,43; SD 20,83), čo môže súvisieť s obmedzenou schopnosťou
+udržať zamestnanie alebo vykonávať pracovné aktivity počas dialyzačnej liečby. Celkovo
+smerodajné odchýlky ukazujú, že najstabilnejšie hodnotenia, s nižšou variabilitou, sú pri
+symptómoch a spánku, zatiaľ čo najvyššia variabilita bola zaznamenaná pri sexuálnych
+funkciách a spokojnosti pacienta, čo odráža individuálne rozdiely medzi pacientmi. Tieto
+zistenia ukazujú, že pacienti najviac oceňujú podporu personálu a sociálnu oporu, zatiaľ čo
+ochorenie má najvýraznejší negatívny dopad na kognitívne funkcie, sociálne interakcie a
+vnímanú záťaž spojenú s ochorením.
+
+Priemerné hodnoty váh dotazníka ESRD
+90.00
+80.00
+70.00
+
+82.61
+68.93
+
+54.28
+
+60.00
+
+Skóre
+
+69.56
+
+67.61
+
+59.27
+
+50.00
+40.00
+30.00
+
+40.43
+28.42
+
+30.49
+
+29.62
+
+20.00
+10.00
+0.00
+
+Váhy zamerané na ochorenie obličiek
+
+Graf 10 Priemerné hodnoty jednotlivých váh dotazníka ESRD
+Zdroj: vlastné spracovanie
+
+44
+
+59.78
+
+Tabuľka 2 Deskriptívne štatistiky váh dotazníka SF-36
+Váhy
+
+zamerané
+
+na
+
+zhodnotenie zdravia (SF-
+
+Smerodajná
+
+36)
+
+Priemer
+
+odchýlka
+
+Medián
+
+Šikmosť
+
+Špicatosť
+
+Fyzické fungovanie
+
+50,61
+
+30,47
+
+50,00
+
+-0,15
+
+-1,21
+
+Fyzická rola
+
+30,00
+
+38,22
+
+0,00
+
+0,92
+
+-0,75
+
+Bolesť
+
+50,39
+
+26,47
+
+45,00
+
+0,27
+
+-0,78
+
+Celkový zdravotný stav
+
+36,00
+
+16,12
+
+35,00
+
+0,43
+
+0,10
+
+Emocionálna pohoda
+
+58,50
+
+20,09
+
+60,00
+
+0,03
+
+-0,87
+
+Emocionálna rola
+
+43,77
+
+43,79
+
+33,33
+
+0,30
+
+-1,68
+
+Sociálne funkcie
+
+52,50
+
+27,17
+
+50,00
+
+0,13
+
+-0,69
+
+Energia/únava
+
+40,74
+
+19,30
+
+40,00
+
+0,12
+
+-0,29
+
+49,04
+
+17,22
+
+50,00
+
+-0,24
+
+2,14
+
+Celkové hodnotenie zdrav.
+stavu SF-36
+
+Zdroj: vlastné spracovanie, SAS Studio
+V rámci Analýzy dotazníka Kidney Disease Quality of Life Short Form (KDQOLSF™) bola u 115 respondentov zaradených v dialyzačnom programe hodnotená všeobecná
+dimenzia zdravia prostredníctvom SF-36, pričom interpretácia poukazuje na rozdiely medzi
+fyzickou a psychickou oblasťou kvality života. Fyzické fungovanie dosiahlo priemernú
+hodnotu 50,61 (SD = 30,47), čo predstavuje strednú úroveň funkčnej zdatnosti, avšak vysoká
+smerodajná odchýlka poukazuje na značnú variabilitu medzi respondentmi a rozdielnu mieru
+fyzických obmedzení. Ešte výraznejšie limitácie sa prejavili v doméne fyzickej roly s
+priemerom 30,00 (SD = 38,22), kde vysoká odchýlka signalizuje výrazné rozdiely v
+schopnosti plniť pracovné a každodenné povinnosti v dôsledku zdravotného stavu, pričom
+časť pacientov vykazuje extrémne nízke hodnoty. Doména bolesť dosiahla priemer 50,39
+(SD = 26,47), čo naznačuje strednú mieru vnímania bolesti, pričom relatívne vysoká
+variabilita poukazuje na individuálne rozdiely v intenzite a zvládaní bolesti. Celkový
+zdravotný stav bol hodnotený priemerom 36,00 (SD = 16,12), čo predstavuje skôr
+nepriaznivé sebahodnotenie zdravia; nižšia smerodajná odchýlka v porovnaní s
+predchádzajúcimi doménami naznačuje konzistentnejšie, prevažne negatívne hodnotenie. V
+oblasti psychického zdravia dosiahla emocionálna pohoda najvyšší priemer 58,50 (SD =
+20,09), čo poukazuje na relatívne priaznivé prežívanie psychickej stránky života, pričom
+45
+
+stredne vysoká odchýlka naznačuje primeranú variabilitu odpovedí. Emocionálna rola
+vykázala priemer 43,77 (SD = 43,79), pričom veľmi vysoká smerodajná odchýlka
+signalizuje výrazné rozdiely medzi pacientmi v miere emocionálnych obmedzení. Sociálne
+funkcie dosiahli priemer 52,50 (SD = 27,17), čo poukazuje na čiastočné zachovanie
+sociálnych kontaktov a interakcií, avšak vyššia odchýlka naznačuje, že niektorí pacienti
+pociťujú významné sociálne obmedzenia. Doména energia/únava s priemerom 40,74 (SD =
+19,30) poukazuje na častý výskyt únavy a zníženej vitality, pričom variabilita odpovedí je
+stredná. Celkové hodnotenie zdravotného stavu podľa SF-36 dosiahlo priemer 49,04 (SD =
+17,22), čo predstavuje mierne podpriemerné celkové vnímanie kvality života v súvislosti so
+zdravím, pričom relatívne nižšia smerodajná odchýlka naznačuje, že hodnotenia
+respondentov sa pohybovali pomerne sústredene okolo tejto úrovne. Celkovo možno
+konštatovať, že kvalita života pacientov zaradených v dialyzačnom programe je výraznejšie
+negatívne ovplyvnená fyzickými aspektmi zdravia, zatiaľ čo psychická a sociálna oblasť
+dosahuje relatívne priaznivejšie, hoci variabilné výsledky.
+
+Priemerné hodnoty váh dotazníka SF-36
+70.00
+58.50
+
+60.00
+50.61
+
+52.50
+
+50.39
+
+Skóre
+
+50.00
+
+43.77
+36.00
+
+40.00
+
+30.00
+30.00
+20.00
+10.00
+0.00
+
+Váhy zamerané na ochorenie obličiek
+
+Graf 11 Priemerné hodnoty jednotlivých váh dotazníka SF-36
+Zdroj: vlastné spracovanie
+46
+
+49.04
+40.74
+
+Z výsledkov analýzy dotazníka KDQOL-SF vyplýva, že pacienti zaradení do
+dialyzačného programu najpozitívnejšie hodnotia podporu dialyzačného personálu a
+sociálnu podporu zo strany blízkeho okolia. Naopak, najnižšie hodnotenia sa objavili v
+oblastiach kognitívnych funkcií, sociálnych interakcií a záťaže spôsobenej ochorením.
+Výsledky zároveň poukazujú na výraznejší negatívny dopad ochorenia v oblasti fyzického
+fungovania v porovnaní s psychickou alebo sociálnou dimenziou kvality života.
+3.3 Vyhodnotenie hypotéz
+H1: Predpokladáme, že vek pacientov vplýva na celkovú kvalitu života pacientov
+zaradených do dialyzačného programu.
+Tabuľka 3 Výsledky testovania H1: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test)
+
+Veková kategória
+ESRD-targeted Areas
+
+Váhy zamerané na ochorenia pobličiek
+value
+
+Záver
+
+veková
+kategória
+nevplýva na zoznam
+Symptom/problem list ESRD Zoznam symptómov/problémov
+0,1375
+symptómov/problé
+mov
+veková
+kategória
+Effects of kidney disease
+Účinky ochorenia obličiek
+0,3701 nevplýva na účinky
+ESRD
+ochorenia obličiek
+veková
+kategória
+Burden of kidney disease Záťaž
+spôsobená
+ochorením
+nevplýva na záťaž
+0,4913
+ESRD
+obličiek
+spôsobenú
+ochorením obličiek
+veková
+kategória
+Work Status ESRD
+Pracovný status
+0,4849 nevplýva
+na
+pracovný status
+veková
+kategória
+Cognitive function ESRD
+Kognitívne funkcie
+0,9142 nevplýva
+na
+kognitívne funkcie
+veková
+kategória
+Quality of social interaction
+Kvalita sociálnych interakcií
+0,3594 nevplýva na kvalitu
+ES
+sociálnych interakcií
+
+47
+
+Sexual function ESRD
+
+Sexuálne funkcie
+
+Sleep ESRD
+
+Spánok
+
+Social Support ESRD
+
+Sociálna podpora
+
+Dialysis staff encouragmenet
+Podpora dialyzačného personálu
+ESR
+
+Patient satisfaction ESRD
+
+Spokojnosť pacienta
+
+veková kategória
+0,0005 vplýva na sexuálne
+funkcie
+veková kategória
+0,0048
+vplýva na spánok
+veková
+kategória
+0,7582 nevplýva
+na
+sociálnu podporu
+veková
+kategória
+nevplýva
+na
+0,0700 podporu
+dialyzačného
+personálu
+veková
+kategória
+0,7603 nevplýva
+na
+spokojnosť pacienta
+
+Veková kategória
+36-Item Health Survey Váhy
+zamerané
+na pvalue
+scales
+zhodnotenie zdravia (SF-36)
+Physical functioning SF-36 Fyzické fungovanie
+
+Role-physical SF-36
+
+Fyzická rola
+
+Pain SF-36
+
+Bolesť
+
+General Health SF-36
+
+Celkový zdravotný stav
+
+Emotional well-being SFEmocionálna pohoda
+36
+
+Role-emotional SF-36
+
+Emocionálna rola
+
+Social function SF-36
+
+Sociálne funkcie
+
+48
+
+Záver
+
+veková kategória
+0,0068 vplýva na fyzické
+fungovanie
+veková kategória
+0,0068 vplýva na fyzickú
+rolu
+veková
+kategória
+0,4237
+nevplýva na bolesť
+veková
+kategória
+0,9082 nevplýva na celkový
+zdravotný stav
+veková
+kategória
+nevplýva
+na
+0,5085
+emocionálnu
+pohodu
+veková
+kategória
+0,4924 nevplýva
+na
+emocionálnu rolu
+veková
+kategória
+0,5578 nevplýva
+na
+sociálne funkcie
+
+veková
+kategória
+0,0595
+nevplýva
+na
+Energy/fatigue SF-36
+Energia/únava
+energiu/únavu
+veková
+kategória
+Celkové hodnotenie zdrav. stavu
+nevplýva na celkové
+0,6217
+Overall health rating SF-36
+hodnotenie
+SF-36
+zdravotného stavu
+
+Zdroj: vlastné spracovanie, SAS Studio
+Hypotéza H1 predpokladala, že vek pacientov vplýva na celkovú kvalitu života
+pacientov zaradených do dialyzačného programu. Na overenie tejto hypotézy bol použitý
+neparametrický test jednofaktorovej analýzy rozptylu – Wilcoxon Scores (Rank Sums),
+realizovaný v štatistickom softvéri SAS Studio, pričom sa porovnávali rozdiely medzi
+vekovými kategóriiami v jednotlivých doménach dotazníka Kidney Disease Quality of Life
+Short Form, ktorý zahŕňa špecifické oblasti zamerané na ochorenie obličiek (ESRD-targeted
+areas) a všeobecnú časť hodnotenia zdravia SF-36. Výsledky analýzy poukázali na to, že
+veková kategória štatisticky významne vplýva len na vybrané oblasti kvality života, zatiaľ
+čo vo väčšine sledovaných domén sa štatisticky významný rozdiel medzi vekovými
+skupinami nepotvrdil (p > 0,05). V rámci špecifických oblastí zameraných na ochorenie
+obličiek sa štatisticky významný vplyv veku preukázal v doméne sexuálne funkcie (p =
+0,0005) a spánok (p = 0,0048), čo naznačuje, že tieto aspekty kvality života sú v rôznych
+vekových
+
+kategóriách
+
+prežívané
+
+odlišne.
+
+Naopak,
+
+vek
+
+neovplyvnil
+
+zoznam
+
+symptómov/problémov (p = 0,1375), účinky ochorenia obličiek (p = 0,3701), záťaž
+spôsobenú ochorením (p = 0,4913), pracovný status (p = 0,4849), kognitívne funkcie (p =
+0,9142), kvalitu sociálnych interakcií (p = 0,3594), sociálnu podporu (p = 0,7582), podporu
+dialyzačného personálu (p = 0,0700) ani spokojnosť pacienta (p = 0,7603). Uvedené zistenia
+naznačujú, že samotná prítomnosť ochorenia obličiek a náročnosť dialyzačnej liečby
+predstavujú záťaž, ktorá je naprieč vekovými skupinami vnímaná relatívne podobne, bez
+ohľadu na vek pacienta. V oblasti všeobecného hodnotenia zdravia prostredníctvom škál SF36 sa štatisticky významný vplyv veku preukázal vo fyzickom fungovaní (p = 0,0068) a
+fyzickej role (p = 0,0068), čo poukazuje na rozdielnu mieru fyzických obmedzení medzi
+vekovými skupinami, pričom možno predpokladať, že vyšší vek je spojený s väčšími
+limitáciami v oblasti každodenných a pracovných aktivít. V ostatných doménach SF-36 sa
+však štatisticky významné rozdiely nepotvrdili – bolesť (p = 0,4237), celkový zdravotný stav
+(p = 0,9082), emocionálna pohoda (p = 0,5085), emocionálna rola (p = 0,4924), sociálne
+funkcie (p = 0,5578), energia/únava (p = 0,0595) ani celkové hodnotenie zdravotného stavu
+49
+
+(p = 0,6217) neboli vekovou kategóriou signifikantne ovplyvnené. Hoci hodnota p pri
+energii/únave (p = 0,0595) bola blízka hranici štatistickej významnosti, nedosiahla
+stanovenú hladinu významnosti α = 0,05, a preto nemožno hovoriť o preukázanom vplyve
+veku. Na základe uvedených výsledkov možno konštatovať, že hypotéza H1 sa potvrdila len
+čiastočne. Vek pacientov má štatisticky významný vplyv na niektoré vybrané dimenzie
+kvality života, predovšetkým v oblasti fyzického fungovania, fyzickej roly, sexuálnych
+funkcií a spánku, avšak neovplyvňuje celkové hodnotenie zdravotného stavu ani väčšinu
+ostatných sledovaných oblastí. Celkovo teda možno uviesť, že vek predstavuje významný
+faktor najmä vo fyzickej a čiastočne biologickej dimenzii kvality života pacientov v
+dialyzačnom programe, avšak jeho vplyv na psychické, sociálne a subjektívne celkové
+hodnotenie kvality života sa v tomto výskume štatisticky nepotvrdil.
+H2: Predpokladáme, že existuje rozdiel v subjektívnom vnímaní kvality života
+pacientov podľa stupňa vzdelania.
+Tabuľka 4 Výsledky testovania H2: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test)
+Najvyššie
+vzdelanie
+ESRD-targeted Areas
+
+Váhy zamerané na ochorenia pobličiek
+value
+
+Symptom/problem list ESRD Zoznam symptómov/problémov
+
+0,263
+8
+
+Effects of kidney disease
+Účinky ochorenia obličiek
+ESRD
+
+0,940
+7
+
+Burden of kidney disease Záťaž spôsobená
+ESRD
+obličiek
+
+ochorením 0,227
+3
+
+Work Status ESRD
+
+Pracovný status
+
+0,528
+4
+
+Cognitive function ESRD
+
+Kognitívne funkcie
+
+0,019
+9
+
+50
+
+dosiahnuté
+
+Záver
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+zoznam
+symptómov/problémo
+v
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+účinky
+ochorenia
+obličiek
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+záťaž
+spôsobenú
+ochorením obličiek
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+pracovný status
+najvyššie dosiahnuté
+vzdelanie vplýva na
+kognitívne funkcie
+
+Quality of social interaction
+Kvalita sociálnych interakcií
+ES
+
+0,276
+3
+
+Sexual function ESRD
+
+Sexuálne funkcie
+
+0,722
+5
+
+Sleep ESRD
+
+Spánok
+
+0,276
+3
+
+Social Support ESRD
+
+Sociálna podpora
+
+0,856
+5
+
+Dialysis staff encouragmenet
+Podpora dialyzačného personálu
+ESR
+
+Patient satisfaction ESRD
+
+Spokojnosť pacienta
+
+0,895
+3
+0,528
+6
+
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+kvalitu
+sociálnych
+interakcií
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+sexuálne funkcie
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+spánok
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+sociálnu podporu
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+podporu dialyzačného
+personálu
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+spokojnosť pacienta
+
+Najvyššie
+vzdelanie
+
+dosiahnuté
+
+36-Item Health Survey Váhy
+zamerané
+na pZáver
+scales
+zhodnotenie zdravia (SF-36) value
+Physical functioning SFFyzické fungovanie
+36
+
+0,373
+2
+
+Role-physical SF-36
+
+Fyzická rola
+
+0,387
+1
+
+Pain SF-36
+
+Bolesť
+
+0,387
+1
+
+General Health SF-36
+
+Celkový zdravotný stav
+
+0,881
+0
+
+Emotional well-being SFEmocionálna pohoda
+36
+
+0,022
+3
+
+Role-emotional SF-36
+
+0,193
+2
+
+Emocionálna rola
+
+51
+
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+fyzické fungovanie
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+fyzickú rolu
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+bolesť
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+celkový
+zdravotný
+stav
+najvyššie dosiahnuté
+vzdelanie vplýva na
+emocionálnu pohodu
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+emocionálnu rolu
+
+Social function SF-36
+
+Sociálne funkcie
+
+0,253
+4
+
+Energy/fatigue SF-36
+
+Energia/únava
+
+0,179
+2
+
+Overall health rating SF-36
+
+Celkové hodnotenie
+stavu SF-36
+
+zdrav. 0,755
+7
+
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+sociálne funkcie
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+energiu/únavu
+najvyššie dosiahnuté
+vzdelanie nevplýva na
+celkové
+hodnotenie
+zdravotného stavu
+
+Zdroj: vlastné spracovanie, SAS Studio
+Hypotéza H2 predpokladala, že existuje rozdiel v subjektívnom vnímaní kvality
+života pacientov zaradených do dialyzačného programu podľa stupňa najvyššie
+dosiahnutého vzdelania. Na jej overenie bol použitý neparametrický test jednofaktorovej
+analýzy rozptylu – Wilcoxon Scores (Rank Sums), realizovaný v prostredí SAS Studio,
+pričom sa porovnávali rozdiely medzi skupinami respondentov podľa úrovne vzdelania v
+jednotlivých dimenziách dotazníka Kidney Disease Quality of Life Short Form vrátane
+špecifických oblastí zameraných na ochorenie obličiek (ESRD-targeted areas) a všeobecnej
+časti hodnotenia zdravia SF-36. Výsledky analýzy ukázali, že v prevažnej väčšine
+sledovaných domén sa štatisticky významné rozdiely medzi skupinami podľa vzdelania
+nepotvrdili (p > 0,05), čo naznačuje, že úroveň dosiahnutého vzdelania vo všeobecnosti
+nepredstavuje determinujúci faktor subjektívneho hodnotenia kvality života u dialyzovaných
+pacientov. V rámci špecifických oblastí zameraných na ochorenie obličiek sa štatisticky
+významný rozdiel preukázal iba v doméne kognitívne funkcie (p = 0,0199), čo poukazuje na
+to, že pacienti s rôznym stupňom vzdelania odlišne vnímajú svoju schopnosť sústredenia,
+pamäti a mentálnej výkonnosti. Naopak, rozdiely sa nepotvrdili v oblastiach zoznam
+symptómov/problémov (p = 0,2638), účinky ochorenia obličiek (p = 0,9407), záťaž
+spôsobená ochorením (p = 0,2273), pracovný status (p = 0,5284), kvalita sociálnych
+interakcií (p = 0,2763), sexuálne funkcie (p = 0,7225), spánok (p = 0,2763), sociálna podpora
+(p = 0,8565), podpora dialyzačného personálu (p = 0,8953) ani spokojnosť pacienta (p =
+0,5286). Uvedené zistenia naznačujú, že bez ohľadu na vzdelanostnú úroveň pacienti
+prežívajú symptómy ochorenia, jeho dôsledky i mieru záťaže relatívne podobným spôsobom
+a rovnako hodnotia aj podporu zo strany zdravotníckeho personálu či celkovú spokojnosť s
+poskytovanou starostlivosťou. V oblasti všeobecného hodnotenia zdravotného stavu
+prostredníctvom škál SF-36 sa štatisticky významný rozdiel potvrdil v doméne emocionálna
+pohoda (p = 0,0223), čo poukazuje na rozdielne subjektívne prežívanie psychickej
+52
+
+rovnováhy, nálady a celkovej duševnej pohody medzi pacientmi s rozdielnym stupňom
+vzdelania. Možno predpokladať, že vyššia úroveň vzdelania môže súvisieť s lepšími
+copingovými
+
+stratégiami,
+
+vyššou
+
+zdravotnou
+
+gramotnosťou
+
+alebo
+
+schopnosťou
+
+efektívnejšie spracovávať informácie o ochorení, čo sa môže pozitívne premietať do
+emocionálneho prežívania. Na druhej strane, v ostatných doménach SF-36 sa štatisticky
+významné rozdiely nepotvrdili – fyzické fungovanie (p = 0,3732), fyzická rola (p = 0,3871),
+bolesť (p = 0,3871), celkový zdravotný stav (p = 0,8810), emocionálna rola (p = 0,1932),
+sociálne funkcie (p = 0,2534), energia/únava (p = 0,1792) ani celkové hodnotenie
+zdravotného stavu (p = 0,7557) neboli signifikantne ovplyvnené stupňom vzdelania. Na
+základe uvedených výsledkov možno konštatovať, že hypotéza H2 sa potvrdila len
+čiastočne. Hoci sa preukázali štatisticky významné rozdiely v oblasti kognitívnych funkcií a
+emocionálnej pohody, celkové subjektívne vnímanie kvality života pacientov zaradených do
+dialyzačného programu sa podľa stupňa vzdelania významne nelíši. Úroveň vzdelania teda
+nepredstavuje zásadný determinant komplexného hodnotenia kvality života, avšak môže
+zohrávať určitú úlohu v oblasti mentálneho fungovania a emocionálneho prežívania
+ochorenia.
+H3: Predpokladáme, že existuje štatistický významný rozdiel v subjektívnom vnímaní
+kvality života pacientov podľa národnosti.
+Tabuľka 5 Výsledky testovania H3: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test)
+
+Národnosť
+ESRD-targeted Areas
+
+Váhy zamerané na ochorenia pobličiek
+value
+
+Záver
+
+národnosť nevplýva
+na
+zoznam
+Symptom/problem list ESRD Zoznam symptómov/problémov
+0,2525
+symptómov/problé
+mov
+národnosť nevplýva
+Effects of kidney disease
+Účinky ochorenia obličiek
+0,5901 na účinky ochorenia
+ESRD
+obličiek
+národnosť nevplýva
+Burden of kidney disease Záťaž
+spôsobená
+ochorením
+0,5828 na záťaž spôsobenú
+ESRD
+obličiek
+ochorením obličiek
+
+53
+
+Work Status ESRD
+
+Pracovný status
+
+Cognitive function ESRD
+
+Kognitívne funkcie
+
+Quality of social interaction
+Kvalita sociálnych interakcií
+ES
+Sexual function ESRD
+
+Sexuálne funkcie
+
+Sleep ESRD
+
+Spánok
+
+Social Support ESRD
+
+Sociálna podpora
+
+Dialysis staff encouragmenet
+Podpora dialyzačného personálu
+ESR
+
+Patient satisfaction ESRD
+
+národnosť nevplýva
+na pracovný status
+národnosť vplýva
+0,0198 na
+kognitívne
+funkcie
+národnosť nevplýva
+0,1313 na
+kvalitu
+sociálnych interakcií
+národnosť nevplýva
+0,9884
+na sexuálne funkcie
+národnosť nevplýva
+0,8973
+na spánok
+národnosť nevplýva
+0,7720
+na sociálnu podporu
+národnosť nevplýva
+na
+podporu
+0,7976
+dialyzačného
+personálu
+národnosť nevplýva
+0,1419 na
+spokojnosť
+pacienta
+0,2424
+
+Spokojnosť pacienta
+
+Národnosť
+36-Item Health Survey Váhy
+zamerané
+na pvalue
+scales
+zhodnotenie zdravia (SF-36)
+Physical functioning SF-36 Fyzické fungovanie
+Role-physical SF-36
+
+Fyzická rola
+
+Pain SF-36
+
+Bolesť
+
+General Health SF-36
+
+Celkový zdravotný stav
+
+Emotional well-being SFEmocionálna pohoda
+36
+Role-emotional SF-36
+
+Emocionálna rola
+
+Social function SF-36
+
+Sociálne funkcie
+
+Energy/fatigue SF-36
+
+Energia/únava
+
+54
+
+Záver
+
+národnosť nevplýva
+0,0901 na
+fyzické
+fungovanie
+národnosť nevplýva
+0,0502
+na fyzickú rolu
+národnosť nevplýva
+0,0614
+na bolesť
+národnosť nevplýva
+0,2975 na
+celkový
+zdravotný stav
+národnosť vplýva
+0,0468 na
+emocionálnu
+pohodu
+národnosť nevplýva
+0,3055
+na emocionálnu rolu
+národnosť nevplýva
+0,2525
+na sociálne funkcie
+národnosť nevplýva
+0,7167
+na energiu/únavu
+
+národnosť nevplýva
+
+Celkové hodnotenie zdrav. stavu
+na
+celkové
+0,2810
+Overall health rating SF-36
+hodnotenie
+SF-36
+zdravotného stavu
+
+Zdroj: vlastné spracovanie, SAS Studio
+Hypotéza H3 predpokladala existenciu štatisticky významného rozdielu v
+subjektívnom vnímaní kvality života pacientov zaradených do dialyzačného programu podľa
+národnosti. Na overenie tejto hypotézy bol použitý neparametrický test jednofaktorovej
+analýzy rozptylu – Wilcoxon Scores (Rank Sums), realizovaný v štatistickom softvéri SAS
+Studio, pričom sa analyzovali rozdiely medzi skupinami pacientov podľa národnosti v
+jednotlivých doménach dotazníka Kidney Disease Quality of Life Short Form vrátane
+špecifických oblastí zameraných na ochorenie obličiek (ESRD-targeted areas) a všeobecnej
+časti hodnotenia zdravia SF-36. Výsledky analýzy preukázali, že vo väčšine sledovaných
+oblastí sa štatisticky významné rozdiely medzi národnostnými skupinami nepotvrdili (p >
+0,05), čo naznačuje, že národnosť vo všeobecnosti nepredstavuje významný determinant
+celkového subjektívneho hodnotenia kvality života u pacientov v dialyzačnom programe. V
+rámci špecifických oblastí zameraných na ochorenie obličiek sa štatisticky významný
+rozdiel preukázal iba v doméne kognitívne funkcie (p = 0,0198), čo poukazuje na rozdielne
+subjektívne vnímanie pamäti, sústredenia a mentálnej výkonnosti medzi pacientmi rôznej
+národnosti. V ostatných doménach, ako sú zoznam symptómov/problémov (p = 0,2525),
+účinky ochorenia obličiek (p = 0,5901), záťaž spôsobená ochorením (p = 0,5828), pracovný
+status (p = 0,2424), kvalita sociálnych interakcií (p = 0,1313), sexuálne funkcie (p = 0,9884),
+spánok (p = 0,8973), sociálna podpora (p = 0,7720), podpora dialyzačného personálu (p =
+0,7976) a spokojnosť pacienta (p = 0,1419), sa štatisticky významný vplyv národnosti
+nepotvrdil. Tieto zistenia naznačujú, že pacienti bez ohľadu na národnostnú príslušnosť
+prežívajú symptómy ochorenia, jeho dôsledky, mieru záťaže i podporu zo strany
+zdravotníckeho personálu porovnateľným spôsobom. V oblasti všeobecného hodnotenia
+zdravia prostredníctvom škál SF-36 sa štatisticky významný rozdiel potvrdil v doméne
+emocionálna pohoda (p = 0,0468), čo naznačuje, že národnosť môže zohrávať určitú úlohu
+v subjektívnom prežívaní psychickej rovnováhy, nálady a emocionálneho komfortu.
+Hodnoty p pri fyzickej role (p = 0,0502), bolesti (p = 0,0614) a fyzickom fungovaní (p =
+0,0901) sa síce pohybovali blízko hranice štatistickej významnosti, avšak pri stanovenej
+hladine významnosti α = 0,05 nemožno tieto rozdiely považovať za štatisticky významné. V
+ostatných doménach SF-36, konkrétne celkový zdravotný stav (p = 0,2975), emocionálna
+55
+
+rola (p = 0,3055), sociálne funkcie (p = 0,2525), energia/únava (p = 0,7167) a celkové
+hodnotenie zdravotného stavu (p = 0,2810), sa vplyv národnosti taktiež nepotvrdil. Na
+základe uvedených výsledkov možno konštatovať, že hypotéza H3 sa potvrdila iba
+čiastočne. Hoci sa preukázali štatisticky významné rozdiely v oblasti kognitívnych funkcií a
+emocionálnej pohody, národnosť ako demografický faktor neovplyvňuje väčšinu
+sledovaných dimenzií kvality života ani celkové hodnotenie zdravotného stavu pacientov v
+dialyzačnom programe. Celkovo možno teda uviesť, že národnosť nemá zásadný vplyv na
+komplexné subjektívne vnímanie kvality života, avšak môže sa premietať do vybraných
+oblastí psychického a mentálneho fungovania.
+H4: Predpokladáme, že existuje rozdiel v subjektívnom vnímaní kvality života
+pacientov podľa pohlavia.
+Tabuľka 6 Výsledky testovania H4: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test)
+Pohlavie
+ESRD-targeted Areas
+
+Váhy zamerané na ochorenia pobličiek
+value
+
+Záver
+
+pohlavie nevplýva
+na
+zoznam
+Symptom/problem list ESRD Zoznam symptómov/problémov
+0,1092
+symptómov/problé
+mov
+pohlavie nevplýva
+Effects of kidney disease
+Účinky ochorenia obličiek
+0,7220 na účinky ochorenia
+ESRD
+obličiek
+pohlavie nevplýva
+Burden of kidney disease Záťaž
+spôsobená
+ochorením
+0,0610 na záťaž spôsobenú
+ESRD
+obličiek
+ochorením obličiek
+pohlavie nevplýva
+Work Status ESRD
+Pracovný status
+0,7149
+na pracovný status
+pohlavie nevplýva
+Cognitive function ESRD
+Kognitívne funkcie
+0,1509 na
+kognitívne
+funkcie
+pohlavie nevplýva
+Quality of social interaction
+Kvalita sociálnych interakcií
+0,3022 na
+kvalitu
+ES
+sociálnych interakcií
+pohlavie nevplýva
+Sexual function ESRD
+Sexuálne funkcie
+0,2287
+na sexuálne funkcie
+pohlavie nevplýva
+Sleep ESRD
+Spánok
+0,7750
+na spánok
+
+56
+
+Social Support ESRD
+
+Sociálna podpora
+
+Dialysis staff encouragmenet
+Podpora dialyzačného personálu
+ESR
+
+Patient satisfaction ESRD
+
+Spokojnosť pacienta
+
+pohlavie nevplýva
+na sociálnu podporu
+pohlavie nevplýva
+na
+podporu
+0,3085
+dialyzačného
+personálu
+pohlavie nevplýva
+0,3894 na
+spokojnosť
+pacienta
+0,3388
+
+Pohlavie
+36-Item Health Survey Váhy
+zamerané
+na pvalue
+scales
+zhodnotenie zdravia (SF-36)
+
+Záver
+
+pohlavie nevplýva
+0,8775 na
+fyzické
+fungovanie
+pohlavie nevplýva
+0,2146
+Role-physical SF-36
+Fyzická rola
+na fyzickú rolu
+pohlavie nevplýva
+0,5472
+Pain SF-36
+Bolesť
+na bolesť
+pohlavie nevplýva
+0,0858 na
+celkový
+General Health SF-36
+Celkový zdravotný stav
+zdravotný stav
+pohlavie nevplýva
+Emotional well-being SF0,9687 na
+emocionálnu
+Emocionálna pohoda
+36
+pohodu
+pohlavie nevplýva
+0,1212
+Role-emotional SF-36
+Emocionálna rola
+na emocionálnu rolu
+pohlavie nevplýva
+0,8716
+Social function SF-36
+Sociálne funkcie
+na sociálne funkcie
+pohlavie nevplýva
+0,9261
+Energy/fatigue SF-36
+Energia/únava
+na energiu/únavu
+pohlavie nevplýva
+Celkové hodnotenie zdrav. stavu
+na
+celkové
+0,3578
+Overall health rating SF-36
+hodnotenie
+SF-36
+zdravotného stavu
+
+Physical functioning SF-36 Fyzické fungovanie
+
+Zdroj: vlastné spracovanie, SAS Studio
+Hypotéza H4 vychádzala z predpokladu, že medzi mužmi a ženami zaradenými do
+dialyzačného programu existujú rozdiely v subjektívnom hodnotení kvality života. Overenie
+tejto hypotézy bolo realizované pomocou neparametrického testu jednofaktorovej analýzy
+rozptylu – Wilcoxon Scores (Rank Sums) v prostredí SAS Studio, pričom sa porovnávali
+výsledky podľa pohlavia v jednotlivých doménach dotazníka Kidney Disease Quality of Life
+57
+
+Short Form vrátane špecifických oblastí viazaných na ochorenie obličiek (ESRD-targeted
+areas) a všeobecnej časti hodnotenia zdravia SF-36. Na základe získaných hodnôt p možno
+konštatovať, že v žiadnej zo sledovaných domén nebol preukázaný štatisticky významný
+rozdiel medzi mužmi a ženami pri hladine významnosti α = 0,05. V rámci oblastí špecificky
+zameraných na ochorenie obličiek sa rozdiely nepotvrdili v doméne zoznam
+symptómov/problémov (p = 0,1092), účinky ochorenia obličiek (p = 0,7220), záťaž
+spôsobená ochorením (p = 0,0610), pracovný status (p = 0,7149), kognitívne funkcie (p =
+0,1509), kvalita sociálnych interakcií (p = 0,3022), sexuálne funkcie (p = 0,2287), spánok (p
+= 0,7750), sociálna podpora (p = 0,3388), podpora dialyzačného personálu (p = 0,3085) ani
+spokojnosť pacienta (p = 0,3894). Hoci hodnota p pri doméne záťaž spôsobená ochorením
+(p = 0,0610) sa približovala k hranici štatistickej významnosti, nedosiahla stanovené
+kritérium, a preto nemožno hovoriť o preukázanom rozdiele medzi pohlaviami. Podobná
+situácia sa vyskytla aj v niektorých oblastiach všeobecného hodnotenia zdravia podľa SF36, kde sa hodnoty p pri celkovom zdravotnom stave (p = 0,0858) či emocionálnej role (p =
+0,1212) pohybovali relatívne blízko hranice významnosti, avšak ani v týchto prípadoch
+nebol rozdiel štatisticky potvrdený. V ostatných doménach SF-36, konkrétne fyzické
+fungovanie (p = 0,8775), fyzická rola (p = 0,2146), bolesť (p = 0,5472), emocionálna pohoda
+(p = 0,9687), sociálne funkcie (p = 0,8716), energia/únava (p = 0,9261) a celkové hodnotenie
+zdravotného stavu (p = 0,3578), sa taktiež nepreukázali významné rozdiely medzi mužmi a
+ženami. Uvedené výsledky naznačujú, že subjektívne prežívanie ochorenia, jeho dôsledkov
+a celkového zdravotného stavu je u pacientov v dialyzačnom programe porovnateľné bez
+ohľadu na pohlavie. Na základe komplexného vyhodnotenia možno teda konštatovať, že
+hypotéza H4 sa v tomto výskume nepotvrdila. Pohlavie sa neukázalo ako významný faktor
+ovplyvňujúci subjektívne vnímanie kvality života ani v oblasti špecifických dopadov
+ochorenia obličiek, ani v oblasti všeobecného hodnotenia fyzického a psychického zdravia.
+Výsledky poukazujú na skutočnosť, že záťaž spojená s chronickým ochorením obličiek a
+dialyzačnou liečbou je vnímaná podobne mužmi aj ženami, pričom rozdiely medzi
+pohlaviami sa v sledovaných premenných štatisticky významne neprejavili.
+H5: Predpokladáme, že existuje rozdiel v subjektívnom vnímaní kvality života podľa
+miesta bydliska.
+
+58
+
+Tabuľka 7 Výsledky testovania H5: neparametrická jednofaktorová ANOVA (Wilcoxonov
+párový test)
+Bydlisko
+ESRD-targeted Areas
+
+Váhy zamerané na ochorenia pobličiek
+value
+
+Záver
+
+bydlisko nevplýva
+na
+zoznam
+Symptom/problem list ESRD Zoznam symptómov/problémov
+0,5658
+symptómov/problé
+mov
+bydlisko nevplýva
+Effects of kidney disease
+Účinky ochorenia obličiek
+0,6598 na účinky ochorenia
+ESRD
+obličiek
+bydlisko neplýva na
+Burden of kidney disease Záťaž
+spôsobená
+ochorením
+0,4696 záťaž
+spôsobenú
+ESRD
+obličiek
+ochorením obličiek
+bydlisko vplýva na
+Work Status ESRD
+Pracovný status
+0,0305
+pracovný status
+bydlisko nevplýva
+Cognitive function ESRD
+Kognitívne funkcie
+0,0968 na
+kognitívne
+funkcie
+bydlisko nevplýva
+Quality of social interaction
+Kvalita sociálnych interakcií
+0,5937 na
+kvalitu
+ES
+sociálnych interakcií
+bydlisko nevplýva
+Sexual function ESRD
+Sexuálne funkcie
+0,8336
+na sexuálne funkcie
+bydlisko nevplýva
+Sleep ESRD
+Spánok
+0,1856
+na spánok
+bydlisko nevplýva
+Social Support ESRD
+Sociálna podpora
+0,2143
+na sociálnu podporu
+bydlisko nevplýva
+Dialysis staff encouragmenet
+na
+podporu
+Podpora dialyzačného personálu
+0,1288
+ESR
+dialyzačného
+personálu
+bydlisko nevplýva
+Patient satisfaction ESRD
+Spokojnosť pacienta
+0,9434 na
+spokojnosť
+pacienta
+
+59
+
+Bydlisko
+36-Item Health Survey Váhy
+zamerané
+na pvalue
+scales
+zhodnotenie zdravia (SF-36)
+
+Záver
+
+bydlisko nevplýva
+0,0512 na
+fyzické
+Physical functioning SF-36 Fyzické fungovanie
+fungovanie
+bydlisko nevplýva
+0,4220
+Role-physical SF-36
+Fyzická rola
+na fyzickú rolu
+bydlisko nevplýva
+0,1554
+Pain SF-36
+Bolesť
+na bolesť
+bydlisko nevplýva
+0,7852 na
+celkový
+General Health SF-36
+Celkový zdravotný stav
+zdravotný stav
+bydlisko nevplýva
+Emotional well-being SF0,2809 na
+emocionálnu
+Emocionálna pohoda
+36
+pohodu
+bydlisko nevplýva
+0,1188
+Role-emotional SF-36
+Emocionálna rola
+na emocionálnu rolu
+bydlisko nevplýva
+0,5077
+Social function SF-36
+Sociálne funkcie
+na sociálne funkcie
+bydlisko nevplýva
+0,0931
+Energy/fatigue SF-36
+Energia/únava
+na energiu/únavu
+bydlisko nevplýva
+Celkové hodnotenie zdrav. stavu
+na
+celkové
+0,0695
+Overall health rating SF-36
+hodnotenie
+SF-36
+zdravotného stavu
+
+Zdroj: vlastné spracovanie, SAS Studio
+Hypotéza H5 vychádzala z predpokladu, že medzi pacientmi zaradenými do
+dialyzačného programu existujú rozdiely v subjektívnom vnímaní kvality života v závislosti
+od miesta bydliska. Na overenie tejto hypotézy bol použitý neparametrický test
+jednofaktorovej analýzy rozptylu – Wilcoxon Scores (Rank Sums) v štatistickom softvéri
+SAS Studio, pričom sa analyzovali rozdiely medzi skupinami respondentov podľa bydliska
+v jednotlivých doménach dotazníka Kidney Disease Quality of Life Short Form, ktorý
+zahŕňa špecifické oblasti zamerané na ochorenie obličiek (ESRD-targeted areas), ako aj
+všeobecnú časť hodnotenia zdravia SF-36. Na základe dosiahnutých hodnôt p možno
+konštatovať, že vo väčšine sledovaných oblastí sa štatisticky významné rozdiely medzi
+pacientmi podľa miesta bydliska nepotvrdili (p > 0,05), čo naznačuje, že tento
+sociodemografický faktor nemá zásadný vplyv na celkové subjektívne hodnotenie kvality
+života. V rámci špecifických oblastí zameraných na ochorenie obličiek sa štatisticky
+60
+
+významný rozdiel preukázal iba v doméne pracovný status (p = 0,0305), čo poukazuje na to,
+že miesto bydliska môže ovplyvňovať pracovné uplatnenie alebo vnímanie pracovnej
+schopnosti pacientov, pravdepodobne v súvislosti s dostupnosťou pracovných príležitostí,
+dopravnou infraštruktúrou či možnosťami kombinácie liečby a zamestnania. V ostatných
+doménach ESRD-targeted oblastí, konkrétne zoznam symptómov/problémov (p = 0,5658),
+účinky ochorenia obličiek (p = 0,6598), záťaž spôsobená ochorením (p = 0,4696), kognitívne
+funkcie (p = 0,0968), kvalita sociálnych interakcií (p = 0,5937), sexuálne funkcie (p =
+0,8336), spánok (p = 0,1856), sociálna podpora (p = 0,2143), podpora dialyzačného
+personálu (p = 0,1288) a spokojnosť pacienta (p = 0,9434), sa vplyv bydliska štatisticky
+nepotvrdil. V oblasti všeobecného hodnotenia zdravia podľa škál SF-36 sa taktiež
+nepreukázali štatisticky významné rozdiely medzi skupinami podľa miesta bydliska. Hoci
+hodnota p pri fyzickom fungovaní (p = 0,0512), energii/únave (p = 0,0931) a celkovom
+hodnotení zdravotného stavu (p = 0,0695) sa pohybovala relatívne blízko hranice štatistickej
+významnosti, nedosiahla stanovenú hladinu významnosti α = 0,05, a preto tieto rozdiely
+nemožno interpretovať ako štatisticky významné. V ostatných doménach, ako sú fyzická rola
+(p = 0,4220), bolesť (p = 0,1554), celkový zdravotný stav (p = 0,7852), emocionálna pohoda
+(p = 0,2809), emocionálna rola (p = 0,1188) a sociálne funkcie (p = 0,5077), sa taktiež
+nepotvrdil významný vplyv bydliska. Na základe komplexného zhodnotenia výsledkov
+možno konštatovať, že hypotéza H5 sa potvrdila len čiastočne. Miesto bydliska sa ukázalo
+ako významný faktor iba v oblasti pracovného statusu, avšak neovplyvňuje väčšinu
+ostatných dimenzií kvality života ani celkové hodnotenie zdravotného stavu pacientov v
+dialyzačnom programe. Celkovo teda možno uviesť, že rozdiely vyplývajúce z miesta
+bydliska sa v subjektívnom vnímaní kvality života prejavujú len minimálne a netýkajú sa
+komplexného hodnotenia fyzickej, psychickej ani sociálnej oblasti života pacientov.
+H6: Predpokladáme, že počet užívaných liekov na predpis vplýva na celkovú kvalitu
+života pacientov.
+Hypotéza H6 predpokladala, že počet užívaných liekov na predpis vplýva na celkovú
+kvalitu života pacientov zaradených do dialyzačného programu. Keďže premenná „počet
+liekov“ mala kvantitatívny (diskrétny) charakter a jednotlivé skóre kvality života
+nedosahovali vo všetkých prípadoch normálne rozdelenie, použitý bol Spearmanov
+korelačný koeficient. Spearmanova korelácia predstavuje neparametrickú štatistickú metódu
+určenú na posúdenie monotónneho vzťahu medzi dvoma premennými bez požiadavky
+61
+
+normality dát, pričom vyjadruje silu a smer asociácie medzi nimi. Hodnoty koeficientu rho
+sa pohybujú v intervale od –1 do +1, kde záporné hodnoty indikujú nepriamy (negatívny)
+vzťah a kladné hodnoty priamy (pozitívny) vzťah. Štatistická významnosť vzťahov bola
+posudzovaná na hladine významnosti α = 0,05 a výpočty boli realizované v štatistickom
+softvéri SAS Studio na vzorke 115 respondentov.
+Tabuľka 8 Výsledky testovania H6: Spearmanova korelačná analýza
+Spearman Correlation Coefficients, N = 115
+
+Symptom/problem list ESRD
+Effects of kidney disease ESRD
+Burden of kidney disease ESRD
+Work Status ESRD
+Cognitive function ESRD
+Quality of social interaction ESRD
+Sexual function ESRD
+Sleep ESRD
+Social Support ESRD
+Dialysis staff encouragmenet ESRD
+Patient satisfaction ESRD
+Physical functioning SF-36
+Role-physical SF-36
+General Health SF-36
+Emotional well-being SF-36
+
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+62
+
+Počet liekov na predpis
+-0,1207
+0,1988
+-0,1057
+0,2611
+-0,1441
+0,1245
+0,0259
+0,7839
+-0,0091
+0,9228
+-0,0266
+0,7780
+-0,0217
+0,8176
+-0,1970
+0,0348*
+-0,0642
+0,4952
+0,1263
+0,1788
+0,1868
+0,0456*
+-0,3138
+0,0006**
+-0,2807
+0,0024**
+-0,0766
+0,4156
+0,0619
+0,5113
+
+Role-emotional SF-36
+Social function SF-36
+Energy/fatigue SF-36
+Overall health rating SF-36
+
+rho
+p-value
+rho
+p-value
+rho
+p-value
+rho
+p-value
+
+-0,0587
+0,5332
+-0,2034
+0,0292*
+-0,1541
+0,1001
+-0,1855
+0,0472*
+
+Zdroj: vlastné spracovanie, SAS Studio
+V rámci špecifických oblastí zameraných na ochorenie obličiek (ESRD-targeted
+areas) sa štatisticky významná, hoci slabá negatívna korelácia preukázala v doméne spánok
+(rho = –0,1970; p = 0,0348). To znamená, že pacienti užívajúci vyšší počet liekov dosahovali
+nižšie skóre v oblasti spánku, čo poukazuje na horšiu kvalitu spánku. V ostatných doménach,
+ako sú zoznam symptómov/problémov, účinky ochorenia obličiek, záťaž spôsobená
+ochorením, pracovný status, kognitívne funkcie, kvalita sociálnych interakcií, sexuálne
+funkcie, sociálna podpora a podpora dialyzačného personálu, sa štatisticky významné
+vzťahy nepotvrdili (p > 0,05), hoci vo väčšine prípadov mali korelácie negatívny smer.
+Zaujímavým zistením je slabá pozitívna korelácia v doméne spokojnosť pacienta (rho =
+0,1868; p = 0,0456), čo naznačuje, že vyšší počet liekov môže byť mierne asociovaný s
+vyšším subjektívnym hodnotením spokojnosti s liečbou alebo zdravotnou starostlivosťou.
+Vo všeobecnej časti hodnotenia zdravia (SF-36) sa preukázali výraznejšie súvislosti najmä
+vo fyzických dimenziách. Bola zistená stredne silná negatívna korelácia medzi počtom
+liekov a fyzickým fungovaním (rho = –0,3138; p = 0,0006), ako aj fyzickou rolou (rho = –
+0,2807; p = 0,0024). Keďže vyššie skóre týchto škál znamená lepšiu fyzickú výkonnosť a
+menšie obmedzenia v každodenných aktivitách, negatívna korelácia poukazuje na to, že
+pacienti s vyššou medikamentóznou záťažou dosahujú nižšie skóre, teda vykazujú
+výraznejšie fyzické obmedzenia. Slabá negatívna korelácia sa potvrdila aj pri sociálnych
+funkciách (rho = –0,2034; p = 0,0292) a celkovom hodnotení zdravotného stavu (rho = –
+0,1855; p = 0,0472), čo znamená, že s rastúcim počtom liekov mierne klesá aj subjektívne
+vnímanie celkového zdravia a kvalita sociálneho fungovania. V ostatných doménach SF-36
+(celkový zdravotný stav ako škála, emocionálna pohoda, emocionálna rola, energia/únava)
+sa štatisticky významné vzťahy nepotvrdili. Na základe uvedených výsledkov možno
+konštatovať, že hypotéza H6 sa potvrdila čiastočne. Počet užívaných liekov na predpis má
+významný, prevažne negatívny vzťah najmä k fyzickým aspektom kvality života
+63
+
+hodnoteným prostredníctvom KDQOL-SF™, pričom vyššia medikamentózna záťaž je
+spojená s nižším skóre (horšou kvalitou života) v oblasti fyzického fungovania, fyzickej roly,
+spánku, sociálnych funkcií a celkového hodnotenia zdravia. Keďže škály sú vyjadrené v
+rozpätí 0–100 bodov, tieto výsledky naznačujú, že rastúci počet liekov je sprevádzaný
+poklesom bodového hodnotenia v uvedených dimenziách, čo môže odrážať vyššiu
+závažnosť zdravotného stavu pacientov vyžadujúcich rozsiahlejšiu farmakologickú liečbu.
+
+64
+
+4 DISKUSIA
+Výsledky našej práce poskytujú detailný profil zdravotne podmienenej kvality života
+u hemodialyzovaných pacientov v dialyzačnom stredisku na Slovensku, pričom osobitne
+zohľadňujú rómsku komunitu v zložení vzorky.
+Najsilnejším výsledkom je vysoké hodnotenie podpory dialyzačného personálu
+(82,61) a relatívne vysoká sociálna podpora (69,56). Takýto profil je v literatúre spájaný s
+lepším zvládaním chronickej liečby, vyššou adherenciou a nižším stresom, keďže vnímaná
+podpora (rodina, komunita, zdravotníci) funguje ako protektívny faktor voči depresii a
+zhoršeniu kvality života. V praxi môže vysoké skóre podpory personálu odrážať stabilné
+vzťahy, opakovaný kontakt (dialýza je režimová, pravidelná), a potenciálne aj to, že pacienti
+vnímajú personál ako kľúčového „sprievodcu“ v systéme starostlivosti (Mapes et al., 2003;
+Sułkowski et al., 2024).
+Na opačnej strane spektra sú extrémne nízke hodnoty „záťaže spôsobenej ochorením
+obličiek“ (28,42), „kvality sociálnych interakcií“ (29,62) a „kognitívnych funkcií“ (30,49).
+Z pohľadu Wilson–Cleary modelu ide o konzistentný obraz: pretrvávajúce symptómy
+(únava, spánkové poruchy), režim dialýzy a komorbidity môžu znižovať funkčný status a
+spoločenské role, čo následne zhoršuje celkové vnímanie zdravia a „bremeno“ ochorenia
+(Wilson, Cleary, 1995).
+Zvlášť dôležité je upozorniť na kognitívnu doménu: výskum opakovane ukazuje
+vysokú prevalenciu kognitívnych ťažkostí/impairmentu u hemodialyzovaných pacientov a
+ich súvis s nepriaznivými výsledkami (horší self-management, vyššia záťaž, zhoršené
+fungovanie). Nízke priemerné skóre kognitívnych funkcií môže byť signálom potreby
+systematickejšieho skríningu kognitívnych symptómov a ich praktických dôsledkov
+(porozumenie pokynom, medikácia, diéta, dochádzka) (Chan et al., 2024).
+V časti SF-36 je najnižšia „fyzická rola“ (30,00) a nízke je aj sebahodnotenie
+celkového zdravotného stavu (36,00). Tento vzorec zodpovedá aj zisteniam, že práve fyzické
+fungovanie, celkové zdravie a fyzická rola patria medzi domény, ktoré dobre zachytávajú
+záťaž hemodialýzy.
+Hemodialýza totiž zasahuje do času, energie a plánovania dňa; po dialýze býva únava
+a „čas na zotavenie“, čo obmedzuje prácu a bežné povinnosti. Zároveň platí, že psychické
+domény môžu byť v priemerových hodnotách relatívne vyššie, pretože časť pacientov si
+vytvára adaptačné stratégie, reinterpretuje očakávania a posilní coping – no variabilita (SD)
+65
+
+naznačuje, že existujú aj skupiny s výrazne horším psychickým prežívaním (Yarlas et al.,
+2011; Nguyen et al., 2022; Farragher et al., 2024).
+Sexuálne funkcie majú priemer 67,61, no veková kategória vykazuje štatisticky
+významný vplyv. V literatúre je sexuálna dysfunkcia pri CKD/dialýze veľmi častá (u mužov
+aj žien), súvisí s vaskulárnymi a hormonálnymi mechanizmami, únavou, depresiou a
+obrazom tela; vyšší vek býva rizikovým faktorom (Holley, Schmidt, 2010).
+V našom súbore 85,2 % respondentov pravidelne užíva lieky na predpis. Priemerný
+počet liekov bol 7,56 (medián 7; rozsah 2–19), čo je typické pre dialyzačných pacientov s
+multimorbiditou.
+Medzinárodná literatúra uvádza, že polyfarmácia môže znižovať kvalitu života cez
+vedľajšie účinky, liekové interakcie, záťaž režimu a zníženú adherenciu, pričom pacienti
+často vnímajú lieky ambivalentne (ako nevyhnutnosť aj bremeno). Prakticky to podporuje
+potrebu pravidelných prehľadov liekov (depreskripcia, zjednodušenie režimu, edukácia),
+najmä u pacientov s nízkou zdravotnou gramotnosťou a kognitívnymi ťažkosťami
+(Colombjin et al., 2023).
+Takmer 28,7 % respondentov uviedlo, že nevedia príčinu ochorenia obličiek;
+hypertenziu uviedlo 20,0 % a diabetes 19,1 %. Klinicky je diabetes kľúčový aj v národných
+štatistikách
+
+dialýzy;
+
+preto
+
+tento
+
+vzorec
+
+pôsobí
+
+vierohodne
+
+a
+
+kontextualizuje
+
+výsledky. Zároveň vysoký podiel „neviem“ môže indikovať nižšiu zdravotnú gramotnosť
+alebo komunikáciu diagnózy, čo je relevantné najmä pri nízkom vzdelaní a v populáciách so
+systémovými bariérami. V slovenskom dialyzačnom výskume sa práve zdravotná
+gramotnosť ukazuje ako faktor spojený s profilmi kvality života (Skoumalova et al., 2021).
+Hypotéza H1 predpokladala, že vek pacientov vplýva na celkovú kvalitu života.
+V našich výsledkoch sa vplyv vekovej kategórie štatisticky významne prejavil iba v
+niektorých doménach: sexuálne funkcie (p = 0,0005), spánok (p = 0,0048), fyzické
+fungovanie (p = 0,0068) a fyzická rola (p = 0,0068), kým mnoho ďalších domén významné
+rozdiely podľa veku nevykázalo.
+V literatúre je však opakovane popísané, že vyšší vek u hemodialyzovaných
+pacientov súvisí najmä s horším fyzickým fungovaním a funkčným statusom, pričom
+niektoré psychické dimenzie nemusia s vekom klesať lineárne (napr. adaptácia, zmena
+očakávaní). Sekundárna longitudinálna analýza Unruh et al. (2008) na dátach HEMO štúdie
+sledovala zmeny HRQoL v čase u starších vs. mladších dialyzovaných pacientov a ukazuje,
+že vek je zmysluplný determinujúci faktor trajektórií HRQoL. Podobne Loon et al. (2017)
+uvádzajú, že fyzické fungovanie je u starších pacientov nižšie (a zároveň má prognostický
+66
+
+význam), pričom emocionálne zdravie nemusí byť v najvyšších vekových skupinách
+najhoršie.
+Pre spánok existuje robustný dôkaz, že poruchy spánku sú u hemodialyzovaných
+časté a sú spojené so zhoršenou kvalitou života naprieč doménami; Parvan et al. (2013)
+ukazujú negatívne prepojenia kvality spánku s viacerými aspektmi KDQOL vrátane fyzickej
+a psychosociálnej roviny. Mechanisticky sa tu prelína starnutie (krehkosť, multimorbidita,
+vaskulárne zmeny, hormonálne zmeny), dialyzačný režim a psychofyziologická záťaž;
+sexuálne zdravie je navyše citlivé na cievne a endokrinné komplikácie, depresiu a
+symptomatickú záťaž, ktoré narastajú s komorbiditou (čo nemusí byť totožné s vekom).
+Hypotéza H2 predpokladala rozdiely v subjektívnom vnímaní kvality života podľa
+stupňa vzdelania. Výsledky ukazujú, že vzdelanie bolo štatisticky významne asociované
+s kognitívnymi funkciami (p = 0,0199) a so SF-36 doménou emocionálna pohoda (p =
+0,0223), zatiaľ čo väčšina ostatných domén významný rozdiel podľa vzdelania nevykázala.
+V literatúre sa vzdelanie často uvádza ako ukazovateľ socioekonomického statusu,
+kognitívnej rezervy a (najmä) zdravotnej gramotnosti, ktorá je u dialyzovaných pacientov
+kritická pre zvládanie komplexných režimových a liekových odporúčaní. Slovenská
+multicentrická štúdia Skoumalová et al. (2021) priamo ukazuje, že pacienti s nižšou
+zdravotnou gramotnosťou reportujú horšiu kvalitu života v širšom profile domén
+KDQOL-SF, pričom medzi najviac diferencujúcimi doménami uvádzajú aj kognitívne
+funkcie a emocionálnu pohodu.
+Bakker et al. (2024) nachádzajú, že nižšie vzdelanie je spojené s horším skóre
+emocionálnej pohody, čo podporuje naše zistenie, že vzdelanie sa u časti pacientov
+„prelieva“ primárne do mentálno-emocionálneho fungovania. Dôležitým mostom medzi
+vzdelaním a kogníciou je kognitívna výkonnosť: Gesualdo et al. (2017) ukazujú, že roky
+edukácie pozitívne korelujú s objektívne meranou kognitívnou výkonnosťou u
+hemodialyzovaných pacientov, pričom vyšší vek a dlhší čas na hemodialýze idú opačným
+smerom. Intervenčne z toho vyplýva, že pacienti s nižším vzdelaním môžu profitovať z
+cielenej komunikácie (plain-language, teach-back), edukačných materiálov a podpory
+self-managementu, pričom efekt by sa mal hodnotiť práve na kognitívno-emocionálnych a
+adherenčných ukazovateľoch.
+Hypotéza H3 predpokladala štatisticky významné rozdiely v subjektívnom vnímaní
+kvality života podľa národnosti. Vo výsledkoch sa tento predpoklad potvrdil selektívne:
+národnosť bola štatisticky významná pri kognitívnych funkciách (p = 0,0198) a pri SF-36
+
+67
+
+doméne emocionálna pohoda (p = 0,0468), pričom ostatné domény významné rozdiely
+podľa národnosti nevykázali.
+V medzinárodnej dialyzačnej literatúre existuje predpoklad, že etnicita môže súvisieť
+s kvalitou života, pričom významnú rolu zohrávajú sociálne determinanty, prístup k
+starostlivosti a komorbidity: Lopes et al. (2003) v rámci DOPPS skúmali kvalitu života
+naprieč etnickými skupinami u hemodialyzovaných pacientov v USA a ukazujú, že kvalita
+života sa môže líšiť medzi etnickými skupinami a zároveň súvisí aj s „tvrdými“ klinickými
+výsledkami.
+Slovenský kontext je špecifický tým, že pri rómskej populácii je zdokumentované
+horšie sebahodnotenie zdravia a bariéry v prístupe k zdravotným službám; Jarcuska et al.
+(2013) ukazujú, že horšie zdravie u Rómov je čiastočne mediované horším prístupom k
+službám a veľkou vzdelanostnou priepasťou, čo priamo podporuje interpretáciu rozdielov
+práve v kognitívno-emocionálnych doménach. Existuje aj práca priamo zo slovenskej
+dialyzačnej populácie: Kolvek et al. (2018) porovnávali dialyzovaných Rómov a Nerómov
+cez Charlsonov index komorbidity a po adjustácii na vek a pohlavie nenašli rozdiel v
+zdravotnom statuse meranom komorbiditou, čo upozorňuje, že „etnický efekt“ sa môže
+zmenšiť alebo zaniknúť.
+Ďalším relevantným kontextom je vyššia prevalencia niektorých rizikových faktorov
+a obličkových ochorení v znevýhodnených komunitách: Macejova et al. (2020) uvádzajú
+vyššiu diagnózu obličkových ochorení u Rómov v segregovaných osadách a poukazujú na
+rolu
+
+socioekonomických
+
+podmienok,
+
+životného
+
+štýlu
+
+a
+
+bariér
+
+v
+
+prístupe
+
+k
+
+starostlivosti. Mechanizmy, ktoré môžu viesť k rozdielom v kognitívnych a emocionálnych
+doménach, preto pravdepodobne nie sú „biologická národnosť“, ale skôr kombinácia:
+chronický stres, diskriminácia, nestabilita príjmu, obmedzená dostupnosť informácií
+(zdravotná
+
+gramotnosť),
+
+odlišná
+
+skúsenosť
+
+so
+
+systémom
+
+a
+
+rozdiely
+
+v
+
+komorbidite/dialyzačnej trajektórii.
+Hypotéza H4 predpokladala rozdiely v subjektívnom vnímaní kvality života podľa
+pohlavia. Výsledky ale ukazujú, že pohlavie nebolo štatisticky významné v žiadnej
+analyzovanej doméne.
+V literatúre pritom často dominuje opačný obraz: ženy na hemodialýze bývajú
+asociované s nižšou kvalitou života, najmä vo fyzických doménach a v súvislosti s
+depresívnou symptomatikou. Multicentrická štúdia Vázquez et al. (2004) bola motivovaná
+práve tým, že ženy často reportujú nižšiu kvalitu života. Upozorňujú aj na potrebu korekcií
+podľa populačných noriem a na rolu psychosociálnych premenných. Lopes et al. (2010)
+68
+
+ukazujú, že nižšia kvalita života u žien bola vo veľkej miere vysvetlená depresívnymi
+symptómami (pohlavné rozdiely môžu byť sprostredkované psychopatológiou).
+V taiwanskej štúdii Peng et al. (2013) mali ženy po adjustácii nižšie skóre vo
+fyzickom fungovaní, bolesti a niektorých psychických ukazovateľoch, pričom zároveň
+vykazovali lepšie prežívanie, čo naznačuje komplexný vzťah medzi „biologickým
+pohlavím“, psychosociálnym prežívaním a klinickými následkami. Lerma et al. (2021)
+rovnako uvádzajú nižšie subškály kvality života u žien (symptómy, fyzické fungovanie,
+bolesť, celkové zdravie) v dvoch centrách v Mexiku. Zaujímavé je, že aj slovenský článok
+v Lekársky obzor (Ležovič, 2011) uvádza, že porovnanie doménových skóre medzi mužmi
+a ženami nepreukázalo významný rozdiel, čo dáva lokálnu oporu možnosti, že rozdiely
+v pohlaví nie sú univerzálne.
+Hypotéza H5 predpokladala rozdiel v subjektívnom vnímaní kvality života podľa
+miesta bydliska. Naše testovanie však ukazuje, že bydlisko sa neprejavilo naprieč fyzickými,
+psychickými a sociálnymi doménami, ale štatisticky významne sa objavilo iba v doméne
+pracovný status (Work status) (p = 0,0305) v ESRD časti. Miesto bydliska je v dialýze často
+premenná pre dopravnú dostupnosť, časovú záťaž a pracovné príležitosti.
+V DOPPS analýze Moist et al. (2008) dlhší cestovný čas na dialýzu súvisel s horšou
+kvalitou
+
+života,
+
+adherenciou
+
+a
+
+mortalitou;
+
+autori
+
+hovoria
+
+o značnej
+
+záťaži
+
+cestovania. Cestovanie pridáva významnú vrstvu bremena k už tak časovo náročnej liečbe,
+pričom rozdiely medzi metropolitnými a vzdialenejšími oblasťami môžu byť výrazné
+(McDonald et al., 2023). Pracovný status u dialyzovaných pacientov je pritom silne
+ovplyvňovaný organizačnými faktormi a sociálnymi podmienkami: Muehrer et al. (2011)
+analyzujú faktory udržiavania zamestnania pri prechode do ESRD a zdôrazňujú
+viacrozmernosť príčin straty práce (zdravotné limity, logistika, sociálna opora, pracovné
+podmienky).
+Kutner et al. (2008) ukazujú, že aj charakteristiky dialyzačného zariadenia (napr.
+neskoré smeny) sú spojené s vyššími mierami zamestnanosti, čo nepriamo podporuje
+mechanizmus „časový režim – dostupnosť – práca“. Bydlisko teda nemusí meniť vnútornú
+fyzickú či psychickú kvalitu života priamo, ale cez to, či pacient dokáže zosúladiť dialýzu s
+pracovným životom (cestovanie, pracovné ponuky v regióne, flexibilita zamestnávateľa,
+doprava).
+Hypotéza H6 predpokladala, že počet užívaných liekov na predpis vplýva na celkovú
+kvalitu života. Spearmanova korelačná analýza na N=115 ukazuje, že vyšší počet liekov je
+štatisticky významne asociovaný s horšími výsledkami v niekoľkých doménach: spánok
+69
+
+(ESRD) ρ = −0,197 (p = 0,0348), fyzické fungovanie (SF-36) ρ = −0,3138 (p =
+0,0006), fyzická rola (SF-36) ρ = −0,2807 (p = 0,0024), sociálne funkcie (SF-36) ρ =
+−0,2034 (p = 0,0292) a celkové hodnotenie zdravotného stavu (SF-36) ρ = −0,1855 (p =
+0,0472). Zároveň sa však objavila pozitívna asociácia s pacientskou spokojnosťou
+(ESRD) ρ = +0,1868 (p = 0,0456).
+V literatúre sa podobná súvislosť objavuje konzistentne: Colombijn et al. (2021)
+uvádzajú, že aj po adjustácii na komorbiditu a ďalšie konfúzory je vyšší počet liekov
+asociovaný s nižším PCS, MCS a horším sebahodnotením zdravia a s vyšším
+symptomatickým bremenom u dialyzovaných pacientov. Systematický prehľad Oosting et
+al. (2024) sumarizuje, že polyfarmácia je v CKD veľmi častá a je spojená s horšími
+klinickými výsledkami, problémami s liekmi a aj s nižšou kvalitou života; zároveň
+upozorňuje na heterogenitu definícií polyfarmácie a dôležitosť depreskripcie a hodnotenia
+vhodnosti liečby.
+Colombijn et al. (2023) ukazujú, že pacienti síce často vnímajú lieky ako záťaž, ale
+zároveň ich môžu chápať ako nevyhnutnú podmienku zdravia, a u niektorých môže liečba
+dokonca zvyšovať pocit slobody (ak zmierňuje symptómy).
+Dáta naznačujú, že sociodemografické a klinické premenné sa neprejavujú plošne,
+ale selektívne v konkrétnych doménach kvality života: vek najmä v sexuálnych/spánkových
+a fyzických roliach; vzdelanie a národnosť v kognitívno-emocionálnych ukazovateľoch;
+bydlisko primárne v pracovnom statuse; počet liekov v spánku a fyzicko-sociálnych
+doménach, s malým až stredným efektom v SF-36 fyzickom fungovaní.
+Výsledky tejto práce poukazujú na to, že kvalita života pacientov zaradených do
+dialyzačného programu je výraznejšie ovplyvnená fyzickými aspektmi zdravia a záťažou
+spojenou s chronickou liečbou. Naopak, relatívne priaznivo pacienti hodnotia podporu
+dialyzačného personálu a sociálnu podporu. Analýza zároveň ukázala, že sociodemografické
+premenné neovplyvňujú kvalitu života plošne, ale skôr selektívne v jednotlivých doménach.
+Vek sa prejavil najmä vo fyzických a biologických dimenziách, zatiaľ čo vzdelanie a
+národnosť mali význam skôr v kognitívnych a emocionálnych oblastiach. Výsledky tak
+poukazujú na potrebu komplexného prístupu k pacientovi, ktorý okrem medicínskej liečby
+zohľadňuje aj psychosociálne a sociálne determinanty zdravia.
+Z praktického hľadiska tieto výsledky poukazujú na význam multidisciplinárnej
+starostlivosti o dialyzovaných pacientov, ktorá by mala zahŕňať nielen medicínske aspekty
+liečby, ale aj podporu psychického zdravia, edukáciu pacientov a posilňovanie zdravotnej
+gramotnosti.
+70
+
+4.1 Návrhy pre prax
+Na základe výsledkov výskumu zameraného na kvalitu života pacientov zaradených
+do hemodialyzačného programu možno formulovať nasledovné odporúčania pre klinickú
+prax, ktoré sú primárne určené pacientom.
+Odporúčania pre pacientov na hemodialýze
+Pacientom sa odporúča aktívne sa zapájať do starostlivosti o svoje zdravie a
+spolupracovať so zdravotníckym personálom. Na základe zistení, ktoré poukázali na nižšie
+hodnoty kvality života najmä v oblasti záťaže ochorením, sociálnych interakcií a
+kognitívnych funkcií, je vhodné:
+•
+
+pravidelne komunikovať so zdravotníckym personálom o svojom zdravotnom stave,
+ťažkostiach a subjektívnom prežívaní ochorenia,
+
+•
+
+dodržiavať liečebný režim vrátane užívania predpísaných liekov a dochádzania na
+dialyzačné procedúry,
+
+•
+
+aktívne sa zaujímať o svoje ochorenie a zúčastňovať sa edukačných aktivít, ktoré
+môžu zlepšiť orientáciu v liečbe a podporiť samostatnosť pacienta,
+
+•
+
+udržiavať primeranú fyzickú aktivitu podľa svojho zdravotného stavu, čím možno
+podporiť fyzickú kondíciu a zmierniť únavu,
+
+•
+
+venovať pozornosť psychickému zdraviu, v prípade potreby vyhľadať odbornú
+pomoc a otvorene hovoriť o pocitoch úzkosti, depresie alebo sociálnej izolácie,
+
+•
+
+podporovať sociálne kontakty s rodinou a okolím, keďže sociálna podpora sa ukázala
+ako významný faktor ovplyvňujúci kvalitu života,
+
+•
+
+rozvíjať každodenné kognitívne aktivity (napr. čítanie, komunikácia, mentálne
+cvičenia), ktoré môžu prispieť k udržaniu kognitických funkcií.
+
+Odporúčania pre rómsku komunitu na hemodialýze
+Vzhľadom na špecifiká rómskej populácie je potrebné zohľadniť kultúrne a sociálne
+faktory, ktoré môžu ovplyvňovať kvalitu života pacientov.
+Odporúča sa:
+•
+
+prispôsobovať komunikáciu pacientovi s ohľadom na jeho jazykové a kultúrne
+špecifiká,
+
+•
+
+zjednodušiť a prakticky orientovať edukáciu s dôrazom na pochopenie základných
+princípov liečby,
+
+•
+
+zapájať rodinných príslušníkov do procesu starostlivosti, keďže rodina zohráva
+významnú úlohu v živote pacienta,
+
+71
+
+•
+
+budovať dôveru medzi pacientom a zdravotníckym personálom prostredníctvom
+empatického a rešpektujúceho prístupu.
+
+Odporúčania pre sestry
+Aj keď výskum nebol primárne zameraný na sestry, na základe získaných výsledkov
+a ich interpretácie možno formulovať aj odporúčania pre ošetrovateľskú prax.
+Sestry by mali:
+•
+
+aktívne sledovať a hodnotiť kvalitu života pacientov ako súčasť komplexnej
+starostlivosti,
+
+•
+
+podporovať otvorenú komunikáciu a vytvárať bezpečné prostredie pre vyjadrenie
+potrieb pacienta,
+
+•
+
+venovať zvýšenú pozornosť pacientom s vyšším rizikom zníženej kvality života
+(napr. starší pacienti, pacienti s nižším vzdelaním alebo vyšším počtom liekov),
+
+•
+
+realizovať individuálne zameranú edukáciu s dôrazom na zrozumiteľnosť a praktické
+využitie informácií.
+Uvedené odporúčania môžu prispieť k zlepšeniu kvality života pacientov
+
+podstupujúcich hemodialyzačnú liečbu, najmä prostredníctvom podpory ich aktívnej účasti
+na liečbe, posilnenia sociálnej podpory a zohľadnenia individuálnych a kultúrnych potrieb.
+
+72
+
+5 ZÁVER
+Cieľom empirickej časti práce bolo zhodnotiť kvalitu života pacientov zaradených
+do hemodialyzačného programu a identifikovať vybrané faktory, ktoré ju ovplyvňujú, so
+zohľadnením rómskej komunity v skúmanom súbore.
+Metodologické zhodnotenie práce poukazuje na viacero silných stránok. Za zásadnú
+považujeme použitie štandardizovaného, medzinárodne etablovaného nástroja KDQOL-SF
+so zahrnutím generickej SF-36 časti, čo umožnilo komplexne zachytiť fyzické, psychické,
+sociálne aj ochorenie-špecifické aspekty kvality života dialyzovaných pacientov. Ďalšou
+silnou stránkou je transparentný popis základných krokov spracovania dát. Medzi
+limitáciami treba zdôrazniť, že výber súboru bol zámerný a počas zberu sme sa stretli s
+výrazným nezáujmom časti pacientov zapojiť sa, čo zvyšuje riziko výberového skreslenia a
+obmedzuje generalizáciu výsledkov.
+Praktické implikácie pre klinickú prax a dialyzačné centrá vyplývajú najmä z
+identifikovaných „slabých“ domén kvality života. Prioritnou oblasťou intervencií je
+znižovanie subjektívnej záťaže ochorenia obličiek a posilnenie psychosociálneho
+fungovania, a to najmä cez systematickú podporu coping stratégií, pravidelný skríning
+psychických ťažkostí (napr. depresívna symptomatika, úzkosť), dostupnosť psychológa
+alebo školeného personálu pre krátke intervencie a posilnenie sociálnej práce.
+Nízke skóre kognitívnych funkcií poukazuje na potrebu včasného rozpoznania
+kognitívnych
+
+ťažkostí,
+
+zjednodušenia
+
+edukácie
+
+(jasné,
+
+opakované),
+
+podpory
+
+rodiny/opatrovateľov a prispôsobenia režimových odporúčaní reálnym schopnostiam
+pacienta.
+Výrazne nízka fyzická rola a nízky celkový zdravotný stav v SF-36 naznačujú
+potrebu cielenej fyzickej rehabilitácie, edukácie o bezpečnom pohybe, práce s únavou a
+podpory funkčnej kapacity. Spánok a sexuálne zdravie sa ukazujú ako vekovo citlivé a
+klinicky významné oblasti. V doméne pracovného statusu, kde sa prejavil aj vplyv bydliska,
+je vhodné posilniť organizačné a sociálne opatrenia: flexibilita dialyzačných termínov,
+pomoc s dopravou, sociálne poradenstvo (dávky, pracovné možnosti, rehabilitácia), a v
+primeranej miere podpora pracovnej participácie u pacientov v produktívnom veku.
+Výsledky H6 zdôrazňujú význam polyfarmácie (spolupráca lekár–farmaceut), racionalizácia
+liekovej záťaže, sledovanie nežiaducich účinkov a edukácia o správnom užívaní, pretože
+počet liekov súvisel s horším fyzickým fungovaním, sociálnymi funkciami a spánkom.
+73
+
+Odporúčania pre budúci výskum vychádzajú z identifikovaných metodických
+obmedzení a z potrieb praxe. Predovšetkým sa odporúča rozšíriť dizajn na multicentrický
+výskum s väčším počtom dialyzačných stredísk a s kvótovým alebo pravdepodobnostným
+výberom, aby sa zvýšila reprezentatívnosť a znížilo riziko výberového skreslenia.
+Významným posunom by bolo sledovanie v čase, ktorý umožní odlíšiť stabilné determinanty
+od zmien súvisiacich s adaptáciou na dialýzu alebo progresiou komorbidít.
+V oblasti výskumu rómskej komunity sa odporúča eticky citlivé a metodologicky
+štandardizované
+
+zisťovanie
+
+(dobrovoľná
+
+self-identifikácia),
+
+prípadne
+
+kombinácia
+
+kvantitatívneho prístupu s kvalitatívnymi rozhovormi, ktoré by pomohli vysvetliť
+mechanizmy rozdielov v emocionálnej a kognitívnej oblasti
+Záverom možno konštatovať, že práca prináša hodnotný a detailný profil kvality
+života dialyzovaných pacientov zaradených do dialyzačného programu, identifikuje
+konkrétne domény s najväčším bremenom (záťaž ochorenia, kognitívne a sociálne
+fungovanie, fyzické roly, spánok) a poukazuje na význam vybraných faktorov (vek,
+vzdelanie, národnosť, bydlisko a polyfarmácia). Prínosom práce je najmä to, že pre prax
+dialyzačných centier pomenúva jasné prioritné oblasti intervencie a poskytuje východisko
+pre cielenejšie klinické a výskumné kroky smerujúce k zlepšeniu kvality života pacientov
+na hemodialýze.
+
+74
+
+ZOZNAM POUŽITEJ LITERATÚRY
+ABDALLA, M., B., et al. 2025. Barriers to nurse-patient communication from the
+perspective of nurses in hemodialysis departments of hospitals in Sulaymaniyah, Iraq: A
+cross-sectional study. In Journal of Nursing Reports in Clinical Practice [online]. 2025, vol.
+3,
+
+no.
+
+6
+
+[cit.
+
+2026-01-05].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.jnursrcp.com/article_222604.html. ISSN 2980-9711.
+AHDOOT, R., et al. 2022. Novel approach to unpleasant symptom clusters surrounding
+pruritus in patients with chronic kidney disease and on dialysis therapy. In Current Opinion
+in Nephrology and Hypertension [online]. 2022, vol. 31, no. 1 [cit. 2025-11-13]. Dostupné
+na
+
+internete:
+
+https://journals.lww.com/co-
+
+nephrolhypertens/fulltext/2022/01000/novel_approach_to_unpleasant_symptom_clusters.9
+.aspx. ISSN 1473-6543.
+ALATAWI, A., A., ALAAMRI, M., ALMUTARY, H. 2024. Social Support and Adherence
+to Treatment Regimens among Patients Undergoing Hemodialysis. In Healthcare [online].
+2024,
+
+vol.
+
+12,
+
+no.
+
+19
+
+[cit.
+
+2025-11-10].
+
+Dostupné
+
+na
+
+internete:
+
+https://pubmed.ncbi.nlm.nih.gov/39408138/. ISSN 2227-9032.
+ALDABBOUR, B., et al. 2025. Quality of life and access to healthcare among hemodialysis
+patients during wartime: cross-sectional insights from Gaza. In BMC Nephrology [online].
+2025,
+
+vol.
+
+26,
+
+no.
+
+367
+
+[cit.
+
+2025-09-13].
+
+Dostupné
+
+na
+
+internete:
+
+https://link.springer.com/article/10.1186/s12882-025-04322w#:~:text=patients%20reside%20,frequent%20hospitalizations%2C%20and%20social%20
+limitations. ISSN 1471-2369.
+ALIZADEH, T., et al. 2024. Nurses' knowledge and related factors towards hemodialysis
+patients' nutrition: A systematic review. In Journal of Nursing Reports in Clinical Practice
+[online].
+
+2024,
+
+vol.
+
+2,
+
+no.
+
+1
+
+[cit.
+
+2025-08-12].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.jnursrcp.com/article_196016.html. ISSN 2980-9711.
+ALMUTARY, H., BONNER, A., DOUGLAS, C. 2016. Which patients with chronic kidney
+disease have the greatest symptom burden? A comparative stody of advanced CKD stage
+and dialysis modality. In Journal of Renal Care [online]. 2016, vol. 42, no. 2 [cit. 2025-0713]. Dostupné na internete: https://onlinelibrary.wiley.com/doi/10.1111/jorc.12152. ISSN
+1755-6686.
+
+75
+
+ALSHAMMARI, B., et al. 2019. An exploration of symptom burden and its management,
+in Saudi Arabian patients receiving haemodialysis, and their caregivers: a mixed methods
+study protocol. In BMC Nephrology [online]. 2019, vol. 20, no. 250 [cit. 2025-07-13].
+Dostupné na internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC6617670/. ISSN 14712369.
+AROOJ, H., et al. 2025. The impact of nurse-led care in chronic kidney disease management:
+a systematic review and meta-analysis. In BMC Nursing [online]. 2025, vol. 24, no. 188 [cit.
+2025-07-13]. Dostupné na internete: https://link.springer.com/article/10.1186/s12912-02502829-z. ISSN 1472-6955.
+BAKKER, W., M., et al. 2024. Educational level and gender are associated with emotional
+well-being in a cohort of Dutch dialysis patients. In BMC Nephrology [online]. 2024, vol.
+25,
+
+no.
+
+179
+
+[cit.
+
+2026-02-25].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11112868/. ISSN 1471-2369.
+BARELLO, S., et al. 2022. The effect of psychosocial interventions on depression, anxiety,
+and quality of life in hemodialysis patients: a systematic review and a meta-analysis. In
+International urology and nephrology [online]. 2022, vol. 55, no. 4 [cit. 2025-10-15].
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10030538/#:~:text=Hemodialysis%20has%20be
+come%20a%20standard,depression%20in%20adults%20with%20HDs. ISSN 1573-2584.
+BAZRAFSHAN, D., F., DARVIZEH, Z., BANIJAMALI, S., S. 2023. The relationship
+between hemodialysis patients’ treatment adherence, procrastination, and difficulty in
+emotion regulation: A cross-sectional study in southeast Iran. In Frontiers [online]. 2023,
+vol.
+
+13
+
+[cit.
+
+2025-06-15].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1041912/full.
+ISSN 2380-8144.
+BELLO, R., A., et al. 2024. Better health-related quality of life is associated with prolonged
+survival and reduced hospitalization risk among dialysis-dependent chronic kidney disease
+patients: a historical cohort study. In BMC Nephrology [online]. 2024, vol. 25, no. 388 [cit.
+2025-06-15]. Dostupné na internete: https://link.springer.com/article/10.1186/s12882-02403835-0#article-info. ISSN 1471-2369.
+BUENO, M., A. 2022. Intercultural Mediation for the Roma Communities: The Belgian
+Healthcare Case. In Treballs de la Societat Catalana de Geografia [online]. 2022, vol. 94
+[cit.
+
+2025-06-15].
+
+Dostupné
+
+na
+
+internete:
+
+https://publicacions.iec.cat/repository/pdf/00000329/00000029.pdf. ISSN 2014-0037.
+76
+
+CAMEDDA, C., et al. 2023. The Therapeutic Nurse–Patient Relationship in Hemodialysis:
+A Pilot Mixed-Method Study on the Perceived Quality of Nurses’ Attitudes and Caring
+Behaviors. In Nursing Reports [online]. 2023, vol. 13, no. 3 [cit. 2025-11-09]. Dostupné na
+internete: https://www.mdpi.com/2039-4403/13/3/87?medium=article. ISSN 2039-4403.
+CEVHER, K., Ş., et al. 2024. The impact of “nurse-led education” vs. “nurse-led education
+plus peer support” on patients' decision for peritoneal dialysis treatment in chronic kidney
+disease patients. In Therapeutic Apheresis and Dialysis [online]. 2024 [cit. 2025-11-09].
+Dostupné na internete: https://onlinelibrary.wiley.com/doi/full/10.1111/1744-9987.14248.
+ISSN 1744-9987.
+CINTULOVÁ, L., L., BYDAYOVÁ, Z., JUHASOVÁ, I. 2023. Health of Roma People
+living in marginalized Communities in Slovakia. In Clinical Social Work and Health
+Intervention [online]. 2023, vol. 14, no. 1 [cit. 2025-11-15]. Dostupné na internete:
+https://clinicalsocialwork.eu/wp-content/uploads/2023/04/cswhi_01_2023_cintulova.pdf.
+ISSN 2076-9741.
+COLOMBIJN, M., T., J. et al. 2021. Impact of Polypharmacy on Health-Related Quality of
+Life in Dialysis Patients. In American Journal of Nephrology [online]. 2021, vol. 52, no. 9
+[cit. 2026-02-25]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/34518456/. ISSN
+1421-9670.
+COLOMBIJN, M., T., J., et al. 2023. Polypharmacy and Quality of Life Among Dialysis
+Patients: A Qualitative Study. In Kidney Medicine [online]. 2023, vol. 6, no. 1 [cit. 2026-0222]. Dostupné na internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC10777060/. ISSN
+2590-0595.
+COSOREANU, A., et al. 2024. Progression of Chronic Kidney Disease to Dialysis in the
+Roma Population With Type 2 Diabetes Mellitus in Comparison With Caucasian Patients. In
+Cureus Journal od Medical Science [online]. 2024, vol. 16, no. 6 [cit. 2025-11-09]. Dostupné
+na
+
+internete:
+
+https://www.cureus.com/articles/262377-progression-of-chronic-kidney-
+
+disease-to-dialysis-in-the-roma-population-with-type-2-diabetes-mellitus-in-comparisonwith-caucasian-patients#!/. ISSN 2168-8184.
+DANKOVÁ, S. 2023. Kvalita života u dialyzovaných pacientov. In Florence [online]. 2023,
+roč.
+
+14,
+
+č.
+
+5
+
+[cit.
+
+2025-11-05].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.florence.cz/casopis/archiv-florence/2023/5/kvalita-zivota-u-dialyzovanychpacientov/#:~:text=Kvalita%20%C5%BEivota%20u%C2%A0dialyzovan%C3%BDch%20
+pacientov. ISSN 2570-4915.
+
+77
+
+DEBNATH, S., et al. 2021. Fatigue characteristics on dialysis and non-dialysis days in
+patients with chronic kidney failure on maintenance hemodialysis. In BMC Nephrology
+[online].
+
+2021,
+
+vol.
+
+22,
+
+no.
+
+112
+
+[cit.
+
+2025-06-15].
+
+Dostupné
+
+na
+
+internete:
+
+https://link.springer.com/article/10.1186/s12882-021-023140#:~:text=association%20of%20depression%20with%20fatigue,dialysis%20days.
+
+ISSN
+
+1471-2369.
+DELMAS, P., et al. 2018. Effects on nurses’ quality of working life and on patients’ quality
+of life of an educational intervention to strengthen humanistic practice among hemodialysis
+nurses in Switzerland: a protocol for a mixed-methods cluster randomized controlled trial.
+In BMC Nursing [online]. 2018, vol. 17, no. 47 [cit. 2025-06-28]. Dostupné na internete:
+https://link.springer.com/article/10.1186/s12912-018-0320-0. ISSN 1472-6955.
+DOAN, V., SHOKER, A., ABDELRASOUL, A. 2024. Quality of Life of Dialysis Patients:
+Exploring the Influence of Membrane Hemocompatibility and Dialysis Practices on
+Psychosocial and Physical Symptoms. In Journal of Composites Science [online]. 2024, vol.
+8, no. 5 [cit. 2025-11-05]. Dostupné na internete: https://www.mdpi.com/2504477X/8/5/172#:~:text=,how%20other%20biomarkers%2C%20such%20as.
+
+ISSN
+
+2504-
+
+477X.
+EBRAHIMI, H., SADEGHI, M., AMANPOUR, F., DADGARI, A. 2016. Influence of
+Nutritional Education on Hemodialysis Patients′ Knowledge and Quality of Life. In Saudi
+Journal of Kidney Disease and Transplantation [online]. 2016, vol. 27, no. 2 [cit. 2025-1013].
+
+Dostupné
+
+na
+
+internete:
+
+https://journals.lww.com/sjkd/fulltext/2016/27020/influence_of_nutritional_education_on_
+hemodialysis.5.aspx. ISSN 2320-3838.
+EGAN, R., WOOD, S., MACLEOD, R., WALKER, R. 2015. Spirituality in Renal
+Supportive Care: A Thematic Review. In Healthcare [online]. 2015, vol. 3, no. 4 [cit. 202509-05]. Dostupné na internete: https://www.mdpi.com/2227-9032/3/4/1174. ISSN 22279032.
+FAN, Y., et al. 2025. Heterogeneity of benefit finding in maintenance hemodialysis patients:
+a decision tree-based subgroup analysis of self-efficacy and social support. In Frontiers
+[online].
+
+2025,
+
+vol.
+
+16
+
+[cit.
+
+2025-11-05].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1665458/full.
+ISSN 2380-8144.
+FARRAGHER, J., et al. 2024. Occupational Priorities of People on Hemodialysis Who
+Participated in Energy Management Education. In Canadian journal of occupational therapy
+78
+
+[online].
+
+2024,
+
+vol.
+
+92,
+
+no.
+
+2
+
+[cit.
+
+2026-02-22].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12117131/. ISSN 1911-9828.
+FENG, X., et al. 2024. The impact of intradialytic elastic band exercise on physical and
+cognitive abilities in patients on maintenance hemodialysis: a randomized controlled trial.
+In Renal Failure [online]. 2025, vol. 47, no. 1 [cit. 2025-07-18]. Dostupné na internete:
+https://www.tandfonline.com/doi/full/10.1080/0886022X.2025.2482124#abstract.
+
+ISSN
+
+1525-6049.
+FERNANDES, T., S., DSILVA, F. 2024. Impact of Dietary Counseling on Nutritional
+requirements and Mitigating Noncompliance behavior in Hemodialysis Patients: A Pilot
+Study. In Journal of Health and Allied Science [online]. 2024, vol. 15, no. 2 [cit. 2025-1105]. Dostupné na internete: https://jhas-nu.in/impact-of-dietary-counseling-on-nutritionalrequirements-and-mitigating-noncompliance-behavior-in-hemodialysis-patients-a-pilotstudy/. ISSN 2582-4287.
+FERNANDES, C., et al. 2025. Management technology for effective communication in
+hemodialysis clinics. In Scholarly Journal [online]. 2025, vol. 38 [cit. 2026-01-05].
+Dostupné
+
+na
+
+internete:
+
+https://www.proquest.com/docview/3229503426?pq-
+
+origsite=summon&sourcetype=Scholarly%20Journals. ISSN 1982-0194.
+FRANCIS, G. 2013. Developing the Cultural Competence of Health Professionals Working
+with Gypsy Travellers. In Journal of Psychological Issues in Organizational Culture
+[online].
+
+2013,
+
+vol.
+
+3,
+
+no.
+
+1
+
+[cit.
+
+2025-10-15].
+
+Dostupné
+
+na
+
+internete:
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/jpoc.21074. ISSN 2041-8426.
+GADALEAN, F., et al. 2016. The Survival of Roma Minority Patients on Chronic
+Hemodialysis Therapy - A Romanian Multicenter Survey. In PLOS [online]. 2016, vol. 11,
+no.
+
+5
+
+[cit.
+
+2025-10-10].
+
+Dostupné
+
+na
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155271.
+
+internete:
+ISSN
+
+1932-
+
+6203.
+GBD CHRONIC KIDNEY DISEASE COLLABORATION. 2020. Global, regional, and
+national burden of chronic kidney disease, 1990–2017: a systematic analysis for the Global
+Burden of Disease Study 2017. In The Lancet. 2020, vol. 395, no. 10225 [cit. 2025-08-10].
+Dostupné
+
+na
+
+internete:
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-
+
+6736(20)30045-3/fulltext. ISSN 0140-6736.
+GESUALDO, D., G., et al. 2017. Cognitive impairment of patients with chronic renal
+disease on hemodialysis and its relationship with sociodemographic and clinical
+characteristics. In Dementia & neuropsychologia [online]. 2017, vol. 11, no. 3 [cit. 2026-0279
+
+26]. Dostupné na internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC5674665/. ISSN
+2764-4863.
+HANSPAL, I., FATHIMA, N., F., KEDLAYA, G., P. 2021 Social Impact of End-Stage Renal
+Disease Requiring Hemodialysis among Patients with Type-2 Diabetes and Their Caregivers
+in Bengaluru, Karnataka. In Indian Journal of Community Medicine [online]. 2021, vol. 46,
+no.
+
+4
+
+[cit.
+
+2025-11-10].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8729273/#:~:text=We%20found%20that%20par
+ticipants%20who,more%20likely%20to%20have%20negative. ISSN 1998-3581.
+HASSAN, F., DOĞAN, N. 2025. Evaluation of body image perception, pain, fatigue and
+anxiety levels of individuals on hemodialysis and waiting for kidney transplantation and
+individuals with kidney transplantation. In Actas Urológicas Españolas (English Edition)
+[online].
+
+2025,
+
+vol.
+
+49,
+
+no.
+
+2
+
+[cit.
+
+2025-12-10].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.sciencedirect.com/science/article/abs/pii/S2173578625000290?via%3Dihub.
+ISSN 2173-5786.
+HAYS, D., R., et al. 1994. Development of the Kidney Disease Quality of Life (KDQOLTM)
+Instrument. In Quality of Life Research [online]. 1994, vol. 3 [cit. 2025-12-10]. Dostupné na
+internete: https://link.springer.com/article/10.1007/BF00451725. ISSN 1573-2649.
+HOLLEY, L., J., SCHMIDT, J., R. 2010. Sexual Dysfunction in CKD. In American Journal
+of Kidney Diseases [online]. 2010, vol. 56, no. 4 [cit. 2025-12-10]. Dostupné na internete:
+https://www.ajkd.org/article/S0272-6386%2810%2901082-6/fulltext. ISSN 1523-6838.
+HSU, CH., et al. 2020. A comparison of quality of life between patients treated with different
+dialysis modalities in Taiwan. In PLOS [online]. 2020, vol. 15, no. 1 [cit. 2025-10-10].
+Dostupné
+
+na
+
+internete:
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227297.
+
+ISSN
+
+1932-
+
+6203.
+CHAN, F., H., F., et al. 2024. Screening for cognitive symptoms in dialysis patients with an
+extended version of Kidney Disease Quality of Life Cognitive Function subscale (KDQOLCF): a validation study. In BMC Nephrology [online]. 2024, vol. 25, no. 434 [cit. 2026-0215]. Dostupné na internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC11606010/. ISSN
+1471-2369.
+JARCUSKA, P., et al. 2013. Are barriers in accessing health services in the Roma population
+associated with worse health status among Roma? In International Journal of Public Health
+[online].
+
+2013,
+
+vol.
+
+58,
+
+no.
+
+3
+
+[cit.
+
+2025-10-15].
+
+https://pubmed.ncbi.nlm.nih.gov/23546390/. ISSN 1661-8564.
+80
+
+Dostupné
+
+na
+
+internete:
+
+JARUPALA, N., G., et al. 2023. Effect of a dietary education intervention on biochemical
+markers in hemodialysis patients with chronic kidney disease: a study in Udupi and
+Mangalore regions of Karnataka, India. Nutrition Education for haemodialysis patients. In
+Progress in Nutrition [online]. 2023, vol. 25, no. 4 [cit. 2025-10-15]. Dostupné na internete:
+https://www.mattioli1885journals.com/index.php/progressinnutrition/article/view/13198.
+ISSN 1129-8723.
+KIDNEY DISEASE: IMPROVING GLOBAL OUTCOMES (KDIGO) CKD WORK
+GROUP. 2013. KDIGO 2012 clinical practice guideline for the evaluation and management
+of chronic kidney disease. In Kidney International Supplements [online]. 2013, vol. 3, no. 1
+[cit.
+
+2025-10-24].
+
+Dostupné
+
+na
+
+internete:
+
+https://kdigo.org/wp-
+
+content/uploads/2017/02/KDIGO_2012_CKD_GL.pdf. ISSN 2157-1716.
+KIDNEY DISEASE: A GLOBAL HEALTH PRIORITY. 2024. In Nature Reviews
+Nephrology [online]. 2024, vol. 20, no. 7 [cit. 2025-12-10]. Dostupné na internete:
+https://www.nature.com/articles/s41581-024-00829-x. ISSN 1759-5061.
+KIDNEY
+
+DISEASE:
+
+IMPROVING
+
+GLOBAL
+
+OUTCOMES
+
+(KDIGO).
+
+2024.
+
+CKD evaluation and management. In KDIGO Guidelines [online]. 2024 [cit. 2024-12-09].
+Dostupné na internete: https://kdigo.org/guidelines/ckd-evaluation-and-management/.
+KIDNEY DISEASE: IMPROVING GLOBAL OUTCOMES (KDIGO). 2026. KDIGO
+Announces Publication of Anemia in CKD Guideline. In KDIGO News & Press [online].
+2026
+
+[cit.
+
+2026-01-10].
+
+Dostupné
+
+na
+
+internete:
+
+https://myemail.constantcontact.com/KDIGO-Announces-Publication-of-Anemia-in-CKDGuideline.html?soid=1134196072483&aid=jfy0MQHj7f4.
+KOLVEK, G., et al. 2018. Health Differences between Roma and Non-Roma in the Slovak
+Dialyzed Population. In International Journal of Environmental Research and Public Health
+[online].
+
+2018,
+
+vol.
+
+15,
+
+no.
+
+2
+
+[cit.
+
+2025-05-14].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.mdpi.com/16604601/15/2/360#:~:text=Background%3A%20Roma%20health%20has%20not,was%20exp
+ressed%20as%20the%20CCI. ISSN 1660-4601.
+KOVALCIKOVA, N., ZAKOVA, J. 2018. Social support as the role of social worker in work
+with dialysed clients. In SHS Web of Conferences [online]. 2018, vol. 40, no. 03002 [cit.
+2025-05-13].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.shs-
+
+conferences.org/articles/shsconf/abs/2018/01/shsconf_shw2018_03002/shsconf_shw2018_
+03002.html. ISSN 2261-2424.
+
+81
+
+KOVESDY, P., C. 2022. Epidemiology of chronic kidney disease: an update 2022. In Kidney
+International Supplements [online]. 2022, vol. 12, no. 1 [cit. 2025-05-14]. Dostupné na
+internete: https://www.kisupplements.org/article/S2157-1716(21)00066-6/fulltext. ISSN
+2157-1716.
+KUTNER, N., BOWLES, T., ZHANG, R., HUANG, Y., PASTAN, S. 2008. Dialysis Facility
+Characteristics and Variation in Employment Rates: A National Study. In Clinical Journal
+of the American Society of Nephrology [online]. 2008, vol. 3, no. 1 [cit. 2026-02-24].
+Dostupné na internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC2390987/. ISSN 1555905X.
+LALO, R., KAMBERI, F., STASA, E., LALO, K. 2025. Burden of hemodialysis on healthrelated quality of life: insights from a multi-center cross-sectional analysis in Southern
+Albania. In Frontiers [online]. 2025, vol. 12 [cit. 2025-08-20]. Dostupné na internete:
+https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1557063/full.
+ISSN 2380-8144.
+LATUS, J., et al. 2025. CKD-associated pruritus in haemodialysis: a road map for diagnosis
+and treatment. In Clinical Kidney Journal [online]. 2025, vol. 18, no. 5 [cit. 2025-06-21].
+Dostupné na internete: https://academic.oup.com/ckj/article/18/5/sfaf096/8119397. ISSN
+2048-8513.
+LERMA, C., et al. 2021. Gender-Specific Differences in Self-Care, Treatment-Related
+Symptoms, and Quality of Life in Hemodialysis Patients. In International Journal of
+Environmental Research and Public Health [online]. 2021, vol. 18, no. 24 [cit. 2026-02-21].
+Dostupné na internete: https://www.mdpi.com/1660-4601/18/24/13022. ISSN 1660-4601.
+LEŽOVIČ, M. 2011. Kvalita života dialyzovaných pacientov. In Lekársky obzor [online].
+2011,
+
+roč.
+
+60,
+
+č.
+
+2
+
+[cit.
+
+2026-02-23].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.lekarskyobzor.sk/lekarsky-obzor-2011/126-lekarsky-obzor-22011/556-kvalitazivota-dialyzovanych-pacientov. ISSN 0457-4214.
+LEŽOVIČ, M., MUCSKA, M., HOLOŠOVÁ, Z. 2013. Kvalita života pacientov vo
+vybraných dialyzačných centrách na Slovensku. In Česká urologie [online]. 2013, roč. 17,
+č. 4 [cit. 2025-10-21]. Dostupné na internete: https://www.czechurol.cz/artkey/cur-2013040006_Kvalita_zivota_pacientov_vo_vybran_yacute_ch_dialyzacn_yacute_ch_centr_aacute
+_ch_na_Slovensku.php. ISSN 2336-5692.
+LIYANAGE, T., et al. 2015. Worldwide access to treatment for end-stage kidney disease: a
+systematic review. In The Lancet [online]. 2015, vol. 385, no. 9981 [cit. 2025-02-20].
+
+82
+
+Dostupné
+
+na
+
+internete:
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-
+
+6736(14)61601-9/abstract. ISSN 0140-6736.
+LOON, I., N., et al. 2017. Quality of life as indicator of poor outcome in hemodialysis:
+relation with mortality in different age groups. In BMC Nephrology [online]. 2017, vol. 18,
+no.
+
+217
+
+[cit.
+
+2026-02-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://link.springer.com/article/10.1186/s12882-017-0621-7. ISSN 1471-2369.
+LOPES, A., A., et al. 2003. Health-related quality of life and associated outcomes among
+hemodialysis patients of different ethnicities in the United States: the Dialysis Outcomes and
+Practice Patterns Study (DOPPS). In American journal of kidney diseases : the official
+journal of the National Kidney Foundation [online]. 2003, vol. 41, no. 3 [cit. 2026-02-20].
+Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/12612984/. ISSN 1523-6838.
+LOPES, B., G., et al. 2010. Depression as a potential explanation for gender differences in
+health-related quality of life among patients on maintenance hemodialysis. In Nephron.
+Clinical practice [online]. 2010, vol. 115, no. 1 [cit. 2026-02-20]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/20173348/. ISSN 1660-2110.
+MACEJOVA, Z., et al. 2020. The Roma Population Living in Segregated Settlements in
+Eastern Slovakia Has a Higher Prevalence of Metabolic Syndrome, Kidney Disease, Viral
+Hepatitis B and E, and Some Parasitic Diseases Compared to the Majority Population. In
+International Journal of Environmental Research and Public Health [online]. 2020, vol. 17,
+no.
+
+9
+
+[cit.
+
+2025-09-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7246595/. ISSN 1660-4601.
+MALHOTRA, K., et al. 2026. Association of Chronic Kidney Disease–Associated Pruritus
+With the Sleep Disturbance, Depression, Pain, Anxiety, and Low Energy/Fatigue Symptom
+Cluster: A Retrospective Cohort Study. In Kidney Medicine [online]. 2026, vol. 8, no. 1 [cit.
+2026-01-30]. Dostupné na internete: https://www.kidneymedicinejournal.org/article/S25900595(25)00198-0/fulltext. ISSN 2590-0595.
+MANANI, M., S., et al. 2024. Ongoing Peritoneal Dialysis Training at Home Allows for the
+Improvement of Patients’ Empowerment: A Single Center Experience. In Journal of Clinical
+Medicine [online]. 2024, vol. 13, no. 2 [cit. 2025-10-07]. Dostupné na internete:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10816326/#:~:text=Introduction%3A%20Perito
+neal%20dialysis%20,1%20January%202019%20and%201. ISSN 2077-0383.
+MAPES, L., D., et al. 2003. Health-related quality of life as a predictor of mortality and
+hospitalization: The Dialysis Outcomes and Practice Patterns Study (DOPPS). In Kidney
+International [online]. 2003, vol. 64, no. 1 [cit. 2026-02-10]. Dostupné na internete:
+83
+
+https://www.kidney-international.org/article/S0085-2538%2815%2949324-X/fulltext.
+ISSN 1523-1755.
+MCDONALD, P., S., et al. 2023. The Burden of Travel-Time and Distance Traveled for
+Hemodialysis Patients in Australian Major City Areas. In Kidney International Reports
+[online].
+
+2023,
+
+vol.
+
+8,
+
+no.
+
+5
+
+[cit.
+
+2026-02-22].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10166733/. ISSN 2468-0249.
+MINATO, S., et al. 2020. Factors Associated with Uremic Pruritus in Patients Undergoing
+Peritoneal Dialysis. In International Journal of Nephrology and Renovascular Disease
+[online].
+
+2020,
+
+vol.
+
+13,
+
+no.
+
+1-9
+
+[cit.
+
+2025-10-10].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6969704/. ISSN 1178-7058.
+MOIST, L., et al. 2008. Travel time to dialysis as a predictor of health-related quality of life,
+adherence, and mortality: the Dialysis Outcomes and Practice Patterns Study (DOPPS). In
+American Journal of Kidney Disease: the official journal of the National Kidney Foundation
+[online].
+
+2008,
+
+vol.
+
+51,
+
+no.
+
+4
+
+[cit.
+
+2026-02-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://pubmed.ncbi.nlm.nih.gov/18371540/. ISSN 1523-6838.
+MRABET, S., ATTIA, S., CHAIEB, R. 2025. Pain assessment, management and impact
+among Hemodialysis patients: a study from Tunisia. In BMC Nursing [online]. 2025, vol.
+24,
+
+no.
+
+581
+
+[cit.
+
+2025-10-07].
+
+Dostupné
+
+na
+
+internete:
+
+https://link.springer.com/article/10.1186/s12912-025-031309#:~:text=Among%20the%20100%20patients%20in,of%20them. ISSN 1472-6955.
+MUEHRER, J., R., et al. 2011. Factors Affecting Employment at Initiation of Dialysis. In
+Clinical Journal of the American Society of Nephrology [online]. 2011, vol. 6, no. 3 [cit.
+2026-02-27]. Dostupné na internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC3082405/.
+ISSN 1555-905X.
+MULDER, A., LENY, K., S. 2016. Spirituality During Hemodialysis: A Pilot Study. In
+Nephrology Nursing Journal [online]. 2016, vol. 43, no. 4 [cit. 2025-10-07]. Dostupné na
+internete:
+
+https://www.proquest.com/docview/1812897157?pq-
+
+origsite=summon&sourcetype=Scholarly%20Journals. ISSN 2163-5390.
+NAGASAWA, H., et al. 2018. The Relationship Between Dialysis Patients' Quality of Life
+and Caregivers' Quality of Life. In Frontiers in Pharmacology [online]. 2018, vol. 9, no. 770
+[cit.
+
+2025-10-07].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6054989/. ISSN 1663-9812.
+NACHTMANNOVÁ, K. 2021. Cévní přístupy pro hemodialýzu. In Florence [online]. 2021,
+č. 3 [cit. 2025-05-07]. Dostupné na internete: https://www.florence.cz/casopis/archiv84
+
+florence/2021/3/cevni-pristupy-prohemodialyzu/#:~:text=Komplikace%20arterioven%C3%B3zn%C3%ADch%20zkrat%C5
+%AF. ISSN 2570-4915.
+NAKAMURA-TAIRA, N., et al. 2021. Quasi-cluster randomized trial of a six-month lowintensity group-based resistance exercise for hemodialysis patients on depression and
+cognitive function: a 12-month follow-up. In Health Psychology and Behavioral Medicine
+[online].
+
+2021,
+
+vol.
+
+9,
+
+no.
+
+1
+
+[cit.
+
+2025-10-20].
+
+Dostupné
+
+na
+
+https://www.tandfonline.com/doi/full/10.1080/21642850.2021.1966302#abstract.
+
+internete:
+ISSN
+
+2164-2850.
+NÁRODNÉ CENTRUM ZDRAVOTNÍCKYCH INFORMÁCIÍ. 2025. Dialýzu potrebuje
+čoraz viac seniorov, najčastejším dôvodom je cukrovka. In NCZI [online]. 2025 [cit. 202601-03]. Dostupné na internete: https://www.nczisk.sk/Aktuality/Pages/Dialyzu-potrebujecoraz-viac-seniorov-najcastejsim-dovodom-je-cukrovka.aspx.
+NIMAH, L., NURSALAM, N., WAHYUDI, S., A., MARIYANTI, H. 2024 Quality of Life
+of Family Caregivers of Patients Undergoing Dialysis: A Literature Review. In SAGE Open
+Nurse
+
+[online].
+
+2024,
+
+vol.
+
+10
+
+[cit.
+
+2025-10-07].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10976490/. ISSN 2158-2440.
+NGUYEN, N., T., T., et al. 2022. Self-care self-efficacy and depression associated with
+quality of life among patients undergoing hemodialysis in Vietnam. In PLoS One [online].
+2022,
+
+vol.
+
+17,
+
+no.
+
+6
+
+[cit.
+
+2026-02-26].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9202875/. ISSN 1932-6203.
+OOSTING, J., I., et al. 2024. Polypharmacy in Patients with CKD. In Kidney 360 [online].
+2024,
+
+vol.
+
+5,
+
+no.
+
+6
+
+[cit.
+
+2026-02-26].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11219116/. ISSN 2641-7650.
+PALLESCHI, G., ROSSI, V. 2024. Quality of Life in Patients Undergoing Peritoneal
+Dialysis. In Peritoneal Dialysis in the Modern Era [online]. London: IntechOpen, 2024.
+180p.
+
+[cit.
+
+2024-12-11].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.intechopen.com/chapters/1201044. ISBN 978-1836340959.
+PARVAN, K., IAKDIZAJI, S., ROSHANGAR, F., MOSTOFI, M. 2013. Quality of Sleep
+and its Relationship to Quality of Life in Hemodialysis Patients. In Journal of Caring
+Science [online]. 2013, vol. 2, no. 4 [cit. 2026-02-21]. Dostupné na internete:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4134147/. ISSN 2251-9920.
+PENG, Y., S., et al. 2013. Women on hemodialysis have lower self-reported health-related
+quality of life scores but better survival than men. In Journal of Nephrology [online]. 2013,
+85
+
+vol.
+
+26,
+
+no.
+
+2
+
+[cit.
+
+2026-02-24].
+
+Dostupné
+
+na
+
+internete:
+
+https://pubmed.ncbi.nlm.nih.gov/22641579/. ISSN 1724-6059.
+POORESMAEIL, M., IRANPOUR, S., AGHAMOHAMMADI, M. 2023. Effects of a
+nurse-led structured home visiting program on quality of life and adherence to treatment in
+hemodialysis patients. In Frontiers [online]. 2023, vol.11 [cit. 2025-12-09]. Dostupné na
+internete:
+
+https://www.frontiersin.org/journals/public-
+
+health/articles/10.3389/fpubh.2023.1013019/full. ISSN 2380-8144.
+POPPER, M., SZEGHY, P., ŠARKOZY, Š. 2009. Rómska populácia a zdravie: Analýza
+situácie na Slovensku. [online]. Bratislava: PDCS, 2009. 85s. [cit. 2025-12-09]. Dostupné
+na internete: https://www.gitanos.org/upload/13/60/Eslovaquia-corrected.pdf. ISBN 97884-692-5485-1.
+RYDELL, H., et al. 2025. Quality of life trajectories for different dialysis modalities—a
+nationwide study. In Clinical Kidney Journal [online]. 2025, vol. 18, no. 2 [cit. 2025-10-19].
+Dostupné na internete: https://academic.oup.com/ckj/article/18/2/sfae420/7929882. ISSN
+2048-8513.
+SHAHDADIAN, F., et al. 2025. Association of dietary minerals and phosphorus to protein
+ratio with quality of life in Iranian Hemodialysis patients: a cross-sectional study. In
+Scientific reports [online]. 2025, vol. 15, no. 22010 [cit. 2025-12-09]. Dostupné na internete:
+https://www.nature.com/articles/s41598-025-056372?error=cookies_not_supported&code=649cd559-e5b6-4d4e-bebcd951f55f0450#:~:text=social%20interactions%2C%20which%20may%20contribute,accep
+table%20food%20options7%20%2C%2037%2C15. ISSN 2045-2322.
+SHARAF EL DIN, A., A., U., SALEM, M., M., ABDULAZIM, O., D. 2016. Vascular
+calcification: When should we interfere in chronic kidney disease patients and how? In World
+Journal of Nephrology [online]. 2016, vol. 5, no. 5 [cit. 2025-09-09]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/27648404/. ISSN 2220-6124.
+SKOUMALOVA, I., et al. 2021. Health-Related Quality of Life Profiles in Dialyzed Patients
+With Varying Health Literacy. A Cross-Sectional Study on Slovak Haemodialyzed
+Population. In International Journal of Public Health [online]. 2021, vol. 66, no. 585801
+[cit.
+
+2026-02-27].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8565259/. ISSN 1661-8564.
+SUŁKOWSKI, L., MATYJA, A., MATYJA, M. 2024. Social Support and Quality of Life in
+Hemodialysis Patients: A Comparative Study with Healthy Controls. In Medicina [online].
+
+86
+
+2024, vol. 60, no. 11 [cit. 2024-12-20]. Dostupné na internete: https://www.mdpi.com/16489144/60/11/1732. ISSN: 1648-9144.
+SUŁKOWSKI, L., MATYJA, A., MATYJA, M. 2025. The Impact of Dialysis Duration on
+Multidimensional Health Outcomes: A Cross-Sectional Study. In Journal of Clinical
+Medicine [online]. 2025, vol. 14, no. 2 [cit. 2025-12-28]. Dostupné na internete:
+https://www.mdpi.com/2077-0383/14/2/376. ISSN 2077-0383.
+TORINO, C., TRIPEPI, G., MALLAMACI, F. 2025. The Effects of Exercise Training
+Interventions on Dialysis Patients: A Narrative Review of Current Knowledge and Future
+Perspectives. In Kidney and Dialysis [online]. 2025, vol. 5, no. 2 [cit. 2025-12-20]. Dostupné
+na
+
+internete:
+
+https://www.mdpi.com/2673-
+
+8236/5/2/25#:~:text=Chronic%20diseases%20are%20a%20growing,integrating%20exercis
+e%20training%20into%20CKD. ISSN 2673-8236.
+TRAN, Q., P., et al. 2021. Quality of life assessment in patients on chronic dialysis:
+Comparison between haemodialysis and peritoneal dialysis at a national hospital in Vietnam.
+In Tropical Medicine & International Health [online]. 2021, vol. 27, no. 2 [cit. 2025-12-06].
+Dostupné na internete: https://onlinelibrary.wiley.com/doi/10.1111/tmi.13709. ISSN 13653156.
+UNRUH, L., M., et al. 2008. The Influence of Age on Changes in Health-Related Quality of
+Life over Three Years in a Cohort Undergoing Hemodialysis. In Journal of the American
+Geriatrics Society [online]. 2008, vol. 56, no. 9 [cit. 2026-02-27]. Dostupné na internete:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6590685/. ISSN 1532-5415.
+VÁZQUEZ, I., et al. 2004. Differences in health-related quality of life between male and
+female hemodialysis patients. In Nefrologia [online]. 2004, vol. 24, no. 2 [cit. 2026-02-27].
+Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/15219092/. ISSN 1989-2284.
+WHO. 2025. WHA78: Key decisions advancing the global NCD and mental health agenda
+ahead of HLM4. In WHO Newsroom [online]. 2025 [cit. 2025-12-09]. Dostupné na internete:
+https://www.who.int/news/item/04-06-2025-wha78--key-decisions-advancing-the-globalncd-and-mental-health-agenda-ahead-of-hlm4.
+WHO. 2025. Noncommunicable diseases. In WHO Newsroom – Fact sheets [online]. 2025
+[cit.
+
+2025-11-09].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.who.int/news-room/fact-
+
+sheets/detail/noncommunicable-diseases.
+WILSON, B., I., CLEARY, P., D. 1995. Linking clinical variables with health-related quality
+of life. A conceptual model of patient outcomes. In JAMA [online]. 1995, vol. 273, no. 1 [cit.
+
+87
+
+2026-02-20]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/7996652/. ISSN
+1538-3598.
+WOODMAN, B. 2024. Pediatric Hemodialysis: An Education Module for Registered
+Nurses. In CANNT Journal [online]. 2024, vol. 34, no. 4 [cit. 2025-06-09]. Dostupné na
+internete:
+
+https://cdn.ymaws.com/cannt-acitn.ca/resource/resmgr/journal-
+
+page/journal_pdf/cannt_fall_2024_final_volume.pdf#:~:text=Dry%20weight%20is%20the
+%20ideal,weight%20of%20the%20patient%2C%20and. ISSN 2291-644X.
+YANG, Y. 2024. The Mediating Effects of Symptom Experiences on the Relationship
+between Body Image and Quality of Life among Hemodialysis Patients in a Single Center.
+In Healthcare [online]. 2024, vol. 12, no. 17 [cit. 2025-09-09]. Dostupné na internete:
+https://www.mdpi.com/22279032/12/17/1779#:~:text=The%20changes%20of%20body%20image,97%2C22.
+
+ISSN
+
+2227-9032.
+YARLAS, S., A., et al. 2011. Measuring the health status burden in hemodialysis patients
+using the SF-36® health survey. In Quality of Life Research [online]. 2011, vol. 20, no. 3
+[cit. 2026-02-16]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/20972630/. ISSN
+1573-2649.
+ZDRAVECKÁ, T. 2010. Rodina ako pilier kultúry u Rómov. In Prohuman [online]. 2010.
+[cit. 2025-10-09]. Dostupné na internete: https://www.prohuman.sk/socialna-praca/rodinaako-pilier-kultury-u-romov?page=45. ISSN 1338-1415.
+ZHANG, K., et al. 2025. Real experience of young and middle-aged hemodialysis patients:
+a qualitative meta-synthesis. In Frontiers [online]. 2025, vol. 12 [cit. 2025-12-09]. Dostupné
+na
+
+internete:
+
+https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1530465/full.
+ISSN 2380-8144.
+ZHAO, Y. 2023. Comparison of the effect of hemodialysis and peritoneal dialysis in the
+treatment of end-stage renal disease. In Pakistan Juornal of Medical Science [online]. 2023,
+vol.
+
+39,
+
+no.
+
+6
+
+[cit.
+
+2024-11-06].
+
+Dostupné
+
+na
+
+internete:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10626077/#:~:text=After%20the%20dialysis%2
+C%20the%20urea,0.05%29.%20PD%20was%20associated%20with. ISSN 1681-715X.
+
+88
+
+

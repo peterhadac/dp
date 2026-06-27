@@ -1,0 +1,2068 @@
+TRNAVSKÁ UNIVERZITA V TRNAVA
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+34197
+
+ÚLOHA KOMUNITNÉHO OŠETROVATEĽSTVA PRI PODPORE ZDRAVIA
+U SENIOROV
+
+Diplomová práca
+
+2025
+Bc. Veronika Bednáriková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+34197
+
+ÚLOHA KOMUNITNÉHO OŠETROVATEĽSTVA PRI PODPORE ZDRAVIA
+U SENIOROV
+
+Diplomová práca
+
+Študijný program: Ošetrovateľstvo
+Školiace pracovisko: FZaSP TU, Trnava
+Študijný odbor: 7.4.1 Ošetrovateľstvo
+Školiteľ / vedúci práce: doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava, 2025
+Bc. Veronika Bednáriková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+ZADANIE ZÁVEREČNEJ DIPLOMOVEJ PRÁCE
+Diplomová práca
+
+Meno a priezvisko študenta:
+
+Bc. Veronika Bednáriková
+
+Kód študenta:
+
+S1319060754
+
+Študijný program:
+
+7.4.1 Ošetrovateľstvo
+
+Typ záverečnej práce:
+
+Diplomová práca
+
+Názov záverečnej práce:
+
+Úloha komunitného ošetrovateľstva pri podpore
+zdravia u seniorov
+
+Meno, priezvisko a tituly konzultanta: doc. PhDr. Jana Martinková, PhD., MPH
+Školiace pracovisko:
+
+Katedra ošetrovateľstva TU
+
+Meno, priezvisko a tituly vedúceho
+školiaceho pracoviska:
+
+doc. PhDr. Andrea Botíková, PhD., MPH
+
+Anotácia záverečnej práce:
+
+Diplomová práca bola zameraná na úlohu sestier
+pracujúcich v komunite seniorov, pri podpore
+zdravia seniorov vo vopred stanovených
+oblastiach.
+
+Jazyk vypracovanej práce:
+
+Slovenský jazyk
+
+Dátum schválenia zadania:
+
+25.11.2022
+
+ČESTNÉ PREHLÁSENIE
+Čestne prehlasujem, že som diplomovú prácu „Úloha komunitného ošetrovateľstva pri
+podpore zdravia u seniorov“ vykonávala samostatne pod vedením školiteľky a všetky
+literárne zdroje som uviedla v zozname použitej literatúry.
+
+Trnava 2025
+
+....................................................
+podpis
+
+POĎAKOVANIE
+Poďakovanie patrí pani školiteľke, doc. PhDr. Jane Martinkovej, PhD., MPH, ktorá mi
+pomáhala svojimi vedomosťami, radami a bola mi inšpiráciou pri písaní moje diplomovej
+práce, ďalej rodine a všetkých známym, ktorí ma na mojej ceste štúdiom sprevádzali.
+
+ABSTRAKT
+
+BEDNÁRIKOVÁ, Veronika: Úloha komunitného ošetrovateľstva pri podpore zdravia
+u seniorov [Diplomová práca] / Veronika Bednáriková. Trnavská univerzita v Trnave.
+Fakulta zdravotníctva a sociálnej práce; Katedra ošetrovateľstva. Školiteľ: doc. PhDr. Jana
+Martinková, PhD., MPH. Stupeň odbornej kvalifikácie: Magister. Ošetrovateľstva. Trnava,
+TU FZaSP, 2025.
+Úvod: Hlavným teoretickým východiskom našej práce bola úloha sestier pracujúcich v
+komunitnom ošetrovateľstve pri podpore zdravia seniorov.
+Cieľ: Cieľom výskumu bolo zistiť hlavnú úlohu sestier pri podpore zdravia seniorov v
+komunite.
+Metodika: Metodologickú časť našej práce tvorí vyhotovený dotazník pre sestry pracujúce
+v komunite. Postupovali sme formou dotazníkového výskumu, ktorý tvoril 31 otázok a
+zúčastnilo sa ho 53 respondentov – sestier z jednotlivých pracovísk Zariadení pre seniorov
+a Domovov sociálnych služieb. Dotazník vlastnej konštrukcie bol distribuovaný papierovou
+formou a prostredníctvom on-line dotazníka. Všetky získané údaje boli štatisticky
+spracované a vyhodnotené v tabuľkách a grafoch.
+Výsledky: Zistili sme, že sestry pracujúce v komunite seniorov vykonávajú podporu ich
+zdravia v oblastiach pohybovej aktivity, spánku a kognitívnych funkcií na priemernej úrovni,
+pričom rozdiely medzi pracoviskami ADOS a ZPS vo väčšine odpovedí nie sú štatisticky
+významné.
+Záver: Vzhľadom na starnúcu populáciu a rastúce požiadavky na zdravotnú starostlivosť sa
+zapojenie do komunitných aktivít ukazuje ako kľúčový prvok pre udržanie zdravia v starobe.
+Nedostatočná angažovanosť v komunitných aktivitách je spojená s vyššou mierou úmrtí a
+sociálnym vylúčením. V našej diplomovej práci sme sa zamerali na rolu sestier pracujúcich
+v komunitnom ošetrovateľstve, ktoré pri výkone svojej práce podporujú zdravie seniorov vo
+všetkých oblastiach ich života. Ich dôležitosť spočíva v poznaní svojich kompetencií a
+povinností, za ktoré sú si zodpovedné. Naša práca poukazuje na dôležitosť podpory zdravia
+seniorov v komunitách na miestnej i celkovej úrovni.
+Kľúčové slová: zdravie, starnutie, senior, komunita, prevencia
+
+ABSTRACT
+
+BEDNÁRIKOVÁ, Veronika: The role of community nursing in promoting health among
+seniors [Diploma thesis] / Veronika Bednáriková. Trnava University in Trnava. Faculty of
+Health and Social Work; Department of Nursing. Supervisor: doc. PhDr. Jana Martinková,
+PhD., MPH. Degree of professional qualification: Magister. Nursing. Trnava, TU FZaSP,
+2024.
+Introduction: The main theoretical background of our work was the role of nurses working
+in community nursing in promoting the health of the elderly.
+Objectives: The aim of the research was to find out the main role of nurses in promoting the
+health of seniors in the community.
+Methodology: The methodological part of our work consists of a questionnaire made for
+nurses working in the community. We proceeded in the form of a questionnaire research,
+which consisted of 31 questions and was participated by 53 respondents - nurses from
+individual workplaces of Institutions for the Elderly and Homes for Social Services. The
+self-constructed questionnaire was distributed in paper form and through an online
+questionnaire. All the collected data were statistically processed and evaluated in tables and
+graphs.
+Results: We found that nurses working in the community of seniors perform health
+promotion in the areas of physical activity, sleep, and cognitive function at an average level,
+with differences between ADOS and ZPS sites in most of the responses not statistically
+significant.
+Conclusion: Given the aging population and increasing demands on health care,
+engagement in community activities appears to be a key element for maintaining health in
+old age. Lack of engagement in community activities is associated with higher rates of death
+and social exclusion. In our thesis, we focused on the role of nurses working in community
+nursing who, in the course of their work, promote the health of seniors in
+all areas of their lives. Their importance lies in.
+Key words: health, aging, senior, community, prevention
+
+OBSAH
+ZOZNAM SKRATIEK
+
+1
+
+ZOZNAM GRAFOV
+
+11
+
+ÚVOD
+
+12
+
+1 PREVENCIA A OCHRANA ZDRAVIA SENIOROV
+
+14
+
+1.1 Zdravie a životný štýl
+
+14
+
+1.2 Podpora zdravia seniorov
+
+15
+
+1.3 Prevencia zdravia seniorov
+
+16
+
+1.4 Programy podpory zdravia u seniorov
+
+17
+
+2 KOMUNITA A KOMUNITNÉ OŠETROVATEĽSTVO
+
+20
+
+2.1 Komunitné ošetrovateľstvo
+
+20
+
+2.2 Úloha sestier v komunite pri podpore zdravia seniorov
+
+21
+
+3 VÝSKUM
+
+24
+
+3.1 Výskumný problém
+
+24
+
+3.2 Ciele výskumu
+
+24
+
+3.4 Výskumné hypotézy
+
+24
+
+3.5 Metodika výskumu
+
+25
+
+3.6 Charakteristika výskumného súboru
+
+27
+
+3.7 Limity výskumu
+
+27
+
+3.8 Vyhodnotenie dotazníkových položiek
+
+29
+
+3.9 Verifikácia výskumných hypotéz
+
+52
+
+4 DISKUSIA
+
+57
+
+4.1 Diskusia
+
+57
+
+4.2 Odporúčania pre prax
+
+62
+
+ZÁVER
+
+64
+
+ZOZNAM POUŽITEJ LITERATÚRY
+
+66
+
+PRÍLOHY
+
+69
+
+PRÍLOHA 1
+
+70
+
+PRÍLOHA 2
+
+76
+
+PRÍLOHA 3
+
+77
+
+PRÍLOHA 4
+
+78
+
+PRÍLOHA 5
+
+79
+
+2
+
+ZOZNAM SKRATIEK
+
+DD – Domov dôchodcov
+DSS – Domov sociálnych služieb
+NPPZ – Národný program podpory zdravia
+SZŠ – Stredná zdravotnícka škola
+VOV – Vyššie odborné vzdelanie
+VŠ – Vysoká škola
+WHO – World healthcare organisation – Svetová zdravotnícka organizácia
+ZPS – Zariadenie pre seniorov
+Z.z. – Zbierka zákonov
+
+ZOZNAM GRAFOV
+Graf 1: Ktoré pohybové aktivity vykonávajú seniori pre zachovanie fyzického zdravia?.....34
+Graf 2: Vyberáte pohybové aktivity podľa záujmu pacientov?..............................................35
+Graf 3: O aké pohybové aktivity majú seniori najväčší záujem?...........................................35
+Graf 4: Aké pohybové aktivity uprednostňujú seniori?.........................................................36
+Graf 5: V ktorej časti dňa je najvhodnejší čas na vykonávanie pohybovej aktivity so
+seniormi?..............................................................................................................................37
+Graf 6: Ako často edukujete seniorov o potrebe pravidelnej pohybovej aktivity pre
+zachovanie plného zdravia?..................................................................................................37
+Graf 7: Aké sú najčastejšie obmedzenia, ktoré bránia seniorom vykonávať pohybovú
+aktivitu?................................................................................................................................38
+Graf 8: Aké techniky používate na podporu spánku u seniorov?...........................................39
+Graf 9: Aké sú najčastejšie príčiny poruchy spánku u seniorov?...........................................39
+Graf 10: Ako často používate sesterské intervencie na podporu spánku seniorov?...............40
+Graf 11: Aké formy sesterských intervencií využívate pri podpore spánku seniorov?..........41
+Graf 12: Ako často vykonávate edukáciu seniorom týkajúcu sa podpory spánku?................41
+Graf 13: Aký dopad majú sesterské intervencie na podporu spánku seniorov?.....................42
+Graf 14: Akým spôsobom ovplyvňuje kvalita spánku celkový stav seniora?........................43
+Graf 15: Akú formu podpory kognitívnych funkcií vykonávate u seniorov najčastejšie?.....43
+Graf 16: Ako často vykonávate u seniorov podporu kognitívnych funkcií?..........................44
+Graf 17: Akú podporu kognitívnych funkcií v rámci sesterských intervencií vykonávate u
+seniorov?..............................................................................................................................45
+Graf 18: Aké sú najčastejšie poruchy kognitívnych funkcií u seniorov?...............................45
+Graf 19: Aké výsledky pozorujete po použití sesterských intervencií na podporu
+kognitívnych funkcií?...........................................................................................................46
+Graf 20: Aké hodnotiace metódy využívate u seniorov na hodnotenie kognitívnych
+funkcií?.................................................................................................................................47
+Graf 21: Ako často vykonávate edukáciu seniorov o podpore kognitívnych funkcií?...........47
+Graf 22: Akým spôsobom podporujete imunizáciu seniorov?...............................................48
+Graf 23: Ktoré preventívne vyšetrenia vykonávate u seniorov najčastejšie?.........................49
+Graf 24: Edukujete seniora o potrebe vykonania skríningových vyšetrení?..........................49
+Graf 25: H1: Frekvencia výberu pohybových aktivít podľa typu zariadenia.........................50
+
+Graf 26: H2: Forma intervencií na podporu spánku podľa typu zariadenia...........................51
+Graf 27: H3: Frekvencia podpory kognitívnych funkcií podľa typu zariadenia....................52
+Graf 28: H4: Spôsoby podpory imunizácie seniorov podľa typu zariadenia.........................53
+
+ÚVOD
+Komunita ako sociálny a funkčný systém predstavuje štruktúrované zoskupenie
+jednotlivcov, ktorých spája spoločné geografické prostredie, hodnoty, kultúrne tradície,
+vzťahy, náboženské vyznanie či zdieľané potreby a záujmy. V kontexte verejného
+zdravotníctva a ošetrovateľstva je komunita vnímaná ako dynamický organizmus, ktorý si
+vyžaduje systematickú odbornú starostlivosť, podporu a intervenciu.
+Úloha ošetrovateľstva v komunite sa stáva čoraz významnejšou najmä v súvislosti so
+starnutím populácie, nárastom chronických ochorení a potrebou zabezpečenia dlhodobej a
+paliatívnej starostlivosti, pričom sa kladie dôraz na prevenciu, edukáciu a zvyšovanie kvality
+života.
+Komunitné ošetrovateľstvo predstavuje špecifickú oblasť odbornej praxe, ktorá
+integruje poznatky verejného zdravotníctva, sociálnych vied a klinickej ošetrovateľskej
+starostlivosti. Jeho cieľom je nielen liečba a ošetrovanie jednotlivcov, ale predovšetkým
+komplexná intervencia zameraná na skupiny obyvateľstva a ich životné prostredie.
+Ošetrovateľská starostlivosť v komunite je orientovaná na podporu zdravia, prevenciu
+chorôb, monitorovanie zdravotného stavu a poskytovanie individualizovanej starostlivosti v
+prirodzenom alebo rezidenčnom prostredí pacientov. Z tohto dôvodu je sestra pracujúca
+v komunite kľúčovým aktérom zdravotnej starostlivosti, ktorá pôsobí autonómne, na
+základe kompetencií definovaných legislatívou a odbornými štandardmi.
+V diplomovej práci sa zameriavame na komunitu seniorov žijúcich v zariadeniach
+sociálnych služieb, kde sa ošetrovateľská starostlivosť spája s potrebou zabezpečenia
+dôstojného, aktívneho a zdravotne stabilného života.
+Hlavným cieľom našej práce je analyzovať úlohu sestier pri podpore zdravia seniorov v
+komunite, identifikovať efektívne intervencie a poukázať na ich význam nielen pre
+samotných klientov, ale aj pre širšiu spoločnosť. Komunitné ošetrovateľstvo v zariadeniach
+pre seniorov je významným nástrojom podpory verejného zdravia, pričom sestra zohráva
+nezastupiteľnú úlohu v oblasti edukácie, prevencie, včasnej detekcie zdravotných
+problémov, ako aj v budovaní dôvery a podpory autonómie klienta.
+
+12
+
+Ciele diplomovej práce:
+-
+
+Charakterizovať úlohu sestier pracujúcich v komunite pri podpore zdravia seniorov,
+bližšie popísať komunitu a jej hlavné úlohy
+
+-
+
+Zistiť hlavné oblasti podpory zdravia pre zachovanie telesného a duševného zdravia
+
+-
+
+Analyzovať výskum zameraný na úlohu sestier pri podpore zdravia seniorov v
+komunite
+
+-
+
+Porovnať jednotlivé zistenia s už existujúcimi štúdiami a odbornou literatúrou
+a navrhnúť odporúčania pre prax podporujúcu zdravie seniorov v komunite
+
+13
+
+1 PREVENCIA A OCHRANA ZDRAVIA SENIOROV
+Väčšina ľudí vstupuje do obdobia staršieho veku bez výrazných problémov a ťažkostí v
+uspokojivej telesnej, duševnej a sociálnej rovnováhe. Formy starnutia však môžu ohroziť
+rizikové faktory. Psychiku seniora negatívne ovplyvňuje či už osamelosť, sťahovanie,
+nedostatok finančných prostriedkov, nefunkčné vzťahy s rodinou alebo strata blízkeho
+človeka (Karaff et al., 2018). Zdravie patrí k prioritným hodnotám jednotlivca, rodiny, ale
+aj celej spoločnosti. Je predpokladom sociálnej a ekonomickej úspešnosti a podmienkou
+náležitej kvality života jedincov a celej spoločnosti. Narušené zdravie prináša nielen telesné
+a psychické utrpenia občanom, ale aj značné ekonomické straty spoločnosti.
+Ochrana a podpora zdravia je preto spoločným záujmom a zodpovednosťou všetkých
+občanov, organizácií, inštitúcií, záujmových združení a štátnej správy (Smizelková, 2021).
+Výchovou ku zdraviu sa zaoberá tiež Štátny zdravotný ústav, ktorého kompetenciou je aj
+príprava podkladov pre národnú zdravotnú politiku a pre ochranu a podporu zdravia,
+referenčná a metodická činnosť na úseku ochrany verejného zdravia, monitorovania a
+výskum vzťahov životných podmienok a zdravia, zdravotná výchova obyvateľstva. ŠZÚ
+vydáva pre verejnosť rôzne publikácie, ako sú brožúry, letáky a plagáty. Tieto publikácie sú
+poskytované zadarmo, prostredníctvom krajských zdravotných ústavov.
+
+1.1 Zdravie a životný štýl
+Jedným zo základných pojmov v ošetrovateľstve je zdravie. Zahŕňa fyzické, psychické,
+spirituálne, sociálne, intelektuálne a environmentálne komponenty (Golinowska, 2016).
+Najznámejšou definíciou zdravia je definícia Svetovej zdravotníckej organizácie, podľa
+ktorej je zdravie stav úplnej telesnej, duševnej a sociálnej pohody a nie len prítomnosť
+choroby alebo postihnutia. Svetová zdravotnícka organizácia vypracovala stratégiu Zdravie
+21 – Zdravie pre všetkých v 21. storočí, ktorá obsahuje 21 cieľov. Duševné zdravie je
+základným ľudským právom. A to je kľúčové pre osobný, komunitný a sociálnoekonomický rozvoj. Pojem „zdravie“ podľa etymologického slovníka pôvodne znamenalo
+„celok“. Tento pojem sa používa dodnes, pričom chápe zdravie zo širokospektrálnejšieho
+hľadiska a nazýva sa holizmus.
+Duševné zdravie je viac ako neprítomnosť duševných porúch. Existuje v zložitom kontinuu,
+ktoré jednotlivci prežívajú odlišne, s rôznym stupňom ťažkostí a úzkosti a potenciálne veľmi
+odlišnými sociálnymi a klinickými výsledkami. Zdravie ako také, je determinované
+
+14
+
+správaním sa mnohými spôsobmi. Správanie súvisiace so zdravím je individuálna voľba
+každého jedinca. Medzi typy správania súvisiaceho so zdravím radíme fajčenie, konzumácia
+alkoholu, cvičenie/stravovacie návyky, sú len výberom aspektov zdravia. Zdravý životný
+štýl možno podporovať rôznymi spôsobmi, od vzdelávacích a poradenských programov až
+po finančné stimuly pre zdravý životný štýl Smizelková, 2021).
+
+1.2 Podpora zdravia seniorov
+Podpora zdravia je určená pre celú populáciu. Je to proces umožňujúci ľuďom zvýšiť
+kontrolu nad svojím zdravím a zlepšiť ho. Podpora zdravia je praktická využiteľnosť zdravia
+vyjadrená ako zdroj umožňujúci ľuďom viesť individuálny, sociálne a ekonomicky
+produktívny život. Jedným z hlavných dôvodov vyčlenenia podpory zdravia a verejného
+zdravia pre špecifickú skupinu obyvateľstva môžu byť epidemiologické dôvody, akými sú
+opatrenia zamerané na zraniteľné alebo znevýhodnené skupiny (Golinowska, 2016).
+Starnutie prináša veľa situácii, ktorým nevieme vždy predísť. Z toho dôvodu je veľmi
+dôležité predchádzanie chorôb u ľudí vo vyššom veku. Zmeny, ktoré nastávajú vo vyššom
+veku sa odohrávajú na rovine telesnej, psychickej, sociálnej a spirituálnej, pričom ide
+o prepojenie všetkých systémov, ktoré do seba vzájomne zasahujú (Venglářová, 2017).
+Starší ľudia boli dlho zanedbávaní ako adresáti aktivít na podporu zdravia. Potreba
+podporovať zdravie u starších ľudí bola prvýkrát zdôraznená v 90.rokoch 20. storočia.
+(Strumpel, 2016). Aktivity zamerané na podporu zdravia medzi staršími ľuďmi sa
+zameriavajú predovšetkým na mladších seniorov. Výsledky takýchto aktivít ukázali, že
+cvičenie, obmedzenie konzumácie alkoholu či účasť na vzdelávacích aktivitách a začlenenie
+sa do komunity, môže pomôcť zabrániť rozvoju mnohých chorôb, čím sa zlepší kvalita života
+a predĺži sa priemerná dĺžka života. V skupine ľudí vo veku starších ako 85 rokov sa viac
+kladie dôraz na primeranú lekársku starostlivosť zo strany lekárov a opatrovateľov ako na
+ich zdravotné správanie. Podpora zdravia zameraná na starších ľudí sa výrazne líši od
+podpory pre mladšie generácie. Čiastočne to vyplýva zo skutočnosti, že zdravie starších ľudí
+je vo všeobecnosti náchylnejšie na mnohé ochorenia. Multimorbidita sa podieľa na
+zmenenom klinickom obraze jednotlivých chorôb (Lajdová, 2015).
+Programy podpory zdravia pre starších ľudí v európskych krajinách realizujú na miestnej
+úrovni najmä poskytovatelia primárnej zdravotnej starostlivosti a sestry, ako aj mimovládne
+organizácie, samosprávne verejné orgány a dobrovoľnícke organizácie. Stratégie podpory
+
+15
+
+zdravia pre starších ľudí majú vo všeobecnosti tri základné ciele: udržanie a zvýšenie
+funkčnej kapacity, udržanie alebo zlepšenie starostlivosti o seba a stimulácia sociálnej siete.
+Podpora zdravia sa preto zameriava na začlenenie seniorov do spoločenských aktivít
+v komunite. Tieto opatrenia nie sú vždy formálne a nie vždy si vyžadujú priame externé
+financovanie, ale často si vyžadujú primeranú sociálnu infraštruktúru. Intervencie na
+podporu zdravia zahŕňajú malé projekty až po veľké národné programy. Financovanie
+týchto aktivít zvyčajne pochádza z darov od jednotlivcov či mimovládnych organizácií
+a prostredníctvom daní zo strany národných vlád. V rokoch 2005-2008 bola
+zriadená Komisia pre sociálne determinanty zdravia. Cieľom bolo zhromaždenie správ
+v reakcii na rastúce obavy z pretrvávajúcich a prehlbujúcich sa nerovností v sociálnych
+determinantoch zdravia na celom svete (Mačkinová et al., 2019).
+
+1.3 Prevencia zdravia seniorov
+Prevencia úzko nadväzuje na podporu zdravia. Je to vlastne činnosť, ktorá vedie k upevneniu
+zdravia, zamedzeniu vzniku choroby a predovšetkým k predĺženiu aktívnej dĺžky života.
+Uskutočňuje sa u jednotlivca, ale aj na úrovni celej spoločnosti. Preventívne činnosti možno
+charakterizovať na dvoch úrovniach (Lapert, 2023):
+1. Nešpecifické (obecné) – zamerané na podporu zdravého spôsobu života a budovania
+priaznivého životného prostredia a
+2. Špecifické (profylaktické) – zamerané cielene na prevenciu vzniku určitej choroby alebo
+jej následkov (očkovanie)
+Výchova k zdraviu tvorí významnú súčasť preventívnych opatrení. Je to cieľavedomá,
+systematická a vzdelávacia činnosť, zameraná na vytvorenie správnych vedomostí,
+zručností a návykov v ochrane a upevňovaní zdravia. Zameriava na najmä na rozvoj
+zdravia a prevenciu ochorení, pozitívne ovplyvňovanie ľudí k udržaniu zdravia
+a osvojovanie správnych zdravotných návykov a zdravému spôsobu života. Jej cieľom
+je motivovať jednotlivca, aby chránil a podporoval svoje zdravie i zdravie celej
+populácie. Práve zdravotná výchova plní dôležitú úlohu v oblasti prevencie.
+(Mačkinová et al., 2019). Prevencia môže byť vykonávaná v rôznych formách:
+1. Individuálna- zameraná na individuálne a aktuálne potreby seniora
+2. Skupinová- skupina seniorov, ktorí sú rizikoví a toto riziko ich vzájomne spája
+3. Hromadná- sem spadajú národné a medzinárodné programy a projekty, ktoré sú
+súčasťou koncepcie preventívnej starostlivosti.
+
+16
+
+Súčasťou prevencie sú preventívne opatrenia, ktoré sú nevyhnutné pre udržanie seniorov pri
+plnom zdraví čo najdlhšie. Preto existujú preventívne opatrenia, vykonávajúce sa na základe
+primárnej, sekundárnej a terciárnej prevencie a sú zamerané na zníženie rizika vzniku
+ochorení, úrazov a poranení a na zvýšenie zdatnosti a sebestačnosti (Lajdová, 2015).
+Prevenciu možno rozdeliť na:
+1. Primárna – pozostáva z opatrení zameraných na vnímavú populáciu jedinca alebo
+celej populácie. Hlavným účelom je teda zabrániť vzniku ochorení, obmedziť
+vystaveniu sa riziku a zabrániť progresii u náchylným jedincov. Formou primárnej
+prevencie je napr. imunizácia.
+2. Sekundárna – dôraz kladie na včasnú detekciu ochorenia. Jej hlavným cieľom sú
+zdravo vyzerajúci jedinci so subklinickými formami ochorenia. To môže pozostávať
+z patologickým zmien, ale bez zjavných symptómov. Medzi formu sekundárnej
+prevencie patrí skríning, alebo preventívna prehliadka u praktického lekára.
+3. Terciárna – „hromadná“ prevencia, sa zameriava na klinické aj výsledné štádiá
+ochorenia. Je zameraná na predchádzanie zhoršenia dopadu či priebehu ochorení
+a komplikácii. Spadajú ku nej rôzne programy a projekty a to na národnej
+i medzinárodnej úrovni. Vykonáva sa už u symptomatických pacientov a jej cieľom
+je znížiť závažnosť ochorenia, ako aj akokoľvek súvisiace následky.
+
+1.4 Programy podpory zdravia u seniorov
+Podľa dlhodobých prognóz budúceho vývoja celkového počtu a štruktúry obyvateľstva
+podľa pohlavia a veku bude podiel starších osôb v populácii stále narastať. Svoj podiel na
+starnutí populácie má aj zlepšovanie zdravotnej starostlivosti a predlžovanie života
+jednotlivcov, čo dlhodobo potvrdzuje nárast strednej dĺžky života pri narodení. Veková
+štruktúra obyvateľstva patrí medzi základné demografické charakteristiky každej populácie.
+Je obrazom demografických procesov z minulosti i obrazom budúceho demografického
+vývoja. Identifikácia zdravia vo vyššom veku je zložitá. Objektívne môžeme pokladať
+starnúceho človeka za zdravého vtedy, keď sú u neho všetky prejavy starnutia
+kompenzované a nie je vyčerpaná jeho schopnosť adaptability. Zo subjektívneho hľadiska
+sa starý človek cíti zdravým vtedy, keď sa neponosuje na svoj zdravotný stav, cíti sa dobre,
+je sociálne dobre adaptovaný a dobre toleruje svoje životné prostredie (Lajdová, 2015).
+Podporným faktorom pre rozvoj výchovy k zdraviu so zameraním na seniorov je existencia
+medzinárodných dokumentov, ako je Zdravie pre všetkých v 21. Storočí. Zdravé starnutie a
+
+17
+
+dokumenty Svetového zhromaždenia OSN o starnutí v Madride (2002). Výhodou výchovy
+k zdraviu je záujem cieľovej skupiny o zdravie a ochota spolupracovať, nevýhodou
+nedostatočný záujem spoločenského systému o prevenciu a populačnú skupinu seniorov.
+Výchova k zdraviu u seniorov sa musí vyrovnať s novými témami, ako je napr. eutanázia a
+hospicová starostlivosť. Prirodzeným spojencom a partnerom pri realizácii zdravotnej
+výchovy so zameraním na seniorov sú nevládne, charitatívne, svojpomocné a iné seniorské
+organizácie. Podpora zdravia má svoj kľúčový význam tiež u seniorov.
+Preventívne programy sú založené na včasnom vyhľadávaní rizík a ochorení pomocou
+screeningu a pravidelných vyšetrení. Najčastejšie sa vykonávajú onkologické screeningy,
+diabetické a kognitívne screeningy, pravidelná kontrola krvného tlaku, orálne zdravie. Každé
+preventívne opatrenie pri staršom človeku je nápomocné pri prevencii ochorení, a to na
+fyzickej, intelektuálnej a interpersonálnej úrovni. Preventívne opatrenia zohrávajú
+významnú úlohu v predchádzaní zvyšovania prevalencie, čím by sa im mala venovať
+zvláštna pozornosť. Preventívne opatrenia boli vypracované Ministerstvom zdravotníctva
+SR v spolupráci s Úradom verejného zdravotníctva SR. Spadajú sem:
+-
+
+Národný program prevencie ochorení srdca a ciev – zameraný na zlepšenie
+primárnej a sekundárnej starostlivosti v odbore angiológia a kardiológia
+
+-
+
+Národný diabetologický program – zameraný na prevenciu, včasnú diagnostiku
+a liečbu DM s cieľom oddialenia a zmiernenia komplikácií (Lapert, 2023).
+
+-
+
+Skríningové programy onkologických ochorení - prevencia karcinómu hrubého
+čreva, prsníka, krčka maternice.
+
+-
+
+Národný program rozvoja životných podmienok osôb so zdravotným postihnutím
+– zameraný na dosiahnutie pokroku pri ochrane práv osôb so zdravotným
+postihnutím
+
+(Národný program rozvoja životných podmienok osôb zo
+
+zdravotným postihnutím, 2014).
+-
+
+Národný program duševného zdravia – cieľom je zlepšiť duševné zdravie celej
+populácie (Národný program duševného zdravia).
+
+Programy na podporu zdravia sú založené na princípoch posilňujúcich fyzické a mentálne
+zdravie a tak vytvárajú individuálny i spoločenský prínos na vytváranie lepších podmienok
+na zdravý spôsob života. Ministerstvo zdravotníctva SR vydáva odborné usmernenie za
+účelom vyhľadávania a ovplyvňovania rizikových faktorov chronických neprenosných
+chorôb obyvateľstva SR. Účelom centier ochrany a podpory zdravia je zvyšovanie
+povedomia, informovanosti, aktívnym vyhľadávaním rizikových faktorov zameraným na
+zlepšovanie ZS obyvateľstva prostredníctvom všeobecného a špecializovaného poradenstva
+
+18
+
+zameraného na pozitívnu zmenu spôsobu života. Poradenské centrum ochrany a podpory
+zdravia vykonávajú zdravotnícki pracovníci v zdravotníckych povolaniach lekár, sestra,
+verejný zdravotník a ďalší zdravotnícki pracovníci.
+Národný program podpory zdravia prešiel viacerými inováciami, pričom posledná
+aktualizácia je primárne zameraná na ovplyvňovania determinantov zdravia, prevencia
+rizikových faktorov ovplyvňujúcich zdravie obyvateľov ako aj dlhodobé zlepšovanie
+zdravotného stavu obyvateľstva SR, eliminácia porúch zdravia znižujúcich kvalitu života.
+(aktualizácia Národného programu podpory zdravia, 2014).
+Národný program aktívneho starnutia 2021-2030
+Model aktívneho starnutia je chápaný ako schopnosť starších ľudí udržiavať dynamický
+a aktívny životný štýl, ktorý im umožňuje učiť sa, pracovať a starať sa o iných podľa
+vlastného výberu a preferencií. To naznačuje, že majú možnosť rozhodovať o tom, ako si
+budú organizovať svoj čas vo vzťahu k vzdelávaniu, zamestnaniu a sociálnym aktivitách.
+Očakáva sa, že v nasledujúcich dvadsiatich rokoch dôjde k výraznému nárastu počtu starších
+osôb, pričom najrýchlejší prírastok bude medzi osobami vo veku nad 80 rokov. Hlavným
+cieľom národného programu aktívneho starnutia je riešiť otázky udržateľnej
+spoločnosti, teda také, v ktorých budú mať súčasné i budúce generácie šance na kvalitné
+životné podmienky (MPSVaR SR).
+Program „Zdravie 21“ je zdravotníckou iniciatívou pre Európu v aktuálnom storočí, ktorá
+si kladie za cieľ zlepšiť podmienky starnutia populácie. Tento cieľ zahŕňa viacero
+konkrétnych bodov:
+•
+
+Zvýšenie očakávanej priemernej dĺžky života ľudí v 65. roku veku o 20% spolu s
+predĺžením času života bez invalidity.
+
+•
+
+O polovicu vyššia miera osôb vo veku 80 rokov, ktoré sú schopné viesť nezávislý,
+dôstojný a sociálny život.
+
+•
+
+Očakáva sa, že podiel populácie staršej ako 65 rokov v Európe sa bude pohybovať v
+rozmedzí od 13,2% do 17,9%.
+
+•
+
+Predpokladá sa výrazný nárast počtu starších osôb, najmä tých, ktoré prekročili vek
+80 rokov, v priebehu nasledujúcich dvadsiatich rokov.
+
+19
+
+2 KOMUNITA A KOMUNITNÉ OŠETROVATEĽSTVO
+Komunita je „súhrn osôb žijúcich v priestore, ktorý je vymedzený pre všetkých členov,
+kde každý deň vykonávajú aktivity bežného života a tak spoločne tvoria autonómnu
+jednotku. Komunita je organizácia, kde neprevládajú vzťahy nadriadenosti či
+podriadenosti, ale je do popredia daná komunikácia a spolupráca jednotlivých členov
+organizácie (Hegyi, 2020). Podľa vyhlášky č.95/2018 Z.z., ktorá určuje rozsah
+ošetrovateľskej praxe je komunita skupina osôb určená geografickou oblasťou alebo
+spoločenskými záujmami. Komunita je pre členov špecifická tým, že majú jednotliví
+členovia pocit komunitnej súdržnosti, ktorá poskytuje ochranu a bezpečie jednotlivých
+členov a spoločná komunikácia medzi členmi komunity.
+Komunitná starostlivosť predstavuje 24-hodinovú dostupnosť pomoci členom
+komunity. Komunita zabezpečuje individuálny prístup pre každého jedinca, pričom
+kladie dôraz na rešpektovanie jedinečnosti každého človeka. Starostlivosť je
+poskytovaná na úrovni zdravotnej, sociálnej, ústavnej a komunitnej. Hlavným cieľom
+komunitnej ošetrovateľskej starostlivosti je zaistiť seniorom čo najdlhšie zachovanie
+zdravia v ich prirodzenom prostredí, so zachovaním sebestačnosti, zmiernením utrpenia
+a udržanie maximálnej kvality života.
+Hlavným cieľom komunity je zabezpečiť seniorom sociálne služby, ktoré zahŕňajú
+okrem iného i odborné činnosti, obslužné činnosti alebo iné služby zamerané na
+prevenciu vzniku nepriaznivej sociálnej situácie, zachovanie schopnosti viesť fyzicky
+samostatný život, zabezpečenie základných nevyhnutných podmienok zameraných na
+uspokojenie biologických potrieb fyzickej osoby, ako aj riešenie krízových situácii
+a zamedzenie sociálneho vylúčenia.
+
+2.1 Komunitné ošetrovateľstvo
+Komunitné ošetrovateľstvo predstavuje syntézu praktického ošetrovateľstva a verejnozdravotnej praxe. Komunitné zdravotné ošetrovateľstvo je založené na niekoľkých
+základných konceptoch, ako je podpora zdravého života, prevencia chorôb, podpora
+rehabilitácie, hodnotenie efektívnosti komunitných zdrojov a obhajoba zlepšenia celkového
+komunitného zdravia. Hlavnou úlohou je podporovať a uchovávať zdravie všetkým
+členov populácie. Komunitné ošetrovateľstvo poskytuje kontinuálny proces, pričom sa
+zameriava na jednotlivcov, rodiny, skupiny alebo celú populáciu.
+
+20
+
+Komunitné ošetrovateľstvo sa zaoberá primárnou, sekundárnou a terciárnou prevenciou o
+jedinca, skupiny a rodiny, ktoré pôsobia v danej komunite. Zameriava sa na obyvateľov
+všetkých vekových kategórií, ktorým pomáha v podpore zdravia, pri prevencii chorôb, s
+rehabilitáciou a následne v starostlivosti o chorých (Mark, 2020).
+Hanzlíková (2017) uvádza, že úlohou komunitného ošetrovateľstva je prevencia vzniku
+choroby a tiež udržiavanie a podporovanie zdravia. Dôležitá je ochrana a podpora zdravia,
+následná výchova k zdraviu, kontinuita a koordinácia starostlivosti, ktorá sa uskutočňuje
+holistickým prístupom k jedincovi, rodinám, následne aj ku komunitám.
+Kurucová (2021) popisuje zdravie ako základnú podmienku šťastného života jedinca a
+pomocou neho aj komunity, spoločnosti. Plevová (2021) zdravie popisuje ako jedno zo
+základných konceptov ošetrovateľstva. Zdravie môže byť chápané odlišným spôsobom, ale
+v ošetrovateľstve najčastejšie vychádza z definície WHO.
+Hlavným zameraním komunitného ošetrovateľstva je poskytovať klientom služby a podporu
+správnym spôsobom v správnu chvíľu, aby úroveň nezávislosti klienta bola čo najvyššia.
+
+2.2 Úloha sestier v komunite pri podpore zdravia seniorov
+Starší dospelí sú vystavení vyššiemu riziku chronických zdravotných problémov, ako je
+cukrovka, osteoporóza, Alzheimerova choroba a pod. Okrem toho každý rok utrpí pád
+takmer 1 z 3 starších dospelých, čo je hlavnou príčinou v tejto vekovej skupine. Avšak
+fyzická aktivita môže starším dospelým dopomôcť predchádzať chronickým ochoreniam
+a zraneniam súvisiacimi s pádmi. Úlohy sestier špecialistiek pracujúcich v komunitnom
+ošetrovateľstve zahŕňajú celú škálu rôznych druhov služieb. Medzi povinnosti sestry patria
+diagnostické, terapeutické, ošetrovateľské, rehabilitačné a preventívne služby. Vykonávajú
+sa na základe objednávky všeobecného lekára alebo špecialistu na základe zmluvy s
+Národnou zdravotnou službou. Starostlivosť sa poskytuje jednotlivcovi, rodine alebo celej
+komunite v prostredí bydliska.
+Ošetrovateľské služby zahŕňajú poskytovanie ošetrovateľskej starostlivosti osobám s
+rôznymi zdravotnými ťažkosťami, vykonávanie ošetrovateľských postupov alebo prípravu
+na sebaobsluhu a sebaobsluhu v chorobe a pri zdravotnom postihnutí.
+Diagnostické služby sa vzťahujú na vykonávanie rozhovorov o prostredí, vykonávanie
+fyzikálnych vyšetrení, meraní a ich analýzu, hodnotenie celkového stavu pacienta a procesu
+zotavovania, hodnotenie kvality života, monitorovanie bolesti.
+
+21
+
+K terapeutickým službám patrí okrem iného poskytovanie prvej pomoci v ohrození života
+a v núdzových situáciách, podávanie liekov rôznymi cestami a technikami podľa pokynov a
+predpisov lekára, preväzy rán, preležanín, popálenín, odstraňovanie stehov, vykonávanie
+inhalácií, nastavovanie diéty pri výžive chronicky chorých, či dokoncaa úprava
+farmakoterapie po konzultácii s lekárom.
+Rehabilitačné služby súvisia s rehabilitáciou pri lôžku s cieľom predchádzať komplikáciám
+vyplývajúcim z chorobného procesu a dlhodobej imobilizácie, všeobecnými pohybovými
+cvičeniami, polohovaním a premiestňovaním pacienta na lôžku.
+Hlavnou úlohou sestier v komunite je:
+1. Zvýšiť počet dospelých, venujúcich sa fyzickej aktivite.
+Pohyb je najprirodzenejšou súčasťou života každého jedinca. Je taktiež prostriedkom na
+zabezpečenie základných životných potrieb, pričom pozitívne pôsobí na dýchacie
+ústrojenstvo, svalstvo a telesnú výkonnosť. Znižuje riziko neinfekčných ochorení, depresie
+či pokles kognitívnych funkcii. Pravidelná telesná činnosť i u starších dospelých je
+benefitom pre celkovú pohodu, prevenciu ochorení, prevenciu pádov a vytváranie nových
+sociálnych kontaktov. Medzi telesnú aktivitu u starších ľudí radíme chôdzu, domáce práce
+či voľnočasové aktivity. Pravidelnosť týchto aktivít je nutné, vzhľadom na fyzické a duševné
+cvičenie pozitívne podporujúce biologické deje v organizme (Mačkinová – Kopinec, 2019)
+2. Znížiť počet hospitalizovaných pre nesprávne stravovacie návyky
+Staroba so sebou prináša problémy týkajúce sa zníženého alebo zvýšeného príjmu potravy,
+preto tvorí značnú úlohu v starostlivosti o geriatrického pacienta. Príjem potravy je v úzkom
+spojení s energetickými potrebami organizmu, preto musí tvoriť primeraný energetický
+príjem, s vyváženým obsahom sacharidov, bielkovín a tukov. Výživa zdravých
+a sebestačných seniorov:
+-
+
+Optimálna telesná hmotnosť, vyvarovať sa prudkému zvýšeniu či zníženiu
+telesnej hmotnosti
+
+-
+
+Seniorom zaistiť pestrú stravu s prihliadnutím na živočíšne a rastlinné zdroje
+
+-
+
+Dodržiavať pitný režim
+
+-
+
+Vyvarovať sa nadmerne energetickým potravinám
+
+-
+
+Mať dostatok ovocia a zeleniny, obilnín a orechov
+
+-
+
+Zamedziť nadmernému soleniu
+
+-
+
+Dávať do popredia rastlinné oleje pred živočíšnymi (Müllerová, 2014).
+
+22
+
+1. Znížiť podiel starších dospelých s demenciou, alebo zabezpečiť pre takto chorých
+ľudí opatrovateľov.
+2. Zvýšiť podiel dospelých so subjektívnym poklesom kognitívnych funkcií, ktorí
+prediskutovali svoje symptómy s ošetrujúcich lekárom.
+3. Znížiť úmrtnosť súvisiacu s pádom u starších dospelých.
+3. Predchádzať pádom a ochoreniam pohybového systému
+Pády či iné poranenia predstavujú najčastejšiu príčinu úrazov geriatrických osôb v komunite
+i mimo nej. Pády vznikajú ako následok neschopnosti korigovať náhlu zmenu polohy
+ťažiska, pričom výskyt pádov sa zvyšuje procesom starnutia. Následky úrazov môžu byť
+komplikovanejšie a neraz ich sprevádzajú mnohé komplikácie majúce sa následok
+zhoršovanie zdravotného stavu seniorov a celkovej vitálnosti. Najčastejšie sú postihnuté
+bedrové kĺby, poranenia lebky, stavcov. Prevencia takýchto poranení, ktoré končia často až
+fatálne, by mala byť v každom zariadení samozrejmosťou, pričom by mal byť zabezpečený
+bezbariérový prístup a úprava prostredia, v ktorom sa seniori pohybujú (Hegyi, 2020).
+Okrem pádov postihuje často starších ľudí ochorenie osteoporóza. Je to systémové ochorenie
+skeletu, ktoré je spojené s redukciou množstva a kvality kostného tkaniva, kde dochádza
+k zvýšenému riziku zlomenín. Preventívne opatrenia proti osteoporóze spočívajú v úprave
+životného štýlu a dostatočnom pohybe, v zavedení správnej životosprávy, v prijímaní
+dostatočného množstva vápnika a vitamínu D. Dôležitou súčasťou je aj prevencia pádov.
+4. Posilniť imunizáciu seniorov
+Očkovanie patrí medzi najdôležitejšie preventívne opatrenie verejného zdravia. Je to proces,
+v ktorom sa vytvára vplyvom vpravenia vakcíny do ľudského organizmu špecifická
+a nešpecifická imunitná odpoveď na antigén a prídavné zložky podanej vakcíny. V staršom
+veku sa očkuje najmä proti chrípke, preočkovanie záškrtu a tetanu, proti pneumokokom
+a herpes zoster. Očkovanie zaisťuje kolektívnu imunitu, čím sa predchádza šíreniu mnohých
+prenosných ochorení (Hegyi, 2020).
+
+23
+
+3 VÝSKUM
+
+3.1 Výskumný problém
+Starnutie populácie je jedným z najvýraznejších demografických javov súčasnosti, pričom
+prináša celý rad výziev pre zdravotnícky systém, sociálne služby i samotnú spoločnosť. V
+tomto kontexte nadobúda komunitné ošetrovateľstvo stále väčší význam, a to najmä v oblasti
+podpory zdravia seniorov, ktorých potreby sú často komplexné, individuálne špecifické a
+dynamicky
+
+sa
+
+meniace.
+
+Komunitné
+
+ošetrovateľstvo
+
+ako
+
+špecializovaný
+
+odbor
+
+ošetrovateľskej praxe zohráva významnú úlohu v rámci primárnej zdravotnej starostlivosti,
+zameriavajúc sa na prevenciu, edukáciu, včasnú intervenciu a podporu kvality života staršej
+populácie v prirodzenom prostredí ich každodenného života.
+Výskumný problémom diplomovej práce je : Aká je úloha komunitného ošetrovateľstva
+pri podpore zdravia seniorov v komunite?
+
+3.2 Ciele výskumu
+Cieľom nášho výskumu je podrobne preskúmať ako sa tieto aktivity reálne premietajú
+do praxe, aké majú formy, intenzitu, frekvenciu a aký je ich dopad na jednotlivé
+aspekty zdravia seniorov žijúcich v komunite.
+-
+
+zistiť, akú úlohu zohrávajú sestry v podpore pohybovej aktivity seniorov
+v komunite
+
+-
+
+ako sestry podporujú kvalitný spánok u seniorov
+
+-
+
+podpory kognitívnych funkcií
+
+-
+
+zistiť, akým spôsobom sestry podporujú imunizáciu seniorov
+
+3.4 Výskumné hypotézy
+Predpokladáme, že vedomosti sestier týkajúce sa podpory pohybu môžu byť ovplyvnené
+prostredím, v ktorom pracujú, dostupnými možnosťami a podmienkami na realizáciu
+pohybových intervencií.
+Nulová hypotéza (H10) znie: Sestry majú rovnaké vedomosti o podpore pohybovej aktivity
+seniorov bez ohľadu na typ komunitného zariadenia. Alternatívna hypotéza (H1A)
+24
+
+predpokladá opak: Vedomosti sestier o podpore pohybovej aktivity seniorov sa líšia v
+závislosti od typu zariadenia, v ktorom pracujú.
+Nulová hypotéza (H20) znie: Sestry realizujú individuálne ošetrovateľské intervencie na
+podporu spánku seniorov. Alternatívna hypotéza (H2A) tvrdí: Sestry nevykonávajú
+individuálne zamerané činnosti pre podporu spánku seniorov.
+Nulová hypotéza (H30) predpokladá: Sestry aktívne vykonávajú intervencie zamerané na
+podporu kognitívnych funkcií u seniorov. Naproti tomu alternatívna hypotéza (H3A) tvrdí:
+Sestry nepodporujú kognitívne funkcie seniorov systematicky, a to najmä z dôvodu časovej
+vyťaženosti alebo iných prevádzkových obmedzení.
+Nulová hypotéza (H40) znie: Sestry vykonávajú preventívne opatrenia a edukáciu zameranú
+na podporu imunizácie seniorov. Alternatívna hypotéza (H4A) predpokladá: Vedomosti
+sestier o imunizácii a o preventívnych opatreniach v oblasti podpory zdravia seniorov sa
+líšia v závislosti od typu zariadenia alebo miery odbornej prípravy.
+
+3.5 Metodika výskumu
+Výskumná časť tejto diplomovej práce bola realizovaná prostredníctvom kvantitatívnej
+výskumnej stratégie, pričom ako hlavný nástroj zberu empirických údajov bol použitý
+neštandardizovaný dotazník vlastnej konštrukcie. Zvolená metodika bola koncipovaná tak,
+aby zodpovedala cieľom a výskumným otázkam práce, ktoré sa zameriavajú na konkrétne
+aspekty podpory zdravia seniorov zo strany sestier pôsobiacich v komunitnej ošetrovateľskej
+praxi. Vzhľadom na potrebu získania údajov od respondentov priamo z praxe, ktorí denne
+pracujú so seniormi v rôznych typoch komunitných zariadení, bol zvolený práve
+dotazníkový spôsob zberu údajov ako efektívny nástroj na získanie štruktúrovaných,
+porovnateľných a relevantných dát.
+Dotazník bol adresovaný sestrám, ktoré pracujú v zariadeniach pre seniorov, domovoch
+sociálnych služieb a v agentúrach domácej ošetrovateľskej starostlivosti. Tieto zariadenia
+boli zvolené zámerne, keďže tvoria primárne prostredie, v ktorom sa komunita a
+ošetrovateľská prax prelínajú, a v ktorom sestry zohrávajú kľúčovú úlohu pri podpore
+fyzického, psychického a sociálneho zdravia klientov. Zabezpečenie anonymity
+respondentov bolo garantované vo všetkých fázach výskumu, čím sme posilnili
+dôveryhodnosť získaných údajov a zároveň zabezpečili etické štandardy zberu dát.
+
+25
+
+Organizácia výskumu
+Samotný výskum prebiehal v dvoch fázach. V prvej, teoretickej fáze, sme analyzovali
+odborné zdroje, ktoré boli systematicky vyhľadávané a spracovávané v období od septembra
+do novembra 2024. Zber dát prebiehal v období od decembra do marca 2025, a to
+kombináciou papierovej a elektronickej formy dotazníka. Týmto spôsobom sme zabezpečili
+širšiu dostupnosť dotazníka, ako aj možnosť osloviť sestry pôsobiace v rôznych regiónoch
+Slovenskej republiky. Papierové dotazníky boli distribuované priamo do ôsmich vybraných
+zariadení pre seniorov a domovov sociálnych služieb na základe súhlasu vrchných sestier
+týchto inštitúcií, pričom návratnosť predstavovala 35 % (n = 17) z celkového počtu
+vyplnených dotazníkov. Elektronická verzia dotazníka bola sprístupnená prostredníctvom
+online platformy Survio a šírená vo vybraných odborných skupinách na sociálnych sieťach,
+najmä v komunitách zameraných na ošetrovateľstvo. Touto formou sa podarilo získať 65 %
+(n = 31) dotazníkov, čím bol dosiahnutý celkový počet 48 relevantne vyplnených
+dotazníkov, ktoré boli následne zahrnuté do analýzy.
+Tieto teoretické poznatky slúžili ako základ pre formuláciu výskumného nástroja a
+definovanie jednotlivých oblastí záujmu. Druhá fáza výskumu – fáza empirická – prebiehala
+prostredníctvom distribúcie dotazníkov v papierovej aj elektronickej forme.
+Elektronická verzia dotazníka bola vytvorená prostredníctvom online platformy Survio,
+pričom jej distribúcia prebiehala prostredníctvom tematicky zameraných facebookových
+skupín, ako napríklad „Lekári, sestry a zdravotnícki asistenti“ či „Zdravotné sestry“. Pre
+dosiahnutie väčšej diverzity respondentov bola paralelne realizovaná aj distribúcia
+papierovej formy dotazníka, ktorá bola zabezpečená po predchádzajúcom súhlase vrchných
+sestier v štyroch zariadeniach pre seniorov (pozri prílohy č. 2, 3, 4 a 5). Návratnosť
+dotazníkov bola 35 % (n = 17) v papierovej forme a 65 % (n = 31) v elektronickej forme, čo
+spolu
+
+predstavovalo
+
+48
+
+relevantne
+
+vyplnených
+
+dotazníkov.
+
+https://www.survio.com/survey/d/I1V9P3P2O9M8V8O2Y
+Dotazník pozostával z 25 uzatvorených otázok, ktoré boli tematicky zamerané na štyri
+hlavné oblasti: podpora pohybovej aktivity, podpora spánku, podpora kognitívnych funkcií
+a imunizácia seniorov. Otázky boli navrhnuté tak, aby umožňovali respondentovi vybrať
+jednu alebo viacero odpovedí, čím sa zvýšila flexibilita odpovedí a relevantnosť
+zozbieraných údajov. Úvodná časť dotazníka obsahovala základné demografické údaje, ako
+sú vek respondentky, najvyššie dosiahnuté vzdelanie, dĺžka odbornej praxe, miesto výkonu
+práce a absolvovanie špecializačného štúdia.
+
+26
+
+Štatistické spracovanie získaných údajov
+Získané dáta boli spracované v programe Microsoft Excel, kde boli jednotlivé odpovede
+systematicky zaznamenané do prehľadných tabuliek. Premenné boli vyjadrené v
+absolútnych číslach (n) aj v percentuálnych podieloch (%), čo umožnilo vizuálne a štatistické
+porovnanie jednotlivých položiek. Na overovanie hypotéz sme použili chí-kvadrát test
+nezávislosti, ktorý umožnil identifikovať štatisticky významné rozdiely medzi jednotlivými
+kategóriami odpovedí. Za štatisticky signifikantné boli považované tie výsledky, ktorých phodnota bola menšia ako stanovená hladina významnosti.
+Pre lepšiu orientáciu a vizuálne zvýraznenie výsledkov sme vybrané tabuľky previedli do
+grafickej podoby, najčastejšie vo forme stĺpcových grafov, ktoré umožnili jasnejšie vnímanie
+rozdielov a tendencií v odpovediach respondentov. Tieto výstupy slúžili ako východisko pre
+interpretáciu dát v nasledujúcej časti práce, kde sa jednotlivé zistenia porovnávajú s
+odbornou literatúrou, ako aj s predpokladmi formulovanými v hypotézach.
+
+3.6 Charakteristika výskumného súboru
+Do výskumu boli zaradené sestry pracujúce v domovoch sociálnych služieb, zariadeniach
+pre seniorov, ako aj v agentúrach domácej ošetrovateľskej starostlivosti.
+Všetky respondentky spĺňali základné kritérium zaradenia do výskumného súboru, a to
+výkon povolania sestry v zariadení starostlivosti o seniorov. Zastúpené boli sestry rôzneho
+odborného zázemia – od absolventiek stredného odborného vzdelania (všeobecná sestra),
+cez diplomované sestry s vyšším odborným vzdelaním, až po sestry s vysokoškolským
+vzdelaním prvého a druhého stupňa. Vzorku tvorili taktiež sestry so špecializáciou v odbore
+komunitného ošetrovateľstva a sestry, ktoré pôsobia v riadiacich funkciách ako manažérky
+ošetrovateľskej starostlivosti.
+
+3.7 Limity výskumu
+Každý výskumný proces, bez ohľadu na dôslednosť metodologickej prípravy a snahu o
+objektívnosť, je sprevádzaný istými obmedzeniami, ktoré môžu ovplyvniť rozsah, kvalitu či
+generalizovateľnosť získaných výsledkov. V rámci našej diplomovej práce, ktorej cieľom
+bolo analyzovať úlohu komunitného ošetrovateľstva pri podpore zdravia seniorov v
+komunite, sme si boli vedomí viacerých limitujúcich faktorov, ktoré do určitej miery
+determinovali priebeh výskumného šetrenia i jeho záverečné interpretácie.
+
+27
+
+Za jeden z najvýraznejších limitov považujeme obmedzený počet respondentov – sestier
+pôsobiacich v zariadeniach pre seniorov a v domovoch sociálnych služieb. Napriek tomu, že
+sme využili kombinovaný spôsob distribúcie dotazníkov (papierová i elektronická forma) a
+cielene sme oslovili viacero typov komunitných zariadení, návratnosť dotazníkov nebola
+úplná. Tento fakt do veľkej miery súvisí s realitou personálnej situácie v slovenskom
+ošetrovateľstve, kde v zariadeniach pre seniorov dlhodobo pretrváva nízky počet sestier v
+porovnaní s potrebami klientov.
+Nedostatok kvalifikovaného personálu je spôsobený nielen nedostatočným systémovým
+nastavením, ale aj objektívnymi faktormi, ako je nízke finančné ohodnotenie sestier, vysoká
+pracovná záťaž, syndróm vyhorenia a obmedzené možnosti odborného rastu. Tieto faktory
+prispievajú k zníženému záujmu o zamestnanie v týchto typoch zariadení, čo sa prirodzene
+premieta aj do výskumnej časti práce, keďže potenciálnych respondentov je v praxi málo a
+tí, ktorí pracujú, často nemajú časový priestor alebo chuť zapájať sa do výskumných aktivít.
+Ďalším limitujúcim faktorom bola skutočnosť, že výskum bol realizovaný v relatívne
+krátkom časovom horizonte (december až marec 2025), čo mohlo ovplyvniť dostupnosť
+respondentov, napríklad v súvislosti s dovolenkovým obdobím, čerpaním náhradného voľna,
+pracovným vyťažením alebo organizačnými zmenami v rámci zariadení. V niektorých
+prípadoch sa stalo, že vrchné sestry pôvodne súhlasili s distribúciou dotazníka, no z dôvodu
+nepredvídaných okolností (napr. náhleho výpadku personálu či zmeny vedenia) sa realizácia
+distribúcie neuskutočnila, čo ovplyvnilo celkový rozsah výskumnej vzorky.
+Za limit možno považovať aj štruktúru samotného dotazníka, ktorá, hoci bola zostavená
+starostlivo a vychádzala z výskumných cieľov a otázok, zostáva neštandardizovaným
+nástrojom. Hoci sme sa usilovali o jeho čo najväčšiu zrozumiteľnosť, tematickú
+konzistentnosť a odbornú relevantnosť, isté formulácie mohli byť jednotlivými
+respondentmi interpretované mierne odlišne. Navyše, keďže išlo o uzatvorené otázky,
+niektoré nuansy alebo špecifiká individuálnej praxe respondentiek mohli zostať
+nezachytené. Hoci tento fakt neovplyvnil základné analytické ciele práce, predstavuje
+metodologické obmedzenie, ktoré je potrebné reflektovať.
+Ďalej treba spomenúť aj regionálne obmedzenie výskumného šetrenia. Napriek snahe
+osloviť zariadenia z rôznych častí Slovenska, väčšina papierových dotazníkov bola
+distribuovaná najmä v zariadeniach západného a stredného Slovenska. To mohlo ovplyvniť
+výsledky výskumu, keďže podmienky práce, dostupnosť odborného personálu a podpora zo
+strany vedenia zariadení sa môžu v rôznych regiónoch líšiť.
+
+28
+
+Uvedomujeme si, že tieto limity znižujú možnosť úplnej generalizácie výsledkov na všetky
+sestry pôsobiace v komunitných podmienkach na Slovensku. Na druhej strane však
+poskytujú realistický obraz o praktických možnostiach výskumu v oblasti komunitného
+ošetrovateľstva a zdôrazňujú potrebu ďalšieho, rozsiahlejšieho výskumu, ktorý by sa opieral
+o štandardizované nástroje a prebiehal v dlhšom časovom horizonte s podporou
+inštitucionálnych aktérov.
+
+3.8 Vyhodnotenie dotazníkových položiek
+Následne uvádzame vyhodnotenie dotazníkových položiek.
+
+Graf 1: Ktoré pohybové aktivity vykonávajú seniori pre zachovanie fyzického zdravia?
+Zdroj: vlastné spracovanie.
+Najčastejšie uvádzanou pohybovou aktivitou boli prechádzky, ktoré označilo 75 %
+respondentiek (n = 36). Ide o nenáročnú a bezpečnú formu pohybu, ktorú je možné
+realizovať individuálne aj v skupine a ktorá je vhodná pre seniorov s rôznou úrovňou
+mobility. Cvičenie v telocvični uviedlo 12,5 % sestier (n = 6), čo poukazuje na snahu o
+organizovanú fyzickú aktivitu v interiéri, najmä počas nepriaznivého počasia. Plávanie ako
+forma aktivity bolo prítomné v odpovediach u 6,25 % respondentiek (n = 3), čo môže byť
+29
+
+spôsobené obmedzeným prístupom seniorov k bazénom či dopravnými bariérami. Iné
+aktivity, medzi ktoré možno zaradiť napríklad strečing, jogu či ľahkú domácu gymnastiku,
+uviedli 4,17 % sestier (n = 2). Bicyklovanie sa objavilo ako najmenej preferovaná aktivita,
+označená iba 2,08 % respondentiek (n = 1), čo môže súvisieť s vekom, koordináciou a
+obavami o bezpečnosť seniorov pri tejto pohybovej aktivite.
+
+Graf 2: Vyberáte pohybové aktivity podľa záujmu pacientov?
+Zdroj: vlastné spracovanie.
+Najviac respondentiek uviedlo, že pohybové aktivity vyberajú pravidelne podľa záujmu
+seniorov – túto odpoveď označilo 58,33 % (n = 28) sestier. Nasleduje možnosť občas, ktorú
+zvolilo 25 % opýtaných (n = 12), čo poukazuje na určitú variabilitu v prístupe k
+personalizácii pohybových činností. Málokedy vyberá aktivity na základe preferencií
+klientov 12,5 % respondentiek (n = 6). Najmenej, teda nikdy, zohľadňujú záujem seniora pri
+výbere pohybových aktivít 4,17 % respondentiek (n = 2).
+
+30
+
+Graf 3: O aké pohybové aktivity majú seniori najväčší záujem?
+Zdroj: vlastné spracovanie.
+Najväčší záujem seniorov je podľa respondentiek o cvičenie s fyzioterapeutom, ktoré
+označilo 62,5 % sestier (n = 30). Táto forma pohybu je vedená odborníkom a často prebieha
+individuálne, čo zrejme zvyšuje pocit bezpečia aj efektívnosť. Plávanie označilo 18,75 %
+respondentiek (n = 9), čo poukazuje na jeho obľubu najmä tam, kde je dostupná
+infraštruktúra. Možnosť iné aktivity, ktoré môžu zahŕňať napríklad tanec, cvičenie s hudbou
+alebo rehabilitačnú gymnastiku, uviedlo 12,5 % (n = 6). Najmenej častou odpoveďou bolo
+bicyklovanie, ktoré označilo len 6,25 % respondentiek (n = 3), pravdepodobne pre obavy o
+stabilitu a bezpečnosť seniorov počas jazdy.
+
+31
+
+Graf 4: Aké pohybové aktivity uprednostňujú seniori?
+Zdroj: vlastné spracovanie.
+Najčastejšie uprednostňovanou formou pohybovej aktivity zo strany seniorov sú
+individuálne aktivity, ktoré označilo 43,75 % respondentiek (n = 21). Tento výsledok možno
+interpretovať ako preferenciu bezpečia, súkromia a možnosti prispôsobiť aktivitu vlastnému
+tempu. Skupinové formy pohybu boli preferované u 33,33 % sestier (n = 16), čo poukazuje
+na sociálny rozmer cvičení a význam interakcie medzi seniormi. Kombinované aktivity, teda
+striedanie individuálneho a skupinového prístupu, uviedlo 22,92 % respondentiek (n = 11),
+čo odráža snahu prispôsobiť pohybový režim aktuálnemu stavu a nálade seniora. Tieto
+výsledky poukazujú na potrebu individualizácie pohybových aktivít v komunitnej praxi.
+
+32
+
+Graf 5: V ktorej časti dňa je najvhodnejší čas na vykonávanie pohybovej aktivity so
+seniormi?
+Zdroj: vlastné spracovanie.
+Ako najvhodnejší čas na realizáciu pohybových aktivít so seniormi označilo ráno 41,67 %
+respondentiek (n = 20). Tento výsledok poukazuje na výhodu ranných hodín, kedy sú seniori
+po nočnom odpočinku zvyčajne najviac aktívni a mentálne pripravení na fyzickú činnosť.
+Poobedné hodiny označilo 29,17 % respondentiek (n = 14), čo môže súvisieť s voľnejším
+režimom v zariadeniach po obede a stabilizovaným denným rytmom. V ktorúkoľvek hodinu
+počas dňa zvolilo 22,92 % sestier (n = 11), čo odráža flexibilitu pri plánovaní aktivít podľa
+aktuálneho zdravotného stavu a nálady seniora. Večer bol označený ako najvhodnejší len
+6,25 % respondentkami (n = 3).
+
+33
+
+Graf 6: Ako často edukujete seniorov o potrebe pravidelnej pohybovej aktivity pre
+zachovanie plného zdravia?
+Zdroj: vlastné spracovanie.
+Najväčšia skupina respondentiek, konkrétne 54,17 % (n = 26), uviedla, že edukáciu o
+význame pravidelnej pohybovej aktivity realizuje pravidelne. To poukazuje na silnú
+angažovanosť sestier v oblasti prevencie a zdravého životného štýlu. Občas vykonáva
+edukáciu 29,17 % respondentiek (n = 14), čo môže súvisieť s časovými obmedzeniami alebo
+pracovným vyťažením. Málokedy sa tejto téme venuje 12,5 % sestier (n = 6), čo môže
+naznačovať priestor na zlepšenie systematickej edukácie. Iba 4,17 % (n = 2) respondentiek
+uviedlo, že edukáciu nevykonáva vôbec, čo však zároveň potvrdzuje, že väčšina sestier si
+význam pohybovej aktivity pre zdravie seniorov uvedomuje.
+
+34
+
+Graf 7: Aké sú najčastejšie obmedzenia, ktoré bránia seniorom vykonávať pohybovú
+aktivitu?
+Zdroj: vlastné spracovanie.
+Najčastejšou prekážkou fyzickej aktivity u seniorov je podľa respondentiek fyzická
+imobilita, ktorú označilo až 50 % sestier (n = 24). Táto odpoveď poukazuje na častý výskyt
+pohybových obmedzení a chronických ochorení u starších osôb, ktoré výrazne limitujú ich
+schopnosť samostatne sa pohybovať. Zlé psychické rozpoloženie, ako napríklad depresívne
+stavy alebo úzkosti, bolo identifikované ako prekážka u 22,92 % respondentiek (n = 11), čo
+potvrdzuje význam psychického stavu pre motiváciu k aktivite. Nedostatok motivácie
+označilo 18,75 % sestier (n = 9), čo môže súvisieť s nízkou sebahodnotou alebo
+nedostatočnou podporou zo strany okolia. Odpoveď iné, ktorá zahŕňala napr. bolestivosť
+pohybu, slabosť/nepriaznivé podmienky v zariadení, uviedlo 8,33 % respondentiek (n = 4).
+
+35
+
+Graf 8: Aké techniky používate na podporu spánku u seniorov?
+Zdroj: vlastné spracovanie.
+Najčastejšie využívanou technikou na podporu spánku u seniorov sú aktivity počas celého
+dňa, ktoré uviedlo 39,58 % respondentiek (n = 19). Ide najmä o strategické plánovanie
+denného režimu s cieľom vyvolať fyziologickú únavu a podporiť prirodzený spánkový
+cyklus. Podpora zdravého životného štýlu, vrátane vyváženej stravy a pravidelného pohybu,
+bola prítomná u 31,25 % opýtaných (n = 15). Relaxačné techniky, ako napríklad dychové
+cvičenia, aromaterapia či hudobná terapia, označilo 18,75 % respondentiek (n = 9), čo
+ukazuje potenciál tejto neinvazívnej formy podpory. Farmakoterapia bola uvedená ako
+podporný prostriedok iba v 10,42 % odpovedí (n = 5).
+
+36
+
+Graf 9: Aké sú najčastejšie príčiny poruchy spánku u seniorov?
+Zdroj: vlastné spracovanie.
+Najčastejšou príčinou porúch spánku u seniorov sú podľa respondentiek fyzické ťažkosti,
+najmä bolesť, ktorú označilo 41,67 % sestier (n = 20). Tieto zdravotné ťažkosti, často
+súvisiace s pohybovým aparátom či chronickými ochoreniami, výrazne znižujú kvalitu
+nočného odpočinku. Psychické problémy, ako sú depresia, úzkosť alebo osamelosť, uviedlo
+31,25 % respondentiek (n = 15), čo poukazuje na dôležitosť duševnej pohody v živote
+seniora. Nezdravý životný štýl, zahŕňajúci napríklad nevhodný stravovací režim, nízku
+pohybovú aktivitu alebo nadmerné popíjanie kávy, označilo 18,75 % sestier (n = 9).
+Odpoveď iné, pod ktorou si možno predstaviť napríklad nevhodné podmienky v miestnosti
+na spanie či rušivé vplyvy prostredia, uviedlo 8,33 % respondentiek (n = 4).
+
+37
+
+Graf 10: Ako často používate sesterské intervencie na podporu spánku seniorov?
+Zdroj: vlastné spracovanie.
+Najviac respondentiek, konkrétne 45,83 % (n = 22), uviedlo, že intervencie zamerané na
+podporu spánku u seniorov používajú pravidelne. Tento výsledok poukazuje na vysoké
+povedomie o význame spánku pre celkové zdravie klientov. Občas využíva intervencie
+31,25 % sestier (n = 15), čo môže súvisieť s konkrétnymi situáciami alebo potrebami
+jednotlivých klientov. Málokedy ich aplikovalo 16,67 % respondentiek (n = 8), čo poukazuje
+na priestor pre zvýšenie systematickosti v tejto oblasti. Iba 6,25 % sestier (n = 3) uviedlo, že
+takéto intervencie nepoužívajú vôbec, čo však tvorí zanedbateľnú časť výskumnej vzorky.
+
+38
+
+Graf 11: Aké formy sesterských intervencií využívate pri podpore spánku seniorov?
+Zdroj: vlastné spracovanie.
+Najčastejšie využívanou formou intervencie boli individuálne intervencie, ktoré označilo
+39,58 % respondentiek (n = 19). Tento prístup umožňuje prispôsobenie starostlivosti
+konkrétnym potrebám seniora a reflektuje princípy personalizovaného ošetrovateľstva.
+Kombinované formy, teda striedanie individuálnych a skupinových intervencií, využíva
+31,25 % sestier (n = 15), čo poukazuje na snahu o flexibilitu v praxi. Skupinové intervencie,
+napríklad spoločné relaxačné techniky alebo večerné rituály, označilo 20,83 %
+respondentiek (n = 10). Iné formy, ktoré môžu zahŕňať spoluprácu s rodinou, terapeutmi
+alebo použitie technických pomôcok, uviedlo 8,33 % sestier (n = 4).
+
+39
+
+Graf 12: Ako často vykonávate edukáciu seniorom týkajúcu sa podpory spánku?
+Zdroj: vlastné spracovanie.
+Najčastejšie uvádzanou odpoveďou bolo, že edukáciu o podpore spánku realizujú sestry
+pravidelne, čo potvrdilo 47,92 % respondentiek (n = 23). Tento výsledok svedčí o tom, že
+sestry si uvedomujú dôležitosť edukácie ako nástroja prevencie a podpory zdravého
+životného štýlu. Občas vykonáva edukáciu 27,08 % respondentiek (n = 13), čo môže
+naznačovať nedostatočné časové alebo personálne kapacity. Málokedy sa tejto téme venuje
+16,67 % sestier (n = 8), čo poukazuje na potenciál zlepšenia edukácie v niektorých
+zariadeniach. Nikdy edukáciu nevykonáva 8,33 % respondentiek (n = 4), čo predstavuje
+rizikový faktor pre udržanie zdravého spánkového režimu u klientov.
+
+40
+
+Graf 13: Aký dopad majú sesterské intervencie na podporu spánku seniorov?
+Zdroj: vlastné spracovanie.
+Ako najčastejší pozitívny dopad intervencií zameraných na podporu spánku uviedli
+respondentky zlepšenie kvality spánku, ktoré označilo 43,75 % sestier (n = 21). Tento
+výsledok potvrdzuje efektivitu nefarmakologických a edukatívnych prístupov v
+ošetrovateľskej praxi. Znížený počet nočných prebúdzaní ako pozitívny efekt uviedlo
+29,17 % respondentiek (n = 14), čo naznačuje, že systematické intervencie môžu stabilizovať
+spánkový cyklus. Kratšiu dobu zaspávania označilo 18,75 % sestier (n = 9), čo opäť svedčí
+o účinnosti preventívnych a upokojujúcich techník. Odpoveď iné, ktorá obsahovala
+napríklad pokojnejšiu atmosféru alebo celkové zníženie stresu, uviedlo 8,33 % opýtaných (n
+= 4).
+
+41
+
+Graf 14: Akým spôsobom ovplyvňuje kvalita spánku celkový stav seniora?
+Zdroj: vlastné spracovanie.
+Najčastejšie uvádzaným pozitívnym dopadom kvalitného spánku je podľa sestier zlepšenie
+nálady, ktoré označilo 37,5 % respondentiek (n = 18). Táto odpoveď korešponduje s
+vedeckými poznatkami o prepojení medzi psychickou pohodou a regeneračnými procesmi
+počas spánku. Zlepšenie kognitívnych funkcií v dôsledku kvalitného odpočinku označilo
+31,25 % sestier (n = 15), čo poukazuje na význam spánku pri udržiavaní duševnej výkonnosti
+seniorov. Zníženie rizika vzniku ochorení, napríklad kardiovaskulárnych alebo
+metabolických, uviedlo 22,92 % respondentiek (n = 11). Iné účinky, ako napríklad zlepšenie
+imunitného systému alebo celkovej vitality, uviedlo 8,33 % opýtaných (n = 4).
+
+42
+
+Graf 15: Akú formu podpory kognitívnych funkcií vykonávate u seniorov najčastejšie?
+Zdroj: vlastné spracovanie.
+Najviac respondentiek uviedlo, že najčastejšou formou podpory kognitívnych funkcií je
+komunikácia so seniorom, ktorú označilo 35,42 % sestier (n = 17). Tento výsledok
+potvrdzuje význam každodenného verbálneho kontaktu ako kľúčového nástroja stimulácie.
+Vykonávanie tvorivých aktivít s terapeutmi, ako sú maľovanie, práca s hlinou alebo spev,
+označilo 25 % respondentiek (n = 12), čo poukazuje na význam multisenzorických podnetov.
+Sprostredkovanie návštev rodiny uviedlo 16,67 % sestier (n = 8), čo svedčí o význame
+emocionálnej opory v procese kognitívnej stimulácie. Zabezpečenie spirituálnych potrieb,
+ktoré zahŕňa napríklad modlitbu alebo duchovné rozhovory, označilo 12,5 % opýtaných (n
+= 6). Iné formy podpory uviedlo 10,42 % respondentiek (n = 5), pričom išlo prevažne o
+reminiscenčné techniky alebo spoločenské hry.
+
+43
+
+Graf 16: Ako často vykonávate u seniorov podporu kognitívnych funkcií?
+Zdroj: vlastné spracovanie.
+Najviac respondentiek – 52,08 % (n = 25) – uviedlo, že pravidelne vykonávajú aktivity
+zamerané na podporu kognitívnych funkcií. To potvrdzuje, že sestry si uvedomujú význam
+mentálnej stimulácie v prevencii kognitívneho úpadku u seniorov. Občas sa tejto oblasti
+venuje 25 % opýtaných (n = 12), čo môže odrážať určité personálne alebo organizačné
+obmedzenia. Málokedy realizuje tieto aktivity 16,67 % respondentiek (n = 8), čo predstavuje
+skupinu, kde je priestor na zlepšenie systematickosti. Nikdy nepodporuje kognitívne funkcie
+6,25 % sestier (n = 3), čo je najnižšia, no odborníkom stále významná hodnota, poukazujúca
+na potrebu osvety v tejto oblasti.
+
+44
+
+Graf 17: Akú podporu kognitívnych funkcií v rámci sesterských intervencií vykonávate
+u seniorov?
+Zdroj: vlastné spracovanie.
+Najviac respondentiek, konkrétne 33,33 % (n = 16), uviedlo, že pri podpore kognitívnych
+funkcií u seniorov využívajú pamäťové hry, ktoré slúžia na stimuláciu mozgu, trénovanie
+koncentrácie a udržiavanie mentálnej aktivity. Mentálne cvičenia, ako sú riešenie logických
+úloh, hádanky či práce s číslami a slovami, označilo 29,17 % sestier (n = 14). Skupinovú
+komunikáciu, ktorá má pozitívny vplyv najmä na verbálnu schopnosť a sociálnu interakciu,
+realizuje 22,92 % respondentiek (n = 11). Iné formy podpory, napríklad reminiscenčná
+terapia, práca s fotografiami alebo spev, označilo 14,58 % respondentiek (n = 7), čo dokazuje
+rôznorodosť možností, ktoré sestry uplatňujú podľa potrieb klientov.
+
+45
+
+Graf 18: Aké sú najčastejšie poruchy kognitívnych funkcií u seniorov?
+Zdroj: vlastné spracovanie.
+Najčastejšie uvádzanou poruchou kognitívnych funkcií u seniorov bolo podľa odpovedí
+sestier zhoršenie pamäte, ktoré označilo 45,83 % respondentiek (n = 22). Tento výsledok
+zodpovedá vysokému výskytu porúch krátkodobej pamäti v staršom veku a často signalizuje
+počiatočné štádium demencie. Zhoršená komunikácia, teda problémy s vyjadrovaním alebo
+porozumením reči, bola prítomná u 25 % respondentiek (n = 12). Zhoršenie vnímania, ktoré
+môže znamenať zníženú schopnosť spracovávať informácie z okolia, uviedlo 18,75 % sestier
+(n = 9). Iné poruchy, ako napríklad dezorientácia, apatia alebo poruchy pozornosti, uviedlo
+10,42 % opýtaných (n = 5).
+
+46
+
+Graf 19: Aké výsledky pozorujete po použití sesterských intervencií na podporu
+kognitívnych funkcií?
+Zdroj: vlastné spracovanie.
+Najčastejším výsledkom pozorovaným po realizácii intervencií bola podľa respondentiek
+zlepšená pamäť u seniorov, ktorú uviedlo 41,67 % sestier (n = 20). Tento údaj potvrdzuje
+efektívnosť pravidelných pamäťových cvičení a stimulácie v rámci každodennej praxe.
+Zlepšenie komunikácie, ktoré môže znamenať uvoľnenejšiu reč, bohatšiu slovnú zásobu
+alebo lepšiu interakciu, zaznamenalo 33,33 % respondentiek (n = 16). Zlepšenie vnímania,
+teda schopnosti orientovať sa v priestore a čase či adekvátne reagovať na podnety,
+zaznamenalo 25 % sestier (n = 12). Tieto výsledky poukazujú na význam pravidelnej a
+cielenej podpory kognitívnych schopností v seniorskom veku.
+
+47
+
+Graf 20: Aké hodnotiace metódy využívate u seniorov na hodnotenie kognitívnych
+funkcií?
+Zdroj: vlastné spracovanie.
+Najčastejšie využívanou metódou hodnotenia kognitívnych funkcií u seniorov je podľa
+respondentiek pozorovanie, ktoré označilo 37,5 % sestier (n = 18).Komunikácia, ako forma
+priameho kontaktu, ktorou možno zachytiť narušenie logického myslenia, orientácie či reči,
+bola použitá u 27,08 % respondentiek (n = 13). Kognitívne hodnotiace testy, ako napríklad
+MMSE, využíva 20,83 % sestier (n = 10), čo poukazuje na nižšiu mieru štandardizovaného
+hodnotenia v praxi. Iné formy, ako napríklad spolupráca s psychológom alebo reminiscenčné
+pozorovanie, uviedlo 14,58 % opýtaných (n = 7).
+
+48
+
+Graf 21: Ako často vykonávate edukáciu seniorov o podpore kognitívnych funkcií?
+Zdroj: vlastné spracovanie.
+Presne 50 % respondentiek (n = 24) uviedlo, že edukáciu o podpore kognitívnych funkcií
+realizujú pravidelne, čo potvrdzuje, že táto oblasť je v praxi vnímaná ako neoddeliteľná
+súčasť ošetrovateľskej starostlivosti. Občas sa edukácii venuje 29,17 % sestier (n = 14), čo
+poukazuje na jej zaradenie podľa potreby alebo pri určitých signáloch zhoršujúceho sa
+mentálneho stavu. Málokedy vykonáva túto edukáciu 14,58 % respondentiek (n = 7), čo
+naznačuje potrebu zvýšiť pozornosť venovanú tejto problematike. Nikdy sa jej nevenuje
+6,25 % sestier (n = 3), čo predstavuje minoritnú, ale významnú skupinu s možnosťou
+odbornej intervencie.
+
+49
+
+Graf 22: Akým spôsobom podporujete imunizáciu seniorov?
+Zdroj: vlastné spracovanie.
+Najčastejším spôsobom podpory imunizácie seniorov podľa sestier bolo očkovanie, ktoré
+označilo 33,33 % respondentiek (n = 16). Tento výsledok potvrdzuje, že sestry v komunite
+zohrávajú významnú rolu pri zabezpečovaní preventívnych očkovaní proti chrípke,
+pneumokokom či COVID-19. Plnohodnotná strava, ako súčasť posilňovania imunity, bola
+uvedená v 27,08 % odpovedí (n = 13), čo poukazuje na interdisciplinárny charakter
+starostlivosti. Pravidelný pohyb, ktorý má priamy vplyv na celkovú odolnosť organizmu,
+uviedlo 22,92 % sestier (n = 11). Dostatočný príjem vitamínov a minerálov, najmä vitamínu
+C, D a zinku, bol indikovaný 16,67 % respondentiek (n = 8), čo potvrdzuje komplexný
+pohľad sestier na imunitu v seniorskom veku.
+
+50
+
+Graf 23: Ktoré preventívne vyšetrenia vykonávate u seniorov najčastejšie?
+Zdroj: vlastné spracovanie.
+Najviac respondentiek – 35,42 % (n = 17) – uviedlo, že najčastejšie vykonávanými
+preventívnymi vyšetreniami sú prehliadky u praktického lekára raz za dva roky. Prevenciu
+onkologických ochorení, vrátane skríningových vyšetrení (napr. mamografického alebo
+kolorektálneho skríningu), uviedlo 27,08 % sestier (n = 13). Stomatologické preventívne
+prehliadky označilo 22,92 % respondentiek (n = 11), čo môže súvisieť s nižšou prioritizáciou
+dentálnej starostlivosti u starších pacientov.
+
+51
+
+Graf 24: Edukujete seniora o potrebe vykonania skríningových vyšetrení?
+Zdroj: vlastné spracovanie.
+Až 56,25 % respondentiek (n = 27) uviedlo, že seniorov pravidelne edukujú o potrebe
+absolvovania skríningových vyšetrení, čo odráža vysoké povedomie o význame včasného
+záchytu ochorení. Občas edukáciu realizuje 22,92 % sestier (n = 11), čo môže byť spôsobené
+kapacitnými alebo organizačnými obmedzeniami. Málokedy sa tejto edukácii venuje
+14,58 % respondentiek (n = 7) a nikdy needukuje seniorov 6,25 % sestier (n = 3).
+
+3.9 Verifikácia výskumných hypotéz
+Následne uvádzame výsledky induktívnej štatistiky.
+
+52
+
+Graf 25: H1: Frekvencia výberu pohybových aktivít podľa typu zariadenia.
+Zdroj: vlastné spracovanie.
+Cieľom bolo zistiť, či existuje štatisticky významný rozdiel vo frekvencii, s akou sestry v
+rôznych typoch zariadení (DSS, ZPS, ADOS) vyberajú pohybové aktivity podľa záujmu
+seniorov. Na základe chí-kvadrát testu (χ² = 2,36; p = 0,884) môžeme konštatovať, že
+rozdiely medzi zariadeniami neboli štatisticky významné (p > 0,05).
+To znamená, že výber pohybových aktivít podľa záujmu pacientov sa v jednotlivých typoch
+zariadení zásadne nelíši.
+Nulová hypotéza H10 teda nebola zamietnutá – prax sestier v tejto oblasti je porovnateľná
+naprieč komunitnými zariadeniami. Vizualizácia v grafe podporuje tento záver, keďže
+rozloženie odpovedí je vo všetkých typoch zariadení pomerne vyrovnané.
+
+53
+
+Graf 26: H2: Forma intervencií na podporu spánku podľa typu zariadenia.
+Zdroj: vlastné spracovanie.
+Skúmaním sme sa zamerali na to, či sestry vykonávajú individuálne činnosti pri podpore
+spánku seniorov v závislosti od typu komunitného zariadenia. Hypotéza predpokladala, že
+intervencie môžu byť individuálne alebo nie, pričom ich výskyt by sa mohol líšiť medzi
+zariadeniami (DSS, ZPS, ADOS).
+Výsledky chí-kvadrát testu:
+•
+
+χ² = 0,99
+
+•
+
+p-hodnota = 0,986
+
+•
+
+stupne voľnosti = 6
+
+Získaná p-hodnota výrazne prevyšuje hladinu významnosti 0,05, preto nulová hypotéza
+H20 nebola zamietnutá. Medzi typom zariadenia a formou sesterskej intervencie na
+podporu spánku neexistuje štatisticky významný rozdiel.
+Výsledky naznačujú, že bez ohľadu na to, či sestra pracuje v DSS, ZPS alebo ADOS,
+podobným spôsobom pristupuje k podpore spánku, a to aj pokiaľ ide o individuálne
+intervencie.
+
+54
+
+Graf 27: H3: Frekvencia podpory kognitívnych funkcií podľa typu zariadenia.
+Zdroj: vlastné spracovanie.
+Cieľom bolo zistiť, či existujú štatisticky významné rozdiely vo frekvencii podpory
+kognitívnych funkcií seniorov v závislosti od typu komunitného zariadenia – konkrétne sme
+porovnávali výskyt pravidelnej, občasnej, zriedkavej alebo žiadnej podpory v
+zariadeniach typu DSS, ZPS a ADOS.
+Výsledok chí-kvadrát testu:
+•
+
+χ² = 3,53
+
+•
+
+p-hodnota = 0,7406
+
+•
+
+stupne voľnosti = 6
+
+Na základe vysokej p-hodnoty môžeme konštatovať, že medzi typom zariadenia a
+frekvenciou intervencií na podporu kognitívnych funkcií neexistuje štatisticky významný
+rozdiel (p > 0,05).
+Záverom teda je, že nulová hypotéza H30 nebola zamietnutá, čo znamená, že bez ohľadu
+na to, v akom zariadení sestra pôsobí, kognitívne funkcie podporuje s porovnateľnou
+pravidelnosťou. Z grafu možno vidieť, že vo všetkých troch typoch zariadení dominuje
+pravidelná alebo občasná realizácia týchto činností.
+
+55
+
+Graf 28: H4: Spôsoby podpory imunizácie seniorov podľa typu zariadenia.
+Zdroj: vlastné spracovanie.
+V rámci tejto hypotézy sme sa snažili zistiť, či sestry v rôznych typoch komunitných
+zariadení (DSS, ZPS, ADOS) používajú odlišné spôsoby podpory imunity seniorov, a
+teda či sa ich vedomosti a prax líšia v závislosti od pracoviska.
+Výsledok chí-kvadrát testu:
+•
+
+χ² = 1,03
+
+•
+
+p-hodnota = 0,9846
+
+•
+
+stupne voľnosti = 6
+
+Výsledky testu jasne ukazujú, že medzi typom zariadenia a spôsobom podpory imunizácie
+nie je štatisticky významný rozdiel. p-hodnota výrazne prevyšuje stanovenú hladinu
+významnosti α = 0,05, preto nulová hypotéza H40 nebola zamietnutá.
+Z toho vyplýva, že sestry – bez ohľadu na to, či pracujú v DSS, ZPS alebo agentúre domácej
+starostlivosti – realizujú preventívne opatrenia na podporu imunity seniorov s
+podobnou stratégiou a frekvenciou.
+
+56
+
+4 DISKUSIA
+V predloženej kapitole sa venujeme interpretácii a zhodnoteniu výsledkov získaných
+v predchádzajúcej analytickej časti práce. Zámerom diskusie je uviesť kvalitný pohľad na
+význam a implikácie zistení v kontexte skúmanej problematiky.
+
+4.1 Diskusia
+Výsledky realizovaného výskumu poskytujú komplexný pohľad na aktuálnu prax
+komunitných sestier v oblasti podpory zdravia seniorov v štyroch kľúčových oblastiach:
+fyzická aktivita, spánok, kognitívne funkcie a imunizácia. Zároveň umožňujú hodnotiť
+úroveň štandardizácie poskytovaných intervencií naprieč rôznymi typmi komunitných
+zariadení.
+V oblasti podpory fyzickej aktivity sa ukázalo, že dominantnou činnosťou zostávajú
+prechádzky (75 % odpovedí), čo potvrdzuje preferenciu nenáročného, ale pravidelného
+pohybu v súlade s odporúčaniami Svetovej zdravotníckej organizácie (WHO, 2023). Tieto
+aktivity sú bezpečné, dostupné a umožňujú individualizáciu podľa aktuálneho zdravotného
+stavu. Zároveň sa však ukázalo, že pohybové aktivity sú v značnej miere prispôsobované
+záujmom seniorov, pričom až 58,33 % sestier uviedlo pravidelné zohľadňovanie preferencií
+klientov. Tento prístup odráža princípy personifikovaného ošetrovateľstva, ktoré zohrávajú
+zásadnú úlohu v prevencii frailty syndrómu a depresie v staršom veku (Tomić et al., 2022;
+Mudrák et al., 2014).
+Pravidelná edukácia o význame fyzickej aktivity, ktorú uviedlo viac než 50 % respondentiek,
+potvrdzuje aktívny prístup sestier k prevencii a zdravému starnutiu, ako to uvádza aj
+Národný program aktívneho starnutia (2014). Napriek tomu však medzi bariérami fyzickej
+aktivity dominuje fyzická imobilita (50 %), z čoho vyplýva potreba multidisciplinárneho
+prístupu vrátane fyzioterapeutov, ergoterapeutov a ošetrovateľského personálu. Ako
+uvádzajú Sangrar et al. (2021), aktivizácia seniorov je efektívna len vtedy, ak zohľadňuje
+fyzické a psychosociálne limity, ktoré s narastajúcim vekom prirodzene pribúdajú.
+V oblasti podpory spánku dominovali nefarmakologické intervencie (napr. plánovanie
+aktivít počas dňa, relaxačné techniky), čo korešponduje s odporúčaniami pre komunitnú prax
+(WHO, 2023; Cheung et al., 2020). Až 45,83 % respondentiek uviedlo pravidelné
+využívanie týchto intervencií, čo poukazuje na rastúce povedomie o význame spánku pre
+
+57
+
+duševné aj fyzické zdravie. Individuálne prispôsobenie intervencií, ktoré dominovalo aj v
+rámci foriem starostlivosti, je v súlade s prístupmi dôstojnej starostlivosti, ktoré zdôrazňuje
+Mullerová (2014) a ktoré sa opierajú o rešpektovanie potrieb jednotlivca.
+Medzi najčastejšie príčiny porúch spánku patrili fyzické bolesti (41,67 %) a psychické
+ťažkosti (31,25 %), čo potvrdzuje, že spánok nemožno izolovať od celkového zdravotného
+a emocionálneho stavu seniora. Ako ukazujú výsledky štúdie Domagała et al. (2021), vysoká
+pracovná záťaž a nízky počet personálu môžu znižovať možnosti sestier venovať sa tejto
+oblasti komplexne, čo naznačujú aj zistenia nášho výskumu o občasnom či zriedkavom
+využívaní edukácie v tejto oblasti.
+Podpora kognitívnych funkcií sa v praxi realizuje predovšetkým prostredníctvom
+každodennej komunikácie a pamäťových hier, ktoré sú prístupné a nenáročné na materiálové
+zabezpečenie. Pravidelné vykonávanie týchto činností uviedlo až 52,08 % respondentiek, čo
+je pozitívne, avšak stále existuje priestor na zvýšenie systematickosti, najmä v zariadeniach
+s obmedzenými personálnymi kapacitami. Podľa Zhou et al. (2023) majú komunitné
+intervencie významný dopad na spomalenie kognitívneho úpadku, a to najmä ak sú
+realizované pravidelne a cielené na potreby konkrétnych klientov.
+Zistenia potvrdili, že sestry dokážu rozpoznať najčastejšie prejavy porúch kognitívnych
+funkcií (napr. poruchy pamäti, zhoršená komunikácia), pričom na hodnotenie najčastejšie
+využívajú pozorovanie a verbálnu interakciu. Na druhej strane je evidentné, že využívanie
+štandardizovaných nástrojov (napr. MMSE) je menej časté, čo môže byť dôsledkom
+nedostatočného vzdelávania alebo organizačných obmedzení (Shelkey, 2012). Pravidelná
+edukácia o kognitívnom zdraví je podľa výsledkov vykonávaná len u polovice
+respondentiek, čo naznačuje potrebu väčšej systematizácie edukácie v tejto oblasti, najmä v
+kontexte rastúcej incidencie demencie (Cubová, 2015; Golinowska et al., 2016).
+V oblasti podpory imunizácie dominovalo očkovanie, strava a pohyb ako hlavné formy
+intervencií. Tieto výsledky potvrdzujú, že sestry pristupujú k imunite komplexne, čím
+reflektujú interdisciplinárny rozmer komunitnej starostlivosti (Sowa et al., 2015; Savage,
+2019). Zároveň bola zaznamenaná silná účasť sestier na edukácii o skríningových
+vyšetreniach, čo korešponduje s odporúčaniami Národného programu ochrany starších ľudí
+(2013) o potrebe zvýšiť informovanosť seniorov v oblasti prevencie.
+Výsledky induktívnej štatistiky ukázali, že medzi typmi zariadení neexistujú štatisticky
+významné rozdiely vo frekvencii a forme intervencií vo všetkých štyroch oblastiach. Tento
+
+58
+
+fakt je možné interpretovať pozitívne – ako znak profesionalizácie komunitného
+ošetrovateľstva, jednotného prístupu a implementácie štandardizovaných stratégií. Zároveň
+však treba dodať, že homogenita praxe môže byť spôsobená aj limitovanými možnosťami
+prispôsobenia vzhľadom na nedostatok personálu či nadmernú administratívnu záťaž
+(Domagała et al., 2021; Mačkinová – Kopinec, 2019). Ako uvádza Adamík Šimegová
+(2019), systémová podpora komunitnej práce v zariadeniach sociálnych služieb je
+nevyhnutná pre rozvoj kvalitnej, inkluzívnej a preventívne orientovanej starostlivosti.
+Napokon, významnú úlohu v kvalite intervencií zohráva aj vzdelávanie sestier – najmä v
+oblasti komunikácie, kognitívnej stimulácie a uplatňovania nefarmakologických techník, čo
+opakovane potvrdili viacerí autori (Golinowska et al., 2016; Cheung et al., 2020). Z výskumu
+vyplynulo, že hoci sestry vo veľkej miere vykonávajú aktivity podporujúce zdravie, čelia
+rôznym obmedzeniam – predovšetkým nedostatku času a spolupráce zo strany klientov.
+Tieto faktory sú v súlade s poznatkami Cubovej (2015), ktorá poukazuje na potrebu
+motivácie seniorov a vytvárania priaznivého prostredia pre edukáciu a intervencie.
+Výsledky preto jednoznačne poukazujú na význam komunitného ošetrovateľstva ako
+nástroja podpory aktívneho a zdravého starnutia. Kľúčovou sa javí byť rola sestry – nie ako
+pasívneho vykonávateľa starostlivosti, ale ako facilitátora zdravia, ktorý integruje odborné
+vedomosti, medziľudské zručnosti a kultúrne kompetencie do každodennej praxe.
+Nemenej dôležitou črtou, ktorý z výskumu vyplynul, je otázka časovej a organizačnej
+kapacity sestier na realizáciu intervencií. Hoci ochota a odborná pripravenosť personálu bola
+v odpovediach zreteľná, z viacerých položiek vyplýva, že sestry často narážajú na praktické
+limity – najmä v súvislosti s nedostatkom personálu, potrebou multitaskingu a vysokým
+administratívnym zaťažením. Práve tieto faktory môžu spôsobovať, že niektoré intervencie,
+ako napríklad edukácia o spánku alebo prevencia kognitívneho úpadku, nie sú vykonávané
+dostatočne často. Tento stav nie je ojedinelý – ako uvádza Domagała, Klich a Urbańska
+(2021), pracovníci v zariadeniach dlhodobej starostlivosti čoraz častejšie čelia nesúladu
+medzi očakávaniami zo strany systému a reálnymi možnosťami výkonu praxe.
+Pozornosť si zaslúži aj fakt, že vo viacerých odpovediach respondenti uvádzali kombinované
+prístupy ako formu intervencie – najmä v podpore kognitívnych funkcií a pri spánkových
+poruchách. Takéto riešenia, ktoré prepájajú individuálnu a skupinovú prácu, sú v súlade so
+súčasnými poznatkami o efektivite viacúrovňových zásahov v komunitnom ošetrovateľstve.
+Ako konštatuje Cheung a kol. (2020), kombinácia rôznych foriem podpory zvyšuje šancu na
+
+59
+
+zmenu správania a stabilizáciu zdravotného stavu, najmä u klientov s miernym až stredne
+pokročilým kognitívnym deficitom.
+Za pozornosť stojí aj vysoká miera uvedomenia si významu edukácie. Vo viacerých
+oblastiach výskumu práve edukácia predstavovala základný nástroj podpory zdravia – či už
+išlo o pohybovú aktivitu, spánok alebo imunizáciu. Je však potrebné zdôrazniť, že edukácia
+v seniorskom veku má svoje špecifiká, ktoré vyžadujú nielen pedagogickú kompetenciu, ale
+aj schopnosť empatie a rešpektovania individuálnych bariér vnímania, ako upozorňuje
+Cubová (2015). Tieto špecifiká si vyžadujú priebežné vzdelávanie personálu aj z oblasti
+geragogiky, aby sestry dokázali prispôsobiť formu a obsah edukácie aktuálnym potrebám
+klienta.
+Postrehom, ktorý z výsledkov vyplýva, je relatívna jednotnosť v aplikácii intervencií naprieč
+jednotlivými typmi zariadení. Hoci sa očakávali určité rozdiely v dôsledku rozdielnych
+organizačných štruktúr, prostredia a prístupov, štatistické analýzy nepotvrdili signifikantné
+rozdiely medzi DSS, ZpS a ADOS. Tento jav možno interpretovať z viacerých uhlov
+pohľadu. Na jednej strane to svedčí o rozšírení štandardizovaných prístupov a ich úspešnej
+implementácii v praxi. Na druhej strane však vzniká otázka, či práve táto uniformita
+neprekáža širšej individualizácii starostlivosti, najmä v domácich podmienkach, kde má
+klient často iné potreby a možnosti ako v inštitucionálnom prostredí.
+Ako uvádzajú Sowa a kol. (2015), kvalita komunitnej starostlivosti spočíva najmä v
+schopnosti reagovať na meniace sa potreby populácie – nie len prostredníctvom
+štandardných protokolov, ale aj citlivým prístupom, ktorý zohľadňuje sociálne determinanty
+zdravia, ako je osamelosť, nízke vzdelanie či ekonomické podmienky. Tieto faktory pritom
+výrazne ovplyvňujú úspešnosť akejkoľvek intervencie a nie je možné ich ignorovať, najmä
+v práci so seniormi, ktorí sú na tieto faktory výrazne senzitívni.
+Inou črtou, ktorá si v rámci diskusie zasluhuje osobitnú pozornosť, je otázka motivácie
+seniorov k spolupráci na preventívnych a podporných opatreniach. Zo skúseností sestier
+vyplýva, že hoci sa vo väčšine prípadov stretávajú s ochotou klientov zapojiť sa do aktivít,
+existuje aj nemalá skupina seniorov, ktorí prejavujú pasivitu, nezáujem alebo dokonca
+odpor. Dôvody sú rôznorodé – od dlhodobo pretrvávajúcich zdravotných ťažkostí cez
+psychickú vyčerpanosť až po celkovú stratu zmysluplnosti každodenného života. V tejto
+súvislosti je dôležité uvedomiť si, že podpora zdravia v seniorskom veku nie je len
+otázkou fyzických zásahov, ale vo veľkej miere aj otázkou psychologickej podpory,
+
+60
+
+empatie a schopnosti pracovať s motiváciou človeka, ktorý si uvedomuje svoje limity a
+zároveň si nesie vlastnú životnú históriu.
+V tejto oblasti sa ukazuje ako mimoriadne dôležité, aby sestry dokázali rozpoznať aj menej
+viditeľné prejavy demotivácie, ktoré sa často zamieňajú s „neposlušnosťou“ alebo
+„neochotou spolupracovať“. Ako upozorňuje Mačkinová a Kopinec (2019), mnohí seniori
+po prepustení do komunitnej alebo domácej starostlivosti strácajú pocit kontroly nad
+vlastným životom, čo sa odzrkadľuje aj v ich pasivite pri dodržiavaní odporúčaných
+režimov. Práve tu sa otvára priestor pre motivačný rozhovor ako nástroj, ktorý môže
+pomôcť obnoviť dôveru, zmysel a vnútornú angažovanosť klienta. V praxi to znamená
+schopnosť klásť správne otázky, načúvať a nesúdiť – a to sú zručnosti, ktoré si vyžadujú
+nielen prax, ale aj systematické vzdelávanie.
+Pri zohľadňovaní výsledkov výskumu sa ako veľmi dôležitý javí aj vplyv prostredia, v
+ktorom seniori žijú. Fyzické podmienky zariadenia, dostupnosť záhrady, svetla, ticha, ale aj
+spoločenské nastavenie kolektívu môžu výrazne ovplyvňovať úspešnosť intervencií. Ako
+uvádza Svetová zdravotnícka organizácia (2025), sociálne determinanty zdravia vrátane
+kvality bývania, prístupu k službám a miery sociálnej opory patria medzi kľúčové faktory,
+ktoré rozhodujú o zdraví populácie viac než samotná medicínska intervencia. Z tohto
+pohľadu je nevyhnutné pristupovať ku komunitnej starostlivosti ako ku komplexnému
+systému, ktorý zahŕňa nielen prácu sestier, ale aj architektúru prostredia, denný režim a
+medziľudské vzťahy.
+Osobitne dôležitá je aj otázka kontinuity starostlivosti, teda nadväznosti medzi
+jednotlivými úrovňami zdravotnej a sociálnej podpory. Viaceré respondentky v
+neformálnych poznámkach uviedli, že ich práca je často limitovaná tým, že chýba funkčné
+prepojenie medzi ošetrovateľskou praxou v zariadení a inými odborníkmi – napríklad
+praktickými lekármi, psychológmi či komunitnými pracovníkmi. Tento poznatok je plne v
+súlade s tým, čo uvádza Domagała a kol. (2021), podľa ktorých je absencia koordinovanej
+medziodborovej spolupráce jednou z najväčších výziev súčasnej dlhodobej starostlivosti.
+Bez kvalitného manažmentu informácií a spoločného plánovania starostlivosti dochádza k
+fragmentácii podpory, čo môže mať negatívny dopad na zdravotný aj psychický stav seniora.
+Nemožno opomenúť ani spoločenský rozmer profesie sestry, ktorý významne ovplyvňuje
+nielen samotný výkon práce, ale aj to, ako sa sestry cítia v rámci svojho povolania. Aj keď
+z odpovedí vyplynula vysoká odborná pripravenosť a ochota sestier konať v prospech
+
+61
+
+klienta, v pozadí rezonovali témy nedostatočného spoločenského uznania, fyzického a
+psychického vyčerpania a obmedzeného priestoru pre profesijný rozvoj. Ako upozorňuje
+Cubová (2015), bez pocitu zmyslu a uznania sa kvalita vzťahu medzi sestrou a klientom
+vytráca, čo negatívne ovplyvňuje aj výsledky samotnej starostlivosti. Preto je nevyhnutné,
+aby sa téma postavenia sestier v komunite nestala len odbornou, ale aj spoločenskou otázkou,
+ktorá sa premietne do legislatívnych, organizačných a vzdelávacích zmien.
+V rámci diskusie možno konštatovať, že výskum potvrdil vysokú odbornosť a angažovanosť
+sestier v komunitnej starostlivosti o seniorov, pričom výzvy, ktorým čelia, sú prevažne
+systémového a organizačného charakteru. Z tohto dôvodu by sa mala pozornosť odborných
+kruhov, ako aj tvorcov zdravotnej politiky, upriamiť nielen na podporu štandardizácie
+postupov, ale aj na vytváranie priaznivých pracovných podmienok a možností ďalšieho
+profesijného rozvoja. Ako uvádza Adamík Šimegová (2019), zmysluplná starostlivosť v
+komunite je možná len vtedy, keď pracovníci, ktorí ju poskytujú, majú dostatok priestoru na
+odborný rast, reflektovanie praxe a zároveň sú súčasťou funkčného medziodborového
+systému, ktorý podporuje nielen pacienta, ale aj samotného opatrovateľa.
+
+4.2 Odporúčania pre prax
+1. Zaviesť štandardizované edukačné bloky do denného režimu zariadení pre
+seniorov.
+Na základe zistení výskumu odporúčame vedeniu zariadení sociálnych služieb systematicky
+zaradiť tematicky zamerané edukačné bloky do denných programov. Tieto bloky majú byť
+určené komunitným sestrám, ktoré budú seniorov pravidelne informovať o význame
+preventívnych prehliadok, skríningových vyšetrení, podpore duševného zdravia a
+kognitívnych funkcií. Obsah edukačných blokov by mal byť vizuálne atraktívny,
+prispôsobený veku a zdravotnému stavu klientov a opakovane realizovaný, aby podporil
+zapamätanie a praktickú aplikáciu v každodennom živote. Zodpovednosť za implementáciu
+by mala niesť hlavná sestra v spolupráci s manažmentom zariadenia.
+2. Zaviesť multidisciplinárny protokol na podporu spánku a psychickej pohody
+seniorov.
+
+62
+
+Odporúčame, aby vedenie zariadení v spolupráci so zdravotníckym tímom
+implementovalo štandardizovaný spánkový protokol. Tento dokument má byť
+praktickým návodom pre sestry, ako cielene podporovať spánkové návyky klientov – a
+to nielen prostredníctvom nefarmakologických intervencií, ale aj zapojením psychológa,
+fyzioterapeuta či nutričného terapeuta. Do odporúčaných postupov má byť zahrnutá aj
+úprava denného režimu, kontrola osvetlenia a hlučnosti, podpora pohybových aktivít
+počas dňa, a sledovanie spánkových vzorcov pomocou jednoduchých nástrojov
+(pozorovanie, dotazníky). Tento prístup posilní kvalitu života a emocionálnu stabilitu
+klientov.
+3. Zabezpečiť odborné vzdelávanie sestier v oblasti kognitívnej stimulácie a
+motivačného rozhovoru.
+Na základe zistení výskumu odporúčame zriaďovateľom a riaditeľom zariadení podporiť
+vzdelávanie sestier formou interných školení zameraných na efektívne metódy
+stimulácie pamäti, verbálneho vyjadrovania a logického uvažovania u seniorov.
+Súčasťou vzdelávania by malo byť aj oboznámenie sa s technikami motivačného
+rozhovoru, ktoré napomáhajú posilneniu aktívneho prístupu klienta k vlastnému zdraviu
+a zvyšujú jeho participáciu na dennom režime. Vedenie by zároveň malo personálne a
+organizačne zabezpečiť časový priestor pre individuálnu alebo skupinovú prácu sestier
+so seniormi v oblasti kognitívnej stimulácie.
+4. Vypracovať a zaviesť metodické odporúčania pre jednotný prístup k podpore
+imunity seniorov.
+Vzhľadom na zistenú variabilitu prístupov k podpore zdravého životného štýlu
+odporúčame, aby odborní garantii zariadení v spolupráci s komunitnými sestrami
+vypracovali jednotné metodické odporúčania. Tie by mali obsahovať konkrétne postupy
+v oblasti edukačnej podpory očkovania, výživy, pohybovej aktivity, vitamínovej
+suplementácie a celkového posilnenia imunity klientov. Odporúčania by mali byť
+praktické, zrozumiteľné, vizuálne spracované a dostupné všetkým sestrám v zariadení.
+Ich aplikácia v praxi by zabezpečila jednotnosť a vysoký štandard ošetrovateľskej
+starostlivosti naprieč zariadeniami.
+
+63
+
+ZÁVER
+Zámerom diplomovej práce bolo analyzovať a interpretovať úlohu komunitného
+ošetrovateľstva pri podpore zdravia seniorov v komunite, a to prostredníctvom konkrétnych
+oblastí - podpory pohybovej aktivity, spánku, kognitívnych funkcií a imunizácie. Výskumné
+zisťovanie realizované prostredníctvom dotazníka medzi sestrami pôsobiacimi v domovoch
+sociálnych služieb, zariadeniach pre seniorov a agentúrach domácej ošetrovateľskej
+starostlivosti ukázalo, že sestry zohrávajú v uvedených oblastiach nezastupiteľnú a aktívnu
+rolu. Výsledky potvrdili, že sestry pravidelne podporujú pohybovú aktivitu seniorov a snažia
+sa ju prispôsobovať ich individuálnym možnostiam a preferenciám. Podobne vysoká
+angažovanosť bola zaznamenaná v oblasti podpory spánku, kde prevažuje využívanie
+nefarmakologických intervencií a rešpektovanie osobitostí každého klienta. Kognitívne
+funkcie sú u seniorov podporované rôznorodými aktivitami – od pamäťových hier cez
+terapeutickú komunikáciu až po organizované skupinové aktivity. Rovnako aj v oblasti
+imunizácie bolo potvrdené, že sestry pristupujú k seniorom komplexne a využívajú viacero
+foriem podpory, vrátane edukácie o výžive, životnom štýle a význame očkovania.
+Štatistická analýza však ukázala, že medzi typom zariadenia a skúmanými aspektmi podpory
+zdravia neexistujú významné rozdiely, čo naznačuje, že sestry v komunite uplatňujú
+pomerne jednotné postupy a štandardy bez ohľadu na to, kde pracujú. Tento fakt možno
+vnímať pozitívne – ako znak profesionalizácie a stabilizácie komunitného ošetrovateľstva,
+v ktorom si sestry osvojili preventívne a edukačné stratégie, ktoré sú v súlade s aktuálnymi
+odbornými odporúčaniami. Zároveň však treba konštatovať, že hoci sestry vykonávajú
+množstvo intervencií, často čelia rôznym prekážkam – či už v podobe nedostatku času,
+nízkeho počtu personálu, alebo obmedzenej spolupráce zo strany klientov. Tieto faktory
+môžu ovplyvňovať kvalitu a rozsah poskytovaných služieb. Výsledky výskumu preto
+poukazujú aj na potrebu podpory sestier v ich profesionálnom raste, vytvárania priaznivého
+organizačného prostredia a zvyšovania spoločenskej prestíže tejto profesie.
+Komunitné ošetrovateľstvo má potenciál byť bazálnym nástrojom na udržanie a podporu
+zdravia staršej populácie. Sestry, ktoré pracujú v komunite, sú v každodennom kontakte so
+seniormi, poznajú ich potreby a majú možnosť pôsobiť na ich zdravie nielen v rovine
+prevencie, ale aj motivácie a edukácie. Táto práca chce byť príspevkom k ich zviditeľneniu
+a uznaniu ich práce ako neoddeliteľnej súčasti kvalitnej a dôstojnej starostlivosti o seniorov
+v podmienkach 21. storočia.
+
+64
+
+Prvý cieľ práce – charakterizovať úlohu sestier pracujúcich v komunite pri podpore zdravia
+seniorov a bližšie popísať komunitu a jej hlavné úlohy – sa podarilo naplniť prostredníctvom
+teoretickej časti práce. Komunita bola vymedzená ako dynamický sociálny priestor, v
+ktorom zohráva sestra významnú rolu v prevencii, podpore zdravia a celkovej starostlivosti
+o klienta. Ich práca je založená na poznaní individuálnych potrieb seniorov, rešpektovaní ich
+dôstojnosti a podpore ich aktívneho starnutia.
+Druhý cieľ – identifikovať hlavné oblasti podpory zdravia pre zachovanie telesného a
+duševného zdravia – bol realizovaný najmä v analytickej časti. Boli jasne definované štyri
+kľúčové oblasti: podpora pohybovej aktivity, kvality spánku, kognitívnych funkcií a
+imunizácie. V každej z týchto oblastí sestry realizujú množstvo preventívnych a edukačných
+intervencií, pričom prihliadajú na individuálne potreby klientov a snažia sa využiť
+nefarmakologické a holistické prístupy.
+Tretí cieľ – analyzovať výskum zameraný na úlohu sestier pri podpore zdravia seniorov v
+komunite – bol naplnený prostredníctvom dotazníkového prieskumu. Výsledky ukázali, že
+sestry vo všetkých typoch zariadení pristupujú k podpore zdravia seniorov systematicky a
+cielene. Štatistická analýza potvrdila, že medzi typmi zariadení (DSS, ZpS, ADOS)
+neexistujú významné rozdiely v uplatňovaných postupoch, čo poukazuje na jednotnosť
+praxe a profesionalizáciu komunitného ošetrovateľstva.
+Štvrtý cieľ – porovnať jednotlivé zistenia s už existujúcimi štúdiami a odbornou literatúrou
+a navrhnúť odporúčania pre prax – sa premietol do diskusie a návrhov v kapitole 4.2.
+Výsledky výskumu boli konfrontované s dostupnými vedeckými poznatkami a potvrdili
+závery viacerých domácich aj zahraničných autorov, ktorí poukazujú na dôležitosť aktívnej
+participácie sestier pri podpore zdravia seniorov. Vytvorené odporúčania pre prax sú
+konkrétne, aplikovateľné a adresné, pričom reagujú na zistené potreby a výzvy v teréne.
+Z výskumného zisťovania zároveň vyplynulo, že sestry čelia viacerým prekážkam, medzi
+ktoré patria najmä nedostatok času, personálne poddimenzovanie či nízka motivácia
+niektorých klientov. Tieto faktory môžu limitovať rozsah a kvalitu poskytovaných
+intervencií. Aj preto vnímame potrebu systémovej podpory komunitného ošetrovateľstva zo
+strany štátu, zriaďovateľov zariadení a odbornej verejnosti. Posilňovanie kompetencií
+sestier, ich metodické vedenie a uznanie ich práce na spoločenskej úrovni sú nevyhnutnými
+predpokladmi na to, aby mohli plnohodnotne napĺňať svoju úlohu.
+
+65
+
+ZOZNAM POUŽITEJ LITERATÚRY
+ADAMÍK ŠIMEGOVÁ, M. 2019. Sociálno-pedagogická činnosť v sociálnej službe krízovej
+intervencie v komunitnom centre. In BAKOŠOVÁ, Z. – DONČEVOVÁ, S., eds.
+Perspektívy rozvoja pedagogiky a andragogiky v Slovenskej republike a v krajinách strednej
+Európy. Bratislava: FIF UK, 2019, s. 165–173.
+CUBOVÁ, M. 2015. Vzdelávanie seniorov v problematike zdravého starnutia [online]. [cit.
+2025-03-13].
+
+Dostupné
+
+na
+
+internete:
+
+<http://www.pulib.sk/elpub2/FZ/Istonova2/pdf_doc/cubova.pdf.>
+DOMAGAŁA, A. – KLICH, J. – URBAŃSKA, A. 2021. Workload and quality of care in
+long-term care facilities: A challenge for health workforce planning. International Journal
+of Environmental Research and Public Health, 2021, roč. 18, č. 14, s. 7594. [online]. [cit.
+2025-03-22]. Dostupné na internete: <https://doi.org/10.3390/ijerph18147594.>
+GOLINOWSKA, S. – SOWA, A. – DEEG, D. – SOCCI, M. – PRINCIPI, A. –
+RODRIGUES, R. – ILINCA, S. – GALENKAMP, H. 2016. Participácia na formálnych
+vzdelávacích aktivitách starších Európanov v zlom a dobrom zdraví. Eur J Starnutie. 2016,
+roč. 18, s. 1–13.
+CHEUNG, D. S. K. – CHAU, P. H. – YIP, A. L. K. – CHOI, K. C. 2020. Nonpharmacological interventions for behavioral and psychological symptoms of dementia: A
+systematic review of randomized controlled trials. Age and Ageing, 2020, roč. 49, č. 4, s.
+572-584.
+
+[online].
+
+[cit.
+
+2025-03-22].
+
+Dostupné
+
+na
+
+internete:
+
+<https://doi.org/10.1093/ageing/afaa014.>
+MAČKINOVÁ, M. – KOPINEC, P. 2019. Rekonvalescencia po prepustení pacienta do
+domácej starostlivosti [elektronický dokument] = Convalescence after release of the patient
+to home care. In: Revue spoločenských a humanistických vied [online]. Roč. 7, č. 1 (2019),
+s. [1-12]. ISSN 1329-259. [online]. [cit. 2025-03-15]. Dostupné na internete:
+https://revue.vsdanubius.sk/sites/default/files/MAČKINOVÁ%2C%20M.%20%20%.
+MUDRÁK, J. et al. 2014. Vnímané zdravie a motivácia k pohybovej aktivite u seniorov.
+Kontakt [online]. [cit. 2025-03-18]. 2014, s. 50-57. ISSN 1804-7122. Dostupné na internete:
+<http://dx.doi.org/10.1016/j.kontakt.2013.10.001.>
+
+66
+
+MULLEROVÁ, D. 2014. Hygiena, preventivní lékařství a veřejné zdravotnictví. 1. vyd.
+Praha: Karolinum, 2014. 254 s. ISBN 978-80-246-2510-2.
+NÁRODNÝ PROGRAM AKTÍVNEHO STARNUTIA. 2014. [online]. [cit. 2025-03-13].
+Dostupné
+
+na
+
+internete:
+
+http://www.employment.gov.sk/sk/ministerstvo/rada-vlady-sr-
+
+prava-seniorov/narodny-program-aktivneho-starnutia-roky-2014-2020.html.
+NÁRODNÝ PROGRAM OCHRANY STARŠÍCH ĽUDÍ. [online]. [cit. 2025-03-18].
+Dostupné
+
+na
+
+internete:
+
+<http://www.minv.sk/swift_data/source/rozvoj_obcianskej_spolocnosti/rada_vlady_pre_m
+no/rokovania/2013/5_rokovanie/MPSVR_narodny-program-aktivnehostarnutia_material.pdf.>
+SANGRAR, R. – DARNLEY, K. – HOLROYD-LEDUC, J. 2021. Promoting physical
+activity among older adults in primary care settings: A review. Canadian Geriatrics Journal,
+2021, roč. 24, č. 2, s. 105-112. [online]. [cit. 2025-03-22]. Dostupné na internete:
+<https://doi.org/10.5770/cgj.24.479.
+SAVAGE, L. 2019. The potential to accelerate innovation in health care. 2019. DOI:
+10.1377/FOREFRONT.20190215.3077.
+SHELKEY, M. 2012. Katz Index of Independence in Activities of Daily Living (ADL). In:
+Try This: Best Practices in Nursing Care to Older Adults. [online]. [cit. 2025-03-16].
+Dostupné na internete: http://consultgerirn.org/uploads/File/trythis/try_this_2.pdf.
+SOWA, A. – TOBIASZ-ADAMCZYK, B. – TOPÓR-MĄDRY, R. – GOLINOWSKA, S.
+2015. Zdravotný stav starších ľudí – dôkazy v Európe. Zeszyty Naukowe Ochrony Zdrowia.
+Zdrowie Publiczne i Zarządzanie, 2015, č. 4.
+SVETOVÁ ZDRAVOTNÍCKA ORGANIZÁCIA. 2025. Sociálne determinanty zdravia
+[online]. Dostupné na internete: <https://www.who.int/health-topics/social-determinants-ofhealth#tab=tab_1.>
+TOMIĆ, V. – MILINKOVIĆ, D. – GLIŠOVIĆ, S. 2022. Physical activity in elderly:
+Prevention of frailty and depression. Medicinski Glasnik, 2022, roč. 19, č. 1, s. 122-127.
+[online]. [cit. 2025-03-22]. Dostupné na internete: <https://doi.org/10.17392/1418-22.>
+WORLD HEALTH ORGANIZATION. 2023. Integrated care for older people: Guidelines
+on community-level interventions to manage declines in intrinsic capacity [online]. WHO
+
+67
+
+Publications,
+
+2023.
+
+[online].
+
+[cit.
+
+2025-03-22].
+
+Dostupné
+
+na
+
+internete:
+
+<https://www.who.int/publications.>
+ZHOU, Y. – HE, R. – HE, Y. – WU, Q. 2023. Cognitive function and quality of life in
+elderly: Evidence from community-based interventions. Frontiers in Psychology, 2023, roč.
+14,
+
+článok
+
+1129341.
+
+[online].
+
+[cit.
+
+2025-03-22].
+
+Dostupné
+
+na
+
+internete:
+
+<https://doi.org/10.3389/fpsyg.2023.1129341.>
+
+68
+
+PRÍLOHY
+Príloha 1 Dotazník vlastnej konštrukcie.
+
+69
+
+PRÍLOHA 1
+
+Dobrý deň,
+volám sa Veronika Bednáriková a som študentkou 2. ročníka magisterského štúdia v
+študijnom odbore ošetrovateľstvo na Fakulte zdravotníctva a sociálnej práce Trnavskej
+univerzity v Trnave. Touto cestou Vás chcem poprosiť o vyplnenie nižšie uvedeného
+dotazníka k mojej diplomovej práci s názvom „Úloha komunitného ošetrovateľstva
+v podpore zdravia u seniorov“. Dotazník je anonymný a určený pre sestry pracujúce v sfére
+komunitného ošetrovateľstva, konkrétne pre domovy sociálnych služieb (DSS) a
+zariadenia pre seniorov/domovy dôchodcov a zariadenia pre seniorov (ZPS). Dotazník
+slúži iba na výskumné účely pre diplomovú prácu. Prosím Vás o pravdivé informácie a úplné
+vyplnenie dotazníka. Vopred ďakujem za Váš čas a ochotu pri vyplňovaní dotazníka.
+Bc. Veronika Bednáriková
+DEMOGRAFICKÉ POLOŽKY
+Váš vek?
+Aké je vaše najvyššie dosiahnuté vzdelanie?
+a) Úplné stredoškolské odborné vzdelanie - všeobecná sestra
+b) Vyššie odborné vzdelanie-diplomovaná sestra
+c) Vysokoškolské I. Stupňa – Bc.
+d) Vysokoškolské II. stupňa a III. stupňa
+Aký je počet rokov Vašej praxe?
+a) 1-5
+b) 6-10
+c) 11-15
+d) 16-20
+e) 21 a viac
+
+70
+
+Počet rokov Vašej praxe v komunitnom ošetrovateľstve?
+a) 1-5
+b) 6-10
+c) 11-15
+d) 16-20
+e) 21 a viac
+Máte špecializačné štúdium v špecializačnom odbore Ošetrovateľská starostlivosť v
+komunite?
+a) áno
+b) nie
+V akom zariadení aktuálne pracujete?
+a) Domov sociálnych služieb
+b) Zariadenie pre seniorov
+c) Agentúra domácej ošetrovateľskej starostlivosti
+ZISŤOVACIE POLOŽKY
+1. Ktoré pohybové aktivity vykonávajú seniori pre zachovanie fyzického zdravia?
+a) Prechádzky
+b) Plávanie
+c) Bicyklovanie
+d) Cvičenie v telocvični
+e) Iné
+
+2. Vyberáte pohybové aktivity podľa záujmu pacientov?
+a) Pravidelne
+b) Občas
+c) Málokedy
+d) Nikdy
+3. O aké pohybové aktivity majú seniori najväčší záujem?
+a) Plávanie
+
+71
+
+b) Bicyklovanie
+c) Cvičenie s fyzioterapeutom
+d) Iné
+4. Aké pohybové aktivity uprednostňujú seniori?
+a) Individuálne
+b) Skupinové
+c) Kombinované
+5. V ktorej časti dňa je najvhodnejší čas na vykonávanie pohybovej aktivity so
+seniormi?
+a) Ráno
+b) Poobede
+c) Večer
+d) V ktorúkoľvek hodinu počas dňa
+6. Ako často edukujete seniorov o potrebe pravidelnej pohybovej aktivity pre
+zachovanie plného zdravia?
+a) Pravidelne
+b) Občas
+c) Málokedy
+d) Nikdy
+7. Aké sú najčastejšie obmedzenia, ktoré bránia seniorom vykonávať pohybovú
+aktivitu?
+a) Fyzická imobilitia krátkodobá/dlhodobá
+b) Zlé psychické rozpoloženie
+c) Nedostatok motivácie
+d) Iné...
+Podpora spánku seniorov
+8. Aké techniky používate na podporu spánku u seniorov?
+a) Aktivity počas celého dňa
+b) Podpora zdravého životného štýlu
+
+72
+
+c) Relaxačné techniky
+d) Farmakoterapia
+9. Aké sú najčastejšie príčiny poruchy spánku u seniorov?
+a) Psychické problémy
+b) Fyzické ťažkosti (bolesť)
+c) Nezdravý životný štýl
+d) Iné...
+10. Ako často používate sesterské intervencie na podporu spánku seniorov?
+a) Pravidelne
+b) Občas
+c) Málokedy
+d) Nikdy
+11. Aké formy sesterských intervencii využívate pri podpore spánku seniorov?
+a) Individuálne
+b) Skupinové
+c) Kombinované
+d) Iné
+12. Ako často vykonávate edukáciu seniorom týkajúcu sa podpory spánku?
+a) Pravidelne
+b) Občas
+c) Málokedy
+d) Nikdy
+13. Aký dopad majú sesterské intervencie na podporu spánku seniorov?
+a) Zlepšenie kvality spánku
+b) Znížený počet prebúdzaní v noci
+c) Kratšia doba zaspávania
+d) Iné
+
+73
+
+14. Akým spôsobom ovplyvňuje kvalita spánku celkový stav seniora?
+a) Zlepšenie kognitívnych funkcii
+b) Zníženie rizika vzniku ochorení
+c) Zlepšenie nálady
+d) Iné...
+Podpora kognitívnych funkcii
+15. Akú formu podpory kognitívnych funkcii vykonávate u seniorov najčastejšie?
+a) Komunikácia so seniorom
+b) Vykonávanie tvorivých aktivít s terapeutmi
+c) Sprostredkovanie návštev rodiny
+d) Zabezpečenie spirituálnych potrieb
+e) Iné...
+16. Ako často vykonávate u seniorov podporu kognitívnych funkcii?
+a) Pravidelne
+b) Občas
+c) Málokedy
+d) Nikdy
+17. Akú podporu kognitívnych funkcii vrámci sesterských intervencii vykonávate
+u seniorov?
+a) Pamäťové hry
+b) Mentálne cvičenia
+c) Skupinová komunikácia
+d) Iné
+18. Aké sú najčastejšie poruchy kognitívnych funkcii u seniorov?
+a) Zhoršenie pamäte
+b) Zhoršenie vnímania
+c) Zhoršená komunikácia
+d) Iné
+
+74
+
+19. Aké výsledky pozorujete po použití sesterských intervencii na podporu kognitívnych
+funkcii?
+a) Zlepšenie pamäte
+b) Zlepšenie vnímania
+c) Zlepšenie komunikácie
+20. Aké hodnotiace metódy využívate u seniorov na hodnotenie kognitívnych funkcii?
+a) Kognitívne hodnotiace testy (Folsteiov test (MMSE))
+b) Pozorovanie
+c) Komunikácia
+d) Iné
+21. Ako často vykonávate edukáciu seniorov o podpore kognitívnych funkcii?
+a) Pravidelne
+b) Občas
+c) Málokedy
+d) Nikdy
+22. Akým spôsobom podporujete imunizáciu seniorov?
+a) Očkovanie
+b) Plnohodnotná strava
+c) Pravidelný pohyb
+d) Dostatočný príjem vitamínov a minerálov
+23. Ktoré preventívne vyšetrenia vykonávate u seniorov najčastejšie?
+a) Preventívne prehliadky u praktického lekára 1krát za dva roky
+b) Preventívne prehliadky stomatologické 1krát za rok
+c) Prevencia onkologických ochorení
+d) Iné
+24. Edukujete seniora o potrebe vykonania skríningových vyšetrení?
+a) Pravidelne
+b) Občas
+c) Málokedy
+d) Nikdy
+
+75
+
+PRÍLOHA 2
+
+76
+
+PRÍLOHA 3
+
+77
+
+PRÍLOHA 4
+
+78
+
+PRÍLOHA 5
+
+79
+
+

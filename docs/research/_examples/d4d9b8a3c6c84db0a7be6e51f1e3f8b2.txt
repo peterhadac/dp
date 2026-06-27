@@ -1,0 +1,6155 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+
+28109
+
+SENIOR A PREVENTÍVNE PREHLIADKY
+
+Diplomová práca
+
+2025/2026
+Bc. Monika Špaleková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+28109
+
+SENIOR A PREVENTÍVNE PREHLIADKY
+
+Diplomová práca
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Katedra ošetrovateľstva
+
+Študijný odbor:
+
+Ošetrovateľstvo
+
+Vedúci práce/ školiteľ:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Trnava 2025
+Bc. Monika Špaleková
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+Zadanie diplomovej práce
+Meno a priezvisko, tituly
+študenta :​
+
+Bc. Monika Špaleková
+
+Kód študenta :
+
+S1315048636
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Typ záverečnej práce :
+
+Diplomová práca
+
+Názov práce :
+
+Senior a preventívne prehliadky
+
+Meno, priezvisko a tituly
+vedúceho práce:
+
+doc. PhDr. Jana Martinková, PhD., MPH
+
+Školiace pracovisko :
+
+Katedra ošetrovateľstva
+
+Meno, priezvisko a tituly
+vedúceho pracoviska :
+
+Anotácia záverečnej práce:​ ​
+
+Diplomová práca je zameraná na zisťovanie účasti
+
+seniorov na preventívnych prehliadkach u všeobecného lekára a na ich postoje k týmto
+prehliadkam. V teoretických východiskách sa venuje významu prevencie v seniorskom
+veku a možnostiam, ako seniorom lepšie priblížiť dôležitosť preventívnych vyšetrení. Vo
+výskumnej časti analyzujeme výsledky výskumu a na ich základe navrhujeme
+odporúčania, ktoré môžu pomôcť zlepšiť povedomie seniorov o preventívnych
+prehliadkach a podporiť ich pravidelnú účasť.
+Jazyk : ​
+
+​
+
+​
+
+​
+
+Dátum schválenia zadania :​​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Slovenský jazyk
+17.10.2024
+
+.....................................
+podpis vedúceho práce
+
+Čestné vyhlásenie
+
+Čestne vyhlasujem, že pri písaní diplomovej práce som pracovala samostatne a
+použila som literatúru, ktorú citujem a uvádzam v priloženom zozname použitej literatúry.
+
+V Trnave 2026​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+.....................................
+podpis
+
+Poďakovanie
+​
+
+Vyslovujem poďakovanie doc. PhDr. Jane Martinkovej, PhD., MPH za
+
+neoceniteľnú podporu, odborné vedenie a neustálu ochotu pomôcť, ktorú mi poskytla.
+Rovnako chcem poďakovať aj mojej najbližšej rodine za podporu a pomoc.
+
+Abstrakt
+ŠPALEKOVÁ, Monika: Senior a preventívne prehliadky [Diplomová práca]. Trnavská
+univerzita v Trnave. Fakulta zdravotníctva a sociálnej práce; Katedra ošetrovateľstva –
+Vedúci diplomovej práce: doc. PhDr. Jana Martinková, PhD, MPH. Stupeň odbornej
+kvalifikácie: Magister, Trnava: FZaSP TU, 2026, počet strán s.87
+Úvod: Účasť seniorov na preventívnych prehliadkach u všeobecného lekára je dôležitá pre
+včasné odhalenie chronických ochorení a udržanie kvality života, napriek tomu mnohí
+seniori tieto prehliadky neabsolvujú pravidelne. V slovenskom prostredí zároveň chýba
+viac údajov o tom, ako seniori prevenciu vnímajú a čo ovplyvňuje ich rozhodovanie.​
+Ciele: Cieľom diplomovej práce bolo zistiť, ako často sa seniori vo veku 60 a viac rokov
+zúčastňujú preventívnych prehliadok
+
+u
+
+všeobecného lekára, akú majú úroveň
+
+informovanosti, aké postoje zastávajú a ktoré motivačné a bariérové faktory ovplyvňujú
+ich správanie.
+Metodika: Realizovaný bol prierezový kvantitatívny výskum pomocou anonymného
+dotazníka vlastnej konštrukcie u 139 seniorov žijúcich v domácom prostredí v Jaslovských
+Bohuniciach, Kátlovciach, Maduniciach a Trnave v období júl – december 2025. Získané
+údaje boli spracované deskriptívnou a inferenčnou štatistikou so siedmimi hypotézami.​
+Výsledky: Výsledky ukázali, že s rastúcim vekom klesá pravidelná účasť na preventívnych
+prehliadkach, pričom seniori vo veku 75 rokov a viac sa zúčastňovali menej často než
+mladší seniori. Pohlavie a rodinný stav neboli spojené so štatisticky významnými rozdielmi
+v účasti, zatiaľ čo vyššie dosiahnuté vzdelanie súviselo s pravidelnejším absolvovaním
+prehliadok a lepšou informovanosťou o ich obsahu. Preukázal sa významný vzťah medzi
+zdrojom informácií, úrovňou informovanosti a subjektívne vnímanou dôležitosťou
+preventívnych prehliadok, pričom najlepšie informovaní a aktívnejší boli seniori, ktorí
+čerpali informácie od lekára a boli presvedčení o prínose prehliadok pre svoje fyzické a
+psychické zdravie.​
+Záver: Práca identifikuje skupiny seniorov, ktoré sú z hľadiska účasti na preventívnych
+prehliadkach rizikovejšie, a zdôrazňuje kľúčové motivačné a bariérové faktory
+ovplyvňujúce ich preventívne správanie. Zistenia môžu slúžiť ako východisko pre cielené
+ošetrovateľské intervencie a edukačné programy v primárnej starostlivosti zamerané na
+zvýšenie povedomia o preventívnych prehliadkach a podporu pravidelnej účasti seniorov.
+Kľúčové slová: Bariéry. Motivácia. Ošetrovateľstvo. Prevencia. Preventívne prehliadky.
+Senior. Zdravotná gramotnosť. Všeobecný lekár.
+
+ABSTRACT
+ŠPALEKOVÁ, Monika: Seniors and preventive check-ups. [Diploma thesis]. University in
+Trnava. Faculty of Health Care and Social Work, Department of Nursing. Head of
+Diplomas: doc. PhDr. Jana Martinková, PhD, MPH. – Degree of professional qualification:
+Master. – Trnava: FZaSP TU, 2026, number of pages 87
+Introduction: Participation of older adults in preventive checkups with a general
+practitioner is important for early detection of chronic diseases and for maintaining quality
+of life, yet many seniors do not attend these checkups regularly. In Slovakia, there is also
+limited evidence on how seniors perceive prevention and what influences their decisions.​
+Objectives: The aim of this diploma thesis was to find out how often adults aged 60 years
+and over attend preventive checkups, what level of knowledge they have, what attitudes
+they hold, and which motivating and barrier factors influence their behaviour.​
+Methods: A cross-sectional quantitative study was carried out using an anonymous,
+author-designed questionnaire among 139 seniors living in their own homes in Jaslovské
+Bohunice, Kátlovce, Madunice and Trnava between July and December 2025; the data
+were analysed using descriptive and inferential statistics in relation to seven hypotheses.​
+Results: The results showed that regular participation in preventive checkups decreased
+with increasing age, with seniors aged 75 years and over attending less frequently than
+younger seniors. Gender and marital status were not associated with statistically significant
+differences in attendance, whereas higher education was related to more regular
+participation and better knowledge of the content of checkups. A significant relationship
+was found between the source of information, level of knowledge and perceived
+importance of preventive checkups, with the best informed and most active participants
+being those who received information from their physician and believed in the benefits of
+checkups for their physical and mental health.​
+Conclusion: The thesis identifies groups of older adults at higher risk of non-attendance
+and highlights key motivating and barrier factors influencing their preventive behaviour,
+which may guide targeted nursing interventions and educational programmes in primary
+care.
+Keywords: Barriers. Motivation. Nursing. Prevention. Preventive checkups. Older adults.
+Health literacy. General practitioner.
+
+Obsah :
+ZOZNAM GRAFOV A TABULIEK....................................................................................9
+ZOZNAM SKRATIEK........................................................................................................12
+ÚVOD..................................................................................................................................13
+1​ ŠPECIFIKÁ STAROSTLIVOSTI O SENIOROV A PREVENCIA.............................14
+1.1​ Starnutie populácie a špecifiká starostlivosti o seniorov........................................14
+1.2​ Zdravotná starostlivosť a prevencia u seniorov......................................................16
+1.3​ Geriatrické syndrómy a preventívne opatrenia.......................................................18
+1.4​ Právny rámec a organizácia preventívnych prehliadok na Slovensku....................20
+1.5​ Preventívne prehliadky u seniorov..........................................................................22
+1.6​ Typy preventívnych prehliadok a ich význam........................................................22
+1.7​ Bariéry a motivátory účasti seniorov na prehliadkach...........................................24
+1.8​ Úloha sestry pri podpore prevencie........................................................................25
+2​ VÝSKUM......................................................................................................................28
+2.1​Výskumný problém, ciele, hypotézy......................................................................28
+2.2​Charakteristika výskumnej vzorky.........................................................................30
+2.3​Metodika práce.......................................................................................................30
+3​ ANALÝZA A INTERPRETÁCIA VÝSLEDKOV VÝSKUMU.................................33
+4​ DISKUSIA.....................................................................................................................73
+4.1 Odporúčania pre prax...............................................................................................78
+ZÁVER.................................................................................................................................81
+ZOZNAM POUŽITEJ LITERATÚRY.................................................................................83
+PRÍLOHY
+
+ZOZNAM GRAFOV A TABULIEK
+Graf 1:Chronické ochorenia.................................................................................................37
+Graf 2: Absolvovanie preventívnych prehliadok v posledných piatich rokoch...................43
+Graf 3: Miera dôležitosti absolvovania preventívnej prehliadky a zdroj informácií
+o nej………………………………………………………………………………………..59
+Graf 4: Miera dôležitosti absolvovania preventívnej prehliadky a dostatok informácií
+o nej......................................................................................................................................65
+Obrázok 1 Vennov diagram, zdroj informácií o preventívnych prehliadkach.....................39
+Obrázok 2 Vennov diagram – dôvod absencie preventívnej prehliadky u všeobecného
+lekára....................................................................................................................................42
+Obrázok 3 Vennov diagram – absolvovanie preventívneho očkovania...............................44
+Obrázok 4 Vennov diagram – zábrany v absolvovaní preventívnych prehliadok................48
+Tabuľka 1: Mesto (obec) zariadenia.....................................................................................33
+Tabuľka 2 Pohlavie respondentov........................................................................................33
+Tabuľka 3: Vek respondentov...............................................................................................33
+Tabuľka 4 Rodinný stav respondentov.................................................................................34
+Tabuľka 5 Životná situácia respondentov.............................................................................34
+Tabuľka 6 Vzdelanie respondentov......................................................................................35
+Tabuľka 7 Pracovný stav respondentov................................................................................35
+Tabuľka 8 Zamestnanie (pred odchodom do dôchodku)......................................................36
+Tabuľka 9 Priemerný čistý mesačný príjem.........................................................................36
+Tabuľka 10 Hodnotenie svojho celkového zdravotného stavu.............................................37
+Tabuľka 11 Pravidelné užívanie liekov................................................................................38
+Tabuľka 12 Informácie o preventívnych prehliadkach.........................................................38
+Tabuľka 13 Zdroj informácií o preventívnych prehliadkach................................................38
+Tabuľka 14 Obsah preventívnej prehliadky..........................................................................40
+Tabuľka 15 Spokojnosť s množstvom informácií o preventívnych prehliadkach...............40
+Tabuľka 16 Účasť na preventívnych prehliadkach u všeobecného lekára...........................41
+Tabuľka 17 Dôvod neabsolvovania preventívnej prehliadky u všeobecného lekára...........41
+Tabuľka 18 Absolvované preventívne očkovanie................................................................44
+Tabuľka 19 Miera dôležitosti pripisovaná pravidelným preventívnym prehliadkam..........45
+Tabuľka 20 Dôvody absolvovania preventívnej prehliadky.................................................45
+Tabuľka 21 Prínos preventívnych prehliadok k zlepšeniu zdravia.......................................46
+Tabuľka 22 Preventívne prehliadky – predchádzanie závažným ochoreniam.....................46
+9
+
+Tabuľka 23 Vplyv preventívnej prehliadky na psychickú pohodu.......................................47
+Tabuľka 24 Zábrany v absolvovaní preventívnych prehliadok............................................47
+Tabuľka 25 Motivácia k účasti na preventívnej prehliadke u lekára....................................49
+Tabuľka 26 Otázka 16 a vek.................................................................................................50
+Tabuľka 27 Chí – kvadrát test 1 v H1, preventívna prehliadka u všeobecného lekára
+a vek.....................................................................................................................................51
+Tabuľka 28 Test zhody dvoch proporcií 1 v H1, preventívna prehliadka u všeobecného
+lekára, vek............................................................................................................................51
+Tabuľka 29 Test zhody dvoch proporcií 2 v H1, preventívna prehliadka u všeobecného
+lekára, vek............................................................................................................................51
+Tabuľka 30 Preventívna prehliadka u všeobecného lekára v posledných 5 rokoch,
+vek........................................................................................................................................52
+Tabuľka 31 χ2 – test 2 v H1, otázka 17a) a vek....................................................................52
+Tabuľka 32 Test zhody dvoch proporcií 3 v H1, otázka 17a), vek.......................................52
+Tabuľka 33 Preventívna prehliadka u všeobecného lekára, otázka 16 a pohlavie...............53
+Tabuľka 34 Test zhody dvoch proporcií 1 v H2, otázka 16, pohlavie..................................53
+Tabuľka 35 Chí – kvadrát test 1 v H2, preventívna prehliadka u všeobecného lekára
+a pohlavie.............................................................................................................................54
+Tabuľka 36 Preventívna prehliadka u všeobecného lekára v posledných 5 rokoch,
+pohlavie................................................................................................................................54
+Tabuľka 37 Test zhody dvoch proporcií 2 v H2, otázka 17a), pohlavie respondentov…....54
+Tabuľka 38 χ2 – test 2 v H2, otázka 17a), pohlavie..............................................................55
+Tabuľka 39 Otázka 16, preventívna prehliadka u všeobecného lekára a rodinný stav.........55
+Tabuľka 40 Chí – kvadrát test 1 v H3, otázka 16 a rodinný stav..........................................55
+Tabuľka 41 Otázka 17a), preventívna prehliadka a rodinný stav.........................................56
+Tabuľka 42 Chí – kvadrát 2 test v H3, otázka 17a), rodinný stav........................................56
+Tabuľka 43 Marascuilo procedúra v otázke 17a) v triedení podľa rodinného stavu............56
+Tabuľka 44 Odpovede v otázke 15 v súvislosti s počtom zdrojov informácií v otázke
+13…………………………………………………………………………………………..57
+Tabuľka 45 Vzťah odpovedí respondentov v otázkach 13 a 15 (jeden zdroj).....................58
+Tabuľka 46 Chí – kvadrát test v H4, jeden zdroj informácií a ich dostatočnosť..................59
+Tabuľka 47 Kruskal – Wallisov test v H4, zdroj informácií a miera dôležitosti PPP...........60
+Tabuľka 48 Dostatočné informácie o preventívnej prehliadke a ich zdroj...........................60
+Tabuľka 49 Mann – Whitney test v H4, miera dôležitosti informácií..................................61
+10
+
+Tabuľka 50 Otázka 20 a 22 v súvislosti s otázkou 16..........................................................62
+Tabuľka 51 Chí – kvadrát test v H5, účasť na preventívnej prehliadke a zlepšenie
+zdravia..................................................................................................................................62
+Tabuľka 52 Mann – Whitney test v H5, otázky 20 a 22 a pravidelnosť preventívnych
+prehliadok.............................................................................................................................63
+Tabuľka 53 Vzťah otázok 15 a 18........................................................................................64
+Tabuľka 54 Kruskal – Wallisov test, dostatok informácií a miera dôležitosti PPP..............66
+Tabuľka 55 Vzťah odpovedí respondentov v otázkach 24 a 18...........................................66
+Tabuľka 56 Korelácia poradia dôležitosti motivačných faktorov s ohľadom na dôležitosť
+absolvovania PPP.................................................................................................................68
+Tabuľka 57 Test zhody dvoch proporcií v H6, otázka 24: obava o zdravie a otázky 18
+a 15.......................................................................................................................................69
+Tabuľka 58 Otázka 16 v triedení podľa vzdelania respondentov.........................................70
+Tabuľka 59 Absolvovanie preventívnych prehliadok a vzdelanie.......................................71
+Tabuľka 60 Chí – kvadrát test 1, účasť na preventívnej prehliadke a vzdelanie..................71
+Tabuľka 61 Otázka 12 v triedení podľa vzdelania respondentov.........................................72
+Tabuľka
+
+62
+
+Chí – kvadrát
+
+test
+
+2,
+
+informovanosť
+
+o
+
+preventívnej
+
+prehliadke
+
+a vzdelanie............................................................................................................................72
+
+11
+
+ZOZNAM SKRATIEK
+BRCA 1 - breast cancer 1 gene, nádorový gén spájaný najmä s rakovinou prsníka a
+vaječníkov
+CT - počítačová tomografia
+DXA - dual-energy X-ray absorptiometry, testovanie hustoty kostí
+EKG – electrocardiogram, elektrokardiografický záznam
+HDL, LDL a non-HDL - high-density lipoprotein, low-density lipoprotein, všetok
+cholesterol okrem HDL
+CGA - Comprehensive Geriatric Assessment, Komplexné geriatrické hodnotenie
+MCBS - Medicare Current Beneficiary Survey, prieskum medzi poistenými v programe
+Medicare
+MCI - Mild cognitive impairment, mierna kognitívna porucha
+MMSE - Mini-Mental State Examination, Krátky test kognitívnych funkcií
+MoCA - Montreal Cognitive Assessment, Montrealský kognitívny test
+MZ SR – Ministerstvo zdravotníctva Slovenskej republiky
+PPP – povinná preventívna prehliadka
+PSA - prostate-specific antigen, prostatický špecifický antigén
+VšZP – Všeobecná zdravotná poisťovňa
+WHO - World Health Organization, Svetová zdravotnícka organizácia
+
+12
+
+ÚVOD
+Starnutie populácie patrí medzi kľúčové demografické trendy súčasnosti a výrazne
+ovplyvňuje zdravotnícky systém na Slovensku aj v Európe. Podiel seniorov v populácii sa
+zvyšuje, rastie index starnutia a spolu s ním aj počet chronických ochorení, geriatrických
+syndrómov a nárokov na dlhodobú a odbornú starostlivosť. V tejto súvislosti nadobúda
+zásadný význam preventívna zdravotná starostlivosť, najmä preventívne prehliadky u
+všeobecného lekára, ktoré umožňujú včasné odhalenie rizikových faktorov, chronických
+chorôb a funkčného úpadku, a môžu prispieť k udržaniu kvality života a funkčnej
+nezávislosti seniorov. Dostupné vedecké poznatky ukazujú, že pravidelné preventívne
+prehliadky u starších dospelých sú spojené so znížením mortality, zlepšením zdravotných
+výsledkov a efektívnejším využívaním zdravotnej starostlivosti. Zároveň však upozorňujú
+na pretrvávajúcu nízku účasť seniorov na týchto prehliadkach. Výskumy z rôznych krajín
+poukazujú na komplexný súbor faktorov, ktoré ovplyvňujú preventívne správanie – od
+demografických charakteristík cez zdravotný stav až po postoje, informovanosť,
+subjektívnu dôležitosť prevencie, sociálnu podporu či bariéry spojené s dostupnosťou a
+organizáciou starostlivosti. Napriek tomu v slovenskom prostredí chýbajú empirické údaje,
+ktoré by systematicky zmapovali, do akej miery tieto faktory vplývajú na účasť seniorov
+na preventívnych prehliadkach u všeobecného lekára. Táto diplomová práca by chcela
+prispieť k doplneniu týchto poznatkov. Na základe kvantitatívneho dotazníkového
+výskumu u seniorov vo veku 60 a viac rokov sa snaží identifikovať frekvenciu účasti na
+preventívnych prehliadkach, úroveň informovanosti a postoje k prevencii, ako aj vzťahy
+medzi sociodemografickými charakteristikami, psychosociálnymi faktormi a reálnym
+preventívnym správaním. Nové zistenia, ktoré z práce môžu vyplynúť, spočívajú najmä v
+lepšom pochopení toho, ktoré skupiny seniorov sú z hľadiska účasti na preventívnych
+prehliadkach rizikové, aké bariéry im bránia v účasti a ktoré motivačné faktory naopak
+podporujú ich preventívne správanie.
+Ciele práce:
+●​
+
+Popísať špecifiká starostlivosti o seniorov so zameraním na preventívnu starostlivosť
+o seniorov.
+
+●​
+
+Analyzovať účasť seniorov na preventívnych prehliadkach u všeobecného lekára, ich
+informovanosť, postoje, motivačné a bariérové ​faktory a na základe zistenia
+navrhnúť odporúčania pre ošetrovateľskú prax v primárnej starostlivosti.
+13
+
+1​ ŠPECIFIKÁ STAROSTLIVOSTI O SENIOROV A PREVENCIA
+Pojem senior sa v odbornej literatúre definuje rôzne – najčastejšie na základe veku, ale
+aj podľa funkčného stavu, sociálnej situácie a zdravotných potrieb. Svetová zdravotnícka
+organizácia (WHO) považuje za hranicu seniorského veku 60 rokov, avšak v praxi sa často
+uplatňuje vek 65 rokov ako začiatok staroby. Tento vekový míľnik nepredstavuje len
+biologickú zmenu, ale aj zmenu sociálneho postavenia, životného štýlu a potrieb
+jednotlivca. Zdravotná prevencia u seniorov má osobitný význam, pretože v tomto
+vekovom období rastie riziko chronických ochorení a funkčných obmedzení, no zároveň
+existuje priestor na udržanie dobrej kvality života. Prevencia v seniorskom veku nezahŕňa
+len vyšetrenia na včasné odhalenie ochorení, ale aj podporu zdravého životného štýlu,
+posilňovanie sebestačnosti a minimalizáciu rizikových faktorov.
+
+1.1​ Starnutie populácie a špecifiká starostlivosti o seniorov
+Počet starších ľudí v Európskej únii neustále rastie. Dôvodom je nižšia pôrodnosť a
+vyššia priemerná dĺžka života obyvateľstva (Roszko-Wójtowicz et al.,2025). V Spojených
+štátoch sa napríklad počet seniorov poistených cez Medicare dramaticky zvýšil – v roku
+1965 ich bolo 19 miliónov, a do roku 2050 sa čaká, že bude ich viac ako 70 miliónov.
+Zdravotníctvo sa dnes čoraz viac zameriava na prevenciu – na to, aby sa choroby odhalili
+skôr, ako sa budú neskôr ťažšie liečiť. Pri liečení ochorenia v neskoršom čase, je liečba
+drahšia a komplikovanejšia. Preto sa zdravotnícki pracovníci snažia zamerať na prevenciu
+aj u starších ľudí – chcú odhaliť choroby včas. Je dôležité vyvíjať preventívne programy na
+problémy, ktoré sa vyskytujú práve v staršom veku, napríklad demencia, pády, zmätenosť,
+vážna osteoporóza alebo problémy s inkontinenciou. Rozhodovanie o tom, ako a kedy
+kontrolovať seniorov, je zložitejšie ako u mladších osôb, pretože je potrebné zohľadniť
+celkový zdravotný stav, možné vedľajšie účinky liečby a to, čo sám senior chce (Nicholas,
+Hall, 2011).
+Svetová zdravotnícka organizácia rozdeľuje seniorov do skupín podľa veku. Za
+seniora sa považuje každý, kto má 65 rokov a viac. Táto skupina sa ďalej delí na:
+„mladých starých" (65–74 rokov), „stredne starých" (75–84 rokov) a „veľmi starých" (85
+rokov a viac). Toto delenie je dôležité, pretože každá skupina má iné zdravotné problémy a
+iné potreby pri starostlivosti (Roszko-Wójtowicz et al.,2025).
+
+14
+
+Dnes majú zdravotnícke systémy lepšie možnosti poskytnúť seniorom preventívne
+opatrenia ako kedykoľvek predtým. Vlády a zdravotnícke organizácie sa snažia zlepšiť
+prístup seniorov k preventívnym službám. Nové zákony znížili náklady na preventívne
+služby pre seniorov. Zdravotné poisťovne teraz viac refundujú zdravotníckych pracovníkov
+za preventívne prehliadky. V rokoch 2010 až 2011 boli vydané nové odporúčania, ako by
+sa mali robiť preventívne prehliadky a skríningy u starších osôb. Tieto nové smernice sa
+zameriavajú na to, aby seniori zostali aktívni a nezávislí a aby si udržali dobrú kvalitu
+života. Avšak existujú veľké rozdiely v tom, ako sa preventívne prehliadky robia v
+jednotlivých regiónoch a medzi rôznymi skupinami seniorov. Údaje ukazujú, že veľa
+seniorov nedostáva odporúčané preventívne prehliadky, zatiaľ čo u niektorých sa robí
+zbytočne veľa testov. Zvlášť seniori, ktorí sú slabší alebo málo pohybliví (starší ako 75
+rokov), dostávajú len polovicu odporúčaných preventívnych kontrol. Aj keď existujú
+smernice na kontrolu geriatrických problémov – ako kontroly na inkontinenciu alebo
+zisťovanie rizika pádov – väčšina zdravotníkov sa zameriava na tradičné skríningy na
+konkrétne choroby, ako je vysoký krvný tlak. Napriek tomu sa pomaly zvyšuje počet
+seniorov, ktorí sa podrobujú pravidelným preventívnym prehliadkam, hlavne vďaka novým
+zákonom a väčšiemu dôrazu na prevenciu (Nicholas, Hall, 2011).
+Veľa seniorov má zároveň aj niekoľko chorôb – nazývame to multimorbidita. Údaje
+z poisťovní ukazujú, že až 32 % ľudí vo veku 65 až 69 rokov trpí tromi alebo viacerými
+chronickými chorobami. Medzi starším ľuďmi vo veku 80 až 84 rokov je až 52 percent
+tých, ktorí majú tri alebo viac chorôb. Ak senior trpí viacerými ochoreniami, zvyšuje sa
+riziko, že stratí schopnosť byť sebestačný, že má horšiu kvalitu života a aj úmrtia.
+Výskumníci zistili, že choroby u seniorov sa zvyčajne vyskytujú v troch základných
+skupinách. Prvá skupina zahŕňa choroby srdca a ciev, vysoký krvný tlak, diabetes a
+obezitu. Druhá skupina zahŕňa úzkosť, depresiu a rôzne bolesti bez jasného dôvodu –
+napríklad bolesť chrbta alebo bolesti hlavy. Tretia skupina zahŕňa problémy s mozgom, ako
+demencia alebo Parkinsonova choroba, ktoré vážne ovplyvňujú to, ako sa senior dokáže
+sám starať o seba. Približne polovica všetkých seniorov (vo veku 65 a viac rokov) má
+aspoň jednu z týchto chorôb. U starších ľudí sa vyskytujú aj špecifické zdravotné
+problémy. Medzi tieto problémy patria: krehkosť, užívanie príliš veľa liekov naraz, zlá
+výživa, pády, strácanie pamäti až demencia a samota. Pády sú veľmi časté u seniorov a
+môžu mať vážne následky – zranenia, psychické traumy a stratu nezávislosti
+(Roszko-Wójtowicz et al. 2025).
+15
+
+1.2​Zdravotná starostlivosť a prevencia u seniorov
+Orientácia zdravotnej starostlivosti o seniorov sa v posledných rokoch zmenila
+smerom k prevencii. Tradičný prístup primárnej zdravotníckej starostlivosti sa sústreďoval
+predovšetkým na diagnostiku a liečbu už existujúcich ochorení. Súčasný model sa však
+zameriava na včasné zistenie zdravotných rizík a ich prevenciu, čo predstavuje dôležitý
+posun v poskytovaní starostlivosti staršej populácii (Palapar et al., 2024).
+Tento proces v zdravotníctve sa odzrkadľuje v tom, že primárna zdravotná
+starostlivosť sa zmenila z reaktívneho modelu na proaktívny, ktorý sa sústredí na
+identifikáciu, hodnotenie a riadenie zdravotných stavov špecifických pre starší vek.
+Primárna zdravotná starostlivosť sa javí ako ideálne prostredie na zavedenie integrovanej
+starostlivosti o seniorov. Integrovaná starostlivosť predstavuje koordinovaný systém
+služieb a intervencií, ktorý je osobitne prispôsobený všetkým potrebám jednotlivého
+pacienta. Charakteristické prvky efektívnych integrovaných modelov starostlivosti
+zahŕňajú:
+●​ identifikáciu seniorov s vysokým zdravotným rizikom prostredníctvom
+validovaných skríningových nástrojov,
+●​ podporu funkčnej obnovy a nezávislosti,
+●​ vzdelávanie pacientov v oblasti starostlivosti o seba a spravovanie vlastného
+zdravia,
+●​ koordinovanú
+
+a
+
+proaktívnu
+
+starostlivosť
+
+medzi
+
+zdravotníckymi
+
+poskytovateľmi a pacientom s rodinou, a
+●​ orientáciu na výsledky zamerané na osobné ciele a priority pacienta (Abbasi et
+al., 2021).
+Vedecké štúdie ukazujú, že preventívne programy v primárnej starostlivosti majú
+pozitívny vplyv na seniorov. Vedci skúmali 18 rôznych štúdií a zistili, že seniori vo veku
+65 rokov a viac, ktorí sa zúčastnili na preventívnych programoch, sa stali schopnejší robiť
+si veci sami. Konkrétne sa zlepšili v sebaobsluhe, mobilite a ďalších každodenných
+činnostiach. Zároveň hlásili, že sa cítia zdravšie a majú vyššiu kvalitu života. Najlepšie
+výsledky mali programy, ktoré zmenili spôsob poskytovania starostlivosti. Namiesto toho,
+aby museli seniori chodiť do ambulancie, zdravotníci ich navštívili doma alebo s nimi
+komunikovali telefonicky. Seniori v týchto programoch chodili menej často do nemocnice
+– ich počet hospitalizácií sa znížil o 23 %. Tak isto sa im zlepšili fyzické schopnosti a
+lepšie vnímajú svoje zdravie. Ďalším dôležitým prvkom bolo vzdelávanie seniorov o ich
+16
+
+zdraví. Keď seniori pochopili, ako sa starať o svoje zdravie a čo je pre nich dôležité, ich
+hospitalizácie sa znížili o 26 %. Boli tiež schopnejší robiť si veci sami a lepšie si vedeli
+poradiť so svojimi dlhodobými chorobami (Palapar et al., 2024).
+Prevencia sa delí na tri základné úrovne, ktoré sú spojené s rôznymi etapami
+prirodzeného vývoja choroby. Každá úroveň intervenuje v inej fáze a má iné ciele.
+Primárna prevencia sa zaoberá prevenciou vzniku choroby. Jej cieľom je znižovať
+výskyt choroby zmenou správania, ktoré by mohlo viesť k chorobe. Primárna prevencia má
+za účel redukovať počet nových prípadov. Príklady sú vakcinácia, obmedzenie fajčenia
+alebo zlepšenie pohybovej aktivity (AFMC, 2024).
+Sekundárna prevencia zahŕňa metódy na včasné rozpoznanie a zastavenie
+choroby v jej počiatočnom štádiu, ešte pred tým, než by sa objavili príznaky. Jej cieľom je
+kontrolovať priebeh choroby. Sekundárna prevencia obsahuje skríningové vyšetrenia –
+napríklad meranie krvného tlaku, testovanie hladiny cukru v krvi na zistenie diabetu, alebo
+mamografiu na detekciu rakoviny. Pravidelné testovanie a kontroly umožňujú skoršie
+intervencie, ktoré sú zvyčajne efektívnejšie ako liečba po objavení sa príznakov (AFMC,
+2024).
+Terciárna prevencia sa orientuje na zmiernenie vplyvu už existujúcej choroby na
+funkčnosť pacienta, jeho životnosť a kvalitu života. Jej cieľom je pomôcť pacientom, ktorí
+majú už chronickú chorobu, aby žili čo najlepšie ako je to možné. Terciárna prevencia
+zahŕňa modifikáciu rizikových faktorov – napríklad pomôcť pacientom so srdcovým
+ochorením znížiť váhu, alebo pacientom s astmou vyhýbať sa alergénom v domácnosti.
+Kľúčovým cieľom terciárnej prevencie je udržiavať a zlepšovať kvalitu života. Keď nie je
+možné chorobu vyliečiť, terciárna prevencia sa zameriava na rehabilitáciu a pomoc
+pacientovi prispôsobiť sa jeho stavu (AFMC, 2024).
+U seniorov sú ciele prevencie trochu iné ako u mladších ľudí. Úzko súvisia s tým,
+že úprava alebo úplné vyliečenie choroby často nie sú realistickými cieľmi. Namiesto toho
+sa orientujú na udržiavanie a stabilizáciu existujúceho zdravotného stavu, zníženie
+postihnutia a spomalenie ďalšieho zhoršovania. Aj malý pokrok v udržiavaní zdravia môže
+dramaticky zlepšiť kvalitu života starších ľudí. Celkovým cieľom prevencie a podpory
+zdravia u seniorov je zabrániť alebo odsunúť faktory, ktoré by mohli viesť k zbytočnej
+funkčnej závislosti a hospitalizácií.
+
+17
+
+1.3 Geriatrické syndrómy a preventívne opatrenia
+Krehkosť (frailty)
+Krehkosť je medicínsky stav, ktorý sa vyznačuje zníženou fyzickou výkonnosťou a
+zvýšenou zraniteľnosťou starších ľudí voči nežiadúcim zdravotným výsledkom. Nie je to
+len normálne starnutie – je to špecifický syndróm, ktorý sa vyvíja v dôsledku poklesu
+fyzických a kognitívnych funkcií. Seniori s krehkosťou majú vyššie riziko pádu,
+hospitalizácie, funkčného úpadku a smrti. Krehkosť sa objavuje približne u 11 % ľudí vo
+veku 50 – 59 rokov, ale prevalencia sa zvyšuje s vekom – u ľudí starších ako 95 rokov je to
+už 51 %. Hlavnými črtami krehkosti sú slabosť, pomalá rýchlosť chôdze, nízka fyzická
+aktivita, úbytok telesnej hmotnosti a únava. Prevencia krehkosti zahŕňa fyzickú aktivitu
+(najmä silu a rovnováhu), dostatočnú výživu s príjmom proteínov, kognitívnu stimuláciu a
+sociálny kontakt. Výskum ukazuje, že intervencie zamerané na posilnenie svalov a
+zvýšenie pohybovej aktivity môžu odsunúť alebo dokonca sa vyhnúť vzniku krehkosti
+(Kim et al., 2024).
+Pády a ich prevencia
+Pády sú jednou z najčastejších príčin zranení u seniorov a majú vážne zdravotné aj
+sociálne dôsledky. Približne jedna tretina ľudí vo veku 65 rokov a viac padá aspoň raz za
+rok, a medzi najčastejšie následky patria zlomeniny (najmä zlomeniny bedrového kĺbu),
+ktoré vedú k zníženiu funkcií a niekedy k hospitalizácii. Rizikové faktory pádu zahŕňajú
+slabú fyzickú kondíciu, problémy s rovnováhou, problémy s videním, lieky, domáce
+prostredie bez bezpečnostných úprav a kognitívny úpadok. Prevencia pádu je komplexná a
+zahŕňa viacero zložiek: fyzické cvičenie zamerané na silu a rovnováhu (napríklad
+posilňovacie cvičenia), úpravu domáceho prostredia (odstránenie prekážok, dobré
+osvetlenie, madlá v kúpeľni), skríning a korekcia problémov s videním a sluchom, revízia
+liekov, ktoré zvyšujú riziko pádu, a posúdenie nutnosti ortopedických pomôcok (palice,
+barla) (Hashimoto et al., 2025).
+Podvýživa u seniorov
+Podvýživa je rozšíreným problémom u seniorov a je spojená s nižšou kvalitou
+života, zvýšenou chorobnosťou, hospitalizáciami a úmrtnosťou. Vekom súvisiace zmeny v
+regulácii chuti do jedla spôsobujú tzv. "anorexiu starnutia" – zníženie chuti do jedla a
+príjmu potravy u starších ľudí. Príčin je niekoľko: čuchová dysfunkcia (postihuje až 60%
+18
+
+osôb starších ako 65 rokov), znížený pocit hladu, zvýšený pocit sýtosti, chronický zápal a
+zmeny v pohyblivosti žalúdka. Fyzické zmeny v čuchovej a chuťovej funkcii zahŕňajú
+úbytok chuťových pohárikov, zhoršenú regeneráciu čuchových nervov a znížené
+vylučovanie slín. Výsledkom je, že sa znižuje uvoľňovanie voňavých molekúl z potravín,
+najmä v dôsledku zhoršeného žuvania. Zdravotný stav, lieky, fajčenie a expozícia
+škodlivým látkam z prostredia tieto zmeny ďalej zhoršujú. To vedie k zníženiu príjmu
+živín a ku zmene potravinových preferencií – väčšinou sa strava stáva menej pestrá.
+Prevencia podvýživy sa začína pravidelným skríningom pomocou validovaných nástrojov,
+ktoré
+
+identifikujú
+
+seniorov v
+
+riziku.
+
+Keď skríning preukáže zvýšené riziko,
+
+nasleduje podrobný individuálny posudok, ktorý zohľadňuje nutričný stav, zdravotný stav,
+funkčnosť
+
+a
+
+skutočný
+
+zavádzajú individuálne
+
+príjem
+
+potravy.
+
+intervencie, vrátane
+
+Na
+
+základe
+
+tohto
+
+vhodných vitamínových
+
+posúdenia
+
+sa
+
+doplnkov a
+
+špecifických diétnych vzorov, ktoré majú pomôcť seniorom udržať si zdravie a
+spomaľovať kognitívny úpadok. Tiež je dôležité zaistiť dostatok proteínov, aby sa
+zabránilo úbytku svalovej hmoty (Loda et al., 2024).
+Inkontinencia u seniorov
+Inkontinencia moču je rozšírený zdravotný stav u seniorov oboch pohlaví s
+vážnymi dôsledkami na kvalitu života. Celková prevalencia inkontinencie u ľudí starších
+ako 55 rokov je približne 14,7 %, pričom je vyššia u žien (17,8 %) ako u mužov (11,1 %).
+Prevalencia výrazne rastie s vekom a dosahuje až 36,5 % u osôb starších ako 85 rokov.
+Rizikové faktory pre inkontinenciu sú čiastočne spoločné pre obe pohlavia a čiastočne
+odlišné. Faktory spoločné pre obe pohlavia zahŕňajú starší vek, zlý subjektívny zdravotný
+stav, funkčné obmedzenia v každodenných činnostiach, depresívne príznaky a prítomnosť
+chronických chorôb. U žien sú ďalšie špecifické rizikové faktory ako zvýšená telesná
+hmotnosť (vrátane obezity) a nižšia úroveň vzdelania. U mužov sa tieto faktory významne
+neprejavujú – ich inkontinencia je často spojená s ochoreniami prostaty a liečbou rakoviny
+prostaty. Prevencia a manažment inkontinencie by mali zohľadňovať pohlavie pacienta a
+základné rizikové faktory. U žien sú efektívne opatrenia zamerané na kontrolu váhy a
+zvýšenie povedomia o možnostiach liečby. U oboch pohlaví je dôležité zaoberať sa
+depresívnymi príznakmi a zlepšovať fyzickú funkčnosť. Zdravotníci by mali aktívne
+vyhľadávať inkontinenciu nielen u žien, ale aj u mužov a ponúkať konzervatívne liečebné
+opatrenia. V prípadoch, keď sú konzervatívne opatrenia neúspešné, je vhodné odporučiť
+návštevu urológa alebo gynekológa (Irik, L., et al. 2025).
+19
+
+Kognitívne poruchy a demencia
+Kognitívne poruchy – vrátane miernych kognitívnych porúch a demencie – sú
+vážnym problémom u seniorov a výrazne ovplyvňujú kvalitu života a nezávislosť. Mierny
+kognitívny úpadok (MCI) sa vyskytuje u približne 15–20 % ľudí vo veku 65 rokov a viac,
+a predstavuje zvýšené riziko prechodu na Alzheimerovu demenciu. Prevencia kognitívneho
+úpadku je možná a zahŕňa viacero stratégií: mentálnu stimuláciu (učenie sa, riešenie úloh,
+čítanie), fyzickú aktivitu (ktorá má pozitívny vplyv na mozog), zdravú výživu (najmä
+stredomorská diéta), sociálne zapojenie a kvalitný spánok. Edukačné programy, ktoré
+kombinujú kognitívny tréning (napríklad pamäťové cvičenia) so zdravým životným
+štýlom, boli preukázané ako účinné v spomalení kognitívneho úpadku alebo dokonca v
+zlepšení kognitívnych schopností u starších ľudí. Ďalej je dôležité kontrolovať rizikové
+faktory ako vysoký krvný tlak, diabetes a depresia, ktoré zhoršujú kognitívny vývoj
+(Matyas et al., 2019).
+1.4​Právny rámec a organizácia preventívnych prehliadok na Slovensku
+Systém preventívnych prehliadok na Slovensku je definovaný legislatívou, ktorá
+upravuje poskytovanie, financovanie a organizáciu zdravotnej starostlivosti. Ústavný
+základ poskytuje Ústava Slovenskej republiky, podľa ktorej „Každý má právo na ochranu
+zdravia. Na základe verejného zdravotného poistenia majú občania právo na bezplatnú
+zdravotnú starostlivosť a na zdravotné pomôcky za podmienok, ktoré ustanoví zákon“
+(Ústava Slovenskej republiky, č. 460/1992 Zb., čl. 40). Tento článok zakotvuje právo
+občanov, vrátane seniorov, na zdravotnú starostlivosť hradenú z verejného poistenia.
+Základný rámec pre preventívne prehliadky poskytuje Zákon č. 577/2004 Z. z. o
+rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a
+o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti. Podľa tohto
+zákona je plne hradený rozsah preventívnych prehliadok zo systému verejného
+zdravotného poistenia (Zákon č. 577/2004 Z. z., § 2, ods. 1). Pre seniorov (dospelých po
+dovŕšení 18. roku veku) je kľúčová najmä preventívna prehliadka u všeobecného lekára pre
+dospelých, ktorá sa plne uhrádza raz za dva roky (Zákon č. 577/2004 Z. z., § 2, ods. 1,
+písm. d)).
+Od 40 rokov veku sa preventívna starostlivosť rozširuje o špecializované vyšetrenia
+zamerané na kardiovaskulárne choroby. V rámci preventívnej prehliadky pacient
+podstupuje
+
+aj
+
+laboratórne
+
+vyšetrenia
+
+vrátane
+
+chemického
+
+vyšetrenia
+
+moču,
+20
+
+hematologických a biochemických testov (glykémia, kreatinín, pečeňové enzýmy), a
+krvného obrazu vrátane počtu trombocytov. U pacientov starších ako 40 rokov sa
+vykonáva vyšetrenie lipidového profilu – celkový cholesterol, HDL, LDL a non-HDL
+cholesterol, ako aj triglyceridy. Súčasťou vyšetrenia je aj elektrokardiografický záznam
+(EKG) na posúdenie činnosti srdca. U seniorov nad 50 rokov alebo u osôb s pozitívnou
+rodinnou anamnézou karcinómu hrubého čreva sa vyšetruje aj prítomnosť krvi v stolici, čo
+umožňuje včasné odhalenie rakoviny hrubého čreva vo veľmi skorých alebo dokonca
+predrakovinových štádiách. Včasný záchyt takéhoto ochorenia umožňuje rýchlejšiu a
+účinnejšiu liečbu. Neoddeliteľnou súčasťou každej preventívnej prehliadky je poradenstvo
+o zdravom životnom štýle a prevencii chronických ochorení (Všeobecná zdravotná
+poisťovňa).
+Okrem prehliadky u všeobecného lekára majú pacienti právo aj na preventívne prehliadky
+u špecialistov:
+●​ Prehliadka u zubného lekára – raz ročne. Prehliadka obsahuje kompletnú kontrolu
+chrupu, parodonta a mäkkých tkanív ústnej dutiny, kontrolu zubných náhrad a
+edukáciu o správnej zubnej hygiene. Ošetrenie zubného kazu zo zdravotného
+poistenia sa hradí len vtedy, ak pacient absolvoval preventívnu prehliadku v
+predchádzajúcom kalendárnom roku.
+●​ Gynekologická prehliadka – u žien od 18 rokov raz ročne, zameraná na včasné
+odhalenie organických a funkčných porúch ženských pohlavných orgánov, vrátane
+ultrasonografického vyšetrenia prsníkov a palpačného vyšetrenia
+●​ Urologická prehliadka – u mužov od 50 rokov raz ročne (alebo od 40 rokov v
+prípade pozitívnej rodinnej anamnézy rakoviny prostaty), zameraná na vyšetrenie
+prostaty, semenníkov a vyšetrenie prostatického špecifického antigénu (PSA).
+●​ Gastroenterologická prehliadka – kolonoskopia u pacientov nad 50 rokov raz za
+desať rokov, zameraná na včasné odhalenie polypov a rakoviny hrubého čreva a
+konečníka. U osôb so zvýšeným rizikom sa vykonáva bez vekového obmedzenia v
+kratších intervaloch (raz za päť rokov) (Všeobecná zdravotná poisťovňa).
+Preventívna starostlivosť zahŕňa skríning rakoviny prsníka (u žien 45-75 rokov) a rakoviny
+krčka maternice (u žien 23-64 rokov). Ženy s dokázanou mutáciou génu BRCA 1 majú
+zvýšené riziko rakoviny vaječníkov a podstupujú pravidelné vyšetrenia od 30 rokov
+(dvakrát ročne odber krvi na tumor marker Ca 125). Ženy s pozitívnou rodinnou
+anamnézou rakoviny vaječníkov sa sledujú od 35 rokov ročne. Skríning rakoviny krčka
+21
+
+maternice sa vykonáva prostredníctvom cytologického vyšetrenia – prvé dva roky v
+ročnom intervale, potom v trojročnom intervale až do 64 rokov, kedy sa skríning môže
+ukončiť pri negatívnych výsledkoch (Všeobecná zdravotná poisťovňa).
+1.5​Preventívne prehliadky u seniorov
+Preventívne prehliadky sú jednou z najdôležitejších súčastí starostlivosti o seniorov.
+Ich cieľom je odhaliť zdravotné problémy skôr, ako sa začnú prejavovať príznaky, čo
+umožňuje včasnú liečbu a lepšie výsledky. Svetová zdravotnícka organizácia zdôrazňuje,
+že preventívne intervencie u starších ľudí vedú k zlepšeniu ich funkčných schopností a
+kvality života. To je zvlášť dôležité, keď si uvedomíme, že s pribúdajúcim vekom sa
+zvyšuje riziko chronických ochorení a rôznych geriatrických problémov, ktoré výrazne
+ovplyvňujú kvalitu života a nezávislosť seniorov (Masini A. et al. 2025).
+1.6​Typy preventívnych prehliadok a ich význam
+Preventívne prehliadky u starších ľudí nie sú jednoduché - zahŕňajú celý rad
+rôznych testov a hodnotení, ktoré sa zaoberajú rôznymi aspektmi zdravia. Jedným z
+najdôležitejších je takzvané komplexné geriatrické posúdenie (CGA). Ide v podstate o
+všestranné zhodnotenie, ktoré posudzuje fyzické schopnosti staršieho človeka, jeho
+mentálne funkcie, psychický stav a sociálnu situáciu. CGA v primárnej zdravotnej
+starostlivosti umožňuje lekárom a sestrám zistiť, či starý človek nemá tzv. geriatrické
+syndrómy - konkrétne krehkosť, problémy s pohybom, pokles pamäti, problémy s výživou
+alebo riziko pádu. Všetky tieto veci sa zisťujú pomocou krátkeho a jednoduchého
+skríningu, ktorý pomôže určiť, či je potrebné detailnejšie vyšetrenie (Seematter-Bagnoud a
+Büla, 2018).
+Seniori majú často viacero zdravotných problémov, ktoré sa vyskytujú súčasne.
+Toto je výzva pre ich zdravotnú starostlivosť, pretože viacero chorôb a liekov môže
+spôsobiť zložité situácie. Na celom svete sú kardiovaskulárne choroby hlavným dôvodom,
+prečo seniori ochorejú a zomierajú. Riziko, že senior utrpí infarkt alebo mozgovú príhodu,
+sa výrazne zvyšuje po 65. roku u mužov a po 75. roku u žien. Zaujímavé je, že niektoré
+faktory, ako sú hladina glukózy a tlak, s vekom narastajú. Preto je prevencia
+kardiovaskulárnych chorôb u starších osôb založená na sledovaní a riadení týchto
+kľúčových faktorov - teda krvného tlaku, cholesterolu a diabetes. Práve tieto opatrenia
+pomáhajú zabrániť srdcovým príhodám (Abrignani et al., 2024).
+
+22
+
+Onkologické skríningy zamerané na včasné zistenie rakoviny sú u seniorov
+osobitne relevantné, avšak ich indikácia vyžaduje individualizovaný prístup. Príliš veľa
+testov na rakovinu u seniorov nie je vždy dobré - môže to viesť k zbytočným vyšetreniam,
+ktoré viac uškodia ako pomôžu kvalite ich života. Odporúčania pre onkologické skríningy
+u seniorov zahŕňajú kontrolu hrubého čreva prostredníctvom kolonoskopie alebo testu na
+skrytú krv, mamografiu u žien, test na rakovinu prostaty u mužov a niekedy aj CT na pľúca
+ak boli fajčiari (Kotwal a Walter, 2020).
+Kognitívne problémy a demencia sú ďalšou veľkou výzvou v seniorskom veku. Pri
+preventívnej prehliadke by sa mali testovať pamäť a myslenie pomocou jednoduchých
+testov ako MMSE alebo MoCA. Ak sa demencia odhalí skoro, existujú liečby, ktoré môžu
+spomaliť jej vývoj. Preventívne prehliadky skúmajú aj depresiu, ktorá je u seniorov veľmi
+častá, ale často sa jej nevenuje dostatok pozornosti (Seematter-Bagnoud a Büla, 2018).
+Riziko pádu je u seniorov obrovským problémom - pády sú jednou z hlavných
+príčin vážnych zranení a smrti v tejto vekovej skupine. Preto sa pri prehliadkach testuje
+svalová sila, rovnováha a spôsob chôdze. Aj testovanie hustoty kostí (takzvaná DXA) je
+dôležité, zvlášť u žien po menopauze, aby sa zistila osteoporóza a zabránilo sa fraktúram
+(Seematter-Bagnoud a Büla, 2018).
+Viacero veľkých štúdií skúmajúcich všeobecné zdravotné prehliadky zistilo, že
+samotné zdravotné prehliadky bez konkrétnych intervencií nemajú veľký vplyv na to, ako
+dlho budú ľudia žiť alebo ako často budú mať srdcové problémy. Ale keď sa vedci pozreli
+konkrétne na programy určené pre seniorov, kde sa kombinuje domáca starostlivosť s
+edukáciou pacientov, výsledky boli oveľa lepšie. Keď sa seniorom robia domáce návštevy,
+ich počet pobytov v nemocnici sa zníži približne o 23 %. Ak dokonca dostanú dôkladnú
+edukáciu o svojom zdraví, počet hospitalizácií sa znížil až o 26 % (Krogsbøll et al., 2019).
+V praxi sa ukázalo, že ak sa seniorom v sociálne znevýhodnených oblastiach
+poskytne kombinácia individuálneho zdravotného posúdenia, osobitnej edukácie o rizikách
+a osobnej konzultácie v ambulancii, majú z toho úžitok. Účastníci takéhoto programu
+lepšie pochopili svoje zdravotné riziká, viac dodržiavali odporúčania svojho lekára a menej
+často zanedbávali odporúčanú starostlivosť, čo môže viesť k pozitívnym zdravotným
+výsledkom a lepšej pripravenosti zvládať svoje zdravie (van Dijk et al., 2017).
+Systematický prehľad Ramli a kol. (2024) ukázal, že preventívne domáce návštevy
+môžu významne prispieť k podpore odolnosti seniorov, čiže ich schopnosti zvládať
+23
+
+náročné životné situácie a adaptovať sa na zmeny. Hoci sú dôkazy o zlepšení psychickej
+pohody a niektorých zdravotných výsledkov, vplyv domácich návštev na dlhodobé fyzické
+zdravie alebo mieru hospitalizácií nie je jednoznačný. Účinnosť týchto programov sa
+najčastejšie prejavila v podpore duševného zdravia, samostatnosti v každodenných
+aktivitách a v prevencii sociálnej izolácie, no nie vo výraznom znížení úmrtnosti či
+morbidity (Ramli et al., 2024).
+1.7​Bariéry a motivátory účasti seniorov na prehliadkach
+Napriek tomu, že preventívne prehliadky sú užitočné, účasť seniorov na nich nie je
+vysoká. Výskumy ukazujú, že sa na prehliadkach zúčastňuje len asi 43 až 48 % seniorov.
+To znamená, že približne polovica ľudí, ktorí by mali prísť, nepríde (Lau, Lian a Yap,
+2025).
+Jedným z hlavných dôvodov je, že mnohí seniori nemajú dostatok informácií o tom,
+prečo sú prehliadky dôležité. Majú nízku zdravotnú gramotnosť - jednoducho nepoznajú
+svoje zdravotné riziká. Ľudia, ktorí nemajú dosť vedomostí o chronických chorobách, sa
+oveľa menej chcú dostaviť na prehliadku. Ďalší problém je, že mnohí seniori si myslia, že
+ak sa necítia chorí, tak chorí nie sú. A keďže počas zdravia zväčša necítia žiadne príznaky,
+nemajú dôvod chodiť na prehliadky. To je samozrejme omyl, ale je to pochopiteľné väčšina ľudí sa zameriava na to, čo pociťuje tu a teraz. Strach hrá tiež dôležitú úlohu.
+Mnohí seniori sa obávajú, že na prehliadke im lekár odhalí vážnu chorobu, preto sa radšej
+prehliadkam vyhýbajú. Takýto strach je prirodzený, ale kontraproduktívny. Potom sú tu aj
+praktické problémy. Niektorí seniori nemajú, ako sa dostať do ambulancie - nemajú vlastné
+auto a doprava je zle dostupná. Niektorí sú fyzicky obmedzení. Čakacie lehoty v
+ambulanciách sú často dlhé, a keď starý človek musí dlho čakať, je to pre neho stresujúce.
+Ak mal senior zlú skúsenosť s predchádzajúcou prehliadkou (napríklad bolesť pri
+mamografii), radšej si ďalšiu prehliadku odpustí. Je tu aj sociálny a vzdelanostný aspekt.
+Ľudia s vyšším vzdelaním sú ochotnejší chodiť na prehliadky - šesťkrát viac ako ľudia bez
+vzdelania. Veľmi starí ľudia (po 75. roku) chodia na prehliadky menej. A ak senior žije
+sám bez rodiny alebo priateľov, je menej pravdepodobné, že si prehliadku zorganizuje
+(Chien et al., 2019).
+Na druhej strane, existujú aj veci, ktoré motivujú seniorov byť na prehliadkach.
+Jednou z najdôležitejších je podpora rodiny a priateľov. Keď sú blízki ľudia ochotní
+podporovať seniora, tak sa oveľa skôr dostane na prehliadku. Sociálne väzby a prepojenie
+24
+
+so svojou komunitou je veľmi dôležité - ľudia s dobrými sociálnymi väzbami majú vyššiu
+motiváciu starostlivosti o svoje zdravie (Stafford et al., 2018).
+Finančné hľadisko má tiež vplyv na účasť seniorov na preventívnych prehliadkach.
+V štúdiách 73 % respondentov povedalo, že by boli ochotní chodiť na prehliadky, ak by
+boli zadarmo alebo keby za to dostali nejakú kompenzáciu. Správne formulovaná
+pozvánka na prehliadku má veľký vplyv. Keď dostane senior jasnú pozvánku s
+konkrétnym miestom, časom a spôsobom registrácie, je viac pravdepodobné, že sa dostaví.
+Telefónna pozvánka alebo osobný kontakt sú ešte účinnejšie ako písomné pozvánky. SMS
+pripomienky alebo poštové pripomienky tiež zvyšujú počet ľudí, ktorí sa dostavia (Lau,
+Lian a Yap, 2025; Chien et al., 2019).
+Zaujímavé je, že niektorí seniori, ktorí majú zdravotnú úzkosť (s obavami o svoje
+zdravie), sú paradoxne viac motivovaní chodiť na prehliadky. Úzkosť sa tu stáva
+motivátorom namiesto prekážky - ak ju správne podporia zdravotníci (Chien et al., 2019).
+1.8​Úloha sestry pri podpore prevencie
+Rozhodovanie seniora zúčastniť sa na preventívnych prehliadkach závisí od
+komplexného pôsobenia psychologických faktorov. Najvýznamnejšie sa osvedčila
+subjektívna spoločenská norma – teda vplyv rodiny, priateľov a širšej spoločnosti na
+rozhodnutie absolvovať vyšetrenie. Podobne dôležité je aj vnímanie vlastnej účasti – keď
+sa senior cíti schopný zvládnuť proces prehliadky a rozumie jej prínosom, výrazne rastie
+jeho motivácia k účasti. Tieto faktory sa vzájomne dopĺňajú a určujú, či sa senior vo
+svojom zdravom stave rozhodne pravidelne absolvovať skríningové programy (Xu, Pan,
+Li, 2024).
+Sestry zohrávajú podstatnú rolu pri motivácii seniorov k účasti na preventívnych
+prehliadkach. Individuálna edukácia, ktorá zohľadňuje obavy, finančné či časové bariéry
+konkrétneho seniora, vytvára priestor na vznik dôvery a otvorenosti voči prehliadkam.
+Sestry kladú dôraz aj na sociálnu podporu a rodinné väzby, ktoré výrazne ovplyvňujú
+rozhodovací proces. Cielené vzdelávacie programy vedené sestrami, ktoré využívajú
+behaviorálne prístupy, preukázali efektivitu pri zvýšení účasti na jednotlivých typoch
+skríningov – od karcinómu až po kardiovaskulárne prehliadky (Xu, Pan, Li, 2024).
+Systematické
+
+prehľady z posledných rokov
+
+dokumentujú,
+
+že programy
+
+koordinované zdravotnými sestrami vedú k výraznému zvýšeniu počtu absolvovaných
+25
+
+preventívnych prehliadok. Sestra ako koordinátor, edukátor a poskytovateľ kontinuálnej
+starostlivosti aktívne odstraňuje bariéry – či už je to dezorientácia voči systému, strach z
+výsledkov alebo logistické problémy. Pacienti zapojení do sestersky vedených programov
+hlásia vyššiu spokojnosť, lepšiu spoluprácu v liečbe a zlepšené zdravotné ukazovatele
+(krvný tlak, glykémia, cholesterol). Uvedené výsledky naznačujú, že sestra je
+nenahraditeľným článkom v efektívnosti preventívnych programov (Ruksakulpiwat et al.,
+2025).
+Štúdie zamerané na komunitné programy vedené sestrami preukázali, že cielené
+intervencie v sociálnych zariadeniach, domovoch seniorov a komunitných centrách vedú k
+výrazne vyššej miere účasti starších osôb na preventívnych vyšetreniach. Edukácia v
+komunitnom prostredí pomáha odstraňovať obavy spojené so skríningom a buduje
+pozitívne postoje k prevencii. Sestry v komunitách pôsobia ako zdravotné edukátorky,
+koordinátorky služieb a zároveň poskytovateľky priamej starostlivosti, čím vytvárajú
+holistický prístup k zdraviu seniora. Výskum potvrdil, že takto vedené programy výrazne
+zvyšujú počet absolvovaných prehliadok – obzvlášť v prípadoch zraniteľných skupín
+(Rahmat et al., 2025).
+Sestry vykonávajúce ošetrovateľskú starostlivosť v domácnosti majú jedinečnú
+príležitosť individuálne motivovať seniorov k účasti na preventívnych vyšetreniach. V
+domácom prostredí sestra môže posúdiť zdravotný stav, zákonné bariéry mobilnosti,
+sociálnu izoláciu a ďalšie faktory, ktoré by inak zostali skryté. Práve v domácnosti môže
+sestra poskytnúť podporu a konkrétne odporúčania, ktoré sú zacielené na individuálne
+potreby seniora. Najnovšie štúdie dokazujú, že by pravidelné domáce návštevy vedené
+sestrami mohli výrazne zvyšiť mieru absolvovaných preventívnych prehliadok, znižiť
+počet zbytočných hospitalizácií a zvyšiť celkovú spokojnosť seniorov so zdravotnou
+starostlivosťou (Ramli, D., 2024).
+Sesterské intervencie majú dlhodobý pozitívny vplyv na udržiavanie pravidelnosti a
+kontinuity
+
+preventívnych
+
+prehliadok. Pravidelný
+
+telefonický kontakt, motivačné
+
+rozhovory, edukačné materiály a podpora rodiny vytvárajú stavy, v ktorých sa senior stáva
+aktívnym účastníkom vlastnej preventívnej starostlivosti. Najefektívnejšie sú prístupy,
+ktoré kombinujú individuálne plánovanie so socializovanou podporou a pravidelným
+monitoringom. Výskum podľa systematických prehľadov z rokov 2023–2025 potvrdzuje,
+že integračný sesterský model vedie k dlhodobému zvýšeniu účasti na preventívnych
+26
+
+programoch a lepším zdravotným výsledkom u starších dospelých. (Ruksakulpiwat et al.,
+2025)
+
+27
+
+2​ VÝSKUM
+Preventívne prehliadky patria v seniorskom veku k základným nástrojom včasného
+záchytu chronických ochorení a udržania funkčnej nezávislosti. No ich využívanie staršími
+dospelými zostáva v mnohých krajinách pod odporúčanou úrovňou. Výskumy ukazujú, že
+účasť seniorov na preventívnych službách je podmienená kombináciou individuálnych
+charakteristík (vek, vzdelanie, zdravotný stav), subjektívnych postojov k prevencii a
+štrukturálnych faktorov (dostupnosť a organizácia primárnej starostlivosti). Pochopenie
+týchto súvislostí je kľúčové pre plánovanie účinných programov podpory zdravia a
+cielených intervencií v staršej populácii. Je potrebné empiricky skúmať ako seniori
+preventívne prehliadky v praxi využívajú a čo ovplyvňuje ich rozhodovanie.
+2.1 Výskumný problém, ciele, hypotézy
+Výskumný problém
+Aká je účasť seniorov na preventívnych prehliadkach u všeobecného lekára ?
+Cieľom výskumu :
+●​ Zistiť účasť seniorov na preventívnych prehliadkach u všeobecného lekára.​
+Hlavné ciele sledujeme prostredníctvom čiastkových cieľov, v ktorých zisťujeme a
+analyzujeme:
+●​
+
+súvislosti medzi vekom, pohlavím, rodinným stavom a vzdelaním seniorov a ich
+účasťou na preventívnych prehliadkach u všeobecného lekára.
+
+●​ súvislosti medzi zdrojmi informácií, úrovňou informovanosti a subjektívnym
+hodnotením dôležitosti preventívnych prehliadok.
+●​
+
+vzťah medzi presvedčením seniorov o prínose preventívnych prehliadok pre
+zdravie a psychickú pohodu a ich pravidelnou účasťou na týchto prehliadkach.
+
+●​
+
+názory seniorov na motivujúce a bariérové faktory k účasti na preventívnych
+prehliadkach a ich súvislosť s vnímanou dôležitosťou a informovanosťou o
+prevencii.
+
+28
+
+Na základe toho sme vypracovali hypotézy:
+Hypotéza H1 (vek a účasť)
+Existuje štatisticky významný vzťah medzi vekom seniorov a frekvenciou účasti
+na preventívnych prehliadkach u všeobecného lekára (otázky č. 1, 16 a 17a).
+Hypotéza H2
+Existuje štatisticky významný vzťah medzi pohlavím seniorov a frekvenciou účasti
+na preventívnych prehliadkach u všeobecného lekára (otázky č. 2, 16 a 17a).
+Hypotéza H3
+Existuje štatisticky významný vzťah medzi rodinným stavom a frekvenciou účasti
+na preventívnych prehliadkach u všeobecného lekára (otázky č. 3, 16 a 17a).
+Hypotéza H4 (zdroj informácií a dôležitosť) ​
+Existuje štatisticky významný vzťah medzi zdrojom informácií o preventívnych
+prehliadkach, úrovňou informovanosti a subjektívnym hodnotením dôležitosti
+preventívnych prehliadok (otázky č. 13, 15 a 18).
+Hypotéza H5
+Existuje štatisticky významný vzťah medzi presvedčením, že preventívne prehliadky
+prispievajú k zlepšeniu zdravia a psychickej pohody, a pravidelnou účasťou na nich
+(otázky č. 20, 22 a 16).
+Hypotéza H6 (motivácia a dôležitosť)​
+Existuje štatisticky významný vzťah medzi motivujúcimi faktormi k účasti
+na preventívnej prehliadke a subjektívnou dôležitosťou, ktorú seniori pripisujú
+preventívnym prehliadkam (otázky č. 24 a 18 + doplnená informovanosť – otázka č. 15).
+Hypotéza H7
+Existuje štatisticky významný vzťah medzi najvyšším dosiahnutým vzdelaním
+seniorov, ich účasťou na preventívnych prehliadkach u všeobecného lekára a úrovňou
+informovanosti o preventívnych prehliadkach (otázky č. 5, 16 a 12).
+
+29
+
+2.2​Charakteristika výskumnej vzorky
+Výber respondentov bol zámerný – senior žijúci doma, nie v zariadeniach a bez
+diagnózy
+
+závažnej
+
+neurodegeneratívnej
+
+kognitívnej poruchy. Výskumná
+
+vzorka
+
+pozostávala zo 139 seniorov vo veku 60 až 90 rokov žijúcich v domácom prostredí v
+Jaslovských Bohuniciach, Kátlovciach, Maduniciach a v Trnave. Do výskumu boli
+zaradení respondenti, ktorí spĺňali vekové kritérium, nebývali v zariadeniach sociálnych
+služieb a dobrovoľne súhlasili s anonymným vyplnením dotazníka. Po neúspešnom
+oslovení klubov a združenia seniorov v Trnavskom kraji boli dotazníky distribuované
+prostredníctvom známych medzi seniormi v ich rodinách a susedstve. Tento spôsob
+výberu, ako aj regionálne zameranie a vyššie zastúpenie žien, obmedzujú možnosti
+zovšeobecnenia zistenie na populáciu seniorov na celom Slovensku, vzorka je však
+reprezentatívna pre seniorov žijúcich v domácom prostredí v sledovaných lokalitách
+2.3​Metodika práce
+Zber údajov bol realizovaný prostredníctvom anonymného dotazníka vlastnej
+konštrukcie, ktorý pozostáva z 24 otázok rozdelených do siedmich tematických celkov.
+Dotazník zahŕňa :
+I. Demografické údaje (8 otázok – vek, pohlavie, rodinný stav, vzdelanie, príjem),
+II. Zdravotný stav (3 otázky),
+III. Informovanosť (4 otázky),
+IV. Účasť na preventívnych prehliadkach (2 otázky),
+V. Jednotlivé preventívne prehliadky (1 otázka s 7 podotázkami),
+VI. Postoj k prevencii (4 otázky)
+VII. Prekážky a motivácia (2 otázky).​
+Dotazník obsahuje 23 uzavretých otázok s vopred danými odpoveďami (jednovýberové,
+viacnásobné, Likertove škály) a 5 otvorených položiek na doplnenie („Iné“). Tento nástroj
+umožňuje získať kvantitatívne dáta vhodné na štatistickú analýzu vzťahov medzi
+premennými podľa stanovených hypotéz.​
+
+30
+
+Štatistické spracovanie:
+Na štatistické spracovanie údajov bolo použité viacero postupov zodpovedajúcich
+typu premenných a formulovaným hypotézam. Na overenie vzťahu medzi kategóriovými
+premennými (vek, pohlavie, rodinný stav, zdroje informácií, presvedčenia) a frekvenciou
+účasti na preventívnych prehliadkach bol aplikovaný Chí-kvadrát test nezávislosti.
+Rozdiely v relatívnych početnostiach (podieloch) medzi skupinami respondentov bolo
+vyhodnocované pomocou testu zhody dvoch proporcií a pri porovnávaní podielu seniorov,
+ktorí čerpali informácie o preventívnych prehliadkach výhradne od lekára, s hraničnou
+hodnotou 50% aj binomickým testom. Pri porovnávaní poradia motivačných faktorov a
+zhody medzi skupinami bol použitý Spearmanov korelačný koeficient a Fleissova kappa.
+Na analýzu rozdielov v miere dôležitosti preventívnych prehliadok, posudzovanej na
+ordinálnej škále podľa rôznych zdrojov informácií a ďalších faktorov, bolo využité
+neparametrický Kruskal–Wallisov test, pričom pre post hoc porovnania dvojíc skupín bol
+aplikovaný Conoverov test, a na porovnanie dvoch nezávislých skupín (napríklad podľa
+prítomnosti lekára medzi zdrojmi informácií) Mann–Whitneyho U test. Marascuilo
+procedúra bola použitá pri podrobnejšom porovnaní rozdielov v podieloch pravidelnej
+účasti na preventívnych prehliadkach medzi jednotlivými kategóriami rodinného stavu.
+Organizácia výskumu
+Zber dát prebiehal v období júl – december 2025 formou anonymného dotazníka
+vlastnej konštrukcie, určeného pre seniorov vo veku 60 a viac rokov žijúcich v domácom
+prostredí. V úvodnej fáze výskumu sme oslovili viaceré kluby a združenia seniorov v
+Trnavskom kraji so žiadosťou o spoluprácu pri distribúcii dotazníka, napriek opakovaným
+kontaktom však na tieto oslovenia neprišla spätná odozva. Z tohto dôvodu bol použitý
+kombinovaný spôsob výberu, pri ktorom sme požiadali známych v našom okolí o
+sprostredkovanie a distribúciu dotazníkov seniorom v ich rodine a susedstve, pričom boli
+zachované stanovené kritériá zaradenia a anonymita respondentov. Následne boli
+dotazníky skontrolované z hľadiska úplnosti, údaje boli prepísané do elektronickej
+databázy a spracované pomocou deskriptívnej a inferenčnej štatistiky v súlade s vopred
+stanovenými hypotézami.​
+Pilotná štúdia bola realizovaná na 10 senioroch z cieľovej skupiny pred zahájením
+hlavného zberu dát v júli 2025. Cieľom bolo overiť zrozumiteľnosť formulácií otázok,
+logiku nadväznosti položiek a čas vyplnenia dotazníka (priemerne 12–15 minút). Na
+31
+
+základe pripomienok respondentov boli upravené dve nejasné formulácie v otázkach 14 a
+16a, čím sa zabezpečila vyššia spoľahlivosť a validita nástroja pre hlavný výskum.
+Limity výskumnej vzorky spočívajú v regionálnej koncentrácii (iba Trnavský kraj –
+Jaslovské Bohunice, Kátlovce, Madunice, Trnava), vyššom zastúpení žien a absencii
+odpovedí zo združení a klubov seniorov, čo obmedzuje zovšeobecniteľnosť na celé
+Slovensko. Vzorka je však relevantná pre charakteristiku seniorov žijúcich doma v
+menších obciach a mestách Trnavského kraja.
+
+32
+
+3​ ANALÝZA A INTERPRETÁCIA VÝSLEDKOV
+I.​ Údaje o respondentoch
+Výberový súbor bol tvorený 139 respondentmi, seniormi žijúcimi v domácnostiach
+v Trnave, v Jaslovských Bohuniciach, v Kátlovciach a v Maduniciach. 41 (29,50%)
+respondentov pochádza z Trnavy, 36 (25,90%) z Jaslovských Bohuníc, 30 (21,58%) z
+Kátloviec a 32 (23,02%) respondentov z Maduníc.
+Tabuľka 1 Mesto (obec) zariadenia
+Mesto (obec) zariadenia
+Trnava
+Jaslovské Bohunice
+Kátlovce
+Madunice
+Spolu
+
+n
+41
+36
+30
+32
+139
+
+%
+29,50
+25,90
+21,58
+23,02
+100,00
+
+Pohlavie respondentov
+Ženské pohlavie bolo v súbore zastúpené 89 (64,03%) respondentmi, mužské 50 (35,97%)
+respondentmi. Početnosť žien, ktorá štatisticky významne prekročila hranicu 50%
+(binomický test: p = 0,00059), bola významne väčšia ako početnosť mužov.
+Tabuľka 2 Pohlavie respondentov
+Pohlavie
+
+n
+
+%
+
+Žena
+Muž
+Spolu
+
+89
+50
+139
+
+64,03
+35,97
+100,00
+
+Vek
+Tabuľka 3 Vek respondentov
+Vek respondentov
+
+ženy
+
+muži
+
+spolu
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+60 – 74 rokov
+
+36
+
+40,45
+
+35
+
+70,00
+
+71
+
+51,08
+
+75 – 89 rokov
+
+46
+
+51,69
+
+15
+
+30,00
+
+61
+
+43,88
+
+90 – viac rokov
+
+7
+
+7,87
+
+0
+
+0,00
+
+7
+
+5,04
+
+Spolu
+
+89
+
+100,00
+
+50
+
+100
+
+139
+
+100,00
+
+Najväčšia početnosť respondentov, 71 (51,08%) bola vo veku 60 – 74 rokov, 61 (43,88 %)
+respondentov vo veku 75 – 89 rokov a 7 (5,04%) respondentov bolo vo veku 90 alebo viac
+ako 90 rokov.
+33
+
+S ohľadom na fakt, že v kategórii najstarších respondentov, do ktorej patrili len ženy,
+nebola určená horná hranica ich veku, sme deskripciu údajov veku respondentov
+nepreviedli. Ale početnosti respondentov ženského a mužského pohlavia vo zvyšných
+dvoch vekových triedach poukazujú na významnosť rozdielu priemerného veku mužov
+(71,50 roka) a žien (viac ako 74,50 roka). Štatistickú významnosť tohto rozdielu
+potvrdzuje už výsledok testu zhody dvoch proporcií, porovnávajúci početnosti žien a
+mužov v prvých dvoch vekových triedach. Relatívna početnosť mužov vo vekovej
+kategórii 60 – 74 rokov je štatisticky významne väčšia ako relatívna početnosť žien,
+a naopak v kategórii 75 – 89 rokov je ich relatívna početnosť významne menšia (test zhody
+dvoch proporcií: z = 3,3448; zkrit = 3,3263; p =0,00041).
+Rodinný stav
+Tabuľka 4 Rodinný stav respondentov
+Rodinný stav
+Slobodný/á
+Ženatý/Vydatá
+Vdovec/Vdova
+Rozvedený/á
+Spolu
+
+muži
+n
+12
+31
+4
+3
+50
+
+ženy
+n
+2
+30
+47
+10
+89
+
+%
+24,00
+62,00
+8,00
+6,00
+100,00
+
+%
+2,25
+33,71
+52,81
+11,24
+100,00
+
+spolu
+n
+14
+61
+51
+13
+139
+
+%
+10,07
+43,88
+36,69
+9,35
+100,00
+
+Medzi respondentmi bolo 14 (10,07%) slobodných, 61 (43,88%) respondentov malo
+manžela (manželku), vdovcov bolo 51 (36,69%) a rozvedených bolo 13 (9,35%).
+Životná situácia
+Tabuľka 5 Životná situácia respondentov
+Životná situácia
+
+muži
+
+ženy
+
+spolu
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+17
+
+34,00
+
+42
+
+47,19
+
+59
+
+42,45
+
+Žijem
+s manželom/manželkou,
+31
+partnerom/partnerkou
+
+62,00
+
+25
+
+28,09
+
+56
+
+40,29
+
+Žijem u detí
+
+2
+
+4,00
+
+22
+
+24,72
+
+24
+
+17,27
+
+Iné
+
+0
+
+0,00
+
+0
+
+0,00
+
+0
+
+0,00
+
+Spolu
+
+50
+
+100,00
+
+89
+
+100,00
+
+139
+
+100,00
+
+Žijem samostatne
+
+Najväčšia početnosť respondentov, 59 (42,45%), žije samostatne, 56 (40,29%)
+respondentov žije v manželskom zväzku alebo s partnerom a 24 (17,27%) respondentov
+u svojich detí. Odpoveď iné sme nezaznamenali ani u jedného z respondentov.
+
+34
+
+Najvyššie dosiahnuté vzdelanie
+Najvyšším dosiahnutým vzdelaním 29 (20,86%) respondentov bolo základné vzdelanie, 58
+(41,73%)
+
+respondentov stredoškolské bez
+
+maturity, 38 (27,34%) respondentov
+
+stredoškolské s maturitou. 3 (2,16%) respondenti mali ukončené vysokoškolské vzdelanie
+I. stupňa, 9 (6,47%) vysokoškolské vzdelanie II. stupňa a najvyšším ukončeným vzdelaním
+2 (1,44%) respondentov bolo vysokoškolské vzdelanie III. stupňa.
+Tabuľka 6 Vzdelanie respondentov
+
+Základné
+
+muži
+n
+6
+
+%
+12,00
+
+ženy
+n
+23
+
+%
+25,84
+
+spolu
+n
+29
+
+%
+20,86
+
+Stredoškolské bez maturity
+
+27
+
+54,00
+
+31
+
+34,83
+
+58
+
+41,73
+
+Stredoškolské s maturitou
+
+10
+
+20,00
+
+28
+
+31,46
+
+38
+
+27,34
+
+Vysokoškolské (bakalárske)
+
+2
+
+4,00
+
+1
+
+1,12
+
+3
+
+2,16
+
+Vysokoškolské (magisterské/inžinierske)
+
+5
+
+10,00
+
+4
+
+4,49
+
+9
+
+6,47
+
+Vysokoškolské (doktorandské)
+
+0
+
+0,00
+
+2
+
+2,25
+
+2
+
+1,44
+
+Spolu
+
+50
+
+100,00 89
+
+Vzdelanie
+
+100,00 139
+
+100
+
+Pracovný stav
+Iba 15 (10,79%) respondentov je zamestnaných a z nich 4, dvaja muži a dve ženy, sú
+pracujúci dôchodcovia. Dôchodcovia tvorili dominantnú početnosť respondentov
+výberového súboru, bolo ich 128 (92,09%). Nezamestnaní v súbore neboli.
+Tabuľka 7 Pracovný stav respondentov
+Pracovný stav
+
+muži
+
+ženy
+
+spolu
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+8
+
+16,00
+
+7
+
+7,87
+
+15
+
+10,79
+
+Dôchodca (starobný, invalidný, predčasný) 44
+
+88,00
+
+84
+
+94,38
+
+128
+
+92,09
+
+Nezamestnaný/á
+
+0
+
+0,00
+
+0
+
+0,00
+
+0
+
+0,00
+
+Iné
+
+0
+
+0,00
+
+0
+
+0,00
+
+0
+
+0,00
+
+Zamestnaný/á
+
+35
+
+Zamestnanie (pred odchodom do dôchodku)
+Tabuľka 8 Zamestnanie (pred odchodom do dôchodku)
+
+Manuálne práce
+Administratíva
+
+muži
+n
+26
+8
+
+Zdravotníctvo
+Vzdelávanie
+Služby
+Iné
+Spolu
+
+3
+6
+4
+3
+50
+
+Zamestnanie
+
+%
+52,00
+16,00
+
+ženy
+n
+42
+24
+
+6,00
+12,00
+8,00
+6,00
+100,00
+
+5
+4
+13
+1
+89
+
+%
+47,19
+26,97
+
+spolu
+n
+68
+32
+
+%
+48,92
+23,02
+
+5,62
+4,49
+14,61
+1,12
+100,00
+
+8
+10
+17
+4
+139
+
+5,76
+7,19
+12,23
+2,88
+100,00
+
+Počas svojho zamestnania pred odchodom do dôchodku 68 (48,92%) respondentov
+vykonávalo manuálne práce, 32 (23,02%) respondentov pracovalo v administratíve, 8
+(5,76%) respondentov v zdravotníctve, 10 (7,19%) respondentov v oblasti vzdelávania, 17
+(12,23%) respondentov v oblasti služieb. Odpoveď iné uviedli 4 (2,88%) respondenti, 3
+muži a 1 žena. Všetci štyria boli živnostníkmi.
+Priemerný mesačný príjem (čistý)
+Tabuľka 9 Priemerný čistý mesačný príjem
+Priemerný mesačný príjem muži
+(v čistom)
+n
+
+ženy
+
+spolu
+
+%
+
+n
+
+%
+
+n
+
+%
+
+Menej ako 500 €
+
+11
+
+22,00
+
+30
+
+33,71
+
+41
+
+29,50
+
+500–800 €
+
+23
+
+46,00
+
+30
+
+33,71
+
+53
+
+38,13
+
+801–1 000 €
+
+5
+
+10,00
+
+7
+
+7,87
+
+12
+
+8,63
+
+Viac ako 1 000 €
+
+3
+
+6,00
+
+2
+
+2,25
+
+5
+
+3,60
+
+Priemerný čistý mesačný príjem 41 (29,50%) respondentov bol menší ako 500 €, suma
+500 – 800 € bola príjmom 53 (38,13%) respondentov, suma 801 – 1000 € príjmom 12
+(8,63%) respondentov a 5 (3,60%) respondentov malo príjem väčší ako 1000 €.
+28 (20,14%) respondentov, 8 mužov a 20 žien, nám informáciu o svojom príjme
+neposkytlo.
+
+36
+
+II.​ Zdravotný stav a spokojnosť
+Otázka 9 Ako hodnotíte svoj celkový zdravotný stav?
+Tabuľka 10 Hodnotenie svojho celkového zdravotného stavu
+Otázka 9
+
+n
+
+%
+
+Výborný
+
+4
+
+2,88
+
+Veľmi dobrý
+
+20
+
+14,39
+
+Dobrý
+
+90
+
+64,75
+
+Zlý
+
+25
+
+17,99
+
+Veľmi zlý
+
+0
+
+0,00
+
+Spolu
+
+139
+
+100,00
+
+Nikto z respondentov nehodnotil svoj celkový zdravotný stav ako veľmi zlý. Štyria
+(2,88%) respondenti ho hodnotili ako výborný, 20 (14,39%) respondentov ako veľmi
+dobrý, 90 (64,75%) respondentov ako dobrý a 25 (17,99%) respondentov ako zlý.
+Otázka 10 Máte nejaké chronické ochorenie?
+61 (43,88%) respondentov uviedlo, že trpí hypertenziou, 39 (28,06%) respondentov má
+cukrovku, 45 (32,37%) sa lieči na srdcovo – cievne ochorenia, 30 (21,58%) respondentov
+trpí artritídou alebo artrózou, 19 (13,67%) respondentov osteoporózou.
+27 (19,42%) respondentov uviedlo odpoveď iné:
+●​ 13 žiadne ochorenie
+●​ 6 onkologické ochorenie
+●​ 5 neurologické ochorenie
+●​ 2 vysoký cholesterol
+●​ 1 astma
+
+Graf 1 Chronické ochorenia
+
+37
+
+Otázka 11 Užívate pravidelne lieky na chronické ochorenie?
+Tabuľka 11 Pravidelné užívanie liekov
+Otázka 11
+
+n
+
+%
+
+Áno
+
+119
+
+85,61
+
+Nie
+
+20
+
+14,39
+
+Spolu
+
+139
+
+100,00
+
+119 (85,61%) respondentov pravidelne užíva lieky na chronické ochorenie, 20 (14,39%)
+ich neužíva.
+III.​Informovanosť o preventívnych prehliadkach
+Otázka 12 Ako by ste ohodnotili svoje informácie o preventívnych prehliadkach
+u lekára?
+Tabuľka 12 Informácie o preventívnych prehliadkach
+Odpoveď
+
+Otázka 12
+
+n
+
+%
+
+A
+
+Viem presne, čo preventívne prehliadky zahŕňajú a pravidelne sa ich
+85
+zúčastňujem
+
+61,15
+
+B
+
+Viem, čo sú preventívne prehliadky, ale nezúčastňujem sa ich
+46
+pravidelne
+
+33,09
+
+C
+
+Počul(a) som o preventívnych prehliadkach, ale neviem presne, čo
+6
+zahŕňajú
+
+4,32
+
+D
+
+Neviem, čo sú preventívne prehliadky
+
+2
+
+1,44
+
+Spolu
+
+139
+
+100,00
+
+85 (65,15%) respondentov vie presne, čo preventívne prehliadky zahŕňajú a pravidelne sa
+ich aj zúčastňuje (A). 46 (33,09%) respondentov síce vie, čo sú preventívne prehliadky, ale
+pravidelne sa ich nezúčastňuje (B), 6 (4,32%) respondentov počulo o preventívnych
+prehliadkach, ale nevie presne, čo zahŕňajú (C). 2 (1,44%) respondentky, ženy vo veku
+viac ako 90 rokov, vôbec nevedeli, čo sú preventívne prehliadky.
+Otázka 13 Odkiaľ získavate informácie o preventívnych prehliadkach?
+Tabuľka 13 Zdroj informácií o preventívnych prehliadkach
+Otázka 13
+
+n
+
+%
+
+Lekár
+
+106
+
+76,26
+
+Rodina/priatelia
+
+43
+
+30,94
+
+Televízia alebo rádio
+
+17
+
+12,23
+
+Internet
+
+9
+
+6,47
+
+Iné
+
+2
+
+1,44
+
+38
+
+Najväčšia početnosť respondentov, 106 (76,26%), získala informácie o preventívnych
+prehliadkach od lekára, 43 (30,94%) respondentov ich získalo od rodiny alebo priateľov,
+17
+
+(12,23%)
+
+respondentov z televízie alebo rádia a 9 (6,47%) respondentov
+
+prostredníctvom internetu. Na otázku nevedeli odpovedať dve (1,44) respondentky, ktoré
+nevedeli, čo sú preventívne prehliadky, preto vo svojej odpovedi uviedli možnosť iné (=
+neviem).
+26 (18,71%) respondentov uviedlo kombináciu možností odpovede. Prehľad o absolútnych
+početnostiach odpovedí respondentov v tejto otázke uvádzame prostredníctvom Vennovho
+diagramu (obrázok 1).
+
+Obrázok 1 Vennov diagram, zdroj informácií o preventívnych prehliadkach
+
+39
+
+Otázka 14 Čo podľa vás preventívna prehliadka zahŕňa?
+Tabuľka 14 Obsah preventívnej prehliadky
+Otázka 14
+
+n
+
+%
+
+Odber krvi a moču
+
+116
+
+83,45
+
+Rozhovor s lekárom o zdravotnom stave
+
+94
+
+67,63
+
+Meranie tlaku, pulzu, hmotnosti
+
+106
+
+76,26
+
+Preventívne vyšetrenie zraku alebo sluchu
+
+41
+
+29,50
+
+Vyšetrenie, len keď má človek nejaký problém
+
+18
+
+12,95
+
+Neviem, čo všetko sa tam robí
+
+12
+
+8,63
+
+Odber krvi a moču ako súčasť preventívnej prehliadky potvrdilo vo svojej odpovedi 116
+(83,45%) respondentov, 94 (67,63%) respondentov uviedlo, že súčasťou tejto prehliadky je
+rozhovor s lekárom, 106 (76,26%) respondentov vedelo, že je jej súčasťou aj meranie
+tlaku, pulzu a hmotnosti. 41 (29,50%) respondentov tvrdilo, že do preventívnej prehliadky
+je zahrnuté aj preventívne vyšetrenie zraku a sluchu. 18 (12,95%) respondentov vo svojej
+odpovedi uviedlo, že sa toto vyšetrenie vykonáva len keď má človek nejaký problém a 12
+(8,63%) respondentov nevedelo, aké všetky vyšetrenia sa v rámci preventívnej prehliadky
+vykonávajú. 33 (23,74%) respondentov vedelo, čo všetko sa v rámci preventívnej
+prehliadky vyšetruje, ale 5 z nich tvrdili, že sa tieto vyšetrenia vykonávajú len v prípade, že
+má človek nejaký problém.
+Otázka 15 Ako ste spokojný/á s množstvom informácií, ktoré máte o preventívnych
+prehliadkach?
+To, že má dostatok informácií o preventívnych prehliadkach a všetkému rozumie, uviedlo
+vo svojej odpovedi 67 (48,20%) respondentov. 47 (33,81%) respondentov má základné
+informácie, ale nie všetkému rozumie, 19 (13,67%) respondentov má o nich len málo
+informácií a 6 (4,32%) respondenti priznali, že o preventívnych prehliadkach nemajú
+takmer žiadne informácie.
+Tabuľka 15 Spokojnosť s množstvom informácií o preventívnych prehliadkach
+Otázka 15
+A Mám dostatok informácií a všetkému rozumiem
+
+n
+
+%
+
+67
+
+48,20
+
+B Mám základné informácie, ale nie všetkému rozumiem
+
+47
+
+33,81
+
+C Mám len málo informácií
+
+19
+
+13,67
+
+D Nemám takmer žiadne informácie
+
+6
+
+4,32
+
+139
+
+100,00
+
+Spolu
+
+40
+
+IV.​ Účasť na preventívnych prehliadkach
+Otázka 16 Ako často sa zúčastňujete preventívnych prehliadok u všeobecného
+lekára?
+4 (2,88%) respondenti tvrdili, že sa zúčastňujú preventívnej prehliadky u svojho
+všeobecného lekára každý rok. 87 (62,59%) respondentov ju absolvuje raz za dva roky, 45
+(32,37%) respondentov iba vtedy, keď sa cíti zle. 3 (2,16%) respondenti na preventívnej
+prehliadke nikdy neboli.
+Tabuľka 16 Účasť na preventívnych prehliadkach u všeobecného lekára
+Otázka 16
+
+n
+
+%
+
+Každý rok
+
+4
+
+2,88
+
+Raz za dva roky
+
+87
+
+62,59
+
+Iba keď sa cítim zle
+
+45
+
+32,37
+
+Nikdy som na preventívnej prehliadke nebol(a)
+
+3
+
+2,16
+
+Spolu
+
+139
+
+100,00
+
+Otázka 16 a) Čo je hlavný dôvod, prečo neabsolvujete prehliadku u všeobecného
+lekára?
+Tabuľka 17 Dôvod neabsolvovania preventívnej prehliadky u všeobecného lekára
+Otázka 16 a)
+
+n
+
+%
+
+Nedostatok informácií
+
+6
+
+12,50
+
+Finančné dôvody
+
+8
+
+16,67
+
+Strach
+
+24
+
+50,00
+
+Zdravotné dôvody
+
+8
+
+16,67
+
+Iné
+
+8
+
+16,67
+
+Otázka 16a) sa týkala 48 respondentov. 6 (12,50%) z nich uviedlo ako dôvod
+neabsolvovania preventívnej prehliadky u všeobecného lekára nedostatok informácií, pre 8
+(16,67%) respondentov to boli finančné dôvody, pre 24 (50,00%) strach, pre 8 (16,67%)
+zdravotné dôvody. 8 (16,67%) respondentov uviedlo aj iné dôvody: 3 z nich nemajú
+záujem o túto prehliadku, 2 ju absolvujú len v prípade potreby, 1 tvrdil, že ju nepotrebuje,
+1 ju neabsolvuje kvôli nepríjemnému lekárovi a posledný ani sám nevedel uviesť dôvod
+prečo ju neabsolvuje.
+Odpovede respondentov však boli kombinované. Prehľad o ich početnostiach je obsahom
+Vennovho diagramu (Obrázok 2).
+41
+
+Obrázok 2 Vennov diagram – dôvod absencie preventívnej prehliadky u všeobecného
+lekára
+V.​ Jednotlivé preventívne prehliadky
+Otázka 17 Absolvovali ste niektorú z nasledujúcich preventívnych prehliadok
+v posledných 5 rokoch?
+Typy preventívnych prehliadok:
+A: preventívna prehliadka u všeobecného lekára (raz za 2 roky)
+B: v rámci preventívnej prehliadky u všeobecného lekára absolvujete aj vyšetrenie zraku
+C: preventívna prehliadka u zubára (raz ročne)
+E: preventívne vyšetrenie u urológa (napr. vyšetrenie prostaty u mužov)
+F: preventívne vyšetrenie u gynekológa (napr. cytológia, mamografia)
+G: preventívne vyšetrenie u gastroenterológa (napr. kolonoskopia)
+
+42
+
+Graf 2 Absolvovanie preventívnych prehliadok v posledných piatich rokoch
+V priebehu posledných piatich rokov preventívnu prehliadku u všeobecného lekára
+absolvovalo 102 (73,38%) respondentov a v rámci tejto prehliadky aj vyšetrenie zraku 50
+(35,97%) respondentov. Preventívnu prehliadku u stomatológa absolvovalo 79 (56,83%)
+respondentov, preventívne vyšetrenie u urológa absolvovalo 32 (64,00%) mužov, i keď aj
+tri ženy uviedli, že ho absolvovali (zrejme kvôli problému), preventívnej prehliadky
+u gynekológa sa zúčastnilo 40 (44,94%) žien. Preventívne vyšetrenie u gastroenterológa
+absolvovalo 40 (28,78%) respondentov výberového súboru.
+Každý z respondentov (muži i ženy) teda mohol (mal) absolvovať 5 uvedených typov
+preventívnych vyšetrení. Všetkých 5 vyšetrení absolvovalo 18 (12,95%) respondentov,
+najväčšia početnosť respondentov, 35 (25,18%), ich absolvovala 3.
+Údaje o ich početnostiach prezentujeme v prehľade:
+počet absolvovaných typov vyšetrení
+
+počet respondentov
+
+0
+
+25
+
+17,99%
+
+1
+
+22
+
+15,83%
+
+2
+
+15
+
+10,79%
+
+3
+
+35
+
+25,18%
+
+4
+
+24
+
+17,27%
+
+5
+
+18
+
+12,95%
+
+43
+
+Otázka 17d) Absolvovali ste niektoré z nasledujúcich preventívnych očkovaní?
+Tabuľka 18 Absolvované preventívne očkovanie
+Odpoveď
+
+Otázka 17 d)
+
+n
+
+%
+
+A
+
+Očkovanie proti chrípke
+
+57
+
+41,01
+
+B
+
+Očkovanie proti pneumokokom
+
+11
+
+7,91
+
+C
+
+Očkovanie proti tetanu
+
+49
+
+35,25
+
+D
+
+Očkovanie proti Covid 19
+
+79
+
+56,83
+
+E
+
+Žiadne z uvedených
+
+17
+
+12,23
+
+F
+
+Neviem / Nepamätám si
+
+13
+
+9,35
+
+Preventívne očkovanie proti chrípke absolvovalo 57 (41,01%) respondentov, očkovanie
+proti pneumokokom 11 (7,91%) respondentov, proti tetanu 49 (35,25%) respondentov
+a proti Covid 19 bolo zaočkovaných 79 (56,83%) respondentov. 17 (12,23%) respondentov
+neabsolvovalo žiadne z uvedených očkovaní a 13 (9,35%) respondentov nevedelo na
+otázku odpovedať alebo si nepamätalo, či dané očkovania absolvovali. Všetky štyri druhy
+očkovaní absolvovali 4 (2,88%) respondenti. Informácie o absolútnych početnostiach
+respondentov, ktorí absolvovali jednotlivé typy očkovaní uvádzame grafickou formou,
+Vennovým diagramom.
+
+Obrázok 3 Vennov diagram – absolvovanie preventívneho očkovania
+
+44
+
+V diagrame sú uvedené len početnosti respondentov, ktorí absolvovali aspoň 1 očkovanie
+(n = 109). Z tejto početnosti práve jedno z uvedených očkovaní absolvovalo 47 (43,12%)
+respondentov, práve dve 41 (37,61%) respondentov, práve tri 17 (15,60%) a všetky štyri
+druhy očkovania 4 (3,67%) respondenti.
+VI.​ Postoj k preventívnym prehliadkam
+Otázka 18 Akú dôležitosť
+
+kladiete pravidelným preventívnym prehliadkam
+
+pre udržanie svojho zdravia?
+Tabuľka 19 Miera dôležitosti pripisovaná pravidelným preventívnym prehliadkam
+Otázka 18
+
+n
+
+%
+
+Veľmi dôležité
+
+50
+
+35,97
+
+Skôr dôležité
+
+35
+
+25,18
+
+Neutrálne
+
+36
+
+25,90
+
+Skôr nedôležité
+
+16
+
+11,51
+
+Vôbec nedôležité
+
+2
+
+1,44
+
+Spolu
+
+139
+
+100,00
+
+Viac ako tretina, 50 (35,97%), respondentov pokladá pravidelné preventívne prehliadky
+za veľmi dôležité pre udržanie ich zdravia, 35 (25,18%) ich tiež pokladá za dôležité, aj keď
+miera ich dôrazu je menšia. 16 (11,51%) respondentov im pripisuje malú dôležitosť a 2
+(1,44%) respondenti ich vôbec nepokladajú za dôležité. Odpovede 36 (25,90%)
+respondentov boli neutrálne.
+Otázka 19 Aké sú hlavné dôvody, prečo absolvujete preventívne prehliadky?
+Tabuľka 20 Dôvody absolvovania preventívnej prehliadky
+Otázka 19
+
+n
+
+%
+
+Starostlivosť o zdravie
+
+77
+
+55,40
+
+Odporúčanie lekára
+
+41
+
+29,50
+
+Rodinný tlak
+
+31
+
+22,30
+
+Iné
+
+0
+
+0,00
+
+Starostlivosť o vlastné zdravie je pre 77 (55,40%) respondentov dôvodom k absolvovaniu
+preventívnej prehliadky. Pre 41 (29,50%) respondentov je týmto dôvodom odporúčanie
+lekára a pre 31 (22,30%) respondentov tlak zo strany rodiny. Iný dôvod nikto z
+respondentov neuviedol. 8 (5,76%) respondentov na otázku neodpovedalo, ale boli to
+respondenti, ktorých informácie o preventívnych prehliadkach boli nedostačujúce, ktorí
+45
+
+preventívnu prehliadku absolvovali len vtedy, keď sa cítili zle alebo ju vôbec
+neabsolvovali.
+Otázka 20 Prispievajú preventívne prehliadky k zlepšeniu vášho zdravia?
+Tabuľka 21 Prínos preventívnych prehliadok k zlepšeniu zdravia
+Otázka 20
+
+n
+
+%
+
+Určite áno
+
+40
+
+28,78
+
+Skôr áno
+
+39
+
+28,06
+
+Neviem posúdiť
+
+38
+
+27,34
+
+Skôr nie
+
+18
+
+12,95
+
+Určite nie
+
+4
+
+2,88
+
+Spolu
+
+139
+
+100,00
+
+Názor, že preventívne prehliadky určite prispievajú k zlepšeniu ich zdravia, prezentovalo
+40 (28,78%) respondentov. Aj 39 (28,06%) respondentov to potvrdilo, aj keď nie s takou
+určitosťou. 18 (12,95%) respondentov tvrdilo, že im preventívne prehliadky skôr k jeho
+zlepšeniu neprispievajú a 4 (2,88%) respondenti zastávajú názor, že im preventívne
+prehliadky k zlepšeniu ich zdravia určite neprispievajú. 38 (27,34%) respondentov danú
+problematiku nevedelo posúdiť.
+Otázka
+
+21
+
+Môžu
+
+preventívne
+
+prehliadky
+
+pomôcť predchádzať závažným
+
+ochoreniam?
+Tabuľka 22 Preventívne prehliadky – predchádzanie závažným ochoreniam
+Otázka 21
+
+n
+
+%
+
+Určite áno
+
+47
+
+33,81
+
+Skôr áno
+
+44
+
+31,65
+
+Nie som si istý
+
+41
+
+29,50
+
+Skôr nie
+
+3
+
+2,16
+
+Určite nie
+
+4
+
+2,88
+
+Spolu
+
+139
+
+100,00
+
+47 (33,81%) respondentov s určitosťou tvrdilo, že preventívne prehliadky môžu pomôcť
+predchádzať závažným ochoreniam. Tvrdí to aj 44 (31,65%) respondentov, aj keď menej
+presvedčivo. Odpovede 41 (29,50%) respondentov boli váhavé, 3 (2,16%) respondenti
+tvrdili, že tomu tak skôr nie je a ďalší 4 (2,88%) tvrdili, že to určite nie je pravda.
+
+46
+
+Otázka 22 Ak preventívna prehliadka dopadne dobre, zvyšuje to vašu psychickú
+pohodu?
+Tabuľka 23 Vplyv preventívnej prehliadky na psychickú pohodu
+Otázka 22
+
+n
+
+%
+
+Určite áno
+
+63
+
+45,32
+
+Skôr áno
+
+41
+
+29,50
+
+Neviem posúdiť
+
+26
+
+18,71
+
+Skôr nie
+
+7
+
+5,04
+
+Určite nie
+
+2
+
+1,44
+
+Spolu
+
+139
+
+100,00
+
+63 (45,32%) respondentov tvrdilo, že ak im preventívna prehliadka dobre dopadne, určite
+to zvýši ich psychickú pohodu, a zvýši ju aj 41 (29,50%) respondentom, aj keď nie do
+takej veľkej miery. 26 (18,71%) respondentov jej vplyv nevedelo posúdiť.7 (5,04%)
+respondentov tvrdilo, že u nich to skôr neplatí a u 2 (1,44%) to vôbec neplatí.
+VII.​
+
+Prekážky pri absolvovaní preventívnych prehliadok
+
+Otázka 23 Čo vám najviac bráni absolvovať preventívne prehliadky?
+Tabuľka 24 Zábrany v absolvovaní preventívnych prehliadok
+Otázka 23
+
+n
+
+%
+
+Nedostatok času
+
+9
+
+6,47
+
+Finančné dôvody
+
+26
+
+18,71
+
+Vzdialenosť zdravotníckeho zariadenia
+
+35
+
+25,18
+
+Strach z výsledkov
+
+44
+
+31,65
+
+Iné
+
+16
+
+11,51
+
+Pre 9 (6,47%) respondentov je zábranou k absolvovaniu preventívnej prehliadky
+nedostatok času, pre 26 (18,71%) respondentov sú to finančné dôvody, pre 35 (25,18%)
+respondentov je to vzdialenosť zdravotníckeho zariadenia, pre 44 (31,65%) respondentov
+je to strach z výsledkov. 16 (11,51%) respondentov volilo odpoveď iné, ale 13 z nich svoju
+odpoveď nekonkretizovalo. 1 respondent uviedol, že lekár má veľa pacientov a je problém
+sa k nemu dostať, 2 pacientom nič nebráni, aby mohli preventívnu prehliadku absolvovať.
+26 (18,71%) respondentov nám v tejto otázke odpoveď neposkytlo.
+Odpovede respondentov boli kombinované. Nikto z respondentov neuviedol súčasne
+všetky štyri uvedené dôvody.
+
+47
+
+Prehľad voľby odpovedí:
+●​ len nedostatok času:​
+
+9
+
+●​ len finančné dôvody​
+
+15
+
+●​ len vzdialenosť​
+
+23
+
+●​ len strach​
+
+34
+
+●​ finančné dôvody a vzdialenosť​
+
+6
+
+●​ finančné dôvody a strach​
+
+4
+
+●​ vzdialenosť a strach ​
+
+5
+
+●​ finančné dôvody, vzdialenosť a strach​
+
+1
+
+●​ odpoveď iné​
+
+16
+
+●​ neodpovedali​
+
+26​
+
+Spolu​
+
+139​ ​
+
+Obrázok 4 Vennov diagram – zábrany v absolvovaní preventívnych prehliadok
+Kombinácie voľby prvých štyroch možností odpovede, poskytnutých 97 respondentmi,
+sme prezentovali aj graficky, Vennovým diagramom (obrázok 4).
+
+48
+
+Otázka 24 Čo by vás najviac motivovalo zúčastniť sa preventívnej prehliadky u
+lekára?
+Tabuľka 25 Motivácia k účasti na preventívnej prehliadke u lekára
+Odpoveď Otázka 24
+
+n
+
+%
+
+A
+
+Lepšia informovanosť o význame prehliadky
+
+44
+
+31,65
+
+B
+
+Odporúčanie od lekára
+
+52
+
+37,41
+
+C
+
+Pripomenutie formou SMS alebo e-mailu
+
+19
+
+13,67
+
+D
+
+Obava o vlastné zdravie
+
+61
+
+43,88
+
+E
+
+Pozitívna skúsenosť známych/rodiny
+
+31
+
+22,30
+
+F
+G
+H
+
+Finančné stimuly alebo benefity od poisťovne
+Nič by ma nemotivovalo
+Iné
+
+35
+18
+0
+
+25,18
+12,95
+0,00
+
+Pre 44 (31,65%) respondentov by bola motiváciou k absolvovaniu preventívnej prehliadky
+u lekára lepšia informovanosť o význame prehliadky, pre 52 (37,41%) respondentov by
+ňou bolo odporúčanie lekára, pre 19 (13,67%) respondentov pripomenutie formou SMS
+alebo e – mailu, pre 61 (43,88%) respondentov obava o vlastné zdravie, pre 31 (22,30%)
+respondentov pozitívna skúsenosť známych/rodiny a pre 35 (25,18%) respondentov
+finančné stimuly alebo benefity od poisťovne. 18 (12,95%) respondentov by nebolo
+motivovaných ničím. Voľba iné sa medzi odpoveďami respondentov nevyskytla.
+
+Verifikácia hypotéz
+V rámci verejného zdravotného poistenia majú všetci dospelí ľudia každé dva roky
+nárok na bezplatnú preventívnu prehliadku u všeobecného (praktického) lekára. V správe
+MZ SR je uvedené, že preventívnu prehliadku v ambulancii všeobecných lekárov
+absolvuje ročne približne tretina poistencov na Slovensku a podľa údajov VšZP
+preventívnu prehliadku u všeobecného lekára absolvuje však len necelých 40% dospelej
+populácie. Sú to čísla, ktoré hovoria, že to nestačí na to, aby sa na Slovensku znížil výskyt
+tzv. odvrátiteľných úmrtí.
+Najčastejšie navštevujú všeobecných lekárov za účelom preventívnej prehliadky ľudia
+vo veku
+
+nad
+
+60
+
+rokov,
+
+ženy
+
+častejšie
+
+ako
+
+muži
+
+(zdroj:
+
+https://health.gov.sk/?rok-prevencie-lpp ).
+
+49
+
+Hypotéza H1 (vek a účasť)
+Existuje štatisticky významný vzťah medzi vekom seniorov a frekvenciou účasti
+na preventívnych prehliadkach u všeobecného lekára (otázky č. 1, 16 a 17a).
+V otázke 16 sme sa respondentov pýtali na častosť ich absolvovania preventívnych
+prehliadok u všeobecného lekára. V kontingenčnej tabuľke (Tabuľka 26) uvádzame
+absolútne početnosti ich odpovedí v tejto otázke v triedení podľa ich veku.
+Tabuľka 26 Otázka 16 a vek
+Otázka 16 / vek
+
+60 – 74 rokov
+
+75 – 89 rokov
+
+≥ 90 rokov
+
+Spolu
+
+Každý rok
+
+1
+
+3
+
+0
+
+4
+
+Raz za dva roky
+
+56
+
+29
+
+2
+
+87
+
+Iba keď sa cítim zle
+
+13
+
+29
+
+3
+
+45
+
+Nikdy som nebol
+
+1
+
+0
+
+2
+
+3
+
+Spolu
+
+71
+
+61
+
+7
+
+139
+
+Raz za dva roky absolvuje preventívnu prehliadku u všeobecného lekára 56 (78,87%)
+respondentov vo veku 60 – 74 rokov a 29 (47,54%) respondentov vo veku 75 – 89 rokov,
+a aj 2 respondentky najstaršej vekovej kategórie. Každý rok ju absolvuje len jedna žena
+vo veku 60 – 74 a 3 respondenti, 2 muži a jedna žena, vo veku 75 – 89 rokov. 3 (2,16%)
+respondenti, jeden muž, patriaci do vekovej kategórie 60 – 74 rokov a dve ženy, obe vo
+veku ≥ 90 rokov, nikdy neboli na preventívnej prehliadke. 45 (32,37%) respondentov, 13
+vo veku 60 – 74 rokov, 29 vo veku 75 – 89 rokov a 3 vo veku ≥ 90 rokov, idú na
+prehliadku k všeobecnému lekárovi len vtedy, keď sa zle cítia. Táto analýza vypovedá
+o vzťahu medzi vekom seniorov a frekvenciou ich účasti na preventívnych prehliadkach u
+všeobecného lekára. Účasť respondentov daných vekových kategórií na preventívnej
+prehliadke je odlišná a s ich rastúcim vekom jej frekvencia klesá. Štatistickú významnosť
+súvislosti týchto dvoch premenných sme overili Chí – kvadrát testom nezávislosti. Pretože
+do vekovej kategórie 90 rokov a starších patrilo len 7 žien, ale aj preto, že početnosti
+v prvej a štvrtej možnosti voľby odpovede boli malé, sme v overení pracovali so
+združenými údajmi (tabuľka typu 2x2), s dvomi vekovými kategóriami 60 – 74 rokov a
+≥ 75 rokov a s dvomi možnosťami odpovede – pravidelné absolvovanie preventívnej
+prehliadky a len občasné, či žiadne.
+
+50
+
+Tabuľka 27 Chí – kvadrát test 1 v H1, preventívna prehliadka u všeobecného lekára a vek
+χ2 − test, H1, α = 0,01
+
+Testovacia štatistika
+
+Kritická hodnota
+
+P hodnota
+
+Preventívna prehliadka a vek
+
+χ2
+
+χ2
+(0,01;1)
+
+p
+
+vek: 60 – 74 a ≥ 75 rokov
+
+14,0833
+
+6,6349
+
+0,00017
+
+Hodnota testovacej štatistiky v tomto teste (14,0833) bola väčšia ako odpovedajúca
+kritická hodnota (6,6349) a p hodnota (0,00017) bola menšia ako hladina významnosti
+0,01, ktorú sme si v teste zvolili. Výsledok testu bol preto signifikantný a hodnota
+koeficienta Phí (ϕ = 0,3184), potvrdila stredne silnú úroveň tohto vzťahu.
+To, že frekvencia absolvovania preventívnych prehliadok respondentov u všeobecného
+lekára štatisticky významne súvisí s ich vekom, potvrdzuje aj výsledok testu zhody dvoch
+proporcií. Ním sme overili štatistickú významnosť rozdielu relatívnych početností
+respondentov, ktorí preventívnu prehliadku absolvujú pravidelne (i tých, ktorí ju absolvujú
+len vtedy, keď sa cítia zle). P hodnoty oboch testov (p = 8,721.10-5 i p = 0,00015) boli
+menšie ako hladina významnosti 0,01, ktorú sme v testovaní použili.
+Tabuľka 28 Test zhody dvoch proporcií 1 v H1, preventívna prehliadka u všeobecného
+lekára, vek
+Test zhody 2 proporcií 1, H1, vek
+
+Testovacia štatistika
+
+Kritický obor
+
+P hodnota
+
+Vek: 60 – 74 vs ≥ 75 rokov
+
+z
+
+W
+
+p
+
+<2,3263; ∞)
+
+8,721.10-5
+
+(-∞; -2,3263 >
+
+0,00015
+
+Pravidelná účasť: 80,28% vs 50,00% 3,7534
+Iba keď sa cítim zle: 18,31% vs
+-3,6211
+47,06%
+
+Už u respondentov prvých dvoch kategórií bol v daných relatívnych početnostiach zistený
+štatisticky významný rozdiel (Tabuľka 29).
+Tabuľka 29 Test zhody dvoch proporcií 2 v H1, preventívna prehliadka u všeobecného
+lekára, vek
+Test zhody 2 proporcií 2, H1
+
+Testovacia štatistika
+
+Kritický obor
+
+P hodnota
+
+Vek: 60 – 74 vs 75 – 89 rokov
+
+z
+
+W
+
+p
+
+Pravidelná účasť: 80,28% vs 47,06%
+
+4,0799
+
+<2,3263; ∞)
+
+2,253.10-5
+
+Iba keď sa cítim zle: 18,31% vs 47,54%
+
+-3,5948
+
+(-∞; -2,3263 >
+
+0,00016
+
+V otázke 17a) sme sa respondentov pýtali, či v posledných piatich rokoch absolvovali
+preventívnu prehliadku pravidelne raz za dva roky. Ich odpovede sme utriedili podľa ich
+veku (Tabuľka 30).
+51
+
+Tabuľka 30 Preventívna prehliadka u všeobecného lekára v posledných 5 rokoch, vek
+Otázka 17 / vek
+
+60 – 74 rokov
+
+75 – 89 rokov
+
+≥ 90 rokov
+
+Spolu
+
+Áno
+
+59
+
+39
+
+4
+
+102
+
+Nie
+
+12
+
+22
+
+3
+
+37
+
+Spolu
+
+71
+
+61
+
+7
+
+139
+
+Opäť sme s ohľadom na malú početnosť respondentov najstaršej vekovej kategórie analýzu
+údajov previedli v združenej vekovej kategórii ≥ 75 rokov.
+Tabuľka 31 χ2 – test 2 v H1, otázka 17a) a vek
+χ2 − test 2, H1, α = 0,01
+
+Testovacia štatistika
+
+Kritická hodnota
+
+P hodnota
+
+Otázka 17 a vek
+
+χ2
+
+χ2
+(0,01;1)
+
+p
+
+vek: 60 – 74 a ≥ 75 rokov
+
+7,0159
+
+6,6349
+
+0,0081
+
+Aj v posledných 5 rokoch účasť respondentov na pravidelnej preventívnej prehliadke
+u všeobecného lekára štatisticky významne súvisela s ich vekom. P hodnota uvedeným
+početnostiam odpovedajúceho Chí – kvadrát testu nezávislosti, p = 0,0081, bola menšia
+ako hladina významnosti 0,01.
+A aj v posledných 5 rokoch sa pravidelne tejto prehliadky zúčastnila štatisticky významne
+väčšia relatívna početnosť respondentov vekovej kategórie 60 – 74 rokov (83,10%)
+v porovnaní s početnosťou respondentov od nich starších (63,24%), čo potvrdil
+signifikantný výsledok týmto relatívnym početnostiam odpovedajúceho testu zhody dvoch
+proporcií, ktorého p hodnota (p = 0,00404) bola menšia ako hladina významnosti 0,01
+(Tabuľka 32).
+Tabuľka 32 Test zhody dvoch proporcií 3 v H1, otázka 17a), vek
+Test zhody 2 proporcií 3, H1
+
+Testovacia štatistika
+
+Kritický obor
+
+P hodnota
+
+Vek: 60 – 74 vs ≥ 75 rokov
+
+z
+
+W
+
+p
+
+Pravidelná účasť: 83,10% vs 63,24%
+
+2,6488
+
+<2,3263; ∞)
+
+0,00404
+
+Naše dokazovanie v hypotéze H1 preukázalo existenciu štatisticky významného vzťahu
+medzi vekom seniorov a frekvenciou ich účasti na preventívnych prehliadkach
+u všeobecného lekára.
+Hypotéza H1 bola potvrdená.
+
+52
+
+Hypotéza H2
+Existuje štatisticky významný vzťah medzi pohlavím seniorov a frekvenciou účasti
+na preventívnych prehliadkach u všeobecného lekára (otázky č. 2, 16 a 17a).
+Štatistiky MZ SR hovoria, že v absolvovaní preventívnych prehliadok u všeobecného
+lekára
+
+i všeobecne,
+
+sú
+
+disciplinovanejšie
+
+ženy
+
+(zdroj:
+
+https://health.gov.sk/?rok-prevencie-lpp ).
+Overili sme, či to platí aj v prípade respondentov nášho výberového súboru. Návštevám
+všeobecného lekára za účelom preventívnej prehliadky sme venovali otázku 16 a 17a.
+V Tabuľke 33 prezentujeme absolútne početnosti odpovedí respondentov mužského
+a ženského pohlavia v otázke 16, v Tabuľke 36 v otázke 17a).
+Tabuľka 33 Preventívna prehliadka u všeobecného lekára, otázka 16 a pohlavie
+Otázka 16 / pohlavie
+
+muži
+
+ženy
+
+spolu
+
+Odpoveď
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+Každý rok
+
+2
+
+4,00
+
+2
+
+2,25
+
+4
+
+2,88
+
+Raz za dva roky
+
+30
+
+60,00
+
+57
+
+64,04
+
+87
+
+62,59
+
+Iba keď sa cítim zle
+
+17
+
+34,00
+
+28
+
+31,46
+
+45
+
+32,37
+
+Nikdy som nebol
+
+1
+
+2,00
+
+2
+
+2,25
+
+3
+
+2,16
+
+Spolu
+
+50
+
+100,00
+
+89
+
+100,00
+
+139
+
+100,00
+
+Raz za dva roky absolvuje preventívnu prehliadku u všeobecného lekára 30 (60,00%)
+mužov a 57 (64,04%) žien nášho výberového súboru. Každý rok sa jej zúčastňujú 2
+(4,00%) muži a 2 (2,25%) ženy. Ale 17 (34,00%) mužov a 28 (31,46%) žien ju absolvujú
+len vtedy, keď sa cítia zle a 1 (2,00%) muž a 2 (2,25%) ženy ju dokonca nikdy
+neabsolvovali. Uvedené percentuálne početnosti síce vypovedajú v prospech lepšej
+disciplinovanosti žien, ale testom zhody dvoch proporcií štatistická významnosť tohto
+zistenia nebola potvrdená (Tabuľka 34).
+P hodnoty oboch testov (p = 0,3925 i p = 0,3794) boli väčšie ako hladina významnosti
+0,05.
+Tabuľka 34 Test zhody dvoch proporcií 1 v H2, otázka 16, pohlavie
+Test zhody 2 proporcií 1, H2, pohlavie
+
+Testovacia štatistika
+
+Kritický obor
+
+P hodnota
+
+ženy vs muži
+
+z
+
+W
+
+p
+
+Pravidelná účasť: 66,29% vs 64,00%
+
+0,2728
+
+<1,6449; ∞)
+
+0,3925
+
+Iba keď sa cítim zle: 31,46% vs 34,00%
+
+-0,3071
+
+(-∞; -1,6449 >
+
+0,3794
+
+53
+
+Ani Chí-kvadrát testom nezávislosti nebola preukázaná štatisticky významná súvislosť
+medzi pohlavím respondentov a frekvenciou ich účasti na týchto prehliadkach. Aj v tomto
+prípade bola p hodnota testu (p = 0,7850) väčšia ako hladina významnosti 0,05 (Tabuľka
+35). Kvôli malým početnostiam sme použili združené kategórie – pravidelná účasť: áno,
+nie.
+Tabuľka 35 Chí – kvadrát test 1 v H2, preventívna prehliadka u všeobecného lekára a
+pohlavie
+χ2 − test, H2, α = 0,05
+
+Testovacia štatistika
+
+Kritická hodnota
+
+P hodnota
+
+preventívna prehliadka
+
+χ2
+
+χ2
+(0,05;1)
+
+p
+
+pohlavie
+
+0,0744
+
+3,8415
+
+0,7850
+
+V otázke 17a), v ktorej sme sa respondentov pýtali, či v posledných piatich rokoch
+absolvovali preventívnu prehliadku pravidelne. Kladne na ňu odpovedalo 38 (76,00%)
+mužov a 64 (71,91%) žien (Tabuľka 36).
+Tabuľka 36 Preventívna prehliadka u všeobecného lekára v posledných 5 rokoch, pohlavie
+Otázka 17a) / pohlavie
+
+muži
+
+ženy
+
+spolu
+
+Odpoveď
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+áno
+
+38
+
+76,00
+
+64
+
+71,91
+
+102
+
+73,38
+
+nie
+
+12
+
+24,00
+
+25
+
+28,09
+
+37
+
+26,62
+
+spolu
+
+50
+
+100,00
+
+89
+
+100,00
+
+139
+
+100,00
+
+Rozdiel v ich relatívnych početnostiach nebol štatisticky významný. Vyplýva to z výsledku
+týmto relatívnym početnostiam odpovedajúceho testu zhody dvoch proporcií (tabuľka 37).
+P hodnota testu, p = 0,3003, bola väčšia ako hladina významnosti 0,05.
+Tabuľka 37 Test zhody dvoch proporcií 2 v H2, otázka 17a), pohlavie respondentov
+Test zhody 2 proporcií 2, H2, pohlavie
+
+Testovacia štatistika
+
+Kritický obor
+
+P hodnota
+
+ženy vs muži
+
+z
+
+W
+
+p
+
+71,91% vs 76,00%
+
+-0,5236
+
+(-∞; -1,6449 >
+
+0,3003
+
+Existencia štatisticky významného vzťahu medzi frekvenciou účasti respondentov
+na preventívnej prehliadke u všeobecného lekára v posledných piatich rokoch nebola
+preukázaná ani Chí – kvadrát testom nezávislosti.
+
+54
+
+Tabuľka 38 χ2 – test 2 v H2, otázka 17a), pohlavie
+χ2 − test 2, H2, α = 0,05
+
+Testovacia štatistika
+
+Kritická hodnota
+
+P hodnota
+
+Otázka 17a)
+
+χ2
+
+χ2
+(0,05;1)
+
+p
+
+pohlavie
+
+0,2742
+
+3,8415
+
+0,6006
+
+Hodnota testovacej štatistiky v tomto teste (χ2 = 0,2742) bola menšia ako odpovedajúca
+kritická hodnota (3,8415) a p hodnota (0,6006) bola väčšia ako hladina významnosti 0,05.
+Naše dokazovanie v hypotéze 2 nepodporilo jej predpoklad.
+Hypotéza H2 nebola potvrdená.
+Hypotéza H3
+Existuje štatisticky významný vzťah medzi rodinným stavom a frekvenciou účasti
+na preventívnych prehliadkach u všeobecného lekára (otázky č. 3, 16 a 17a).
+Verifikáciou hypotézy H3 sme overili, či je účasť respondentov na preventívnych
+prehliadkach významne ovplyvnená ich rodinným stavom.
+V tabuľke 39 prezentujeme početnosti odpovedí respondentov rôzneho rodinného statusu
+v otázke 16, v tabuľke 41 v otázke 17a).
+Tabuľka 39 Otázka 16, preventívna prehliadka u všeobecného lekára a rodinný stav
+Otázka 16 / rodinný stav
+každý rok
+raz za dva roky
+
+slobodní
+1
+9
+
+ženatí/vydaté
+2
+38
+
+vdovci
+1
+30
+
+rozvedení
+0
+10
+
+spolu
+4
+87
+
+iba keď sa cítim zle
+
+4
+
+20
+
+18
+
+3
+
+45
+
+nikdy som nebol
+
+0
+
+1
+
+2
+
+0
+
+3
+
+spolu
+
+14
+
+61
+
+51
+
+13
+
+139
+
+V otázke 16 sme s ohľadom na malé početnosti opäť použili združené kategórie odpovedí
+a Chí-kvadrát testom nezávislosti sme overili, či sa rodinný status respondentov významne
+podieľa na frekvencii ich účasti na preventívnych prehliadkach u všeobecného lekára.
+Tabuľka 40 Chí – kvadrát test 1 v H3, otázka 16 a rodinný stav
+χ2 − test 1, H3, α = 0,05
+
+Testovacia štatistika
+
+Kritická hodnota
+
+P hodnota
+
+preventívna prehliadka, otázka 16
+
+χ2
+
+χ2
+(0,05;3)
+
+p
+
+rodinný stav
+
+1,4697
+
+7,8147
+
+0,6893
+
+Hodnota testovacej štatistiky (1,4697), ktorá bola menšia ako odpovedajúca kritická
+hodnota (7,8147) i p hodnota (0,6893), väčšia ako hladina významnosti 0,05, svedčia
+o štatistickej nevýznamnosti tohto vzťahu.
+55
+
+Tabuľka 41 Otázka 17a), preventívna prehliadka a rodinný stav
+Otázka 17a) / rodinný stav slobodní
+
+ženatí/vydaté
+
+vdovci
+
+rozvedení
+
+Spolu
+
+áno
+
+10 (71,43%)
+
+48 (78,69%)
+
+36 (70,59%)
+
+8 (61,54%)
+
+102
+
+nie
+
+4 (28,57%)
+
+13 (21,31%)
+
+15 (29,41%)
+
+5 (38,46%)
+
+37
+
+spolu
+
+14 (100%)
+
+61 (100%)
+
+51 (100%)
+
+13 (100%)
+
+139
+
+V otázke 17a) potvrdilo svoju účasť na preventívnej prehliadke u všeobecného lekára
+v posledných piatich rokoch 10 (71,43%) slobodných respondentov, 48 (78,69%)
+respondentov žijúcich v manželskom zväzku, 36 (70,59%) ovdovelých respondentov a 8
+(61,54%) rozvedených respondentov. Aj v tomto prípade sme Chí – kvadrát testom
+nezávislosti overili významnosť vplyvu rodinného statusu respondentov na frekvenciu ich
+absolvovania preventívnych prehliadok u všeobecného lekára.
+Tabuľka 42 Chí – kvadrát 2 test v H3, otázka 17a), rodinný stav
+χ2 − test 2, H3, α = 0,05
+preventívna prehliadka,
+17a )
+rodinný stav
+
+otázka
+
+Testovacia
+štatistika
+
+Kritická
+hodnota
+
+P hodnota
+
+χ2
+
+χ2
+(0,05;3)
+
+p
+
+2,0441
+
+7,8147
+
+0,5633
+
+Hodnota testovacej štatistiky (2,0441), menšia ako odpovedajúca kritická hodnota
+(7,8147),
+
+aj p
+
+hodnota
+
+(0,5633),
+
+väčšia
+
+ako
+
+hladina
+
+významnosti
+
+0,05,
+
+nepotvrdili štatistickú významnosť vzťahu častosti absolvovania preventívnej prehliadky
+u všeobecného lekára a rodinného stavu respondentov v sledovanom období.
+Marascuilo procedúrou sme overili, štatistickú významnosť rozdielu relatívnych početností
+kladných
+
+odpovedí
+
+respondentov
+
+daných
+
+kategórii
+
+rodinného
+
+stavu
+
+v otázke
+
+17a) po dvojiciach navzájom.
+Tabuľka 43 Marascuilo procedúra v otázke 17a) v triedení podľa rodinného stavu
+Marascuilo procedúra v H3
+p1 - p2
+p1 - p3
+p1 - p4
+p2 - p3
+p2 - p4
+p3 - p4
+
+Testovacia štatistika
+0,0726
+0,0084
+0,0989
+0,0810
+0,1715
+0,0905
+
+Kritická hodnota
+0,3680
+0,3817
+0,5062
+0,2309
+0,4047
+0,4172
+
+Signifikantnosť
+nie
+nie
+nie
+nie
+nie
+nie
+
+Legenda: p1 = 0,7143 (slobodní), p2 = 0,7869 (ženatí/vydaté), p3 = 0,7059 (vdovci), p4 = 0,6154 (rozvedení),
+
+56
+
+Ani v jednom porovnaní nebol rozdiel relatívnych početností štatisticky významný.
+Hodnoty testovacích štatistík boli vo všetkých porovnaniach menšie ako im odpovedajúce
+kritické hodnoty. Aj toto konštatovanie, rovnako ako aj predchádzajúce dve, poprelo
+existenciu štatisticky významného vzťahu medzi rodinným stavom respondentov a
+frekvenciou ich účasti na preventívnych prehliadkach u všeobecného lekára.
+Hypotéza H3 nebola potvrdená.
+Hypotéza H4 (zdroj informácií a dôležitosť)
+Existuje štatisticky významný vzťah medzi zdrojom informácií o preventívnych
+prehliadkach, úrovňou informovanosti a subjektívnym hodnotením dôležitosti
+preventívnych prehliadok (otázky č. 13, 15 a 18).
+Respondenti získali informácie o preventívnych prehliadkach z rôznych zdrojov. V otázke
+13 boli uvedené 4 zdroje.
+2 ženy vo veku 90+ nevedeli, čo je preventívna prehliadka a teda neuviedli v otázke 13 ani
+jeden zo zdrojov informácií, označili možnosť iné, s doplnenou odpoveďou neviem
+a prirodzene nedisponovali žiadnymi poznatkami o preventívnych prehliadkach (otázka
+15) a informácie o tejto prehliadke pre ne vôbec neboli dôležité (otázka 18).
+Urobili sme prehľad o odpovediach respondentov v otázkach 15 a 18 v súvislosti so
+zdrojom informácií o preventívnych prehliadkach.
+Najprv sme však venovali pozornosť spokojnosti respondentov a počtu ich zdrojov.
+Tabuľka 44 Odpovede v otázke 15 v súvislosti s počtom zdrojov informácií v otázke 13
+Počet zdrojov informácií
+
+Odpoveď v otázke 15
+
+spolu
+
+1.
+
+2.
+
+3.
+
+4.
+
+0
+
+0
+
+0
+
+0
+
+2
+
+2
+
+1
+
+58
+
+33
+
+16
+
+4
+
+111
+
+2
+
+4
+
+9
+
+3
+
+0
+
+16
+
+3
+
+5
+
+3
+
+0
+
+0
+
+8
+
+4
+
+0
+
+2
+
+0
+
+0
+
+2
+
+spolu
+
+67
+
+47
+
+19
+
+6
+
+139
+
+Legenda:
+Odpoveď 1.: Mám dostatok informácií a všetkému rozumiem​
+Odpoveď 2.: Mám základné informácie, ale nie všetkému rozumiem​
+Odpoveď 3.: Mám len málo informácií​
+Odpoveď 4.: Nemám takmer žiadne informácie
+
+57
+
+Najväčšia početnosť respondentov, 111 (79,86%) získala informácie o preventívnej
+prehliadke len z 1 zdroja:
+●​ len lekár ​
+
+81 (72,97%)
+
+●​ len rodina/priatelia ​
+
+20 (18,02%)
+
+●​ len televízia a rozhlas ​
+
+7 (6,31%)
+
+●​ len internet ​
+
+3 (2,70%)
+
+Je pozitívnym zistením, že dominantná početnosť z nich, 81 (72,97%), získala informácie
+od lekára. Ich relatívna početnosť bola štatisticky významne väčšia ako sumárna početnosť
+zvyšných zdrojov (27,03%), štatisticky veľmi významne prekročila už hranicu 50%
+(binomický test: p = 6,869.10-7).
+Rozloženie
+
+početností
+
+odpovedí
+
+respondentov
+
+o množstve
+
+a kvalite
+
+informácií
+
+o preventívnej prehliadke, ktoré pochádzajú len z jedného zdroja, je vzhľadom na tento
+zdroj odlišné (Tabuľka 45). Z ich početností je zrejmé, že o dostatočných informáciách, sú
+respondenti v najväčšej miere informovaní práve lekárom, ktorý prirodzene disponuje
+najpresnejšími (obsahom i rozsahom) informáciami o tejto problematike, a zároveň to
+dokazuje, že respondenti lekárom najviac dôverujú.
+Chí – kvadrát testom nezávislosti sme overili, či medzi dostatočnosťou informácií a ich
+zdrojom existuje štatisticky významná súvislosť. Pretože viacero z uvedených početností
+nespĺňa podmienku použiteľnosti testu, pracovali sme so zoskupenými údajmi, tromi
+kategóriami o dostatočnosti informácií (posledné dve sme združili) a s dvomi kategóriami
+zdrojov (lekár a rodina alebo médiá). Výsledok testu bol signifikantný a existencia danej
+súvislosti ním bola preukázaná. P hodnota testu, p = 3,195.10-6, bola menšia ako hladina
+významnosti 0,0001 (Tabuľka 46). Cramerov V koeficient (V = 0,4775) potvrdil stredne
+silnú mieru tejto súvislosti.
+Tabuľka 45 Vzťah odpovedí respondentov v otázkach 13 a 15 (jeden zdroj)
+Jeden zdroj informácií
+
+Len lekár
+
+Len rodina
+
+Len médiá
+
+Spolu
+
+Množstvo a kvalita informácií
+
+n
+
+n
+
+n
+
+n
+
+%
+
+dostatočné
+
+51
+
+4
+
+3
+
+58
+
+52,25
+
+základné
+
+24
+
+7
+
+2
+
+33
+
+29,73
+
+len málo
+
+4
+
+7
+
+5
+
+16
+
+14,41
+
+takmer žiadne
+
+2
+
+2
+
+0
+
+4
+
+3,60
+
+spolu
+
+81
+
+20
+
+10
+
+111
+
+100
+
+58
+
+Tabuľka 46 Chí – kvadrát test v H4, jeden zdroj informácií a ich dostatočnosť
+χ2 − test, H4, α = 0,05
+
+Testovacia štatistika
+
+Kritická hodnota P hodnota
+
+jeden zdroj informácií
+
+χ2
+
+χ2
+(0,01;2)
+
+p
+
+dostatočnosť informácií
+
+25,3076
+
+9,2103
+
+3,195.10-6
+
+Otázkou 18 sme zisťovali, akú mieru dôležitosti respondenti kladú preventívnym
+prehliadkam pre udržanie svojho zdravia. Odpovede mali formu Likertovej škály a tak sme
+im priradili bodové skóre (veľmi dôležité = 5 bodov, skôr dôležité = 4 body, .... , vôbec
+nedôležité 1 bod) a vypočítali sme priemerné skóre i mediány skóre respondentov
+v závislosti od uvedeného zdroja:
+​
+
+AM ± SD​
+
+Mdn
+
+●​ len lekár​
+
+4,17 ± 0,98​
+
+4
+
+●​ len rodina​
+
+3,05 ± 0,83​
+
+3
+
+●​ len médiá​
+
+3,70 ± 1,06​
+
+3,5
+
+Graf 3 Miera dôležitosti absolvovania preventívnej prehliadky a zdroj informácií o nej
+Kruskal – Wallisovým testom sme preukázali, že miera tejto dôležitosti je štatisticky
+významne odlišná, v hodnotách mediánov daných troch súborov bol zistený významný
+rozdiel. Hodnota testovacej štatistiky bola väčšia ako odpovedajúca kritická hodnota a p
+hodnota testu, p =0,000052 bola menšia ako hladina významnosti 0,0001.
+
+59
+
+Tabuľka 47 Kruskal – Wallisov test v H4, zdroj informácií a miera dôležitosti PPP
+Kruskal - Wallis test, H4, α = 0,01
+
+Testovacia štatistika
+
+Kritická hodnota P hodnota
+
+jeden zdroj informácií
+
+Η
+
+Η
+krit
+
+p
+
+miera dôležitosti PPP
+
+19,7192
+
+9,2103
+
+0,000052
+
+Post hoc analýza, prevedená Conoverovým testom potvrdila, že miera dôležitosti
+preventívnej prehliadky pre zdravie, bola pre respondentov, ktorí získali informácie o nej
+od lekára, štatisticky významne väčšia ako miera dôležitosti pre respondentov, ktorí ich
+získali od rodiny, či známych.
+Je zrejmé a chvályhodné, že seniori svojim lekárom vo významnej miere dôverujú.
+Potvrdzujú to aj výsledky našej ďalšej analýzy, týkajúcej sa nielen jedného, ale aj viac ako
+jedného zdroja získaných informácií o preventívnych prehliadkach. Zo 106 prípadov, kedy
+medzi zdrojmi informácií bol lekár, sa 59 (55,66%) respondentov vyjadrilo, že majú
+dostatočné informácie o preventívnych prehliadkach, 38 (35,85%) respondentov malo
+základné informácie, ale všetkému nerozumejú, 7 (6,60%) respondentov ich malo len málo
+a len 2 (1,89%) respondenti nemali takmer žiadne informácie.
+Naopak, z 31 respondentov, ktorých informácie nepochádzali od lekára, 8 (25,81%)
+respondentov potvrdilo, že ich informácie sú dostatočné, informácie 9 (29,03%)
+respondentov boli základné, 12 (38,71%) respondentov malo málo informácií a 2 (6,45%)
+respondenti takmer žiadne.
+Relatívna početnosť respondentov s dostatočnými informáciami, ktoré pochádzajú
+zo zdrojov, medzi ktorými bol lekár (55,66%), bola štatisticky významne väčšia ako
+relatívna početnosť respondentov s dostatočnými informáciami v prípade, že medzi
+zdrojmi týchto informácií lekár nebol (25,81%). Potvrdil to výsledok odpovedajúceho testu
+zhody dvoch proporcií, ktorého p hodnota (p = 0,0017) bola menšia ako hladina
+významnosti 0,01.
+Tabuľka 48 Dostatočné informácie o preventívnej prehliadke a ich zdroj
+Test zhody 2 proporcií, H4
+
+Testovacia štatistika
+
+Kritický obor
+
+P hodnota
+
+dostatočné informácie
+
+z
+
+W
+
+p
+
+medzi zdrojmi lekár: áno vs nie
+
+2,9249
+
+<2,3263; ∞)
+
+0,0017
+
+A nakoniec aj miera dôležitosti absolvovania preventívnej prehliadky, informácie o ktorej
+respondenti získali zo zdrojov, medzi ktorými bol lekár (AM ± SD: 4,01 ± 1,08; Mdn: 4),
+bola štatisticky významne vyššia ako miera jej dôležitosti u respondentov, ktorí získali
+60
+
+informácie o tejto prehliadke zo zdrojov, medzi ktorými lekár nebol (AM ± SD:
+3,26 ± 0,93; Mdn: 3). Štatistickú významnosť rozdielu nameraných hodnôt sme overili
+Mann – Whitney U testom (Tabuľka 49). P hodnota tohto testu (p = 0,00018) bola menšia
+ako hladina významnosti 0,001.
+Tabuľka 49 Mann – Whitney test v H4, miera dôležitosti informácií
+Mann – Whitney test, H4
+
+Testovacia štatistika
+
+Kritický obor
+
+P hodnota
+
+miera dôležitosti preventívnej prehliadky
+
+U
+
+z
+
+W
+
+p
+
+medzi zdrojmi lekár: áno vs nie
+
+977,50
+
+3,5734
+
+<2,3263; ∞)
+
+0,00018
+
+Výsledky prezentovanej analýzy údajov svedčia v prospech hypotézy H4, v prospech
+existencie štatisticky významného vzťahu medzi zdrojom informácií respondentov o
+preventívnych prehliadkach, úrovňou ich informovanosti a ich subjektívnym hodnotením
+dôležitosti preventívnych prehliadok.
+Hypotéza H4 bola potvrdená.
+
+Hypotéza H5
+Existuje štatisticky významný vzťah medzi presvedčením, že preventívne prehliadky
+prispievajú k zlepšeniu zdravia a psychickej pohody, a pravidelnou účasťou na nich
+(otázky č. 20, 22 a 16).
+Bežnou preventívnou prehliadkou môže lekár odhaliť najčastejšie, aj zriedkavé diagnózy,
+či rôzne zápalové procesy v tele a tým prispieť k zlepšeniu zdravia svojich pacientov.
+V správe MZ SR je uvedených 10 najčastejších diagnóz, ktoré môžu byť preventívnou
+prehliadkou odhalené:
+●​
+
+cukrovka
+
+●​
+
+chudokrvnosť
+
+●​
+
+vysoký krvný tlak
+
+●​
+
+nadváha a obezita
+
+●​
+
+porucha funkcie obličiek
+
+●​
+
+porucha funkcie pečene
+
+●​
+
+zápal v močových cestách
+
+●​
+
+porucha srdcového rytmu
+
+●​
+
+zvýšená hladina cholesterolu
+
+●​
+
+rakovina hrubého čreva (zdroj: https://health.gov.sk/?rok-prevencie-lpp).
+61
+
+Predpokladáme, že respondenti, ktorí sa pravidelne zúčastňujú preventívnej prehliadky, sú
+vo väčšej miere presvedčení o tom, že preventívna prehliadka prispieva k zlepšeniu ich
+fyzického i psychického zdravia ako tí respondenti, ktorí sa prehliadky zúčastňujú len
+sporadicky, keď majú problém alebo ju vôbec neabsolvujú. Častosti absolvovania
+preventívnej prehliadky sme sa venovali v otázke 16 a presvedčeniu respondentov, že
+preventívna prehliadka prispieva k zlepšeniu ich fyzického i psychického zdravia
+v otázkach 20 a 22.
+Pravidelne (raz za dva roky alebo každý rok) sa prehliadky zúčastňuje 91 (65,47%)
+respondentov, z nich 4 každý rok a 87 raz za dva roky, len sporadicky 48 (34,53%)
+respondentov, z nich 45 sa jej zúčastní len vtedy, keď sa cíti zle a 3 ju ešte nikdy
+neabsolvovali. Prehľad ich odpovedí v otázke 20 a 22 prezentujeme Tabuľkou 51. Je
+zrejmé, že rozloženie početností respondentov v otázkach 20 a 22 je v súvislosti
+s častosťou ich absolvovania preventívnej prehliadky odlišné.
+Tabuľka 50 Otázka 20 a 22 v súvislosti s otázkou 16
+Otázka 20
+
+Otázka 22
+
+Preventívna prehliadka
+
+pravidelne
+
+sporadicky
+
+pravidelne
+
+sporadicky
+
+Odpoveď (o 20 a 22)
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+Určite áno
+
+39
+
+42,86
+
+1
+
+2,08
+
+60
+
+65,93
+
+3
+
+6,25
+
+Skôr áno
+
+33
+
+36,26
+
+6
+
+12,50
+
+28
+
+30,77
+
+13
+
+27,08
+
+Neviem posúdiť
+
+11
+
+12,09
+
+27
+
+56,25
+
+2
+
+2,20
+
+24
+
+50,00
+
+Skôr nie
+
+8
+
+8,79
+
+10
+
+20,83
+
+1
+
+1,10
+
+6
+
+12,50
+
+Určite nie
+
+0
+
+0,00
+
+4
+
+8,33
+
+0
+
+0,00
+
+2
+
+4,17
+
+Spolu
+
+91
+
+100
+
+48
+
+52,75
+
+91
+
+100
+
+48
+
+100
+
+O existencii štatisticky významnej súvislosti medzi presvedčením respondentov, že
+preventívne prehliadky prispievajú k zlepšeniu ich zdravia a pravidelnosťou ich
+absolvovania, hovorí signifikantný výsledok Chí – kvadrát testu nezávislosti. P hodnota
+testu (2,194.10-12) bola výrazne menšia ako hladina významnosti 0,0001 (Tabuľka 51).
+Tabuľka 51 Chí – kvadrát test v H5, účasť na preventívnej prehliadke a zlepšenie zdravia
+χ2 − test, H5, α = 0,01
+
+Testovacia štatistika
+
+Kritická hodnota P hodnota
+
+preventívna prehliadka a zdravie
+
+χ2
+
+χ2
+(0,01;2)
+
+p
+
+otázka 16 a otázka 20
+
+53,6902
+
+9,2103
+
+2,194.10-12
+
+Presvedčenie respondentov, že ich účasť na preventívnej prehliadke prispieva k zlepšeniu
+ich zdravia, veľmi významne súviselo s pravidelnosťou ich absolvovania prehliadok.
+62
+
+Hodnota Cramerovho V koeficienta, V = 0,6215, potvrdila silnú asociáciu tohto vzťahu.
+V otázke 22 sme s ohľadom na viacero malých početností takéto testovanie nevykonali, ale
+pretože odpovede v otázkach 20 a 22 majú formu Likertovej škály, sme aj v tomto prípade
+odpovediam respondentov priradili bodové skóre (určite áno = 5 bodov, skôr áno = 4 body,
+neviem posúdiť = 3 body, skôr nie = 2 body a určite nie = 1 bod) a vypočítali sme
+priemerné skóre i mediány tohto skóre respondentov oboch tried:
+​
+
+otázka 20​
+
+Prehliadka​
+
+otázka 22
+
+AM ± SD​
+
+Mdn​
+
+AM ± SD​
+
+Mdn
+
+●​ pravidelne​
+
+4,13 ± 0,95​
+
+4​
+
+4,62 ± 0,59​
+
+5
+
+●​ sporadicky​
+
+2,78 ± 0,88​
+
+3​
+
+3,20 ± 0,92​
+
+3
+
+V oboch otázkach bolo priemerné skóre i medián skóre respondentov, ktorí sa preventívnej
+prehliadky zúčastňujú pravidelne, väčšie ako priemerné skóre i medián respondentov, ktorí
+sa preventívnej prehliadky zúčastnia len v prípade, že sa cítia zle alebo sa jej vôbec
+nezúčastňujú. Mann – Whitney testom sme overili štatistickú významnosť rozdielu
+bodového skóre týchto dvoch skupín respondentov.
+Tabuľka 52 Mann – Whitney test v H5, otázky 20 a 22 a pravidelnosť preventívnych
+prehliadok
+Mann – Whitney test, H5
+
+Testovacia
+štatistika
+
+pravidelnosť
+preventívnej
+prehliadky: áno vs nie
+
+U
+
+vplyv na fyzické zdravie (o 20)
+
+648,50
+
+vplyv na psychické zdravie (o 22)
+
+449,00
+
+Kritický obor
+
+P hodnota
+
+ES
+
+z
+
+W
+
+p
+
+r
+
+6,7032
+
+<2,3263; ∞)
+
+1,0195.10-11
+
+0,5686
+
+<2,3263; ∞)
+
+-15
+
+0,6730
+
+7,9341
+
+1,0601.10
+
+V oboch porovnaniach bol rozdiel mediánov skóre štatisticky veľmi významný, p hodnoty
+oboch testov (o 20: p = 1,0195.10-11; o 22: p = 1,0601.10-15) boli výrazne menšie ako
+hladina významnosti 0,0001. Preukázali sme, že respondenti, ktorí sa prehliadky
+zúčastňujú pravidelne, s významne väčšou presvedčivosťou tvrdia, že preventívna
+prehliadka prispieva k zlepšeniu ich zdravia, a ak ich prehliadka dopadne dobre, tvrdia, že
+to významne zvyšuje ich psychickú pohodu. Z odpovedí respondentov jasne vyplýva, že
+pravidelné (či sporadické) absolvovanie preventívnej prehliadky štatisticky významne
+ovplyvňuje zlepšenie ich fyzického i psychického zdravia. Hodnoty Effect Size (r = 0,5686
+a r = 0,6730) potvrdili, že sila jej účinku na vnímanie zlepšenia fyzického i psychického
+zdravia respondentov je veľká. O významnom odraze fyzického zdravia respondentov na
+63
+
+ich psychickom zdraví u oboch skupín respondentov vypovedá aj hodnota Spearmanovho
+korelačného koeficienta, vyjadrujúca mieru súvislosti týchto premenných. V oboch
+prípadoch je sila ich vzťahu veľká a štatisticky významná:
+●​ preventívna prehliadka pravidelne:​
+
+​ rs = 0,633; p < 0,0001
+
+●​ preventívna prehliadka nepravidelne:​
+
+​ rs = 0,766; p < 0,0001
+
+Aj vzájomný vzťah odpovedí respondentov v otázkach 20 a 22 celkovo bol štatisticky
+významný, jeho sila bola veľmi veľká (rs = 0,795; p < 0,0001). Z analýzy údajov a
+dokazovania v hypotéze H5 jasne vyplýva, že existuje štatisticky významný vzťah medzi
+presvedčením, že preventívne prehliadky prispievajú k zlepšeniu zdravia a psychickej
+pohody respondentov a ich pravidelnou účasťou na nich.
+Hypotéza H5 bola potvrdená.
+
+Hypotéza H6 (motivácia a dôležitosť)
+Existuje štatisticky významný vzťah medzi motivujúcimi faktormi k účasti
+na preventívnej prehliadke a subjektívnou dôležitosťou, ktorú seniori pripisujú
+preventívnym prehliadkam (otázky č. 24 a 18 + doplnená informovanosť – otázka č. 15).
+Predpokladáme, že dôležitosť, ktorú respondenti pripisujú preventívnym prehliadkam
+(otázka 18), je s ohľadom na dostatočnosť informácií o nich (otázka 15) významne odlišná
+(Tabuľka 53).
+Tabuľka 53 Vzťah otázok 15 a 18
+Vzťah otázok
+15 a 18
+
+Otázka 15
+
+odpoveď v 18
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+veľmi dôležité
+
+37
+
+55,22
+
+12
+
+25,53
+
+1
+
+5,26
+
+0
+
+0,00
+
+50
+
+skôr dôležité
+
+21
+
+31,34
+
+10
+
+21,28
+
+4
+
+21,05
+
+0
+
+0,00
+
+35
+
+neutrálne
+
+7
+
+10,45
+
+17
+
+36,17
+
+8
+
+42,11
+
+4
+
+66,67
+
+36
+
+skôr nedôležité
+
+2
+
+2,99
+
+7
+
+14,89
+
+5
+
+26,32
+
+2
+
+33,33
+
+16
+
+vôbec nedôležité
+
+0
+
+0,00
+
+1
+
+2,13
+
+1
+
+5,26
+
+0
+
+0,00
+
+2
+
+spolu
+
+67
+
+100
+
+47
+
+100
+
+19
+
+100
+
+6
+
+100
+
+139
+
+15 A
+
+15 B
+
+15 C
+
+∑
+
+15 D
+
+Legenda otázka 15:
+A:Mám dostatok informácií a všetkému rozumiem​
+B: Mám základné informácie, ale nie všetkému rozumiem
+C: Mám len málo informácií​
+D: Nemám takmer žiadne informácie
+
+64
+
+Opäť sme hodnoteniu respondentov v otázke 18 priradili bodové skóre.
+​
+
+otázka 15​
+
+informácií:​
+
+​
+
+​
+
+otázka 18
+
+AM ± SD​
+
+Mdn​
+
+n​
+
+●​ dostatok​
+
+​
+
+4,39 ± 0,80​
+
+5​
+
+​
+
+67
+
+●​ základné ​
+
+​
+
+3,53 ± 1,10​
+
+3​
+
+​
+
+47
+
+●​ málo ​
+
+​
+
+2,95 ± 0,97​
+
+3​
+
+​
+
+19
+
+●​ takmer žiadne​
+
+​
+
+2,67 ± 0,52​
+
+3​
+
+​
+
+6
+
+S ubúdajúcou dostatočnosťou informácií respondentov o preventívnych prehliadkach klesá
+miera dôležitosti, ktorú respondenti prikladajú pravidelným preventívnym prehliadkam
+pre udržanie svojho zdravia a platí to aj opačne.
+Kruskal – Wallisovým testom sme overili štatistickú významnosť rozdielu prezentovaných
+hodnôt skóre. Berúc v úvahu malú početnosť respondentov v kategórií takmer žiadnych
+informácií (6), sme ich údaje združili s údajmi respondentov kategórie málo informácií
+(potom AM ± SD: 2,88 ± 0,88; Mdn: 3; n: 25).
+
+Graf 4 Miera dôležitosti absolvovania preventívnej prehliadky a dostatok informácií o nej
+Výsledok Kruskal – Wallisovho testu bol signifikantný, p hodnota testu, p = 1,929.10-9,
+bola menšia ako hladina významnosti 0,0001.
+
+65
+
+Tabuľka 54 Kruskal – Wallisov test, dostatok informácií a miera dôležitosti PPP
+Kruskal - Wallis test, H6
+
+Testovacia štatistika
+
+Kritická hodnota
+
+P hodnota
+
+ES
+
+dostatok informácií
+
+Η
+
+Η
+krit
+
+p
+
+η2
+
+miera dôležitosti PPP
+
+40,1321
+
+9,2103
+
+1,929.10-9
+
+0,1444
+
+Conoverov post hoc test, ktorým sme porovnali hodnoty skóre po dvojiciach navzájom,
+potvrdil štatisticky významný rozdiel hodnôt mediánov v každom z porovnaní.
+Hodnota ES, η2= 0,1444, hovorí o veľkom účinku dostatku informácií respondentov
+o preventívnych prehliadkach na mieru dôležitosti, ktorú prikladajú pravidelným
+preventívnym prehliadkam (ES: klasifikácia podľa Cohena).
+Motivačné faktory (otázka 24) a dôležitosť absolvovania pravidelných preventívnych
+prehliadok (otázka 18).
+Zistili sme v akom vzťahu sú odpovede respondentov v otázkach 24 a 18 a prezentujeme
+ich v Tabuľke 55.
+Tabuľka 55 Vzťah odpovedí respondentov v otázkach 24 a 18
+Otázka 18
+Otázka veľmi
+24
+
+dôležité
+
+skôr dôležité
+
+neutrálne
+
+skôr
+
+vôbec
+
+nedôležité
+
+nedôležité
+
+∑
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+n
+
+A
+
+18
+
+36,00
+
+8
+
+22,86
+
+16
+
+44,44
+
+2
+
+12,50
+
+0
+
+0,00
+
+44
+
+B
+
+19
+
+38,00
+
+17
+
+48,57
+
+16
+
+44,44
+
+0
+
+0,00
+
+0
+
+0,00
+
+52
+
+C
+
+11
+
+22,00
+
+5
+
+14,29
+
+3
+
+8,33
+
+0
+
+0,00
+
+0
+
+0,00
+
+19
+
+D
+
+30
+
+60,00
+
+14
+
+40,00
+
+15
+
+41,67
+
+2
+
+12,50
+
+0
+
+0,00
+
+61
+
+E
+
+13
+
+26,00
+
+7
+
+20,00
+
+6
+
+16,67
+
+3
+
+18,75
+
+2
+
+100,00
+
+31
+
+F
+
+12
+
+24,00
+
+12
+
+34,29
+
+10
+
+27,78
+
+1
+
+6,25
+
+0
+
+0,00
+
+35
+
+G
+
+1
+
+2,00
+
+1
+
+2,86
+
+7
+
+19,44
+
+9
+
+56,25
+
+0
+
+0,00
+
+18
+
+/50
+
+/35
+
+/36
+
+/16
+
+/2
+
+Legenda:
+A​ Lepšia informovanosť o význame prehliadky
+B​ Odporúčanie od lekára
+C​ Pripomenutie formou SMS alebo e-mailu
+D​ Obava o vlastné zdravie
+E​ Pozitívna skúsenosť známych/rodiny
+F​ Finančné stimuly alebo benefity od poisťovne
+G​ Nič by ma nemotivovalo
+
+66
+
+Tri najdôležitejšie motivujúce faktory:
+Respondentov, pre ktorých je absolvovanie PPP veľmi dôležité, by k absolvovaniu PPP
+najviac motivovala obava o vlastné zdravie, potom odporúčanie lekára a lepšia
+informovanosť o význame prehliadky.
+Respondentov, pre ktorých je absolvovanie PPP skôr dôležité, by k ich absolvovaniu
+najviac motivovalo odporúčanie lekára, po ňom obava o vlastné zdravie a finančné
+stimuly alebo benefity poisťovne.
+Respondentov, ktorých postoj k absolvovaniu PPP je neutrálny, by k ich absolvovaniu
+najviac motivovalo odporúčanie od lekára a v rovnakej miere lepšia informovanosť
+o význame preventívnej prehliadky, a po nich obava o vlastné zdravie.
+Respondentov, pre ktorých je absolvovanie PPP skôr nedôležité (málo dôležité) bolo 17
+a väčšinu z nich (pre 9 respondentov) by k absolvovaniu PPP nemotivovalo nič, v malej
+miere (pre 3 respondentov) by bola motiváciou pozitívna skúsenosť rodiny alebo
+známych, v ešte menšej miere (pre 2 respondentov) obava o vlastné zdravie
+a informovanosť o preventívnych prehliadkach, a pre 1 z nich finančné stimuly alebo
+benefity od poisťovne. Ostatné faktory ich nezaujali.
+Len 2 respondenti vôbec nepokladajú absolvovanie PPP za dôležité a pre oboch by mohla
+byť motivačným faktorom pozitívna skúsenosť rodiny či známych.
+Poradie motivujúcich faktorov u respondentov kategórií dôležitosti absolvovania PPP
+(vzťah odpovedí respondentov v otázkach 24 a 18)
+V prehľade uvádzame číslo poradia dôležitosti jednotlivých faktorov (určených podľa
+počtu respondentov, ktorí ich v odpovedi volili) u respondentov v triedení v otázke 18.
+Napríklad: U respondentov, ktorí pokladajú absolvovanie PPP za veľmi dôležité, bol
+najväčšou početnosťou určený faktor D – obava o vlastné zdravie, preto je mu v priradená
+1, druhou najväčšou početnosťou faktor B – odporúčanie od lekára a je mu priradená 2, ...
+dôležitosť absolvovania PPP (o 18)
+
+67
+
+faktor​
+
+veľmi dôležité​ skôr dôležité​
+
+neutrálne​
+
+skôr nedôležité​
+
+A​
+
+​
+
+3​
+
+​
+
+4​ ​
+
+​ 1,5​ ​
+
+​ 3,5​
+
+​
+
+B​
+
+​
+
+2​
+
+​
+
+1​ ​
+
+​ 1,5​ ​
+
+​ 6,5​
+
+​
+
+C​
+
+​
+
+6​
+
+​
+
+6​ ​
+
+​
+
+7​
+
+​
+
+​ 6,5​
+
+​
+
+D​
+
+​
+
+1​
+
+​
+
+2​ ​
+
+​
+
+3​
+
+​
+
+​ 3,5​
+
+​
+
+E​
+
+​
+
+4​
+
+​
+
+5​ ​
+
+​
+
+6​
+
+​
+
+​ 2​
+
+​
+
+F​
+
+​
+
+5​
+
+​
+
+3​ ​
+
+​
+
+4​
+
+​
+
+​ 5​
+
+​
+
+G​
+
+​
+
+7​
+
+​
+
+7​ ​
+
+​
+
+5​
+
+​
+
+​ 1​
+
+​
+
+vôbec nedôležité
+
+​
+
+1
+
+Prehľad naznačuje, že výber motivačných faktorov respondentov súvisí s ich názorom na
+dôležitosť absolvovania PPP, poradie motivačných faktorov je v triedach dôležitosti PPP
+do istej miery rôzne.
+Prostredníctvom Fleissovej kappy sme určili do akej miery sa voľba motivujúcich faktorov
+u respondentov daných tried dôležitosti absolvovania zhoduje. Hodnota tohto koeficienta,
+κ = 0,0219, vypovedá len o miernej zhode preferovania uvedených motivujúcich faktorov.
+Toto zistenie sme potvrdili aj koreláciou. Overili sme, či dôležitosť poradia motivujúcich
+faktorov u respondentov daných skupín (v otázke 18) vo významnej miere koreluje.
+Štatistická významnosť bola Spearmanovou koreláciou preukázaná len v prípade výberu
+tried respondentov, ktorí pokladajú absolvovanie PPP za veľmi dôležité a skôr dôležité
+(p = 0,0137), čo je v zhode s predchádzajúcim zistením.
+V Tabuľke 56 prezentujeme len štatistickú významnosť korelačných koeficientov
+(p hodnoty), pretože samotné hodnoty korelačných koeficientov by boli s ohľadom na
+malú početnosť zavádzajúce.
+Tabuľka 56 Korelácia poradia dôležitosti motivačných faktorov s ohľadom na dôležitosť
+absolvovania PPP
+Motivujúce faktory
+
+absolvovanie PPP (štatistická významnosť Spearmanovej korelácie)
+
+a otázka 18
+
+veľmi dôležité
+
+veľmi dôležité
+
+1
+
+skôr dôležité
+
+rs > 0; p = 0,0137 1
+
+neutrálne
+
+rs > 0; p = 0,0782 rs > 0; p = 0,0579 1
+
+skôr nedôležité
+
+rs < 0; p = 0,6383 rs < 0; p = 0,2632 rs < 0; p = 0,7535 1
+
+skôr dôležité
+
+neutrálne
+
+skôr nedôležité
+
+68
+
+Aj tieto analýzy potvrdzujú, že preferencia faktorov, motivujúcich respondentov
+k absolvovaniu preventívnej prehliadky, je vzhľadom na ich názor na dôležitosť jej
+absolvovania odlišná.
+Najdôležitejším motivujúcim faktorom pre všetkých respondentov by mala byť obava
+o vlastné zdravie (faktor D). A tá je najdôležitejšia práve pre respondentov, ktorí
+absolvovanie PPP pokladajú za dôležité (veľmi alebo skôr dôležité) a týka sa 44 (51,76%)
+respondentov ich početnosti. Týka sa aj 16 (30,77%) respondentov, ktorých názor
+na dôležitosť absolvovania PPP bol neutrálny alebo záporný. Štatistická významnosť
+rozdielu týchto relatívnych početností bola overená testom zhody dvoch proporcií a bola
+potvrdená (p = 0,0081).
+Aj v triedení v súvislosti s dostatkom informácií (otázka 15) bola obava o svoje zdravie
+najpočetnejším faktorom u respondentov, ktorí mali dostatok informácií o preventívnych
+prehliadkach (u 49,25% ich početnosti), ale aj u tých, ktorí mali základné informácie
+(u 48,94% ich početnosti). Obe tieto relatívne početnosti boli štatisticky významne väčšie
+ako relatívna početnosť respondentov s malým množstvom informácií o preventívnych
+prehliadkach, ktorých motivačným faktorom bola tiež obava o zdravie (26,32%), aj keď
+nie najpočetnejším. Najväčšia početnosť týchto respondentov totiž uviedla, že by ich
+k absolvovaniu PPP nič nemotivovalo.
+Výsledky všetkých troch testov zhody dvoch proporcií uvádzame v Tabuľke 57.
+Tabuľka 57 Test zhody dvoch proporcií v H6, otázka 24: obava o zdravie a otázky 18 a 15
+Test zhody 2 proporcií, H6
+Testovacia štatistika
+obava o zdravie v súvislosti s otázkami 18 z/t
+a 15
+otázka 18: absolvovanie PPP: dôležité vs
+2,4037
+nie
+otázka 15: dostatok informácií vs málo
+1,7771
+
+Kritický obor P hodnota
+
+otázka 15: informácie základné vs málo
+
+1,6836
+
+W
+
+p
+
+<2,3263; ∞)
+
+0,0081
+
+<1,6632; ∞)
+
+0,0396
+
+<1,6632; ∞)
+
+0,0486
+
+Výsledky analýz údajov, ktorým sme sa v hypotéze H6 venovali, podporujú predpoklad
+hypotézy, že medzi faktormi, motivujúcimi respondentov k účasti na preventívnej
+prehliadke a subjektívnou dôležitosťou, ktorú seniori pripisujú preventívnym prehliadkam,
+existuje štatisticky významný vzťah.
+Hypotéza H6 bola potvrdená.
+69
+
+Hypotéza H7
+Existuje štatisticky významný vzťah medzi najvyšším dosiahnutým vzdelaním
+seniorov, ich účasťou na preventívnych prehliadkach u všeobecného lekára a úrovňou
+informovanosti o preventívnych prehliadkach (otázky č. 5, 16 a 12).
+Vo vyhodnotení otázky 5 sme uviedli, že 29 (20,86%) respondentov má ukončené základné
+vzdelanie, 58 (41,73%) respondentov stredoškolské vzdelanie bez maturity, 38 (27,34%)
+respondentov stredoškolské vzdelanie s maturitou. Najvyšším dosiahnutým vzdelaním
+3 (2,16%) respondentov je vysokoškolské vzdelanie I. stupňa, 9 (6,47%) respondentov
+vysokoškolské vzdelanie II. stupňa a 2 (1,44%) respondentov vysokoškolské vzdelanie
+III. stupňa. Početnosti respondentov jednotlivých tried s vysokoškolským vzdelaním sú
+malé, preto sme ich združili do jednej triedy vzdelania (VŠ).
+Účasti respondentov na preventívnych prehliadkach sme sa venovali v otázke 16 a úrovňou
+ich informovanosti o preventívnych prehliadkach v otázke 12. Odpovede respondentov
+v týchto dvoch otázkach, sme utriedili podľa ich vzdelania.
+Početnosti v tabuľke 58 sa týkajú otázky 16.
+Tabuľka 58 Otázka 16 v triedení podľa vzdelania respondentov
+Vzťah otázok
+5 a 16
+
+Otázka 16
+A
+
+B
+
+C
+
+D
+
+vzdelanie
+
+n
+
+n
+
+n
+
+n
+
+n
+
+ZŠ
+
+1
+
+8
+
+18
+
+2
+
+29
+
+SŠ bez maturity
+
+1
+
+39
+
+18
+
+0
+
+58
+
+SŠ s maturitou
+
+0
+
+32
+
+5
+
+1
+
+38
+
+VŠ
+
+2
+
+8
+
+4
+
+0
+
+14
+
+spolu
+
+4
+
+87
+
+45
+
+3
+
+139
+
+∑
+
+Legenda: A: Každý rok
+​
+
+B: Raz za dva roky
+
+​
+
+C: Iba keď sa cítim zle
+
+​
+
+D: Nikdy som na preventívnej prehliadke nebol(a)
+
+Existenciu štatisticky významného vzťahu medzi vzdelaním respondentov a ich účasťou
+na preventívnych prehliadkach sme overili Chí – kvadrát testom nezávislosti. Pretože
+početnosti v odpovediach “každý rok“ a “nikdy som na preventívnej prehliadke nebol“ boli
+malé a nesplnili podmienku ich použiteľnosti v teste, sme v testovaní použili združené
+kategórie údajov (Tabuľka 59).
+70
+
+Tabuľka 59 Absolvovanie preventívnych prehliadok a vzdelanie
+Otázky 5 a 16
+
+pravidelnosť absolvovania PP
+
+vzdelanie
+
+áno
+
+nie
+
+ZŠ
+
+9
+
+20
+
+29
+
+SŠ bez maturity
+
+40
+
+18
+
+58
+
+SŠ s maturitou
+
+32
+
+6
+
+38
+
+VŠ
+
+10
+
+4
+
+14
+
+spolu
+
+91
+
+48
+
+139
+
+spolu
+
+Tabuľka 60 Chí – kvadrát test 1, účasť na preventívnej prehliadke a vzdelanie
+χ2 − test 1 v H7, α = 0,01
+
+Testovacia štatistika
+
+Kritická hodnota P hodnota
+
+preventívna prehliadka
+
+χ2
+
+χ2
+(0,01;3)
+
+p
+
+otázka 16 a vzdelanie
+
+21,6476
+
+11,3449
+
+7,222.10-5
+
+Hodnota testovacej štatistiky v tomto teste (21,6476) prekročila zodpovedajúcu kritickú
+hodnotu (11,3449), p hodnota testu (p = 7,222.10-5) bola menšia ako 0,0001 a obe tieto
+hodnoty sú dôkazom signifikantnosti výsledku testu. Absolvovanie preventívnych
+prehliadok respondentmi teda štatisticky významne súvisí s ich vzdelaním. Hodnota
+Cramerovho V koeficienta, V = 0,3946, hovorí o strednej sile ich vzťahu.
+Analýza odpovedí respondentov v otázke 12 v súvislosti s ich vzdelaním je obsahom
+Tabuľky 61.
+Len 8 respondentov nedisponuje potrebnými informáciami o preventívnych prehliadkach,
+3 z nich majú ukončené základné vzdelanie, 3 stredoškolské bez maturity a 2
+s vysokoškolským vzdelaním. Ich početnosti sú malé a zrejme by medzi nimi nebol
+významný rozdiel, preto sme ich z testovania vylúčili a spracovali sme údaje prvých dvoch
+možností odpovede. Existenciu štatisticky významnej súvislosti vzdelania respondentov
+s ich informovanosťou o preventívnych prehliadkach sme potom overili Chí – kvadrát
+testom (Tabuľka 62).
+
+71
+
+Tabuľka 61 Otázka 12 v triedení podľa vzdelania respondentov
+Vzťah otázok
+5 a 12
+
+Otázka 12
+A
+
+B
+
+C
+
+D
+
+vzdelanie
+
+n
+
+n
+
+n
+
+n
+
+n
+
+ZŠ
+
+10
+
+16
+
+1
+
+2
+
+29
+
+SŠ bez maturity
+
+38
+
+17
+
+3
+
+0
+
+58
+
+SŠ s maturitou
+VŠ
+spolu
+
+29
+8
+85
+
+9
+4
+46
+
+0
+2
+6
+
+0
+0
+2
+
+38
+14
+139
+
+∑
+
+Legenda:
+A: Viem presne, čo preventívne prehliadky zahŕňajú a pravidelne sa ich zúčastňujem​
+B: Viem, čo sú preventívne prehliadky, ale nezúčastňujem sa ich pravidelne​
+C: Počul(a) som o preventívnych prehliadkach, ale neviem presne, čo zahŕňajú​
+D: Neviem, čo sú preventívne prehliadky
+
+Tabuľka 62 Chí – kvadrát test 2, informovanosť o preventívnej prehliadke a vzdelanie
+χ2 − test 2 v H7, α = 0,05
+preventívna prehliadka
+otázka 12 a vzdelanie
+
+Testovacia
+štatistika
+
+Kritická
+hodnota
+
+P hodnota
+
+χ2
+
+χ2
+(0,05;3)
+
+p
+
+10,5904
+
+7,8147
+
+0,0142
+
+Aj vzťah informovanosti respondentov o preventívnej prehliadke a ich vzdelania bol
+štatisticky významný a bol Chí – kvadrát testom preukázaný. Hodnota testovacej štatistiky
+(χ2 = 10,5904), bola väčšia ako kritická hodnota (7,8147) a p hodnota testu (p = 0,0142)
+bola menšia ako hladina významnosti 5%.
+Existencia štatisticky významného vzťahu medzi najvyšším dosiahnutým vzdelaním
+seniorov nášho výberového súboru a ich účasťou na preventívnych prehliadkach
+u všeobecného lekára i úrovňou ich informovanosti o preventívnych prehliadkach bola
+testovaním preukázaná.
+Hypotéza H7 bola potvrdená.
+
+72
+
+DISKUSIA
+Výsledky hypotézy 1 potvrdili štatisticky významný vzťah medzi vekom seniorov a
+frekvenciou účasti na preventívnych prehliadkach u všeobecného lekára, pričom seniori vo
+veku 60–74 rokov sa zúčastnili preventívnej prehliadky pravidelnejšie ako seniori vo veku
+≥ 75 rokov. Hoebel (et al. 2014) opisuje, na základe dát zo štúdie GEDA, že účasť na
+preventívnych prehliadkach u praktického lekára stúpa s vekom až do vekovej kategórie
+65–74 rokov, avšak vo veku 75 rokov a viac rokov opäť klesá, pričom je vek stále menším
+významným faktorom účasti aj po zohľadnení socioekonomických a zdravotných faktorov.
+Wilson R. (et al. 2019) v britskej štúdii sledujúcej účastníkov narodených v roku 1946
+preukázali, že priebeh liečby v neskoršom veku sa mení a u najstarších seniorov dochádza
+k poklesu účasti, čo autori spájajú najmä so zhoršeným zdravotným stavom a funkčnými
+obmedzeniami. Naše zistenia sú teda v súlade so závermi Hoebel et al. a Wilson R. et
+al.(2014), podľa ktorých je účasť na preventívnych prehliadkach najvyššia u mladších
+seniorov, zatiaľ čo u starších seniorov návštevnosť klesá, pravdepodobne pre zvýšenú
+krehkosť, multimorbiditu a zníženú mobilitu.
+Naše dokazovanie v hypotéze 2 nepreukázalo existenciu štatisticky významného
+vzťahu medzi pohlaviami seniorov a frekvenciou ich účasti na preventívnych prehliadkach
+u
+
+všeobecného
+
+lekára.
+
+Percentuálna
+
+početnosť
+
+síce
+
+naznačila
+
+mierne
+
+vyššiu
+
+disciplinovanosť žien v pravidelnom absolvovaní preventívnej prehliadky, avšak tento
+rozdiel nebol štatisticky významný.​ Tieto výsledky sú čiastočne v rozpore so zisteniami
+Vaidya, Partha a Karmakar (2012), ktorí na rozsiahlej vzorke dospelej populácie v USA
+analyzovali rozdiely vo využívaní preventívnych služieb spoločných pre obe pohlavia,
+akými sú meranie krvného tlaku, cholesterolu, kolonoskopia, očkovanie proti chrípke a
+zubná prehliadka. Keď porovnali mužov a ženy, muži chodili na preventívne
+prehliadky menej často ako ženy. A tento rozdiel bol štatisticky významný – teda nebol
+náhodný. Rozdiel medzi ich výsledkami a našimi zisteniami je vysvetliteľný viacerými
+faktormi. Ich štúdium bolo realizované na vzorke, ktorá zahŕňala iba dospelú populáciu,
+pričom náš výberový súbor pozostáva výlučne zo seniorov. Ich veľkosť bola porovnateľne
+väčšia ako veľkosť nášho výberového súboru, čo ovplyvňuje štatistickú veľkosť testov a
+navyše aj menšie rozdiely medzi skupinami. K podobnému záveru ako naše dokazovanie
+dospeli Redondo-Sendino et al. (2006), ktorí na vzorke neinštitucionalizovaných osôb vo
+veku 60 a viac rokov v Španielsku skúmali rodové rozdiely vo využívaní zdravotnej
+starostlivosti. V ich štúdii ženy síce navštevovali lekára a užívali viac liekov ako muži,
+73
+
+avšak po zohľadnení potrieb – najmä počtu chronických ochorení a kvality života – sa
+rodové rozdiely vo využívaní ambulantnej starostlivosti výrazne zmenili a stratili
+štatistickú významnosť. Autori uzavreli, že vyššie využívanie zdravotnej starostlivosti u
+žien‑senioriek nie je dané pohlavím ako takým, ale vyšším počtom chronických ochorení a
+horšou kvalitou života. Toto je v súlade s našim výsledkom, že v seniorskej populácii sa
+rodové rozdiely v sledovanom správaní zmenšujú, pravdepodobne preto, že seniori oboch
+pohlaví čelia porovnateľným zdravotným ťažkostiam a majú podobný motív navštevovať
+všeobecného lekára. V našom výberovom súbore sme úpravu na zdravotné faktory
+nevykonávali, čo možno považovať za obmedzenie nášho výskumu.
+Naše dokazovanie v hypotéze 3 nepreukázalo existenciu štatistického významného
+vzťahu medzi rodinným stavom respondentov a frekvenciou ich účasti na preventívnych
+prehliadkach u všeobecného lekára. Rozdiely v relatívnych počtoch respondentov rôzneho
+stavu, ktorí preventívnu prehliadku absolvujú pravidelne, neboli štatisticky významné, a to
+ani v otázke absolvovania preventívnej prehliadky v posledných piatich rokoch.​ Náš
+výsledok je v čiastočnom rozpore s výsledkami Pandey et al. (2019), ktorí na údajoch z
+MCBS analyzovali vzťah medzi rodinným stavom a využívaním zdravotnej starostlivosti u
+starších poistencov Medicare. V ich štúdii sa rodinný stav ukázal ako dôležitý faktor
+využívania zdravotnej starostlivosti – ženatí a vydaté, respondenti mali potvrdiť
+pravdepodobnosť hospitalizácie a využitia ošetrovateľských zariadení v porovnaní s
+neženatými a nevydatými, pričom bol u nich pozorovaný trend smerom k vyššiemu
+využívaniu ambulantnej starostlivosti. Autori tento „manželský efekt“ vysvetlili tým, že
+manželia si poskytujú emocionálnu podporu, pripomínajú si zdravotné prehliadky a
+pomáhajú si pri cestách do zdravotníckych zariadení. Rozdiel medzi ich výsledkami a
+naším zistením môže súvisieť s odlišným nastavením výskumu – Pandey et al. (2019)
+sledovali celkové využívanie zdravotnej starostlivosti v rôznych prostrediach, kým my sme
+sa zameriavali výlučne na preventívne prehliadky u všeobecného lekára.​ K podobnému
+záveru dospeli aj Lau a Kirby (2009), ktorí na vzorke viac ako 13 000 komunitne žijúcich
+seniorov v USA skúmali vzťah medzi usporiadaním domácnosti a využívaním
+ošetrovateľskej starostlivosti. Seniori žijúci s manželom alebo manželkou mali vyššiu
+pravdepodobnosť využitia preventívnych služieb, akými boli očkovanie proti chrípke,
+zubná prehliadka či skríning kolorektálneho karcinómu, v porovnaní so seniormi žijúcimi
+osamote. Zaujímavým zistením bolo, že seniori žijúci s dospelými deťmi nevyužívajú viac
+preventívne prehliadky v porovnaní so seniormi žijúcimi osamote. To znamená, že nie
+74
+
+samotný rodinný stav, ale skôr charakter spolužitia a typ sociálnej podpory hrajú
+rozhodujúcu úlohu. Rodinný stav respondentov, ktorých sme v našom výskume sledovali,
+nemusí odrážať ich rodinnú životnú situáciu. Napríklad oslovený respondent môže žiť v
+spoločnej domácnosti s deťmi alebo s partnerom a mať silnú sociálnu podporu, zatiaľ čo
+iný respondent v rovnakej situácii sa môže cítiť fakticky osamotený. Preto nevieme
+posúdiť, do akej miery ich k absolvovaniu preventívnych prehliadok motivuje podpora zo
+strany blízkych osôb. Toto považujeme za obmedzenie nášho výskumu.
+Hypotéza 4 preukázala existenciu štatisticky významného vzťahu medzi zdrojom
+informácií o preventívnych prehliadkach, doplnenej informovanosti respondentov a
+subjektívnym hodnotením dôležitosti preventívnych prehliadok. Respondenti, ktorých
+informoval o preventívnych prehliadkach lekár disponovali väčšou mierou dostatočných
+informácií a prikladali preventívnym prehliadkam väčší význam v porovnaní s
+respondentmi, ktorých informácie pochádzali od rodiny alebo z médií.​ Naše zistenia sú v
+súlade s výsledkami Musa et al. (2009), ktorí na vzorke 1 681 seniorov realizovali
+telefonický prieskum zameraný na vzťah dôvery v zdravotníckom systéme a využívanie
+informačných služieb. V ich štúdii bola vyššia miera dôvery vo vlastného lekára s vyšším
+využívaním preventívnych služieb, ako boli pravidelné preventívne prehliadky, skríning a
+očkovanie. Autori zdôraznili, že budovanie dôvery medzi pacientom a lekárom je
+kľúčovým systémom zvyšovania účasti na preventívnych službách. Toto zodpovedá nášmu
+výsledku, podľa ktorého respondenti ktorý boli informovaný od lekárov disponovali
+lepšími informáciami a prikladali preventívnym prehliadkam aj dôležitú úlohu pri
+starostlivosti o svoje zdravie čo poukazuje na nezastupiteľnú úlohu lekára ako zdroj
+informácií pre seniorov. Význam informovanosti pre preventívne správanie seniorov
+podporuje aj Fernandez et al. (2016), ktorí na reprezentatívnej vzorke starších dospelých v
+rámci Health and Retirement Study skúmali vzťah medzi zdravotnou gramotnosťou a
+preventívnym správaním. Seniori s vyššou zdravotnou gramotnosťou mali štatisticky
+vyššiu pravdepodobnosť účasti na preventívnych vyšetreniach. Autori upozornili, že práve
+u seniorov je zdravotná gramotnosť najnižšia a jej zlepšovanie je preto zásadné pre
+zvýšenie účasti na prevencii. Toto použitie korešponduje s naším výsledkom. Respondenti
+s dostatočnými informáciami o preventívnych prehliadkach prikladali prevencii väčší
+význam. Lekár ako zdroj informácií tak plní nielen funkciu odborného poradcu, ale
+prispieva aj k zvyšovaniu zdravotnej gramotnosti seniorov.
+
+75
+
+Turner et al. (2018) vo svojom kvalitatívnom výskume zistili, že seniori uvádzajú
+zdravotníckych pracovníkov ako svoj prvý a najdôveryhodnejší zdroj zdravotných
+informácií, pričom hlavnými dôvodmi boli dôvera, odborné znalosti a možnosť osobného
+kontaktu. Niektorí seniori pritom jednoznačne uprednostňovali informácie od lekára pred
+informáciami z internetu. Aj túto informáciu podporuje náš výsledok, podľa ktorej
+dominantná väčšina respondentov nášho výberového súboru získala informácie o
+preventívnych prehliadkach práve od lekára a títo respondenti boli najlepšie informovaní.​
+Naše dokazovanie v hypotéze 5 preukázalo existenciu štatisticky významného
+vzťahu medzi presvedčením seniorov, že preventívne prehliadky prispievajú k zlepšeniu
+ich fyzického zdravia a psychickej pohody a pravidelnosťou ich účasti na týchto
+prehliadkach. Respondenti, ktorí boli viac presvedčení o pozitívnom vplyve preventívnej
+prehliadky na ich zdravie a psychickú pohodu, sa jej zúčastňovali pravidelne častejšie než
+tí, ktorí tento prínos vnímali neutrálne alebo skôr negatívne. Tento výsledok je v súlade s
+teoretickými východiskami Health Belief Model, ktorý vo svojom prehľade opisujú
+Alyafei A. a Easton-Carr R. (2024). Autori zdôrazňujú, že vnímaný prínos preventívneho
+opatrenia patrí medzi kľúčové determinanty preventívneho správania, spolu s vnímanou
+hrozbou ochorenia. V našom výskume práve vnímaný prínos v podobe zlepšenia fyzického
+zdravia a subjektívneho posilnenia psychickej pohody pôsobil ako významný motivačný
+faktor k pravidelnej účasti na preventívnych prehliadkach.​ Význam presvedčení a
+informovanosti pre preventívne správanie seniorov podporujú aj zistenia systematického
+prehľadu Chesser A. K. et al. (2016), v ktorom autori poukazujú na súvislosť medzi
+zdravotnou
+
+gramotnosťou,
+
+pochopením
+
+zdravotných
+
+odporúčaní
+
+a
+
+využívaním
+
+preventívnych služieb u seniorov. Vyššia úroveň zdravotnej gramotnosti sa u nich spája
+nielen s častejšou účasťou na preventívnych vyšetreniach, ale aj s väčším pocitom kontroly
+nad vlastným zdravím a lepším subjektívnym vnímaním zdravia. Na podobné súvislosti
+upozorňuje aj štúdia Chen Y.J. et al. (2023), v ktorej autori uvádzajú, že medzi významné
+faktory účasti seniorov na preventívnych prehliadkach patria okrem sociodemografických
+charakteristík aj individuálne presvedčenia o užitočnosti zdravotných prehliadok a
+očakávané prínosy v podobe včasného odhalenia chorôb a udržania dobrého zdravotného
+stavu. Tieto zistenia korešpondujú s naším výsledkom, podľa ktorého seniori, ktorí sa
+preventívnych prehliadok zúčastňujú pravidelne, častejšie uvádzajú, že dobrý výsledok
+prehliadky znižuje ich obavy z ochorenia, posilňuje pocit istoty a pozitívne ovplyvňuje ich
+
+76
+
+psychickú pohodu. Preventívna prehliadka tak v ich vnímaní nepredstavuje iba medicínsky
+úkon, ale zároveň aj dôležitý zdroj psychologickej opory a pocitu bezpečia.
+Naše dokazovanie v hypotéze 6 preukázalo existenciu štatisticky významného
+vzťahu medzi motivačnými faktormi k účasti na preventívnej prehliadke a subjektívnou
+dôležitosťou, ktorú seniori týmto prehliadkam pripisujú, ako aj mierou ich informovanosti
+o nich. Seniori s vyššou subjektívnou dôležitosťou a s dostatkom informácií častejšie
+identifikovali pozitívne motivátory – starostlivosť o vlastné zdravie, odporúčanie lekára,
+obavu o zdravotný stav a pozitívnu skúsenosť rodiny – zatiaľ čo respondenti s nižšou
+dôležitosťou a nedostatočnou informovanosťou častejšie deklarovali, že ich k účasti „nič
+nemotivuje". Tieto zistenia sú v súlade s výsledkami štúdie Cherrington, A., et al. (2007),
+ktorí preukázali, že presvedčenie o zmysluplnosti pravidelných preventívnych prehliadok
+je nezávisle spojené s vyššou pravdepodobnosťou absolvovania preventívnych služieb,
+pričom osoby, ktoré prínos periodických prehliadok nepociťovali, mali až štvornásobne
+nižšiu šancu, že prehliadku absolvujú. Autori tento nález interpretujú tak, že presvedčenie
+o hodnote prehliadok môže odrážať všeobecnú orientáciu jedinca na prevenciu, čo
+korešponduje s naším zistením, že seniori, ktorí vnímali dôležitosť preventívnych
+prehliadok, uvádzajú viacero konkrétnych motivačných faktorov. Podobne aj štúdia Kim,
+E. S., et al. (2014) zistila, že vyššia spokojnosť so starnutím bola spojená s vyššou
+pravdepodobnosťou využitia preventívnych zdravotných služieb (skríning cholesterolu,
+mamografia, vyšetrenie prostaty, kolonoskopia), a to aj po kontrole veku, vzdelania, príjmu
+a chronických ochorení. Autori vysvetľujú, že seniori, ktorí vnímajú zdravotné problémy v
+starobe ako nevyhnutné, majú tendenciu preventívnu starostlivosť podceňovať a
+nevyhľadávať ju, zatiaľ čo pozitívnejšie presvedčenia o starnutí a vlastnom zdraví
+podporujú preventívne správanie. Tento záver sa odzrkadľuje v našich výsledkoch, kde
+seniori s vysoko vnímanou subjektívnou dôležitosťou preventívnych prehliadok a
+dostatočnou informovanosťou uvádzali viac motivačných faktorov, kým u respondentov s
+nízkou dôležitosťou a nedostatkom informácií dominoval postoj rezignácie voči prevencii.
+Naše dokazovanie v hypotéze 7 preukázalo existenciu štatisticky významného
+vzťahu medzi najvyšším dosiahnutým vzdelaním seniorov, ich účasťou na preventívnych
+prehliadkach u všeobecného lekára a úrovňou informovanosti o preventívnych
+prehliadkach. Respondenti s vyšším vzdelaním sa preventívnych prehliadok zúčastňovali
+pravidelnejšie a zároveň boli lepšie informovaní o ich obsahu a význame, zatiaľ čo
+respondenti so základným vzdelaním prehliadky absolvovali len sporadicky a ich
+77
+
+informovanosť bola prevažne nedostatočná.​ Tieto zistenia sú v súlade s výsledkami
+Wilson, R., et al. (2019) ktorí preukázali, že socioekonomické zázemie vrátane úrovne
+vzdelania je významne spojené s účasťou na preventívnych zdravotných prehliadkach v
+neskoršom veku, pričom vzdelanostná výhoda formuje návyky starostlivosti o zdravie už v
+skoršom období života a tieto návyky pretrvávajú aj do seniorského veku. Hoeck, S., et
+al.(2013) na belgickej seniorskej populácii zistili, že nižšie vzdelanie bolo spojené s nižšou
+pravdepodobnosťou absolvovania preventívnych vyšetrení, pričom autori zdôrazňujú, že
+lepšie vzdelaní jedinci efektívnejšie využívajú zdravotné informácie a majú väčšie
+povedomie o zdravotných rizikách, čo vedie k ich aktívnejšiemu využívaniu preventívnej
+starostlivosti. Vzťah medzi vzdelaním a informovanosťou potvrdzuje aj štúdia Tao, S., et
+al. (2024), podľa ktorej úroveň zdravotnej gramotnosti rastie s dosiahnutým vzdelaním –
+seniori s vyšším vzdelaním mali lepšiu schopnosť získavať a chápať zdravotné informácie
+a prejavovali väčšiu iniciatívu v starostlivosti o vlastné zdravie, čo sa odzrkadľuje aj v
+našich výsledkoch.
+4.1 Odporúčania pre prax
+Na základe výsledkov nášho výskumu formulujeme nasledujúce odporúčania pre
+ošetrovateľskú prax zamerané na zvýšenie účasti seniorov na preventívnych prehliadkach u
+všeobecného lekára.
+Cielená pozornosť voči starším seniorom (75+)
+Výsledky hypotézy H1 potvrdili, že s rastúcim vekom klesá pravidelnosť účasti na
+preventívnych prehliadkach. Seniori vo veku 75 rokov a viac absolvovali prehliadky
+výrazne menej pravidelne ako mladší seniori. Odporúčame preto, aby sestry v primárnej
+starostlivosti aktívne identifikovali pacientov starších ako 75 rokov, ktorí prehliadku
+dlhodobo neabsolvovali, a iniciovali s nimi kontakt – telefonicky, prostredníctvom SMS
+pripomienok alebo v rámci domácich ošetrovateľských návštev. Vzhľadom na to, že u
+najstarších seniorov sú častými bariérami znížená mobilita, krehkosť a multimorbidita, je
+vhodné koordinovať preventívnu prehliadku s inými plánovanými návštevami v
+ambulancii, aby sa znížila záťaž spojená s cestovaním.​
+
+78
+
+Rovnocenný prístup bez ohľadu na pohlavie a rodinný stav
+Hypotézy H2 a H3 nepotvrdili štatisticky významný vzťah medzi pohlavím, resp.
+rodinným stavom a účasťou na preventívnych prehliadkach. To znamená, že edukačné a
+motivačné intervencie by mali byť rovnako intenzívne smerované k mužom aj ženám
+v seniorskom veku bez ohľadu na to, či žijú v manželskom zväzku, osamote alebo u detí.
+Sestra by mala pri posudzovaní potrieb seniora brať do úvahy skôr jeho reálnu sociálnu
+podporu a funkčný stav než formálny rodinný stav.​
+Posilnenie úlohy lekára ako primárneho zdroja informácií
+Z výsledkov hypotézy H4 vyplynulo, že respondenti informovaní lekárom
+disponovali najdostatočnejšími informáciami a pripisovali preventívnym prehliadkam
+najvyššiu dôležitosť. Aj keď náš výskum bol zameraný na seniorov, chceme poslať
+odporúčanie aj sestrám a lekárom prvého kontaktu. Odporúčame, aby sestry aktívne
+podporovali lekárov v poskytovaní cielených informácií o preventívnych prehliadkach
+počas každého kontaktu so seniorom. Sestra môže pripraviť stručné edukačné materiály
+prispôsobené úrovni zdravotnej gramotnosti seniora, ktoré lekár odovzdá pri návšteve, a
+zároveň zabezpečiť, aby pozvánka na prehliadku bola jasná, konkrétna a obsahovala
+termín, miesto a spôsob registrácie.​
+Zdôrazňovanie prínosu prehliadky pre fyzické aj psychické zdravie
+Hypotéza H5 preukázala, že seniori, ktorí boli presvedčení o prínose preventívnej
+prehliadky pre ich fyzické a psychické zdravie, sa jej zúčastňovali pravidelnejšie. Pre
+ošetrovateľskú prax to znamená, že edukácia seniora by nemala byť obmedzená na výpočet
+vyšetrení, ale mala by zdôrazňovať konkrétne benefity – včasné zachytenie ochorenia,
+pocit kontroly nad vlastným zdravím a psychickú úľavu z priaznivého výsledku. Pri
+motivačných rozhovoroch je vhodné pracovať s pozitívnymi skúsenosťami samotného
+seniora alebo jeho blízkych, pretože práve tie posilňujú vnímanie zmysluplnosti prevencie.​
+Individualizovaná motivácia podľa vnímanej dôležitosti prevencie
+Na základe výsledkov hypotézy H6 odporúčame, aby sestra pri edukácii najprv
+zistila, akú dôležitosť senior prehliadkam pripisuje a aká je jeho úroveň informovanosti. U
+seniorov s vysoko vnímanou dôležitosťou a dostatočnými informáciami postačuje posilniť
+existujúce motivátory – obavu o zdravie, odporúčanie lekára a pozitívnu skúsenosť
+blízkych. U seniorov s nízko vnímanou dôležitosťou a nedostatočnou informovanosťou, u
+79
+
+ktorých dominuje postoj „nič by ma nemotivovalo", je potrebný odlišný prístup – trpezlivé
+budovanie dôvery, postupné odstraňovanie obáv z vyšetrenia a využitie pozitívnych
+skúseností rodiny ako motivačného nástroja. Finančné stimuly alebo benefity od poisťovne
+môžu byť doplnkovým motivátorom, ale nenahradia individualizovaný prístup sestry.​
+Zvýšená edukácia seniorov s nižším vzdelaním
+Výsledky hypotézy H7 potvrdili, že seniori s nižším vzdelaním sa preventívnych
+prehliadok zúčastňovali menej pravidelne a boli horšie informovaní o ich obsahu.
+Odporúčame, aby sestry v ambulanciách všeobecných lekárov a v komunitných
+zariadeniach prispôsobili formu edukácie vzdelanostnej úrovni seniora – používali
+jednoduchý jazyk, vizuálne pomôcky, praktické ukážky a opakované krátke edukačné
+stretnutia namiesto jednorazového odovzdania písomných materiálov. Pri senioroch so
+základným vzdelaním je obzvlášť dôležité overiť, či porozumeli obsahu a zmyslu
+prehliadky, a poskytnúť im praktickú pomoc s organizáciou návštevy (objednanie, doprava,
+sprevádzanie).
+
+80
+
+ZÁVER
+Táto diplomová práca sa zamerala na to, ako často seniori chodia na preventívne
+prehliadky u všeobecného lekára a čo ich k tomu motivuje alebo naopak odrádza. Ukázalo
+sa, že nejde o jednoduchý jav, ale o výsledok pôsobenia viacerých faktorov – veku,
+vzdelania, množstva a kvality informácií, osobných presvedčení aj životnej situácie
+seniora. V širšom pohľade platí, že o účasti na preventívnej prehliadke rozhoduje skôr to,
+čo senior o prevencii vie, čomu verí a aký má vzťah k svojmu zdraviu, než samotné
+pohlavie či formálny rodinný stav.
+Výsledky ukázali, že dôležitú úlohu zohráva vek a vzdelanie – starší seniori nad 75
+rokov a seniori s nižším vzdelaním sa preventívnych prehliadok zúčastňovali menej často,
+a zároveň boli horšie informovaní o ich obsahu. Naopak, ak senior dostáva jasné a
+zrozumiteľné informácie od lekára, považuje prehliadky za dôležité a verí, že mu môžu
+pomôcť udržať zdravie a psychickú pohodu, chodí na ne pravidelnejšie. Z tohto hľadiska
+možno preventívnu prehliadku vnímať nielen ako súbor vyšetrení, ale aj ako priestor na
+podporu dôvery, vysvetlenie zmyslu prevencie a posilnenie pocitu bezpečia u seniora.​
+Pre prax to znamená, že nestačí, aby boli preventívne prehliadky „na papieri“
+dostupné a hradené zdravotnou poisťovňou. Je potrebné, aby boli pre seniorov aj
+pochopiteľné, zmysluplné a reálne dosiahnuteľné. Sestry a lekári by sa mali viac zamerať
+na seniorov vyššieho veku a s nižším vzdelaním, prispôsobiť im spôsob komunikácie,
+ponúknuť konkrétnu pomoc s objednaním či dopravou a nebáť sa opakovane vysvetľovať,
+prečo má zmysel chodiť na prehliadky aj v pokročilom veku. Veľký význam má aj
+individuálny prístup – zistiť, čo konkrétneho seniora motivuje (napríklad obava o zdravie,
+dobrá skúsenosť v rodine) a čo ho brzdí (strach z diagnózy, zlé skúsenosti, pocit
+zbytočnosti).
+Práca zároveň ukázala niekoľko oblastí, ktoré si zaslúžia ďalšie skúmanie. Stále
+nevieme, do akej miery pozitívne presvedčenie o prevencii vedie k pravidelnej účasti,
+alebo či je to skôr dôsledok opakovaných dobrých skúseností s prehliadkou. Chýbajú aj
+podrobnejšie údaje o skutočnej sociálnej podpore seniorov – rodinný stav nám sám o sebe
+nepovie, či má senior pri sebe niekoho, kto mu pomáha a podporuje ho v starostlivosti o
+
+81
+
+zdravie. Do budúcnosti by preto bolo vhodné spojiť dotazníkové zisťovanie s rozhovormi
+so seniormi a sledovať ich správanie v čase.
+Prínos tejto práce spočíva v tom, že prináša ucelený pohľad na preventívne
+správanie seniorov v slovenskom prostredí a ukazuje, ktoré skupiny sú z hľadiska účasti na
+preventívnych prehliadkach rizikové a ktoré faktory sú pre ich motiváciu kľúčové. Tieto
+poznatky môžu slúžiť ako podklad pre lepšie zamerané edukačné aktivity a ošetrovateľské
+intervencie v primárnej starostlivosti, aby sa preventívne prehliadky nestali len formálnym
+nárokom, ale skutočnou príležitosťou pre seniorov udržať si zdravie a kvalitu života čo
+najdlhšie.
+
+82
+
+ZOZNAM POUŽITEJ LITERATÚRY
+ABBASI, M., KHERA, S., et al. (2021). The Seniors' Community Hub: An Integrated
+Model of Care for the Identification and Management of Frailty in Primary Care. Geriatrics
+(Basel, Switzerland), 6(1), 18. ISSN 2308-3417 [cit. 2025-10-05]. Dostupné z:
+https://doi.org/10.3390/geriatrics6010018
+ABRIGNANI, M. G., LUCÀ, F., et al. (2024). A Look at Primary and Secondary
+Prevention in the Elderly: The Two Sides of the Same Coin. Journal of clinical
+medicine, 13(15),
+
+4350.
+
+ISSN
+
+2077-0383
+
+[cit.
+
+2025-11-05].
+
+Dostupné
+
+z:
+
+https://doi.org/10.3390/jcm13154350
+AFMC. (2024). Chapter 4: Basic Concepts in Prevention and Health Promotion. Canadian
+Medical Education Primer. Retrieved from https://phprimer.afmc.ca/en/part-i/chapter-4/
+FERNANDEZ, D. M., LARSON, J. L., & ZIKMUND-FISHER, B. J. (2016). Associations
+between health literacy and preventive health behaviors among older adults: findings from
+the health and retirement study. BMC public health, 16, 596. ISSN 1471-2458 [cit.
+2026-2-12] https://doi.org/10.1186/s12889-016-3267-7
+HASHIMOTO, S., HOSOI, T., et al.(2025). Preventative approaches to falls and
+frailty. Osteoporosis and sarcopenia, 11(2 Suppl), 50–53. ISSN 2405-5255 [cit.
+2025-11-16]. Dostupné z: https://doi.org/10.1016/j.afos.2025.04.002
+HOEBEL, J., et al. (2014). Determinants of health check attendance in adults: findings
+from the cross-sectional German Health Update (GEDA) study. BMC public health, 14,
+913. ISSN 1471-2458 [cit. 2026-2-12]. https://doi.org/10.1186/1471-2458-14-913
+CHIEN, S. Y., et al. (2019). Primary Drivers of Willingness to Continue to Participate in
+Community-Based Health Screening for Chronic Diseases. International journal of
+environmental research and public health, 16(9), 1645. ISSN 1660-4601 [cit. 2025-11-16].
+Dostupné z: https://doi.org/10.3390/ijerph16091645
+IRIK, L., WINTER, A., & HOFFMANN, F. (2025). Sex-specific differences in urinary
+incontinence associated factors in older adults: an analysis of the German health update
+study (GEDA 2019/2020-EHIS). World journal of urology, 43(1), 613. ISSN 0724-4983
+[cit. 2025-11-16]. Dostupné z: https://doi.org/10.1007/s00345-025-05999-2
+
+83
+
+KIM, D. H., AND ROCKWOOD, K. (2024). Frailty in Older Adults. The New England
+journal of medicine, 391(6), 538–548. ISSN 0028-4793 [cit. 2025-11-16]. Dostupné z:
+https://doi.org/10.1056/NEJMra2301292
+KOTWAL, A. A., & WALTER, L. C. (2020). Cancer Screening Among Older Adults: a
+Geriatrician's Perspective on Breast, Cervical, Colon, Prostate, and Lung Cancer
+Screening. Current oncology reports, 22(11), 108. ISSN 1534-6269 [cit. 2025-10-12].
+Dostupné z: https://doi.org/10.1007/s11912-020-00968-x
+KROGSBØLL, L. T., JØRGENSEN, K. J., GØTZSCHE, P. C. (2019). General health
+checks in adults for reducing morbidity and mortality from disease. The Cochrane
+database of systematic reviews, 1(1), CD009009. ISSN 1361-6137 [cit. 2025-11-05].
+Dostupné z: https://doi.org/10.1002/14651858.CD009009.pub3
+LAU, W. Y., LIAN, J., & YAP, M. (2025). The effectiveness of interventions used to
+improve general health check uptake by the older adult population: a systematic review
+and meta-analysis. PLOS global public health, 5(3), e0004362. ISSN 2767-3375 [cit.
+2025-11-16]. Dostupné z: https://doi.org/10.1371/journal.pgph.0004362
+LODA, I., D'ANGELO, E., MARZETTI, E., & KERMINEN, H. (2024). Prevention,
+Assessment, and Management of Malnutrition in Older Adults with Early Stages of
+Cognitive Disorders. Nutrients, 16(11), 1566. ISSN 2072-6643 [cit. 2025-11-16]. Dostupné
+z: https://doi.org/10.3390/nu16111566
+MASINI, A.; CHERASCO, N.; et al. (2025) Preventive Pathways for Healthy Ageing: A
+Systematic Literature Review. *International Journal of Environmental Research and
+Public Health* [online]. 2025, roč. 22, č. 1, s. 31 ISSN 2308-3417 [cit. 2025-11-05].
+Dostupné z: https://doi.org/10.3390/ijerph22010031
+MATYAS, N., KESER ASCHENBERGER, F., WAGNER, G., et al. (2019). Continuing
+education for the prevention of mild cognitive impairment and Alzheimer's-type dementia:
+a systematic review and overview of systematic reviews. BMJ open, 9(7), e027719. cit.
+2025-11-16]. Dostupné z: https://doi.org/10.1136/bmjopen-2018-027719 ISSB 2044-6055
+MINISTERSTVO
+
+ZDRAVOTNÍCTVA
+
+SLOVENSKEJ
+
+REPUBLIKY. Ministerstvo
+
+zdravotníctva štartuje Rok prevencie: Pravidelné preventívne prehliadky = včasné
+odhalenie skrytých príznakov choroby [online]. Bratislava: Ministerstvo zdravotníctva SR,
+2018 [cit. 2025-10-05]. Dostupné z: https://health.gov.sk/Clanok?rok-prevencie-3-12-2018
+84
+
+MUSA, D., SCHULZ, R., HARRIS, R., SILVERMAN, M., & THOMAS, S. B. (2009).
+Trust in the health care system and the use of preventive health services by older black and
+white adults. American journal of public health, 99(7), 1293–1299. ISSN 0090-0036 [cit.
+2026-2-12] https://doi.org/10.2105/AJPH.2007.123927
+NICHOLAS, J. A., & HALL, W. J. (2011). Screening and preventive services for older
+adults. The Mount Sinai journal of medicine, New York, 78(4), 498–508. ISSN 1931-7581
+[cit. 2025-10-12]. Dostupné z: https://doi.org/10.1002/msj.20275 ISSN 1931–7581
+PALAPAR, L., BLOM, J. et al. (2024). Preventive interventions to improve older people's
+health outcomes: systematic review and meta-analysis. The British journal of general
+practice : the journal of the Royal College of General Practitioners, 74(741), e208–e218.
+ISSN 0960–1643. [cit. 2025-10-05] Dostupné z: https://doi.org/10.3399/BJGP.2023.0180
+PANDEY, K. R., et al. (2019). The impact of marital status on health care utilization
+among
+
+Medicare beneficiaries. Medicine, 98(12),
+
+e14871. ISSN
+
+0025-7974 [cit.
+
+2026-02-12]. Dostupné z: https://doi.org/10.1097/MD.0000000000014871
+RAHMAT, R., et al., (2025). Effectiveness of Community Nurse-Led Intervention in
+Managing Older Adults with Multimorbidity: A Systematic Review of Randomized
+Controlled
+
+Trials. Journal of multidisciplinary
+
+healthcare, 18, 6373–6389. ISSN
+
+1178-2390 [cit. 2025-11-23]. Dostupné z: https://doi.org/10.2147/JMDH.S548950
+RAMLI, D. B., et al. (2024). The effectiveness of preventive home visits on resilience and
+health-related outcomes among community dwelling older adults: A systematic
+review. PloS one, 19(7), e0306188. ISSN 1932-6203 [cit. 2025-11-05]. Dostupné z:
+https://doi.org/10.1371/journal.pone.0306188
+REDONDO-SENDINO, A., et al. (2006). Gender differences in the utilization of
+health-care services among the older adult population of Spain. BMC public health, 6, 155.
+ISSN 1471-2458 [cit. 2025-11-23]. Dostupné z: https://doi.org/10.1186/1471-2458-6-155
+ROSZKO-WÓJTOWICZ, E., et al. (2025). Unequal ageing: the quality of life of senior
+citizens in the EU before and after COVID-19. A multidimensional approach. Frontiers in
+Public Health [online]. Volume 13 - 2025: 1506006. ISSN 2296–2565 [cit. 2025-09-30].
+Dostupné z: https://doi.org/10.3389/fpubh.2025.1506006 .
+RUKSAKULPIWAT, S., ET AL. (2025). Nurse-Led Interventions to Improve Health,
+Adherence, and Functional Outcomes in Adults and Older Adults With Multimorbidity: A
+85
+
+Systematic Review of Randomized and Quasiexperimental Studies. Journal of nursing
+management, 2025,
+
+6252049.
+
+ISSN
+
+0966-0429 [cit. 2025-11-23].
+
+Dostupné z:
+
+https://doi.org/10.1155/jonm/6252049
+SAFARI, R., JACKSON, J. & BOOLE, L. (2023) Comprehensive geriatric assessment
+delivered by advanced nursing practitioners within primary care setting: a mixed-methods
+pilot feasibility randomised controlled trial. BMC Geriatr 23, 513 (2023). ISSN 1471–2318
+[cit. 2025-10-05] Dostupné z: https://doi.org/10.1186/s12877-023-04218-0
+SEEMATTER-BAGNOUD, L., BÜLA, C. (2018). Brief assessments and screening for
+geriatric conditions in older primary care patients: a pragmatic approach. Public health
+reviews, 39,
+
+8.
+
+ISSN
+
+0301-0422
+
+[cit.
+
+2025-11-05].
+
+Dostupné
+
+z:
+
+https://doi.org/10.1186/s40985-018-0086-7b ISSN 0301-0422
+SLOVENSKÁ REPUBLIKA. Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti
+uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s
+poskytovaním zdravotnej starostlivosti [online]. Bratislava: Ministerstvo spravodlivosti
+SR,
+
+2004
+
+[cit.
+
+2025-10-05].
+
+Dostupné
+
+z:
+
+https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2004/577
+SCHÄFER, I., VON LEITNER, E. C., et al. (2010). Multimorbidity patterns in the elderly:
+a new approach of disease clustering identifies complex interrelations between chronic
+conditions. PloS one, 5(12), e15941. ISSN 1932-6203 [cit. 2025-09-30] Dostupné z:
+https://doi.org/10.1371/journal.pone.0015941 .
+STAFFORD, MAI ET AL., (2018) Social connectedness and engagement in preventive
+health services: an analysis of data from a prospective cohort study, The Lancet Public
+Health, Volume 3, Issue 9, e438 - e446, [cit. 2025-11-16]. ISSN 2468-2667 Dostupné z:
+https://doi.org/10.1016/S2468-2667(18)30141-5
+TURNER, A. M., et al. (2018). A Closer Look at Health Information Seeking by Older
+Adults and Involved Family and Friends: Design Considerations for Health Information
+Technologies. AMIA ... Annual Symposium proceedings. AMIA Symposium, 2018,
+1036–1045.
+
+ISSN
+
+1559-4076
+
+[cit.
+
+2026-2-12]
+
+Dostupné
+
+z:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6371280/
+
+86
+
+ÚSTAVA SLOVENSKEJ REPUBLIKY. 1992. Ústava Slovenskej republiky č. 460/1992
+Zb. v znení neskorších predpisov, čl. 40. Bratislava: Národná rada SR, [cit. 2025-10-12].
+Dostupné na internete: https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1992/460
+VAIDYA, V., PARTHA, G., & KARMAKAR, M. (2012). Gender differences in utilization
+of preventive care services in the United States. Journal of women's health (2002), 21(2),
+140–145.
+
+ISSN
+
+1540-9996
+
+[cit.
+
+2026-2-12]
+
+Dostupné
+
+z:
+
+https://doi.org/10.1089/jwh.2011.2876
+VAN DIJK, D. J., et al. (2017). Favourable outcomes of a preventive screening and
+counselling programme for older people in underprivileged areas in the Netherlands: The
+PRIMUS project. Preventive medicine reports, 6, 258–264. ISSN 2211-3355 [cit.
+2025-11-05]. Dostupné z: https://doi.org/10.1016/j.pmedr.2017.03.013
+Všeobecná zdravotná poisťovňa. Preventívne prehliadky [online]. [cit. 2025-11-16].
+Dostupné z: https://www.vszp.sk/prevencia/
+WILSON, R., KUH, D., & STAFFORD, M. (2019). Variations of health check attendance
+in later life: results from a British birth cohort study. BMC public health, 19(1), 1518.
+ISSN 1471-2458 [cit. 2026-2-12]. Dostupné z: https://doi.org/10.1186/s12889-019-7875-x
+XU, J., PAN, Y., & LI, Q. (2024). Influencing factors of health screening among retirees:
+an extended TPB approach. Frontiers in public health, 12, 1320920. ISSN 2296-2565 cit.
+2025-11-16]. Dostupné z: https://doi.org/10.3389/fpubh.2024.1320920
+ZÁKON č. 576/2004 Z. z. 2004. Zákon o zdravotnej starostlivosti, službách súvisiacich s
+poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov, [cit.
+2025-10-12].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2004/576
+
+87
+
+
